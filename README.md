@@ -1,2 +1,2 @@
 # deeplinks
-Deeplinks for sports apps
+Deeplinks for sports
