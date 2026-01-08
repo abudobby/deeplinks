@@ -1,0 +1,317 @@
+[
+  {
+    "id": 500,
+    "name": "ABC",
+    "logoUrl": "https://www.newscaststudio.com/wp-content/uploads/2021/05/abc-old-logo.jpg",
+    "deeplink": "abc://",
+    "type": "tv"
+  },
+  {
+    "id": 501,
+    "name": "Altitude Sports",
+    "logoUrl": "https://kseblobstorage.blob.core.windows.net/sitefiles/Altitude/Altitude_Plus_App.png",
+    "deeplink": "altitudesports://",
+    "type": "tv"
+  },
+  {
+    "id": 502,
+    "name": "Amazon Prime Video",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavYKJKv7ZQVJiZPE8C9jgxN64JpmecOFyFw&s",
+    "deeplink": "aiv://",
+    "type": "streaming"
+  },
+  {
+    "id": 503,
+    "name": "CBS",
+    "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
+    "deeplink": "cbs://",
+    "type": "tv"
+  },
+  {
+    "id": 504,
+    "name": "Chicago Sports Network",
+    "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+    "deeplink": "chicagosportsnetwork://",
+    "type": "tv"
+  },
+  {
+    "id": 505,
+    "name": "ESPN",
+    "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+    "deeplink": "espn://",
+    "type": "tv"
+  },
+  {
+    "id": 506,
+    "name": "ESPN2",
+    "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+    "deeplink": "espn://",
+    "type": "tv"
+  },
+  {
+    "id": 507,
+    "name": "ESPN+",
+    "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+    "deeplink": "espn://",
+    "type": "streaming"
+  },
+  {
+    "id": 508,
+    "name": "FanDuel Sports Network Detroit",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 509,
+    "name": "FanDuel Sports Network Florida",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 510,
+    "name": "FanDuel Sports Network Indiana",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 511,
+    "name": "FanDuel Sports Network Kansas City",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 512,
+    "name": "FanDuel Sports Network Midwest",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 513,
+    "name": "FanDuel Sports Network North",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 514,
+    "name": "FanDuel Sports Network Ohio",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 515,
+    "name": "FanDuel Sports Network Oklahoma",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 516,
+    "name": "FanDuel Sports Network SoCal",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 517,
+    "name": "FanDuel Sports Network South",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 518,
+    "name": "FanDuel Sports Network Southeast",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 519,
+    "name": "FanDuel Sports Network Southwest",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 520,
+    "name": "FanDuel Sports Network Sun",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 521,
+    "name": "FanDuel Sports Network West",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 522,
+    "name": "FanDuel Sports Network Wisconsin",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+    "deeplink": "fanduel://",
+    "type": "tv"
+  },
+  {
+    "id": 523,
+    "name": "FOX",
+    "logoUrl": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/08/1440/810/foxone.jpg?ve=1&tl=1",
+    "deeplink": "fox://",
+    "type": "tv"
+  },
+  {
+    "id": 524,
+    "name": "Monumental Sports Network",
+    "logoUrl": "https://play-lh.googleusercontent.com/keh6pAESbLBQwWioYgZ1I7opwsh7fPeHB3OhZv_E1B9CpaKFe8vb0_yUzbG09DJTtIk=w480-h960",
+    "deeplink": "monumentalsports://",
+    "type": "tv"
+  },
+  {
+    "id": 525,
+    "name": "MSG Network",
+    "logoUrl": "https://play-lh.googleusercontent.com/fjs0FYifieHNngkvZctWNDGK1qZ6eeKKgqnslE7e2AsMTa4fInDOjcEe97-oam_ieS8",
+    "deeplink": "msggo://",
+    "type": "tv"
+  },
+  {
+    "id": 526,
+    "name": "NBA League Pass",
+    "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
+    "deeplink": "gametime://",
+    "type": "streaming"
+  },
+  {
+    "id": 527,
+    "name": "NBC",
+    "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
+    "deeplink": "nbc://",
+    "type": "tv"
+  },
+  {
+    "id": 528,
+    "name": "NBC Sports Bay Area",
+    "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+    "deeplink": "nbcsports://",
+    "type": "tv"
+  },
+  {
+    "id": 529,
+    "name": "NBC Sports Boston",
+    "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+    "deeplink": "nbcsports://",
+    "type": "tv"
+  },
+  {
+    "id": 530,
+    "name": "NBC Sports California",
+    "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+    "deeplink": "nbcsports://",
+    "type": "tv"
+  },
+  {
+    "id": 531,
+    "name": "NBC Sports Network",
+    "logoUrl": "https://thedesk.net/wp-content/uploads/2021/01/SOCIAL-NBC-Sports-Network-Slate.jpg",
+    "deeplink": "nbcsportsnetwork://",
+    "type": "tv"
+  },
+  {
+    "id": 532,
+    "name": "NBC Sports Philadelphia",
+    "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+    "deeplink": "nbcsports://",
+    "type": "tv"
+  },
+  {
+    "id": 533,
+    "name": "NESN",
+    "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
+    "deeplink": "nesn://",
+    "type": "tv"
+  },
+  {
+    "id": 534,
+    "name": "Peacock",
+    "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+    "deeplink": "peacock://",
+    "type": "streaming"
+  },
+  {
+    "id": 535,
+    "name": "Root Sports",
+    "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
+    "deeplink": "rootsports://",
+    "type": "tv"
+  },
+  {
+    "id": 536,
+    "name": "Space City Home Network",
+    "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
+    "deeplink": "spacecity://",
+    "type": "tv"
+  },
+  {
+    "id": 537,
+    "name": "Spectrum SportsNet",
+    "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
+    "deeplink": "spectrum://",
+    "type": "tv"
+  },
+  {
+    "id": 538,
+    "name": "USA Network",
+    "logoUrl": "https://usanetwork.asset.viewlift.com/images/brand/2025/10/03/USA_1920x1080_white-1759513643818.jpg?impolicy=resize&w=1920&h=1080",
+    "deeplink": "usanetwork://",
+    "type": "tv"
+  },
+  {
+    "id": 539,
+    "name": "YES Network",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+    "deeplink": "yes://",
+    "type": "tv"
+  },
+  {
+    "id": 540,
+    "name": "NBA TV",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+    "deeplink": "gametime://",
+    "type": "tv"
+  },
+  {
+    "id": 541,
+    "name": "Jazz+",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+    "deeplink": "gametime://",
+    "type": "streaming"
+  },
+  {
+    "id": 542,
+    "name": "KFAA",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+    "deeplink": "gametime://",
+    "type": "tv"
+  },
+  {
+    "id": 543,
+    "name": "KJZZ",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+    "deeplink": "gametime://",
+    "type": "tv"
+  },
+  {
+    "id": 544,
+    "name": "Mavs.com",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+    "deeplink": "gametime://",
+    "type": "streaming"
+  }
+]
