@@ -2,65 +2,65 @@
   "401810383": [
     {
       "broadcastId": 510,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 519,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 526,
-      "deeplinkPath": ""
+      "deeplink": ""
     }
   ],
   "401810384": [
     {
       "broadcastId": 504,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 520,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 540,
-      "deeplinkPath": ""
+      "deeplink": ""
     }
   ],
   "401810385": [
     {
       "broadcastId": 513,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 514,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 526,
-      "deeplinkPath": ""
+      "deeplink": ""
     }
   ],
   "401810386": [
     {
       "broadcastId": 541,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 542,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 543,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 544,
-      "deeplinkPath": ""
+      "deeplink": ""
     },
     {
       "broadcastId": 526,
-      "deeplinkPath": ""
+      "deeplink": ""
     }
   ]
 }
