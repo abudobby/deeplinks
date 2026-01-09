@@ -10,7 +10,7 @@
     },
     {
       "broadcastId": 526,
-      "deeplink": "ballysports://"
+      "deeplink": "gametime://"
     }
   ],
   "401810384": [
@@ -38,7 +38,7 @@
     },
     {
       "broadcastId": 526,
-      "deeplink": "ballysports://"
+      "deeplink": "gametime://game/0022500530"
     }
   ],
   "401810386": [
