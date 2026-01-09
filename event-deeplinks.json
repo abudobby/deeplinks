@@ -16,51 +16,51 @@
   "401810384": [
     {
       "broadcastId": 504,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 520,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 540,
-      "deeplink": null
+      "deeplink": "ballysports://"
     }
   ],
   "401810385": [
     {
       "broadcastId": 513,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 514,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 526,
-      "deeplink": null
+      "deeplink": "ballysports://"
     }
   ],
   "401810386": [
     {
       "broadcastId": 541,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 542,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 543,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 544,
-      "deeplink": null
+      "deeplink": "ballysports://"
     },
     {
       "broadcastId": 526,
-      "deeplink": null
+      "deeplink": "ballysports://"
     }
   ]
 }
