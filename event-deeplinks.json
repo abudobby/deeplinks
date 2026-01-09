@@ -30,11 +30,11 @@
   "401810385": [
     {
       "broadcastId": 513,
-      "deeplink": "ballysports://"
+      "deeplink": "https://go.fanduelsportsnetwork.com/jyfZ07WExZb"
     },
     {
       "broadcastId": 514,
-      "deeplink": "ballysports://"
+      "deeplink": "https://go.fanduelsportsnetwork.com/jyfZ07WExZb"
     },
     {
       "broadcastId": 526,
@@ -59,7 +59,8 @@
       "deeplink": "ballysports://"
     },
     {
-      "broadcastId": 526
+      "broadcastId": 526,
+      "deeplink": "gametime://game/0022500531"
     }
   ]
 }
