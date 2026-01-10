@@ -1,66 +1,64 @@
 {
-  "401810383": [
+  "401810397": [
+    {
+      "broadcastId": 513,
+      "deeplink": "https://go.fanduelsportsnetwork.com/vnrfC5WExZb"
+    },
+    {
+      "broadcastId": 502,
+      "deeplink": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc43183d-cc60-4ab2-b7f8-d6777da901f4?ref_=dvm_liv_nba_fd"
+    }
+  ],
+    "401810398": [
     {
       "broadcastId": 510,
-      "deeplink": "ballysports://"
+      "deeplink": "https://go.fanduelsportsnetwork.com/gIvqo9WExZb"
     },
+    {
+      "broadcastId": 520,
+      "deeplink": "gametime://0022500543"
+    },
+    {
+      "broadcastId": 526,
+      "deeplink": "gametime://0022500543"
+    }
+  ],
+      "401810399": [
+    {
+      "broadcastId": 508,
+      "deeplink": "gametime://0022500544"
+    },
+    {
+      "broadcastId": 516,
+      "deeplink": "gametime://0022500544"
+    },
+        {
+      "broadcastId": 526,
+      "deeplink": "gametime://0022500544"
+    }
+  ],
+        "401810400": [
     {
       "broadcastId": 519,
       "deeplink": "ballysports://"
     },
+        {
+      "broadcastId": 529,
+      "deeplink": "nbcsportsBoston://"
+    },
     {
       "broadcastId": 526,
-      "deeplink": "gametime://"
+      "deeplink": "gametime://0022500545"
     }
   ],
-  "401810384": [
+   "401810401": [
     {
       "broadcastId": 504,
       "deeplink": "ballysports://"
     },
     {
-      "broadcastId": 520,
-      "deeplink": "ballysports://"
-    },
-    {
-      "broadcastId": 540,
-      "deeplink": "ballysports://"
-    }
-  ],
-  "401810385": [
-    {
-      "broadcastId": 513,
-      "deeplink": "https://go.fanduelsportsnetwork.com/jyfZ07WExZb"
-    },
-    {
-      "broadcastId": 514,
-      "deeplink": "https://go.fanduelsportsnetwork.com/jyfZ07WExZb"
-    },
-    {
       "broadcastId": 526,
-      "deeplink": "gametime://game/0022500530"
-    }
-  ],
-  "401810386": [
-    {
-      "broadcastId": 541,
-      "deeplink": "ballysports://"
-    },
-    {
-      "broadcastId": 542,
-      "deeplink": "ballysports://"
-    },
-    {
-      "broadcastId": 543,
-      "deeplink": "ballysports://"
-    },
-    {
-      "broadcastId": 544,
-      "deeplink": "ballysports://"
-    },
-    {
-      "broadcastId": 526,
-      "deeplink": "gametime://game/0022500531"
+      "deeplink": "gametime://0022500535"
     }
   ]
-}
+} 
