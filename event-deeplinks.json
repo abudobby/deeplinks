@@ -6,7 +6,7 @@
     },
     {
       "broadcastId": 502,
-      "deeplink": "https://www.amazon.com/gp/video/detail/amzn1.dv.gti.bc43183d-cc60-4ab2-b7f8-d6777da901f4?ref_=dvm_liv_nba_fd"
+      "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.bc43183d-cc60-4ab2-b7f8-d6777da901f4"
     }
   ],
     "401810398": [
