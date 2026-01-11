@@ -1,0 +1,100 @@
+[
+  {
+    "id": "401810398",
+    "title": "Miami Heat at Indiana Pacers",
+    "broadcasts": [
+      {
+        "id": 830,
+        "deeplink": ""
+      },
+      {
+        "id": 843,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500543"
+      }
+    ]
+  },
+  {
+    "id": "401810399",
+    "title": "LA Clippers at Detroit Pistons",
+    "broadcasts": [
+      {
+        "id": 826,
+        "deeplink": ""
+      },
+      {
+        "id": 838,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500544"
+      }
+    ]
+  },
+  {
+    "id": "401810400",
+    "title": "San Antonio Spurs at Boston Celtics",
+    "broadcasts": [
+      {
+        "id": 841,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500545"
+      },
+      {
+        "id": 891,
+        "deeplink": ""
+      }
+    ]
+  },
+  {
+    "id": "401810401",
+    "title": "Dallas Mavericks at Chicago Bulls",
+    "broadcasts": [
+      {
+        "id": 1172,
+        "deeplink": ""
+      },
+      {
+        "id": 1165,
+        "deeplink": ""
+      },
+      {
+        "id": 1085,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500546"
+      }
+    ]
+  },
+  {
+    "id": "401810402",
+    "title": "Charlotte Hornets at Utah Jazz",
+    "broadcasts": [
+      {
+        "id": 840,
+        "deeplink": ""
+      },
+      {
+        "id": 1107,
+        "deeplink": ""
+      },
+      {
+        "id": 867,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500547"
+      }
+    ]
+  }
+]
