@@ -15,7 +15,7 @@
   },
   {
     "id": 763,
-    "name": "Amazon Prime Video",
+    "name": "Prime Video",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavYKJKv7ZQVJiZPE8C9jgxN64JpmecOFyFw&s",
     "deeplink": "aiv://",
     "type": "streaming"

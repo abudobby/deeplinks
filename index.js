@@ -2,7 +2,7 @@ import { writeFile } from 'fs/promises';
 
 async function fetchJoke() {
   try {
-    const response = await fetch('https://site.web.api.espn.com/apis/site/v2/guide/feed?leagues=nba');
+    const response = await fetch('https://site.web.api.espn.com/apis/site/v2/guide/feed?leagues=nba%2Cnfl');
     
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
@@ -17,13 +17,13 @@ async function fetchJoke() {
         id: b.broadcasterId,
         deeplink: b.broadcasterId === 887 
           ? `gametime://game/00${parseInt(event.id) - 379309855}`
-          : ""
+          : null
       }))
     }));
     
     // Write to JSON file
     await writeFile('event-broadcasts.json', JSON.stringify(filteredEvents, null, 2));
-    s
+    
     console.log('✅ Successfully wrote event-broadcasts.json');
     console.log(`📊 Total events: ${filteredEvents.length}`);
     
