@@ -4,11 +4,11 @@
     "broadcasts": [
       {
         "id": 966,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 825,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 887,
@@ -16,7 +16,7 @@
       },
       {
         "id": 1193,
-        "deeplink": ""
+        "deeplink": null
       }
     ]
   },
@@ -25,7 +25,7 @@
     "broadcasts": [
       {
         "id": 843,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 887,
@@ -33,7 +33,7 @@
       },
       {
         "id": 891,
-        "deeplink": ""
+        "deeplink": null
       }
     ]
   },
@@ -42,7 +42,7 @@
     "broadcasts": [
       {
         "id": 836,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 763,
@@ -55,11 +55,11 @@
     "broadcasts": [
       {
         "id": 841,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 846,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 887,
@@ -72,19 +72,19 @@
     "broadcasts": [
       {
         "id": 1107,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 1165,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 867,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 1085,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 887,
@@ -97,7 +97,7 @@
     "broadcasts": [
       {
         "id": 346,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 763,
@@ -110,15 +110,15 @@
     "broadcasts": [
       {
         "id": 1173,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 840,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 1207,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 887,
@@ -131,7 +131,7 @@
     "broadcasts": [
       {
         "id": 840,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 887,
@@ -139,11 +139,11 @@
       },
       {
         "id": 1175,
-        "deeplink": ""
+        "deeplink": null
       },
       {
         "id": 912,
-        "deeplink": ""
+        "deeplink": null
       }
     ]
   }

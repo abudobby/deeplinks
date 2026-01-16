@@ -361,16 +361,19 @@
    {
     "id": 966,
     "name": "Arizona's Family 3TV",
+    "type": "tv",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s"
   },
     {
     "id": 1089,
     "name": "MNMT2",
+    "type": "tv",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s"
   },
     {
     "id": 1193,
     "name": "Suns Live",
+    "type": "tv",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s"
   }
 ]

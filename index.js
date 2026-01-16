@@ -17,7 +17,7 @@ async function fetchEvents() {
       acc[id] = {
         title: displayName,
         broadcasts: watch.broadcasts.map(({ broadcasterId }) => {
-          let deeplink = "";
+          let deeplink = null;
           if (broadcasterId === 887) {
             deeplink = `gametime://game/00${Number(id) - 379309855}`;
           } else if ([763, 126].includes(broadcasterId)) {
