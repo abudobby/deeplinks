@@ -46,6 +46,7 @@
     "name": "ESPN",
     "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
     "deeplink": "espn://",
+    "appleId": "tvs.lvs.30040",
     "type": "tv"
   },
   {
@@ -246,6 +247,7 @@
   },
   {
     "id": 789,
+    "appleId": "tvs.vds.1347098",
     "name": "Peacock",
     "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
     "deeplink": "peacock://",

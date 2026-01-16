@@ -1,232 +1,150 @@
-[
-  {
-    "id": "401772977",
-    "title": "Buffalo Bills at Jacksonville Jaguars",
-    "broadcasts": [
-      {
-        "id": 44,
-        "deeplink": null
-      }
-    ]
-  },
-  {
-    "id": "401810403",
-    "title": "New Orleans Pelicans at Orlando Magic",
-    "broadcasts": [
-      {
-        "id": 828,
-        "deeplink": null
-      },
-      {
-        "id": 1159,
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500548"
-      },
-      {
-        "id": 1083,
-        "deeplink": null
-      }
-    ]
-  },
-  {
-    "id": "401810404",
-    "title": "Brooklyn Nets at Memphis Grizzlies",
-    "broadcasts": [
-      {
-        "id": 840,
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500549"
-      },
-      {
-        "id": 600,
-        "deeplink": null
-      }
-    ]
-  },
-  {
-    "id": "401772980",
-    "title": "San Francisco 49ers at Philadelphia Eagles",
-    "broadcasts": [
-      {
-        "id": 148,
-        "deeplink": null
-      }
-    ]
-  },
-  {
-    "id": "401810405",
-    "title": "Philadelphia 76ers at Toronto Raptors",
-    "broadcasts": [
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500550"
-      },
-      {
-        "id": 894,
-        "deeplink": null
-      },
-      {
-        "id": 722,
-        "deeplink": null
-      }
-    ]
-  },
-  {
-    "id": "401810406",
-    "title": "New York Knicks at Portland Trail Blazers",
-    "broadcasts": [
-      {
-        "id": 1173,
-        "deeplink": null
-      },
-      {
-        "id": 1207,
-        "deeplink": null
-      },
-      {
-        "id": 346,
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500551"
-      }
-    ]
-  },
-  {
-    "id": "401810407",
-    "title": "San Antonio Spurs at Minnesota Timberwolves",
-    "broadcasts": [
-      {
-        "id": 834,
-        "deeplink": null
-      },
-      {
-        "id": 841,
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500552"
-      }
-    ]
-  },
-  {
-    "id": "401810408",
-    "title": "Miami Heat at Oklahoma City Thunder",
-    "broadcasts": [
-      {
-        "id": 836,
-        "deeplink": null
-      },
-      {
-        "id": 843,
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500553"
-      }
-    ]
-  },
-  {
-    "id": "401810409",
-    "title": "Milwaukee Bucks at Denver Nuggets",
-    "broadcasts": [
-      {
-        "id": 24,
-        "deeplink": null
-      },
-      {
-        "id": 846,
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500554"
-      }
-    ]
-  },
-  {
-    "id": "401810410",
-    "title": "Washington Wizards at Phoenix Suns",
+{
+  "401810434": {
+    "title": "Phoenix Suns at Detroit Pistons",
     "broadcasts": [
       {
         "id": 966,
-        "deeplink": null
+        "deeplink": ""
       },
       {
-        "id": 1089,
-        "deeplink": null
-      },
-      {
-        "id": 812,
-        "deeplink": null
+        "id": 825,
+        "deeplink": ""
       },
       {
         "id": 887,
-        "deeplink": "gametime://game/0022500555"
+        "deeplink": "gametime://game/0022500579"
       },
       {
         "id": 1193,
-        "deeplink": null
+        "deeplink": ""
       }
     ]
   },
-  {
-    "id": "401772978",
-    "title": "Los Angeles Chargers at New England Patriots",
+  "401810435": {
+    "title": "Boston Celtics at Miami Heat",
     "broadcasts": [
       {
-        "id": 379,
-        "deeplink": null
+        "id": 843,
+        "deeplink": ""
       },
       {
-        "id": 789,
-        "deeplink": null
+        "id": 887,
+        "deeplink": "gametime://game/0022500580"
+      },
+      {
+        "id": 891,
+        "deeplink": ""
       }
     ]
   },
-  {
-    "id": "401810411",
-    "title": "Atlanta Hawks at Golden State Warriors",
+  "401810436": {
+    "title": "Oklahoma City Thunder at Houston Rockets",
+    "broadcasts": [
+      {
+        "id": 836,
+        "deeplink": ""
+      },
+      {
+        "id": 763,
+        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.0d2c9adc-2194-4ece-94f9-dfb8555b2ad4&action=watch&type=live&territory=US&time=live&broadcast=amzn1.dv.gti.27cd2b3d-4ec9-4cf5-b33e-dc358fa797cc&refMarker=atv_dvm_liv_apl_us_bd_l_src_av"
+      }
+    ]
+  },
+  "401810437": {
+    "title": "Milwaukee Bucks at San Antonio Spurs",
+    "broadcasts": [
+      {
+        "id": 841,
+        "deeplink": ""
+      },
+      {
+        "id": 846,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500582"
+      }
+    ]
+  },
+  "401810438": {
+    "title": "Utah Jazz at Dallas Mavericks",
+    "broadcasts": [
+      {
+        "id": 1107,
+        "deeplink": ""
+      },
+      {
+        "id": 1165,
+        "deeplink": ""
+      },
+      {
+        "id": 867,
+        "deeplink": ""
+      },
+      {
+        "id": 1085,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500583"
+      }
+    ]
+  },
+  "401810439": {
+    "title": "New York Knicks at Golden State Warriors",
+    "broadcasts": [
+      {
+        "id": 346,
+        "deeplink": ""
+      },
+      {
+        "id": 763,
+        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.83633bc6-4ddc-4922-bc2b-d53312ce1448&action=watch&type=live&territory=US&time=live&broadcast=amzn1.dv.gti.054a5d66-1ef5-45b0-b26a-6361707162dd&refMarker=atv_dvm_liv_apl_us_bd_l_src_av"
+      }
+    ]
+  },
+  "401810440": {
+    "title": "Atlanta Hawks at Portland Trail Blazers",
+    "broadcasts": [
+      {
+        "id": 1173,
+        "deeplink": ""
+      },
+      {
+        "id": 840,
+        "deeplink": ""
+      },
+      {
+        "id": 1207,
+        "deeplink": ""
+      },
+      {
+        "id": 887,
+        "deeplink": "gametime://game/0022500585"
+      }
+    ]
+  },
+  "401810441": {
+    "title": "Charlotte Hornets at Los Angeles Lakers",
     "broadcasts": [
       {
         "id": 840,
-        "deeplink": null
+        "deeplink": ""
       },
       {
         "id": 887,
-        "deeplink": "gametime://game/0022500556"
+        "deeplink": "gametime://game/0022500586"
       },
       {
-        "id": 890,
-        "deeplink": null
-      }
-    ]
-  },
-  {
-    "id": "401810412",
-    "title": "Houston Rockets at Sacramento Kings",
-    "broadcasts": [
-      {
-        "id": 887,
-        "deeplink": "gametime://game/0022500557"
+        "id": 1175,
+        "deeplink": ""
       },
       {
-        "id": 892,
-        "deeplink": null
-      },
-      {
-        "id": 962,
-        "deeplink": null
+        "id": 912,
+        "deeplink": ""
       }
     ]
   }
-]
+}
