@@ -18,10 +18,27 @@ async function fetchEvents() {
         title: displayName,
         broadcasts: watch.broadcasts.map(({ broadcasterId }) => {
           let deeplink = null;
-          if (broadcasterId === 887) {
-            deeplink = `gametime://game/00${Number(id) - 379309855}`;
-          } else if ([763, 126].includes(broadcasterId)) {
-            deeplink = appleEvents.find(e => e.title === displayName)?.broadcasts?.[0]?.deeplink || "";
+          switch (broadcasterId) {
+            case 763:
+
+            case 126: {
+              const appleBroadcasts =
+                appleEvents.find(e => e.title === displayName)?.broadcasts;
+
+              const broadcast = appleBroadcasts?.find(
+                b => b.id === "tvs.lvs.30040"
+              );
+              console.log(appleBroadcasts)
+              deeplink = broadcast?.deeplink || "";
+              break;
+            }
+
+            case 887:
+              deeplink = `gametime://game/00${Number(id) - 379309855}`;
+              break;
+
+            default:
+              console.log("NO MATCH");
           }
           return { id: broadcasterId, deeplink };
         })
