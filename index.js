@@ -25,9 +25,7 @@ async function fetchEvents() {
                    deeplink = primeLinks?.deeplink || ""
                    break
               case 126:
-                   const espnBroadcasts = appleEvents.find(e => e.title === displayName)?.broadcasts;
-                   const espnLinks = espnBroadcasts.find(b => b.id === "tvs.lvs.30040");
-                   deeplink = espnLinks?.deeplink || ""
+                   deeplink = `sportscenter://x-callback-url/showWatchStream?playGameID=${id}`
                    break
               case 887:
                  deeplink = `gametime://game/00${Number(id) - 379309855}`;

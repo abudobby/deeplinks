@@ -4,7 +4,7 @@
     "broadcasts": [
       {
         "id": 126,
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1&x-source=AppleUMC"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401810446"
       },
       {
         "id": 962,
