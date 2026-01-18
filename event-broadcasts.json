@@ -7,6 +7,10 @@
         "name": "ABC",
         "logoUrl": "https://www.newscaststudio.com/wp-content/uploads/2021/05/abc-old-logo.jpg",
         "type": "tv",
+        "searchTokens": [
+          "kstp"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -14,7 +18,16 @@
         "name": "ESPN",
         "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
         "type": "tv",
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401772983"
+        "searchTokens": [
+          "espn"
+        ],
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
+          "espn+"
+        ],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
       }
     ]
   },
@@ -26,6 +39,10 @@
         "name": "NBC",
         "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
         "type": "tv",
+        "searchTokens": [
+          "kare"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -33,18 +50,8 @@
         "name": "Peacock",
         "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
         "type": "streaming",
-        "deeplink": null
-      }
-    ]
-  },
-  "401810457": {
-    "title": "Orlando Magic at Memphis Grizzlies",
-    "broadcasts": [
-      {
-        "id": 763,
-        "name": "Prime Video",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavYKJKv7ZQVJiZPE8C9jgxN64JpmecOFyFw&s",
-        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
         "deeplink": null
       }
     ]
@@ -57,6 +64,8 @@
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
         "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
         "deeplink": "gametime://game/0022500603"
       },
       {
@@ -64,6 +73,10 @@
         "name": "YES Network",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
         "type": "tv",
+        "searchTokens": [
+          "yes network"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       }
     ]
@@ -76,6 +89,12 @@
         "name": "Gulf Coast Sports",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
         "type": "tv",
+        "searchTokens": [
+          "gulf",
+          "coast",
+          "sports"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -83,6 +102,8 @@
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
         "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
         "deeplink": "gametime://game/0022500604"
       },
       {
@@ -90,6 +111,10 @@
         "name": "pelicans.com",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
         "type": "tv",
+        "searchTokens": [
+          "pelicans.com"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -97,6 +122,10 @@
         "name": "Space City Home Network",
         "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
         "type": "tv",
+        "searchTokens": [
+          "space city"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       }
     ]
@@ -109,6 +138,10 @@
         "name": "Altitude Sports",
         "logoUrl": "https://kseblobstorage.blob.core.windows.net/sitefiles/Altitude/Altitude_Plus_App.png",
         "type": "tv",
+        "searchTokens": [
+          "altitude sports"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -116,6 +149,11 @@
         "name": "FanDuel Sports Network Southeast",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
         "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "southeast"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -123,6 +161,8 @@
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
         "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
         "deeplink": "gametime://game/0022500605"
       }
     ]
@@ -135,6 +175,10 @@
         "name": "BlazerVision",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
         "type": "tv",
+        "searchTokens": [
+          "blazervision"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -142,6 +186,11 @@
         "name": "KUNP 16",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
         "type": "tv",
+        "searchTokens": [
+          "kunp",
+          "16"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
@@ -149,6 +198,8 @@
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
         "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
         "deeplink": "gametime://game/0022500606"
       },
       {
@@ -156,6 +207,10 @@
         "name": "NBC Sports California",
         "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
         "type": "tv",
+        "searchTokens": [
+          "nbc sports california"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       }
     ]
@@ -168,6 +223,8 @@
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
         "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
         "deeplink": "gametime://game/0022500607"
       },
       {
@@ -175,6 +232,10 @@
         "name": "Spectrum SportsNet",
         "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
         "type": "tv",
+        "searchTokens": [
+          "spectrum sportsnet"
+        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       }
     ]

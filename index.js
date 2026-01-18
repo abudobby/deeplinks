@@ -44,6 +44,8 @@ async function fetchEvents() {
             name: broadcasterInfo?.name || 'Unknown',
             logoUrl: broadcasterInfo?.logoUrl || null,
             type: broadcasterInfo?.type || null,
+            searchTokens: broadcasterInfo?.searchTokens || [],
+            excludedSearchTokens: broadcasterInfo?.excludedSearchTokens || [],
             deeplink: deeplink
           };
         }).filter(broadcast => broadcasterMap[broadcast.id]) // Only include known broadcasters
