@@ -13,7 +13,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22c9e58b69-707c-35d9-a57f-ef99b2ec82dc%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -41,7 +41,7 @@
           "kare"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "nbcsportstve://watch/12011038"
       },
       {
         "id": 789,
@@ -50,7 +50,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22b4776e88-eaec-39b1-8aeb-81e8184b9879%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -99,7 +99,7 @@
           "kare"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "nbcsportstve://watch/12011039"
       },
       {
         "id": 789,
@@ -108,7 +108,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%223ebf8ba4-ae35-3a0b-975c-34b2a24d12c6%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -124,7 +124,7 @@
           "kare"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "nbcsportstve://watch/12011040"
       },
       {
         "id": 789,
@@ -133,7 +133,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22149be149-713a-3411-8f14-524c6a54591e%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -218,7 +218,7 @@
           "nbc sports philadelphia"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "nbcsportstve://watch/12013697"
       }
     ]
   },
@@ -353,7 +353,7 @@
           "nbc sports bay"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "nbcsportstve://watch/12013584"
       }
     ]
   }
