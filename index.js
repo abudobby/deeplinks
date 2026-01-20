@@ -12,7 +12,7 @@ const broadcasterMap = broadcasters.reduce((acc, broadcaster) => {
 
 async function fetchEvents() {
   try {
-    const response = await fetch('https://site.web.api.espn.com/apis/site/v2/guide/feed?leagues=nba%2Cnfl%2Ceng.1');
+    const response = await fetch('https://site.web.api.espn.com/apis/site/v2/guide/feed?leagues=nba%2Cnfl%2Ceng.1%2Ccollege-football');
     const data = await response.json();
 
         const peacockResponse = await searchPeacock()
