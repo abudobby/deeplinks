@@ -12,11 +12,12 @@ const broadcasterMap = broadcasters.reduce((acc, broadcaster) => {
 
 async function fetchEvents() {
   try {
-    const response = await fetch('https://site.web.api.espn.com/apis/site/v2/guide/feed?leagues=nba%2Cnfl%2Ceng.1%2Ccollege-football');
+    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?leagues=nfl,nba,nhl,uefa.champions');
     const data = await response.json();
 
         const peacockResponse = await searchPeacock()
-                const nbcResponse = await fetchNBCSportsData()
+        const nbcResponse = await fetchNBCSportsData()
+        const paramountResponse = await fetchParamountSportsData()
 
 
 const peacockSchedule = peacockResponse.data.search.results
@@ -55,6 +56,15 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
           const nbcEvent = nbcEvents.find(event => event.secondaryTitle === title);
           deeplink = `nbcsportstve://watch/${nbcEvent.pid}`;
           break;
+        }
+        case 792: {
+                let hometeam = competitors[0].team.name;
+      let awayTeam = competitors[1].team.name;
+      let title = `${hometeam} vs. ${awayTeam}`;
+          const events = paramountResponse.result.data;
+          const event = findBestMatch(title, events)         
+          deeplink = `pplus://www.paramountplus.com/live-tv/stream/${event.channelSlug}/${event.content_id}`;
+                    break;
         }
         case 789: {
           const found = peacockSchedule.find(item => item.title === title);
@@ -168,6 +178,42 @@ async function fetchNBCSportsData() {
   }
 }
 
+async function fetchParamountSportsData(offset = 0, limit = 0) {
+  const configId = 'VoQUVc0J62d%2BioDjqMDYM8Vzayms9JPg%2B%2FXQSFBmOUWLbaxWazbn6rluIYutH2IxseozC9PXeRm8qD6NhrcVy%2B7BaCtt%2F8VrlucLBigEb2135P67vlgjtxGds4rMwADky1k1VOaKamVGHUFUrVRtDsmKskTtZZ9KBWNepo6JU5zjlQwYGSghZrIgr6dYu1tSsSHICrug2ca5tPbUCqc0l4OVMTaXNVYZSnT7z2OzKHBDl%2B5T2DIelHWxVEabMBp6ahOSBRtZmTb2bPQvCoQ0QRiedOqi%2BOp1Pg1iQ%2Bc87gC4thkH6Gtt5HZvDaIlCand5Zx2vhE3GtbokZ4FI8NpsZpqlasCMy2Oy8Kv%2FfZ4WuK%2BjSOd1sC7leU6qO3JQU6PGSyTMDTBpA9mCMzQpAN8%2BbEbhn7lYCo6scmCoCiTZ0%2FvE8C3e9JfQXrVOVCMGLtzdx1or4b993APdXSYibvEf8MpPleSmGHIMdtOR%2Fyy0vi4KfmbXNvATqxCGIQBocG4LrjFfvRm0pmc8qw5MrbyOY%2FV74U%2BkVpieGNGDlvZZtCqjGpCN11tYb4q8YWk4tLZRVF5YjXT%2BVTCiU4%2B1JNZlg%3D%3D';
+  
+  const url = `https://www.paramountplus.com/carousels/collections/configItems/rg/${configId}/offset/${offset}/limit/${limit}/`;
+  
+  const headers = {
+    'Accept': 'application/json',
+    'Sec-Fetch-Site': 'same-site',
+    'Origin': 'https://www.nbc.com',
+    'Sec-Fetch-Dest': 'empty',
+    'Accept-Language': 'en-US,en;q=0.9',
+    'Sec-Fetch-Mode': 'cors',
+    'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15',
+    'Accept-Encoding': 'gzip, deflate, br',
+    'Referer': 'https://www.nbc.com/',
+    'Priority': 'u=3, i'
+  };
+
+  try {
+    const response = await fetch(url, {
+      method: 'GET',
+      headers: headers
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching Paramount carousel:', error);
+    throw error;
+  }
+}
+
 
 //NBA:  https://tv.apple.com/api/uts/v3/shelves/uts.col.SportsRelated.umc.cse.67kkuyv8dsexy9dx1tvoj6ulh?caller=web&locale=en-US&pfm=web&sf=143441&utscf=OjAAAAEAAAAAAAIAEAAAACMAKwAtAA%7E%7E&utsk=6e3013c6d6fae3c2%3A%3A%3A%3A%3A%3A235656c069bb0efb&v=92
 
@@ -216,3 +262,64 @@ const formatedEvents = data.data.shelf.items.map(item => {
 fetchEvents();
 
 // Run the function
+
+
+
+
+
+
+
+
+
+function findBestMatch(searchString, array) {
+  const normalize = (str) => {
+    return str
+      .toLowerCase()
+      .replace(/\./g, '')
+      .replace(/\s+/g, ' ')
+      .replace(/ø/g, 'o')
+      .replace(/\b(fc|cf|as)\b/g, '')
+      .trim();
+  };
+
+  const calculateSimilarity = (str1, str2) => {
+    const s1 = normalize(str1);
+    const s2 = normalize(str2);
+    if (s1 === s2) return 1;
+    if (s1.includes(s2) || s2.includes(s1)) return 0.9;
+    const matrix = [];
+    const len1 = s1.length;
+    const len2 = s2.length;
+    for (let i = 0; i <= len1; i++) {
+      matrix[i] = [i];
+    }
+    for (let j = 0; j <= len2; j++) {
+      matrix[0][j] = j;
+    }
+    for (let i = 1; i <= len1; i++) {
+      for (let j = 1; j <= len2; j++) {
+        const cost = s1[i - 1] === s2[j - 1] ? 0 : 1;
+        matrix[i][j] = Math.min(
+          matrix[i - 1][j] + 1,
+          matrix[i][j - 1] + 1,
+          matrix[i - 1][j - 1] + cost
+        );
+      }
+    }
+    const distance = matrix[len1][len2];
+    const maxLen = Math.max(len1, len2);
+    return maxLen === 0 ? 1 : 1 - distance / maxLen;
+  };
+
+  let bestMatch = null;
+  let bestScore = 0;
+  for (const item of array) {
+    const name = item.title;
+    const score = calculateSimilarity(searchString, name);
+    if (score > bestScore) {
+      bestScore = score;  // <-- ADD THIS LINE
+      bestMatch = item;
+    }
+  }
+  return bestMatch;
+}
