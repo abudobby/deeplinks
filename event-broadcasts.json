@@ -16,7 +16,7 @@
           "espn plus",
           "espn+"
         ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401769076"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
       }
     ]
   },
