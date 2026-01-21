@@ -18,7 +18,7 @@ async function fetchEvents() {
         const peacockResponse = await searchPeacock()
         const nbcResponse = await fetchNBCSportsData()
         const paramountResponse = await fetchParamountSportsData()
-
+        const primeVideoResponse = await fetchPrimeVideoSportsData()
 
 const peacockSchedule = peacockResponse.data.search.results
   .filter(item => {
@@ -56,6 +56,13 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
           const nbcEvent = nbcEvents.find(event => event.secondaryTitle === title);
           deeplink = `nbcsportstve://watch/${nbcEvent.pid}`;
           break;
+        }
+        case 763: {
+          let items = primeVideoResponse.resource.containers[0].standardCarousel.items
+          const event = items.find(item => item.title === title);
+          deeplink = `aiv://aiv/detail?gti=${event.gti}`;
+          console.log(event.gti)
+         break
         }
         case 792: {
                 let hometeam = competitors[0].team.name;
@@ -210,6 +217,41 @@ async function fetchParamountSportsData(offset = 0, limit = 0) {
     return data;
   } catch (error) {
     console.error('Error fetching Paramount carousel:', error);
+    throw error;
+  }
+}
+
+// Add this function after fetchParamountSportsData()
+async function fetchPrimeVideoSportsData() {
+  const url = 'https://abf4d3zfbtw7.na.api.amazonvideo.com/cdp/linearedge/InitialLivePageApple?featureScheme=ios-features-v9.1-zeno&deviceId=D5397D233BF840C68E31A0ECAE09C36A&deviceTypeId=AK6OCP5ZLUJI1';
+  
+  const headers = {
+    'Host': 'abf4d3zfbtw7.na.api.amazonvideo.com',
+    'Accept': '*/*',
+    'Connection': 'keep-alive',
+    'x-gasc-enabled': 'true',
+    'x-retry-count': '0',
+    'x-atv-page-id': 'livetv',
+    'User-Agent': 'PrimeVideo/10.113 (iPhone17,2; iOS 26.1; Scale/3.0)',
+    'x-atv-page-type': 'ATVHome',
+    'Authorization': 'Bearer Atna|EwMDIN4gztIHhNGvQQ_exQJQD6WoV2PRZU8E7OpZC2dbdOlLGb2ar5_Nn6w5Lps-xNPlyAtiD7PAxf4X4wy2dwx5YZAg3IttioRZZPDoYx1Hnn_VzkTL8iE6gksIr4B_Wkms3WN2I0E_frM_y-6mdprxcEcxuihHPNDEoXsrbjb6FwqKx7qazccgPUPL6Lcx2y6pSxloAvCB04XtpD0j3t-gC2Pgs-FI_lEYLPCuWS-q2uTB37Oqk0XwBQQDschN5w-SwuMUHpdfGHwtRL1akq2wOR37amigGD1QDpPj8hNWK-Dmxro-9TvKD_GhbhoeLrf_l1S2tF_TTbRxisL0itQXGVJLPJ5USNmuhaeNsVWV34vhD9WDzYFANHAAnnhOOvK7QKhEVtLelY9maJxa8kGzSvmwjNVtCoDWRTHqTfTBKJc039i3wZSjZ5ToMx567xABxZA',
+    'Accept-Language': 'en-US,en;q=0.9'
+  };
+
+  try {
+    const response = await fetch(url, {
+      method: 'GET',
+      headers: headers
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP error! status: ${response.status}`);
+    }
+
+    const data = await response.json();
+    return data;
+  } catch (error) {
+    console.error('Error fetching Prime Video sports data:', error);
     throw error;
   }
 }

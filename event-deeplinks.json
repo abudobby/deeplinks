@@ -38,7 +38,7 @@
       {
         "id": "tvs.vds.13221",
         "name": "Amazon Prime Video Sports US",
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.ab1bd1fc-0c98-49e4-8ffd-046add522f96&action=watch&type=live&territory=US&time=live&broadcast=amzn1.dv.gti.3e7f50df-5cf5-4dfa-924d-398675efc423&refMarker=atv_dvm_liv_apl_us_bd_l_src_av"
+        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.7713b720-9ab9-4e86-a0db-02bab028d89c"
       }
     ]
   },
