@@ -367,5 +367,19 @@
     "type": "tv",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
     "searchTokens": ["suns", "live"]
+  },
+    {
+    "id": 459,
+    "name": "SEC Network",
+    "type": "tv",
+    "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
+    "searchTokens": ["sec network"]
+  },
+      {
+    "id": 701,
+    "name": "SEC Network +",
+    "type": "tv",
+    "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
+    "searchTokens": ["sec network +"]
   }
 ]
