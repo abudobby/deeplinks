@@ -30,22 +30,6 @@
       }
     ]
   },
-  "401803193": {
-    "title": "New York Rangers at New York Islanders",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401804902": {
     "title": "Louisiana Tech Bulldogs at UTEP Miners",
     "broadcasts": [
@@ -78,40 +62,8 @@
       }
     ]
   },
-  "401804904": {
-    "title": "Western Kentucky Hilltoppers at Kennesaw State Owls",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401804905": {
     "title": "Delaware Blue Hens at New Mexico State Aggies",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401804906": {
-    "title": "Jacksonville State Gamecocks at Florida International Panthers",
     "broadcasts": [
       {
         "id": 755,
@@ -142,54 +94,6 @@
       }
     ]
   },
-  "401807710": {
-    "title": "Central Arkansas Bears at Queens University Royals",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401807711": {
-    "title": "West Georgia Wolves at Bellarmine Knights",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401808200": {
-    "title": "Texas Longhorns at Auburn Tigers",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
   "401808201": {
     "title": "Tennessee Volunteers at Georgia Bulldogs",
     "broadcasts": [
@@ -205,10 +109,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401808202": {
-    "title": "Mississippi State Bulldogs at LSU Tigers",
-    "broadcasts": []
   },
   "401808203": {
     "title": "Florida Gators at South Carolina Gamecocks",
@@ -548,32 +448,32 @@
       }
     ]
   },
-  "401817641": {
-    "title": "IU Indianapolis Jaguars at Robert Morris Colonials",
+  "401810534": {
+    "title": "San Antonio Spurs at Houston Rockets",
     "broadcasts": [
       {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
+        "id": 126,
+        "name": "ESPN",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "type": "tv",
         "searchTokens": [
+          "espn"
+        ],
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
           "espn+"
         ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401817642": {
-    "title": "Oakland Golden Grizzlies at Purdue Fort Wayne Mastodons",
-    "broadcasts": [
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      },
       {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
+        "id": 962,
+        "name": "Space City Home Network",
+        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
+        "type": "tv",
         "searchTokens": [
-          "espn+"
+          "space city"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -588,59 +488,26 @@
     "title": "Denver Pioneers at Kansas City Roos",
     "broadcasts": []
   },
-  "401820168": {
-    "title": "Navy Midshipmen at Boston University Terriers",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401820201": {
-    "title": "American University Eagles at Loyola Maryland Greyhounds",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401820700": {
-    "title": "California Golden Bears at Florida State Seminoles",
+  "401820701": {
+    "title": "Stanford Cardinal at Miami Hurricanes",
     "broadcasts": []
-  },
-  "401822919": {
-    "title": "Butler Bulldogs at St. John's Red Storm",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%225f11319f-91c8-33cc-aec7-0d56a7e4ddf1%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
   },
   "401822920": {
     "title": "DePaul Blue Demons at Georgetown Hoyas",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 661,
+        "name": "FS1",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
+        "type": "tv",
+        "searchTokens": [
+          "fs1",
+          "fox sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401822921": {
     "title": "Xavier Musketeers at Seton Hall Pirates",
@@ -652,48 +519,46 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%225f11319f-91c8-33cc-aec7-0d56a7e4ddf1%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22f6fccfce-5135-31f0-9003-28ff61574aeb%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
-  "401824390": {
-    "title": "Holy Cross Crusaders at Colgate Raiders",
+  "401825477": {
+    "title": "UCLA Bruins at Oregon Ducks",
     "broadcasts": [
       {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
+        "id": 35,
+        "name": "Big Ten Network",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+        "type": "tv",
         "searchTokens": [
-          "espn+"
+          "big ten network",
+          "btn"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
       }
     ]
   },
-  "401825476": {
-    "title": "USC Trojans at Iowa Hawkeyes",
-    "broadcasts": []
-  },
-  "401826827": {
-    "title": "Lehigh Mountain Hawks at Army Black Knights",
+  "401825478": {
+    "title": "Minnesota Golden Gophers at Wisconsin Badgers",
     "broadcasts": [
       {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
+        "id": 35,
+        "name": "Big Ten Network",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+        "type": "tv",
         "searchTokens": [
-          "espn+"
+          "big ten network",
+          "btn"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
       }
     ]
   },
-  "401827649": {
-    "title": "Baylor Bears at Cincinnati Bearcats",
+  "401827650": {
+    "title": "Houston Cougars at TCU Horned Frogs",
     "broadcasts": []
   },
   "401828197": {
@@ -730,7 +595,20 @@
   },
   "401828199": {
     "title": "Rice Owls at East Carolina Pirates",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 145,
+        "name": "ESPN U",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+        "type": "tv",
+        "searchTokens": [
+          "espnu",
+          "espn u"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401828200": {
     "title": "North Texas Mean Green at Tulsa Golden Hurricane",
@@ -748,12 +626,25 @@
       }
     ]
   },
-  "401828397": {
-    "title": "Davidson Wildcats at George Mason Patriots",
-    "broadcasts": []
+  "401828201": {
+    "title": "South Florida Bulls at Tulane Green Wave",
+    "broadcasts": [
+      {
+        "id": 145,
+        "name": "ESPN U",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+        "type": "tv",
+        "searchTokens": [
+          "espnu",
+          "espn u"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
-  "401828398": {
-    "title": "St. Bonaventure Bonnies at Duquesne Dukes",
+  "401829217": {
+    "title": "Oregon State Beavers at Loyola Marymount Lions",
     "broadcasts": [
       {
         "id": 755,
@@ -768,8 +659,8 @@
       }
     ]
   },
-  "401828399": {
-    "title": "La Salle Explorers at Fordham Rams",
+  "401829218": {
+    "title": "Portland Pilots at Pacific Tigers",
     "broadcasts": [
       {
         "id": 755,
@@ -784,8 +675,40 @@
       }
     ]
   },
-  "401829398": {
-    "title": "Bucknell Bison at Lafayette Leopards",
+  "401829219": {
+    "title": "San Diego Toreros at Pepperdine Waves",
+    "broadcasts": [
+      {
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "type": "streaming",
+        "searchTokens": [
+          "espn+"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401829220": {
+    "title": "San Francisco Dons at Santa Clara Broncos",
+    "broadcasts": [
+      {
+        "id": 61,
+        "name": "CBS Sports Network",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+        "type": "tv",
+        "searchTokens": [
+          "cbs sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401829221": {
+    "title": "Seattle U Redhawks at Washington State Cougars",
     "broadcasts": [
       {
         "id": 755,
@@ -832,8 +755,8 @@
       }
     ]
   },
-  "401830284": {
-    "title": "Northern Iowa Panthers at Southern Illinois Salukis",
+  "401830283": {
+    "title": "Illinois State Redbirds at Murray State Racers",
     "broadcasts": [
       {
         "id": 755,
@@ -842,6 +765,39 @@
         "type": "streaming",
         "searchTokens": [
           "espn+"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401830824": {
+    "title": "Wyoming Cowboys at Utah State Aggies",
+    "broadcasts": [
+      {
+        "id": 61,
+        "name": "CBS Sports Network",
+        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+        "type": "tv",
+        "searchTokens": [
+          "cbs sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401830830": {
+    "title": "Colorado State Rams at San Diego State Aztecs",
+    "broadcasts": [
+      {
+        "id": 661,
+        "name": "FS1",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
+        "type": "tv",
+        "searchTokens": [
+          "fs1",
+          "fox sports 1"
         ],
         "excludedSearchTokens": [],
         "deeplink": null

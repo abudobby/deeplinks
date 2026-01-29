@@ -381,5 +381,33 @@
     "type": "tv",
     "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
     "searchTokens": ["sec network +"]
+  },
+    {
+    "id": 661,
+    "name": "FS1",
+    "type": "tv",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
+    "searchTokens": ["fs1", "fox sports 1"]
+  },
+      {
+    "id": 35,
+    "name": "Big Ten Network",
+    "type": "tv",
+    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+    "searchTokens": ["big ten network", "btn"]
+  },
+     {
+    "id": 145,
+    "name": "ESPN U",
+    "type": "tv",
+    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+    "searchTokens": ["espnu", "espn u"]
+  },
+       {
+    "id": 61,
+    "name": "CBS Sports Network",
+    "type": "tv",
+    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+    "searchTokens": ["cbs sports network"]
   }
 ]
