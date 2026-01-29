@@ -30,6 +30,22 @@
       }
     ]
   },
+  "401803193": {
+    "title": "New York Rangers at New York Islanders",
+    "broadcasts": [
+      {
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "type": "streaming",
+        "searchTokens": [
+          "espn+"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
   "401804902": {
     "title": "Louisiana Tech Bulldogs at UTEP Miners",
     "broadcasts": [
@@ -72,38 +88,6 @@
         "type": "streaming",
         "searchTokens": [
           "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401807709": {
-    "title": "Austin Peay Governors at Eastern Kentucky Colonels",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401808201": {
-    "title": "Tennessee Volunteers at Georgia Bulldogs",
-    "broadcasts": [
-      {
-        "id": 459,
-        "name": "SEC Network",
-        "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "type": "tv",
-        "searchTokens": [
-          "sec network"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -155,64 +139,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401810526": {
-    "title": "Los Angeles Lakers at Cleveland Cavaliers",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      },
-      {
-        "id": 912,
-        "name": "Spectrum SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
-        "type": "tv",
-        "searchTokens": [
-          "spectrum sportsnet"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401810527": {
-    "title": "Chicago Bulls at Indiana Pacers",
-    "broadcasts": [
-      {
-        "id": 830,
-        "name": "FanDuel Sports Network Indiana",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
-        "type": "tv",
-        "searchTokens": [
-          "fanduel",
-          "indiana"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500672"
       }
     ]
   },
@@ -490,7 +416,19 @@
   },
   "401820701": {
     "title": "Stanford Cardinal at Miami Hurricanes",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 20,
+        "name": "AAC Network",
+        "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
+        "type": "tv",
+        "searchTokens": [
+          "aac network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401822920": {
     "title": "DePaul Blue Demons at Georgetown Hoyas",
@@ -559,7 +497,19 @@
   },
   "401827650": {
     "title": "Houston Cougars at TCU Horned Frogs",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
+      }
+    ]
   },
   "401828197": {
     "title": "UAB Blazers at UTSA Roadrunners",
@@ -571,39 +521,6 @@
         "type": "streaming",
         "searchTokens": [
           "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401828198": {
-    "title": "Charlotte 49ers at Temple Owls",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401828199": {
-    "title": "Rice Owls at East Carolina Pirates",
-    "broadcasts": [
-      {
-        "id": 145,
-        "name": "ESPN U",
-        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
-        "type": "tv",
-        "searchTokens": [
-          "espnu",
-          "espn u"
         ],
         "excludedSearchTokens": [],
         "deeplink": null

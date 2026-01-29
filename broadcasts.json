@@ -409,5 +409,12 @@
     "type": "tv",
     "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
     "searchTokens": ["cbs sports network"]
+  },
+     {
+    "id": 20,
+    "name": "AAC Network",
+    "type": "tv",
+    "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
+    "searchTokens": ["aac network"]
   }
 ]
