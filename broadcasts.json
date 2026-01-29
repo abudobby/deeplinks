@@ -400,14 +400,14 @@
     "id": 145,
     "name": "ESPN U",
     "type": "tv",
-    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+    "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
     "searchTokens": ["espnu", "espn u"]
   },
        {
     "id": 61,
     "name": "CBS Sports Network",
     "type": "tv",
-    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+    "logoUrl": "https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png",
     "searchTokens": ["cbs sports network"]
   },
      {
