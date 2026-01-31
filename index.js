@@ -74,9 +74,9 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
                     break;
         }
         case 789: {
-          const found = peacockSchedule.find(item => item.title === title);
+          const event = findBestMatch(title, peacockSchedule)         
           const deeplinkData = {
-            pvid: found.programmeUuid,
+            pvid: event.programmeUuid,
             type: 'SLE',
             action: 'PLAY'
           };
@@ -89,6 +89,9 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         }
         case 763: // Prime Video
           break;
+        case 755:
+          deeplink = `sportscenter://x-callback-url/showWatchStream?playGameID=${id}`
+                    break;
         case 139: // ESPN 2
           deeplink = `sportscenter://x-callback-url/showWatchStream?playChannel=espn2`;
           break;
@@ -234,7 +237,7 @@ async function fetchPrimeVideoSportsData() {
     'x-atv-page-id': 'livetv',
     'User-Agent': 'PrimeVideo/10.113 (iPhone17,2; iOS 26.1; Scale/3.0)',
     'x-atv-page-type': 'ATVHome',
-    'Authorization': 'Bearer Atna|EwMDIN4gztIHhNGvQQ_exQJQD6WoV2PRZU8E7OpZC2dbdOlLGb2ar5_Nn6w5Lps-xNPlyAtiD7PAxf4X4wy2dwx5YZAg3IttioRZZPDoYx1Hnn_VzkTL8iE6gksIr4B_Wkms3WN2I0E_frM_y-6mdprxcEcxuihHPNDEoXsrbjb6FwqKx7qazccgPUPL6Lcx2y6pSxloAvCB04XtpD0j3t-gC2Pgs-FI_lEYLPCuWS-q2uTB37Oqk0XwBQQDschN5w-SwuMUHpdfGHwtRL1akq2wOR37amigGD1QDpPj8hNWK-Dmxro-9TvKD_GhbhoeLrf_l1S2tF_TTbRxisL0itQXGVJLPJ5USNmuhaeNsVWV34vhD9WDzYFANHAAnnhOOvK7QKhEVtLelY9maJxa8kGzSvmwjNVtCoDWRTHqTfTBKJc039i3wZSjZ5ToMx567xABxZA',
+    'Authorization': 'Bearer Atna|EwMDIAQc0-XBH5crEdKQpek5SIKj4-YZyRxEz5AdYUKzrV81uau_jOv6JigP-tHc9pzI0Fwyt3UfXF3ihjd0okaVMFH6r7IUQiGNmdBmkymgsJ9gXJ2r3LATJI5nVDSVxkyvcsUZip8YZLnDjJGb67nrdUzIUjeBfWdkvnRfXja7aaVMPngkm5uZqZK9npQ6e5mMWi9tywGZQZUloUiyvLhPekLovemhPFFw0ITmx4RcbyNhX03JxWIBFZ8y9z5eLcgaNhAR8Ob82qFmotw8ihj8UK52Kd7uNS5vgTPSB4fm4_t_mSFl4s5AdMHE0RxDpTqDImgumlsMpGXcBUY8exR5q4sEFEEfNaiOMb3sbX0HIIc-0imidwUXRsfxLmV-zponHqsZmkDD-PbmspYyr3a06fER2VAnR5KOHXk4EYaxdgTAVZYAusYgBcYfSXn58vGHxvU',
     'Accept-Language': 'en-US,en;q=0.9'
   };
 
