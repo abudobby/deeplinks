@@ -54,7 +54,7 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
           const liveAndUpcomingShelf = nbcResponse.data.page.data.sections[1];
           const nbcEvents = liveAndUpcomingShelf.data.items.map(i => i.data);
           const nbcEvent = nbcEvents.find(event => event.secondaryTitle === title);
-          deeplink = `nbcsportstve://watch/${nbcEvent.pid}`;
+          // deeplink = `nbcsportstve://watch/${nbcEvent.pid}`;
           break;
         }
         case 763: {
@@ -237,7 +237,7 @@ async function fetchPrimeVideoSportsData() {
     'x-atv-page-id': 'livetv',
     'User-Agent': 'PrimeVideo/10.113 (iPhone17,2; iOS 26.1; Scale/3.0)',
     'x-atv-page-type': 'ATVHome',
-    'Authorization': 'Bearer Atna|EwMDIAQc0-XBH5crEdKQpek5SIKj4-YZyRxEz5AdYUKzrV81uau_jOv6JigP-tHc9pzI0Fwyt3UfXF3ihjd0okaVMFH6r7IUQiGNmdBmkymgsJ9gXJ2r3LATJI5nVDSVxkyvcsUZip8YZLnDjJGb67nrdUzIUjeBfWdkvnRfXja7aaVMPngkm5uZqZK9npQ6e5mMWi9tywGZQZUloUiyvLhPekLovemhPFFw0ITmx4RcbyNhX03JxWIBFZ8y9z5eLcgaNhAR8Ob82qFmotw8ihj8UK52Kd7uNS5vgTPSB4fm4_t_mSFl4s5AdMHE0RxDpTqDImgumlsMpGXcBUY8exR5q4sEFEEfNaiOMb3sbX0HIIc-0imidwUXRsfxLmV-zponHqsZmkDD-PbmspYyr3a06fER2VAnR5KOHXk4EYaxdgTAVZYAusYgBcYfSXn58vGHxvU',
+    'Authorization': 'Bearer Atna|EwMDIMU-mR1Ncsn2d6hbw4aZ30UBn2Kkj7gn_r7C5Nt2Lu01m-P4QMnLmHEk1ySdw1iByVwH2b6pQbz0UuaFZvhXi04n2lAc8THfytM6_0axc2jNkPYA3bjFI3lXAtDGldUqvbukjFNERKMjTo0wyAROVSDWonzgFhlRG986m2yFMydVqr5tleLcMdiCo1vYs2PrmohXtm40B8CC2i6hOAFTQH4dj3QqtnarqL5NHzc8t-XzLYbT4jf3KP2eYlDmc-EBbMHs1Y0BH20B9Pd8Uu5ZI8eFEUrOJ1gIKOjKjNxk8eNNh3RcJC_fx79yGz4pxGbWfF_bn2VQwaC6BMm9PU0yTNQxZn0iS_agiK8kORqMn3Clo2dCE9MNZsGMrXrFNlx58dFvXpinjnSuSqS-7oYCvk0Fa2pERlV50Me7BzrPiZRyBpVnk418E3f00k6dSW9l11g',
     'Accept-Language': 'en-US,en;q=0.9'
   };
 
