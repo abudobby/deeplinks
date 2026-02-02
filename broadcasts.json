@@ -416,5 +416,12 @@
     "type": "tv",
     "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
     "searchTokens": ["aac network"]
+  },
+       {
+    "id": 519,
+    "name": "USA Network",
+    "type": "tv",
+    "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
+    "searchTokens": ["usa network"]
   }
 ]
