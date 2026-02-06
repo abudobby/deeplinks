@@ -6,6 +6,7 @@
         "id": 843,
         "name": "FanDuel Sports Network Sun",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "fanduel",
@@ -18,6 +19,7 @@
         "id": 887,
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
@@ -27,6 +29,7 @@
         "id": 891,
         "name": "NBC Sports Boston",
         "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "nbc sports boston"
@@ -43,6 +46,7 @@
         "id": 346,
         "name": "MSG Network",
         "logoUrl": "https://play-lh.googleusercontent.com/fjs0FYifieHNngkvZctWNDGK1qZ6eeKKgqnslE7e2AsMTa4fInDOjcEe97-oam_ieS8",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "msg network"
@@ -54,6 +58,7 @@
         "id": 763,
         "name": "Prime Video",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavYKJKv7ZQVJiZPE8C9jgxN64JpmecOFyFw&s",
+        "isNational": true,
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
@@ -68,6 +73,7 @@
         "id": 830,
         "name": "FanDuel Sports Network Indiana",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "fanduel",
@@ -80,6 +86,7 @@
         "id": 846,
         "name": "FanDuel Sports Network Wisconsin",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "fanduel",
@@ -92,6 +99,7 @@
         "id": 887,
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
@@ -106,6 +114,7 @@
         "id": 834,
         "name": "FanDuel Sports Network North",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "fanduel",
@@ -118,6 +127,7 @@
         "id": 1159,
         "name": "Gulf Coast Sports",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "gulf",
@@ -131,6 +141,7 @@
         "id": 887,
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
@@ -140,6 +151,7 @@
         "id": 1083,
         "name": "pelicans.com",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "pelicans.com"
@@ -156,6 +168,7 @@
         "id": 1173,
         "name": "BlazerVision",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "blazervision"
@@ -167,6 +180,7 @@
         "id": 840,
         "name": "FanDuel Sports Network Southeast",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "fanduel",
@@ -179,6 +193,7 @@
         "id": 1207,
         "name": "KUNP 16",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "kunp",
@@ -191,6 +206,7 @@
         "id": 887,
         "name": "NBA League Pass",
         "logoUrl": "https://cdn.sologo.ai/2025/0424/20250424031403894.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
@@ -205,6 +221,7 @@
         "id": 763,
         "name": "Prime Video",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTavYKJKv7ZQVJiZPE8C9jgxN64JpmecOFyFw&s",
+        "isNational": true,
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
@@ -219,6 +236,7 @@
         "id": 755,
         "name": "ESPN+",
         "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [
           "espn+"
@@ -239,6 +257,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png",
+        "isNational": true,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -255,6 +274,7 @@
         "id": 139,
         "name": "ESPN2",
         "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
         "type": "tv",
         "searchTokens": [
           "espn2"
@@ -271,6 +291,7 @@
         "id": 145,
         "name": "ESPN U",
         "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
+        "isNational": true,
         "type": "tv",
         "searchTokens": [
           "espnu",
@@ -288,6 +309,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://sports.cbsimg.net/images/cbss/ui5/cbssportsv2_200x200.png",
+        "isNational": true,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -304,6 +326,7 @@
         "id": 755,
         "name": "ESPN+",
         "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [
           "espn+"
@@ -320,6 +343,7 @@
         "id": 755,
         "name": "ESPN+",
         "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [
           "espn+"
@@ -336,6 +360,7 @@
         "id": 755,
         "name": "ESPN+",
         "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
         "type": "streaming",
         "searchTokens": [
           "espn+"
