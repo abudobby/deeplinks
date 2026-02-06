@@ -52,7 +52,7 @@
     "id": 126,
     "name": "ESPN",
     "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
+    "isNational": true,
     "appleId": "tvs.lvs.30040",
     "type": "tv",
     "searchTokens": ["espn"],
@@ -62,7 +62,7 @@
     "id": 139,
     "name": "ESPN2",
     "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
+    "isNational": true,
     "type": "tv",
     "searchTokens": ["espn2"]
   },
@@ -78,7 +78,7 @@
     "id": 834,
     "name": "FanDuel Sports Network North",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/e/ef/FDSN_app_icon.png",
-        "isNational": false,
+    "isNational": false,
     "type": "tv",
     "searchTokens": ["fanduel", "north"]
   },
