@@ -181,7 +181,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -266,7 +266,7 @@
         "id": 145,
         "name": "ESPN U",
         "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "espnu",
@@ -459,7 +459,7 @@
         "id": 459,
         "name": "SEC Network",
         "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "sec network"
@@ -493,7 +493,7 @@
         "id": 459,
         "name": "SEC Network",
         "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "sec network"
@@ -510,7 +510,7 @@
         "id": 459,
         "name": "SEC Network",
         "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "sec network"
@@ -527,7 +527,7 @@
         "id": 459,
         "name": "SEC Network",
         "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "sec network"
@@ -777,7 +777,7 @@
         "id": 145,
         "name": "ESPN U",
         "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "espnu",
@@ -1250,7 +1250,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -1267,7 +1267,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -1401,7 +1401,7 @@
         "id": 145,
         "name": "ESPN U",
         "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "espnu",
@@ -1606,7 +1606,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -1704,7 +1704,7 @@
         "id": 20,
         "name": "AAC Network",
         "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "aac network"
@@ -1721,7 +1721,7 @@
         "id": 20,
         "name": "AAC Network",
         "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "aac network"
@@ -1772,7 +1772,7 @@
         "id": 145,
         "name": "ESPN U",
         "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "espnu",
@@ -1812,7 +1812,7 @@
         "id": 20,
         "name": "AAC Network",
         "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "aac network"
@@ -1972,7 +1972,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
@@ -2112,7 +2112,7 @@
         "id": 35,
         "name": "Big Ten Network",
         "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "big ten network",
@@ -2256,7 +2256,7 @@
         "id": 145,
         "name": "ESPN U",
         "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "espnu",
@@ -2520,7 +2520,7 @@
         "id": 61,
         "name": "CBS Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
           "cbs sports network"

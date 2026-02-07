@@ -246,7 +246,7 @@
     "id": 531,
     "name": "NBC Sports Network",
     "logoUrl": "https://thedesk.net/wp-content/uploads/2021/01/SOCIAL-NBC-Sports-Network-Slate.jpg",
-            "isNational": true,
+              "isNational": false,
     "type": "tv",
     "searchTokens": ["nbc sports network"]
   },
@@ -416,7 +416,7 @@
     "id": 459,
     "name": "SEC Network",
     "type": "tv",
-              "isNational": true,
+              "isNational": false,
     "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
     "searchTokens": ["sec network"]
   },
@@ -440,7 +440,7 @@
     "id": 35,
     "name": "Big Ten Network",
     "type": "tv",
-              "isNational": true,
+              "isNational": false,
     "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
     "searchTokens": ["big ten network", "btn"]
   },
@@ -448,14 +448,14 @@
     "id": 145,
     "name": "ESPN U",
     "type": "tv",
-              "isNational": true,
+              "isNational": false,
     "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
     "searchTokens": ["espnu", "espn u"]
   },
        {
     "id": 61,
     "name": "CBS Sports Network",
-              "isNational": true,
+              "isNational": false,
     "type": "tv",
     "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
     "searchTokens": ["cbs sports network"]
@@ -463,7 +463,7 @@
      {
     "id": 20,
     "name": "AAC Network",
-              "isNational": true,
+              "isNational": false,
     "type": "tv",
     "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
     "searchTokens": ["aac network"]
@@ -472,7 +472,7 @@
     "id": 519,
     "name": "USA Network",
     "type": "tv",
-                  "isNational": true,
+     "isNational": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
     "searchTokens": ["usa network"]
   }
