@@ -1,0 +1,152 @@
+[
+  {
+    "id": "s:40~l:46~t:1",
+    "name": "Hawks",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
+  },
+  {
+    "id": "s:40~l:46~t:2",
+    "name": "Celtics",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
+  },
+  {
+    "id": "s:40~l:46~t:17",
+    "name": "Nets",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
+  },
+  {
+    "id": "s:40~l:46~t:30",
+    "name": "Hornets",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
+  },
+  {
+    "id": "s:40~l:46~t:4",
+    "name": "Bulls",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
+  },
+  {
+    "id": "s:40~l:46~t:5",
+    "name": "Cavaliers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png"
+  },
+  {
+    "id": "s:40~l:46~t:6",
+    "name": "Mavericks",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
+  },
+  {
+    "id": "s:40~l:46~t:7",
+    "name": "Nuggets",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
+  },
+  {
+    "id": "s:40~l:46~t:8",
+    "name": "Pistons",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png"
+  },
+  {
+    "id": "s:40~l:46~t:9",
+    "name": "Warriors",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
+  },
+  {
+    "id": "s:40~l:46~t:10",
+    "name": "Rockets",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
+  },
+  {
+    "id": "s:40~l:46~t:11",
+    "name": "Pacers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
+  },
+  {
+    "id": "s:40~l:46~t:12",
+    "name": "Clippers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
+  },
+  {
+    "id": "s:40~l:46~t:13",
+    "name": "Lakers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png"
+  },
+  {
+    "id": "s:40~l:46~t:29",
+    "name": "Grizzlies",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
+  },
+  {
+    "id": "s:40~l:46~t:14",
+    "name": "Heat",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
+  },
+  {
+    "id": "s:40~l:46~t:15",
+    "name": "Bucks",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
+  },
+  {
+    "id": "s:40~l:46~t:16",
+    "name": "Timberwolves",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png"
+  },
+  {
+    "id": "s:40~l:46~t:3",
+    "name": "Pelicans",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png"
+  },
+  {
+    "id": "s:40~l:46~t:18",
+    "name": "Knicks",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png"
+  },
+  {
+    "id": "s:40~l:46~t:25",
+    "name": "Thunder",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png"
+  },
+  {
+    "id": "s:40~l:46~t:19",
+    "name": "Magic",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
+  },
+  {
+    "id": "s:40~l:46~t:20",
+    "name": "76ers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png"
+  },
+  {
+    "id": "s:40~l:46~t:21",
+    "name": "Suns",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
+  },
+  {
+    "id": "s:40~l:46~t:22",
+    "name": "Trail Blazers",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
+  },
+  {
+    "id": "s:40~l:46~t:23",
+    "name": "Kings",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
+  },
+  {
+    "id": "s:40~l:46~t:24",
+    "name": "Spurs",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png"
+  },
+  {
+    "id": "s:40~l:46~t:28",
+    "name": "Raptors",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
+  },
+  {
+    "id": "s:40~l:46~t:26",
+    "name": "Jazz",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png"
+  },
+  {
+    "id": "s:40~l:46~t:27",
+    "name": "Wizards",
+    "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
+  }
+]
