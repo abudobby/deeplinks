@@ -238,7 +238,7 @@ async function fetchPrimeVideoSportsData() {
     'x-atv-page-id': 'livetv',
     'User-Agent': 'PrimeVideo/10.113 (iPhone17,2; iOS 26.1; Scale/3.0)',
     'x-atv-page-type': 'ATVHome',
-    'Authorization': 'Bearer Atna|EwMDIJWKLWUPwiXgjl5vWc0vace1Qi7E9Vmokd4MM8bzh4SoKgL5FL7rdIZ9GabZBGolTe-eJJ9IJgxibjm44-teP-HQyF430xvvfxLaPqj2T88PF-J_GOFPp02nHlZfjiLXRvm-04Ep62DLqYjJ7IzJ1BeJK_VNF8y71M4AUWCfU-UOE0_RHcmlCba_P3vK5qSUCwjGnkDe-TE05vvHRcd_XqRvuDlTOM8RSgFUNxItxIlbAddRjDFWn-bStXA44IQgw6Qcbp7CCwuqS0cnNqYG_iW54bqr-VBxAoAynbgzXOBrE1zD0qBoKFKnq-AYknfSqkHhqvxqmiAO_JwKofJXYA3LSG444QccQ9AwcOOChE3g0U4BYJj9Y4lQ6jk82_gpK6s0P50tZWpnuMT26h7CPEQWh7C-7d3qND4L_7EQkyR-GywkAVHRUYlcaop2J4O3hKY',
+    'Authorization': 'Bearer Atna|EwMDIArMH7mZncw_MWIxg9iMXpT5cOxRpLzoiLSw5bVKt0l6gOSkPnqRgEehNqa0WoHxqDlwkEFqMFvmpSxtkvuB_nf8_fqKuclSsEAg5VF0lJHpfcQ8vwlhLFUzlcGFPGopcmxdu6XHWjkh-ecogGWZ3LYHwW8CCkfJU6GutFShPPYaTKASJFER-qwU-9H0fObiZ8LWR_ANe0wLhjfR_ClbPXpeOqXpTbxaqXzBX_kGRU6i8rcBiLMQkqx3-yQsmwKThqTb59fZSjkvXguLfT3RjbJ8j4cCRdvkEnWYYriemJxrbQuSyoFR4sJRR0vk97KZEEhdANSQOKkpa4245S2nYuGtTQiG2NoqwmQrM_i6lEBNI1IkOL8sMwoPzXXnkruhFUivmVTE6DX_t8BhXXzANhSWjslukLfCkbKBJB8b5C-CXxkxl8xZtdaIPE1Eps0q6_I',
     'Accept-Language': 'en-US,en;q=0.9'
   };
 
