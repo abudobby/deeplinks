@@ -225,41 +225,85 @@ async function fetchParamountSportsData(offset = 0, limit = 0) {
   }
 }
 
-// Add this function after fetchParamountSportsData()
-async function fetchPrimeVideoSportsData() {
-  const url = 'https://abf4d3zfbtw7.na.api.amazonvideo.com/cdp/linearedge/InitialLivePageApple?featureScheme=ios-features-v9.1-zeno&deviceId=D5397D233BF840C68E31A0ECAE09C36A&deviceTypeId=AK6OCP5ZLUJI1';
-  
-  const headers = {
-    'Host': 'abf4d3zfbtw7.na.api.amazonvideo.com',
-    'Accept': '*/*',
-    'Connection': 'keep-alive',
-    'x-gasc-enabled': 'true',
-    'x-retry-count': '0',
-    'x-atv-page-id': 'livetv',
-    'User-Agent': 'PrimeVideo/10.113 (iPhone17,2; iOS 26.1; Scale/3.0)',
-    'x-atv-page-type': 'ATVHome',
-    'Authorization': 'Bearer Atna|EwMDINUrJfz_hP52Pos4bDdqzJtETtcfCGaNmJxCkhAt5Tz5dcXXLg4bSqlJpBBjpVYdRO6urvGpnLpWkESZj8fJ0Wro0ubnzohpMaUOiUWKL4CpuM_nMgHcj3w1O8TfOqOEK4hgdo2R_CnNboZBV-bEhLvsUhhmTAJ_H7PKb3gwtAa8x9Bt6-SV_xfFhe9DS1bAloiIooNlk71emxHbdSgEpSVc24auH80ksT6uINiJ63GI4dqXNAPJ5MsxdnQuiyizkKR979OGuwNHxAddX3h_Cojzmu-YylsobV7uucD8C4I92ikgMU2SNa02oiKg1pVH4SusNtNs0D0aFvzvAvg2VLiXcykm3SxBMTECHQYCJ4J9NdIR3fa1RkZTy83TpTFEQqKhZMRA1uwm-kI5Cj67t1zsxD4flhios4ldOBdSaI_Xho5k8QpWw9hPvHXxQvbJgDY',
-    'Accept-Language': 'en-US,en;q=0.9'
+async function fetchAmazonToken() {
+  const url = 'https://api.amazon.com/auth/token';
+
+  const body = {
+    "age_info": {},
+    "previous_version": "6.18.3",
+    "source_device_tokens": [
+      {
+        "device_type": "AK6OCP5ZLUJI1",
+        "account_refresh_token": {
+          "token": "Atnr|EwMDIE8DG-lXvDzYGDANR3PGsNKBoBPUB-EfOX04GJqVwFDYZe3iVWgSDm89EVTPhGtFqY0zRFlT1SQzFGEebE95ur_u5PWSR1218Hzkb-EQMc6mz9AbdgD6netElYQU4qW2sjCZJhc1ct0kiKAolMRYVsr0PONOE-RKv43EzhpB5_bdUxf3THBOjR7IqjI2G_pbmpsdBX1l_XibcP-zRVCINrTQBXajY6cIzjZ2qkp7pNP6trpFrvb79wOazsqk21niJ_z71Q4Z4kDBMy5V9wfQFh7Ly4lWdk866pvMZ6KXR5yjt04PDO3mxXwwxtKT-44firRtJm1YO0FgI8GVAzb8KaUo"
+        },
+        "actor_refresh_token": {
+          "token": "Atnr|EwMDIB_jiAPaA_fPoQ-IxYG4K-iAnFPOP52ZHV22PsXPKPZrDM9RLhURTxawRmYhP7jKBuqJ6irBoWUuwlfRZUltUD94P9Zvh3UOkfing4JlhykDAiJaf_6LgDG8_HR0B6y1om4aDB5cTnyhyxs05tcNJnMCJERRihYVl0mMzN05oM0Qdec9xTJW7geTGlJrQcLfvin1vqLOiJSlG0n-kUwKSsGH85d6FJjKfU55jN5W0FYFzHEpFG8yaK7jLw5fhTbaYtYCfBu6bum2YuAK0jFhFd8bxjPvhVG9UqR4hdD5cXADnUs3dwTrTO4umNHkOaOIQT0CRj9MptMv-DOgIFTMnyvUpN0Yl85O2H6fC1yuDppfq4QkDgUyBXh240Kz98juzJTlm9COvMrk9Cx-lZOSpHZ3qBZnviujQq2m5rLvS8ZmW3lqWmIedeFTGPlFpqN6A3U"
+        }
+      }
+    ],
+    "requested_token_type": "actor_access_token",
+    "source_token_type": "refresh_token",
+    "platform": "iOS",
+    "current_version": "6.18.3",
+    "exchange_reason": "miGetATActATInvalidForceRefresh",
+    "package_name": "com.amazon.aiv.AIVApp",
+    "app_name": "Prime Video",
+    "actor_id": "amzn1.actor.person.oid.A33555SB6BNE1"
   };
 
+  const response = await fetch(url, {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      'Accept': 'application/json'
+    },
+    body: JSON.stringify(body)
+  });
+
+  if (!response.ok) {
+    throw new Error(`Token fetch failed: ${response.status}`);
+  }
+
+  const data = await response.json();
+  const token = data.device_tokens[0].actor_access_token.token;
+  return token;
+}
+
+
+async function fetchPrimeVideoSportsData() {
+  const url = 'https://abf4d3zfbtw7.na.api.amazonvideo.com/cdp/linearedge/InitialLivePageApple?featureScheme=ios-features-v9.1-zeno&deviceId=D5397D233BF840C68E31A0ECAE09C36A&deviceTypeId=AK6OCP5ZLUJI1';
+
   try {
-    const response = await fetch(url, {
-      method: 'GET',
-      headers: headers
-    });
+    // Fetch a fresh token before each call
+    const token = await fetchAmazonToken();
+
+    const headers = {
+      'Host': 'abf4d3zfbtw7.na.api.amazonvideo.com',
+      'Accept': '*/*',
+      'Connection': 'keep-alive',
+      'x-gasc-enabled': 'true',
+      'x-retry-count': '0',
+      'x-atv-page-id': 'livetv',
+      'User-Agent': 'PrimeVideo/10.113 (iPhone17,2; iOS 26.1; Scale/3.0)',
+      'x-atv-page-type': 'ATVHome',
+      'Authorization': `Bearer ${token}`,  // dynamically injected
+      'Accept-Language': 'en-US,en;q=0.9'
+    };
+
+    const response = await fetch(url, { method: 'GET', headers });
 
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
 
-    const data = await response.json();
-    return data;
+    return await response.json();
+
   } catch (error) {
     console.error('Error fetching Prime Video sports data:', error);
     throw error;
   }
 }
-
 
 //NBA:  https://tv.apple.com/api/uts/v3/shelves/uts.col.SportsRelated.umc.cse.67kkuyv8dsexy9dx1tvoj6ulh?caller=web&locale=en-US&pfm=web&sf=143441&utscf=OjAAAAEAAAAAAAIAEAAAACMAKwAtAA%7E%7E&utsk=6e3013c6d6fae3c2%3A%3A%3A%3A%3A%3A235656c069bb0efb&v=92
 
