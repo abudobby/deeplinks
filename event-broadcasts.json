@@ -1,19 +1,4 @@
 {
-  "740847": {
-    "title": "Arsenal at Brentford",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%221a064925-779c-3e41-bd1b-03ff5692f849%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
   "401804925": {
     "title": "Louisiana Tech Bulldogs at Missouri State Bears",
     "broadcasts": [
