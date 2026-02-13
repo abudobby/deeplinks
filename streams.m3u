@@ -19,7 +19,7 @@ https://fl31.moveonjoy.com/NBA_TV/index.m3u8
 https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 
 
-#EXTINF:-1 tvg-name="TNT HD" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tnt-logo-png-6.png" group-title="Sports",TNT HD
+#EXTINF:-1 tvg-name="TNT" tvg-logo="https://pngimage.net/wp-content/uploads/2018/06/tnt-logo-png-6.png" group-title="Sports",TNT
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="TBS" tvg-logo="https://i.cdn.tbs.com/themes/custom/ten_theme/images/tbs/tbs_logo_top.png" group-title="General",TBS
@@ -32,10 +32,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_2_196
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Sports",ESPN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0
-#EXTVLCOPT:http-referrer=https://cdn-live.tv/
-#EXTVLCOPT:http-origin=https://cdn-live.tv
-https://edge.cdn-live.ru/secure/api/v1/us-espn/playlist.m3u8?token=293ffc62573e2e7dbbd9b1d9b340f02b23cca6bff7c684d9f599772e5fff8860.1770934157.e2181c56c5f234c9aa665be389f1c682.99e5b864f2743b20836a827cfaeeec5f.04900a73a172dc2cce91a2a33e867a2a&signature=40415acf5f48428d356829885b6b351d084cf1123a0588ac43cd34705b7a5dfa
+http://41.205.93.154/ESPN/index.m3u8
 
 #EXTINF:-1 tvg-name="USA Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Entertainment",USA Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:147.0) Gecko/20100101 Firefox/147.0
@@ -43,8 +40,14 @@ https://edge.cdn-live.ru/secure/api/v1/us-espn/playlist.m3u8?token=293ffc62573e2
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 https://edge.cdn-live.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=92030e89f1d914bc1dc0f519da3beefa81f557bb3d9312ec665529552187c493.1770934406.740c4d53206369cbf419d87c29b094d7.080eba4b0781bf1685ccf04f6069018c.f709e2bba5c307a94a094a7fcca2c450&signature=c13d9a456b9fcabd5e32eab9e9181af2e09150cb0d50865677470210b8bf7f11
 
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="General",FOX
+https://fa.edge.foxdtc.digitalvideoplatform.com/1771112857_aca185e6a3b8334225c9bd75c9e60a520471eabd/*~/live-dr/wfld-ue2/index.m3u8?zipcode=
+
+#EXTINF: -1 tvg-name="WCCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/480px-CBS_logo_%282020%29.svg.png" group-title="Local", WCCO
+https://cbsplaylistserver.aws.syncbak.com/mpl/20160401/859169/5743360/media.m3u8?request_token=qvU7-FK2v-GKFp6gT19Ca6OGg-7v2h3rb7CH8dJb24xGNa9SybZzeslmzXfSuKr8yvmFHpHArbAEAylrbjN8plkYyR_E_ONwoEO5VbCnWRbPltjgakUcV3v7Ap37IjAJykCk5YrCty_Hx7AsXhusoGCdNFX5UwEk7oT3u6_r2xG4QXk&CMCD=mtp%3D9500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%224e546942-2006-495c-a946-06b8f3a0faca%22
+
 #EXTINF:-1 tvg-chno="232" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Utah Jazz (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Utah Jazz (CDNTV)
 #EXTVLCOPT:http-referrer=https://a.embedsports.top/
 #EXTVLCOPT:http-origin=https://a.embedsports.top/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://ortdruuckehagkdtgwevu.poocloud.in/secure/okaLmFXjwqbOTFzNWmqcxXSnRPUZQxpk/1770937200/1770965280/utahjazz/index.m3u8
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/DKpVssstjWkKByMykZNFNIqdjVQaRtlB/1770937200/1770965280/utahjazz/index.m3u8
