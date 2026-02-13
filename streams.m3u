@@ -42,3 +42,9 @@ https://edge.cdn-live.ru/secure/api/v1/us-espn/playlist.m3u8?token=293ffc62573e2
 #EXTVLCOPT:http-referrer=https://cdn-live.tv/
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 https://edge.cdn-live.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=92030e89f1d914bc1dc0f519da3beefa81f557bb3d9312ec665529552187c493.1770934406.740c4d53206369cbf419d87c29b094d7.080eba4b0781bf1685ccf04f6069018c.f709e2bba5c307a94a094a7fcca2c450&signature=c13d9a456b9fcabd5e32eab9e9181af2e09150cb0d50865677470210b8bf7f11
+
+#EXTINF:-1 tvg-chno="232" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Utah Jazz (CDNTV)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Utah Jazz (CDNTV)
+#EXTVLCOPT:http-referrer=https://a.embedsports.top/
+#EXTVLCOPT:http-origin=https://a.embedsports.top/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://ortdruuckehagkdtgwevu.poocloud.in/secure/okaLmFXjwqbOTFzNWmqcxXSnRPUZQxpk/1770937200/1770965280/utahjazz/index.m3u8
