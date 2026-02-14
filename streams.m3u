@@ -40,7 +40,7 @@ http://41.205.93.154/ESPN/index.m3u8
 #EXTVLCOPT:http-origin=https://cdn-live.tv
 https://edge.cdn-live.ru/secure/api/v1/us-usa-network/playlist.m3u8?token=92030e89f1d914bc1dc0f519da3beefa81f557bb3d9312ec665529552187c493.1770934406.740c4d53206369cbf419d87c29b094d7.080eba4b0781bf1685ccf04f6069018c.f709e2bba5c307a94a094a7fcca2c450&signature=c13d9a456b9fcabd5e32eab9e9181af2e09150cb0d50865677470210b8bf7f11
 
-#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="General",FOX
+#EXTINF:-1 tvg-id="FOX.us" tvg-name="FOX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="General",WFLD
 https://fa.edge.foxdtc.digitalvideoplatform.com/1771112857_aca185e6a3b8334225c9bd75c9e60a520471eabd/*~/live-dr/wfld-ue2/index.m3u8?zipcode=
 
 #EXTINF: -1 tvg-name="WCCO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/480px-CBS_logo_%282020%29.svg.png" group-title="Local", WCCO
