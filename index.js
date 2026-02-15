@@ -12,9 +12,8 @@ const broadcasterMap = broadcasters.reduce((acc, broadcaster) => {
 
 async function fetchEvents() {
   try {
-    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?leagues=nba,nhl,uefa.champions,eng.1,mens-college-basketball&limit=200');
+    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?leagues=nhl,uefa.champions,eng.1,mens-college-basketball&limit=200');
     const data = await response.json();
-
         const peacockResponse = await searchPeacock()
         const nbcResponse = await fetchNBCSportsData()
         const paramountResponse = await fetchParamountSportsData()
@@ -30,7 +29,6 @@ const peacockSchedule = peacockResponse.data.search.results
     title: item.title,
     eventStage: item.formats.HD.eventStage
   }));
-
 
     
     // Create an object keyed by event ID
