@@ -1,39 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Birmingham City vs Leeds United Live Streams" group-title="Live",Birmingham City vs Leeds United Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45219/load-playlist
-
-#EXTINF:-1 tvg-name="Grimsby Town vs Wolverhampton Live Streams" group-title="Live",Grimsby Town vs Wolverhampton Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45222/load-playlist
-
-#EXTINF:-1 tvg-name="Oxford United vs Sunderland Live Streams" group-title="Live",Oxford United vs Sunderland Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45225/load-playlist
-
-#EXTINF:-1 tvg-name="Stoke City vs Fulham Live Streams" group-title="Live",Stoke City vs Fulham Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45224/load-playlist
-
 #EXTINF:-1 tvg-name="Arsenal vs Wigan Athletic Live Streams" group-title="Live",Arsenal vs Wigan Athletic Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45226/load-playlist
-
-#EXTINF:-1 tvg-name="Real Oviedo vs Athletic Club Live Streams" group-title="Live",Real Oviedo vs Athletic Club Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45220/load-playlist
 
 #EXTINF:-1 tvg-name="Rayo Vallecano vs Atlético Madrid Live Streams" group-title="Live",Rayo Vallecano vs Atlético Madrid Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -47,17 +17,47 @@ https://red2.wecanfix8.space/playlist/45227/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45221/load-playlist
 
-#EXTINF:-1 tvg-name="Parma vs Hellas Verona Live Streams" group-title="Live",Parma vs Hellas Verona Live Streams
+#EXTINF:-1 tvg-name="Georgia Bulldogs vs Vanderbilt Commodores Live Streams" group-title="Live",Georgia Bulldogs vs Vanderbilt Commodores Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45223/load-playlist
+https://red2.wecanfix8.space/playlist/45231/load-playlist
+
+#EXTINF:-1 tvg-name="IUPUI Jaguars vs Youngstown State Penguins Live Streams" group-title="Live",IUPUI Jaguars vs Youngstown State Penguins Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45233/load-playlist
+
+#EXTINF:-1 tvg-name="Torino vs Bologna Live Streams" group-title="Live",Torino vs Bologna Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45229/load-playlist
 
 #EXTINF:-1 tvg-name="RB Leipzig vs VfL Wolfsburg Live Streams" group-title="Live",RB Leipzig vs VfL Wolfsburg Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45228/load-playlist
+
+#EXTINF:-1 tvg-name="Boston College Eagles vs Miami Florida Hurricanes Live Streams" group-title="Live",Boston College Eagles vs Miami Florida Hurricanes Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45232/load-playlist
+
+#EXTINF:-1 tvg-name="Southern Methodist Mustangs vs Pittsburgh Panthers Live Streams" group-title="Live",Southern Methodist Mustangs vs Pittsburgh Panthers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45230/load-playlist
+
+#EXTINF:-1 tvg-name="Duke Blue Devils vs North Carolina Tar Heels Live Streams" group-title="Live",Duke Blue Devils vs North Carolina Tar Heels Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45234/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
