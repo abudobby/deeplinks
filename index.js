@@ -227,7 +227,6 @@ async function fetchParamountSportsData(offset = 0, limit = 0) {
 
 async function fetchAmazonToken() {
   const url = 'https://api.amazon.com/auth/token';
-
   const body = {
     "age_info": {},
     "previous_version": "6.18.3",
