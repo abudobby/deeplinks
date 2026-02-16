@@ -43,7 +43,7 @@ const getPlaylistUrls = async () => {
       .map(({ playlistVideoRenderer: { videoId, title } }) => ({
         title: title?.runs?.[0]?.text || title?.simpleText || 'Untitled',
         url: `youtube://watch/${videoId}`,
-        thumbnail: `https://i.ytimg.com/vi/${videoId}/hqdefault.jpg`
+        thumbnail: `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`
       }));
 
     result[key] = videos;
