@@ -16,8 +16,8 @@
       }
     ]
   },
-  "401808719": {
-    "title": "SE Louisiana Lions at East Texas A&M Lions",
+  "401808640": {
+    "title": "Louisiana Ragin' Cajuns at Old Dominion Monarchs",
     "broadcasts": [
       {
         "id": 755,
@@ -29,7 +29,7 @@
           "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401808719"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401808640"
       }
     ]
   },
