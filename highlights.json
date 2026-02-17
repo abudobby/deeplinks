@@ -1,20 +1,5 @@
 {
   "nba": [
-            {
-      "title": "The FULL 2026 NBA All-Star Game Tournament | USA vs. World ",
-      "url": "youtube://watch/CvrN7O9i9rE",
-      "thumbnail": "https://i.ytimg.com/vi/CvrN7O9i9rE/maxresdefault.jpg"
-    },
-           {
-      "title": "Sign in The FULL 2026 NBA AT&T Slam Dunk!",
-      "url": "youtube://watch/eqE23UrYpec",
-      "thumbnail": "https://i.ytimg.com/vi/eqE23UrYpec/maxresdefault.jpg"
-    },
-      {
-      "title": "The FULL 2026 State Farm NBA 3-Point Contest",
-      "url": "youtube://watch/6Z0RbaYfNLY",
-      "thumbnail": "https://i.ytimg.com/vi/6Z0RbaYfNLY/maxresdefault.jpg"
-    },
     {
       "title": "MAVERICKS at LAKERS | FULL GAME HIGHLIGHTS | February 12, 2026",
       "url": "youtube://watch/Zdao4W70kUs",
@@ -93,6 +78,16 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Houston Cougars vs. Iowa State Cyclones | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/HDLEbOjTHAE",
+      "thumbnail": "https://i.ytimg.com/vi/HDLEbOjTHAE/maxresdefault.jpg"
+    },
+    {
+      "title": "Syracuse Orange vs. Duke Blue Devils | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/w6kL3M1IXjY",
+      "thumbnail": "https://i.ytimg.com/vi/w6kL3M1IXjY/maxresdefault.jpg"
+    },
+    {
       "title": "Texas Tech Red Raiders vs. Arizona Wildcats | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/feKzWKDR1mw",
       "thumbnail": "https://i.ytimg.com/vi/feKzWKDR1mw/maxresdefault.jpg"
@@ -156,16 +151,6 @@
       "title": "Houston Cougars vs. BYU Cougars | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/cJdnkeWMNOg",
       "thumbnail": "https://i.ytimg.com/vi/cJdnkeWMNOg/maxresdefault.jpg"
-    },
-    {
-      "title": "Tennessee Volunteers vs. Kentucky Wildcats | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/uLkiGP_PRcM",
-      "thumbnail": "https://i.ytimg.com/vi/uLkiGP_PRcM/maxresdefault.jpg"
-    },
-    {
-      "title": "DOWN TO THE WIRE 🍿 Duke Blue Devils vs. North Carolina Tar Heels | Full Game Highlights | ESPN CBB",
-      "url": "youtube://watch/CX_Ognv0tCM",
-      "thumbnail": "https://i.ytimg.com/vi/CX_Ognv0tCM/maxresdefault.jpg"
     }
   ]
 }
