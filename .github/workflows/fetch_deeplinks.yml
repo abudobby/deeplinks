@@ -1,4 +1,4 @@
-name: Fetch Sports Events
+name: Fetch Deeplinks
 
 on:
   schedule:
