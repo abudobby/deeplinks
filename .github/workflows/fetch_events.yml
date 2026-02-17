@@ -1,0 +1,27 @@
+name: Fetch Sports Events
+
+on:
+  schedule:
+  - cron: '*/5 * * * *'  # Every 5 minutes
+  workflow_dispatch:      # Allow manual runs
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run fetch script
+        run: node index.js
+
+      - name: Commit updated JSON files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add event-broadcasts.json event-deeplinks.json
+          git diff --staged --quiet || git commit -m "chore: update event broadcasts [skip ci]"
+          git push
