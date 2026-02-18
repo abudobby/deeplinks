@@ -332,7 +332,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22c3d2cb82-0be8-3b6f-8ae1-c3c112ea6a7f%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22b1a3006e-c05d-3a3c-a7e0-2883d6a6b1ed%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -491,7 +491,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/b7753d97-7610-46f7-aba8-cf549589f3f8"
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-womens-champions-league/67aaa941-cca8-4c22-b734-4b244f45a57c"
       }
     ]
   },
@@ -506,7 +506,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/05d1f0b3-90f1-4a3f-ac7a-1d45ad828f7c"
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-europa-conference-league/4448c511-44ee-46e5-b205-7120233e232d"
       }
     ]
   },
@@ -533,7 +533,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/7dd28ea9-c877-499e-a983-310fc53bb3d8"
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-europa-league/17884541-05d8-41fe-a70d-bd56f47823b5"
       }
     ]
   }
