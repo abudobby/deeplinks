@@ -449,7 +449,7 @@
     "id": 35,
     "name": "Big Ten Network",
     "type": "tv",
-              "isNational": false,
+    "isNational": false,
     "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
     "searchTokens": ["big ten network", "btn"]
   },
