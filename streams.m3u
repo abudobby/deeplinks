@@ -11,23 +11,35 @@ https://red2.wecanfix8.space/playlist/45239/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45240/load-playlist
 
+#EXTINF:-1 tvg-name="Liberty Flames vs Florida International Golden Panthers Live Streams" group-title="Live",Liberty Flames vs Florida International Golden Panthers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45430/load-playlist
+
 #EXTINF:-1 tvg-name="Sporting San Miguelito vs LA Galaxy Live Streams" group-title="Live",Sporting San Miguelito vs LA Galaxy Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45426/load-playlist
 
-#EXTINF:-1 tvg-name="Celtic vs VfB Stuttgart Live Streams" group-title="Live",Celtic vs VfB Stuttgart Live Streams
+#EXTINF:-1 tvg-name="Pittsburgh Panthers vs Georgia Tech Yellow Jackets Live Streams" group-title="Live",Pittsburgh Panthers vs Georgia Tech Yellow Jackets Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45422/load-playlist
+https://red2.wecanfix8.space/playlist/45427/load-playlist
 
-#EXTINF:-1 tvg-name="Jagiellonia Białystok vs Fiorentina Live Streams" group-title="Live",Jagiellonia Białystok vs Fiorentina Live Streams
+#EXTINF:-1 tvg-name="Virginia Tech Hokies vs North Carolina Tar Heels Live Streams" group-title="Live",Virginia Tech Hokies vs North Carolina Tar Heels Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45423/load-playlist
+https://red2.wecanfix8.space/playlist/45428/load-playlist
+
+#EXTINF:-1 tvg-name="Wake Forest Demon Deacons vs Notre Dame Fighting Irish Live Streams" group-title="Live",Wake Forest Demon Deacons vs Notre Dame Fighting Irish Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45429/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
