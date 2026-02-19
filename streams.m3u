@@ -17,24 +17,6 @@ https://red2.wecanfix8.space/playlist/45240/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45392/load-playlist
 
-#EXTINF:-1 tvg-name="Wofford Terriers vs Virginia Military Keydets Live Streams" group-title="Live",Wofford Terriers vs Virginia Military Keydets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45385/load-playlist
-
-#EXTINF:-1 tvg-name="Holy Cross Crusaders vs Lafayette College Leopards Live Streams" group-title="Live",Holy Cross Crusaders vs Lafayette College Leopards Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45386/load-playlist
-
-#EXTINF:-1 tvg-name="Penn St Nittany Lions vs Rutgers Scarlet Knights Live Streams" group-title="Live",Penn St Nittany Lions vs Rutgers Scarlet Knights Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45384/load-playlist
-
 #EXTINF:-1 tvg-name="Furman Paladins vs East Tennessee State Bucs Live Streams" group-title="Live",Furman Paladins vs East Tennessee State Bucs Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -46,12 +28,6 @@ https://red2.wecanfix8.space/playlist/45387/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45389/load-playlist
-
-#EXTINF:-1 tvg-name="Youngstown State Penguins vs Cleveland State Vikings Live Streams" group-title="Live",Youngstown State Penguins vs Cleveland State Vikings Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45388/load-playlist
 
 #EXTINF:-1 tvg-name="Wake Forest Demon Deacons vs Clemson Tigers Live Streams" group-title="Live",Wake Forest Demon Deacons vs Clemson Tigers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
