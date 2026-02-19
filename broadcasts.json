@@ -362,7 +362,8 @@
               "isNational": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
     "type": "tv",
-    "searchTokens": ["sportsnet"]
+    "searchTokens": ["sportsnet"],
+    "excludedSearchTokens": ["spectrum"]
   },
   {
     "id": 1159,

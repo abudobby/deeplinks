@@ -616,7 +616,9 @@
         "searchTokens": [
           "sportsnet"
         ],
-        "excludedSearchTokens": [],
+        "excludedSearchTokens": [
+          "spectrum"
+        ],
         "deeplink": null
       }
     ]
