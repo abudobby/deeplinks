@@ -1,19 +1,4 @@
 {
-  "740901": {
-    "title": "Arsenal at Wolverhampton Wanderers",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%223ecf2b17-8cd3-36ab-b16c-815ab6cd1788%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
   "401804934": {
     "title": "Jacksonville State Gamecocks at Louisiana Tech Bulldogs",
     "broadcasts": [
@@ -948,78 +933,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401858734": {
-    "title": "Internazionale at Bodo/Glimt",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/41f145e3-f433-4939-9157-d5043199669b"
-      }
-    ]
-  },
-  "401858736": {
-    "title": "Newcastle United at FK Qarabag",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-womens-champions-league/90dd901d-6278-4a76-9bda-0890f4901230"
-      }
-    ]
-  },
-  "401858737": {
-    "title": "Bayer Leverkusen at Olympiacos",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/1245fe85-85b5-422f-8f0a-fec494e73d36"
-      }
-    ]
-  },
-  "401858760": {
-    "title": "Atlético Madrid at Club Brugge",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/95339d4b-239a-432a-8a4b-7475a9d93fca"
       }
     ]
   },
