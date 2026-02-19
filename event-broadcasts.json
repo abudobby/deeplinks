@@ -50,23 +50,6 @@
       }
     ]
   },
-  "401805201": {
-    "title": "California Baptist Lancers at Utah Valley Wolverines",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401805201"
-      }
-    ]
-  },
   "401806492": {
     "title": "Morehead State Eagles at Eastern Illinois Panthers",
     "broadcasts": [
@@ -213,7 +196,6 @@
         "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "espnu",
           "espn u"
         ],
         "excludedSearchTokens": [],
@@ -1008,7 +990,6 @@
         "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "espnu",
           "espn u"
         ],
         "excludedSearchTokens": [],

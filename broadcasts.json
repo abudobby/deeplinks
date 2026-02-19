@@ -457,9 +457,9 @@
     "id": 145,
     "name": "ESPN U",
     "type": "tv",
-              "isNational": false,
+    "isNational": false,
     "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-    "searchTokens": ["espnu", "espn u"]
+    "searchTokens": ["espn u"]
   },
        {
     "id": 61,
