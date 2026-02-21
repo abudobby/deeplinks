@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Arizona Wildcats vs. Houston Cougars | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/F9b1MxVPJDM",
+      "thumbnail": "https://i.ytimg.com/vi/F9b1MxVPJDM/maxresdefault.jpg"
+    },
+    {
       "title": "Tennessee Volunteers vs. Vanderbilt Commodores | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/Nn1g9CFay2Y",
       "thumbnail": "https://i.ytimg.com/vi/Nn1g9CFay2Y/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Kentucky Wildcats vs. Florida Gators | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/lxz_cXV-aE8",
       "thumbnail": "https://i.ytimg.com/vi/lxz_cXV-aE8/maxresdefault.jpg"
-    },
-    {
-      "title": "Pittsburgh Panthers vs. North Carolina Tar Heels | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/5NJ0v4GbQnE",
-      "thumbnail": "https://i.ytimg.com/vi/5NJ0v4GbQnE/maxresdefault.jpg"
     }
   ]
 }
