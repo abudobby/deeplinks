@@ -1,51 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Minnesota Timberwolves vs Dallas Mavericks Live Streams" group-title="Live",Minnesota Timberwolves vs Dallas Mavericks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45488/load-playlist
-
-#EXTINF:-1 tvg-name="New Orleans Pelicans vs Milwaukee Bucks Live Streams" group-title="Live",New Orleans Pelicans vs Milwaukee Bucks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45489/load-playlist
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder vs Brooklyn Nets Live Streams" group-title="Live",Oklahoma City Thunder vs Brooklyn Nets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45490/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Lakers vs Los Angeles Clippers Live Streams" group-title="Live",Los Angeles Lakers vs Los Angeles Clippers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45492/load-playlist
-
 #EXTINF:-1 tvg-name="Portland Trail Blazers vs Denver Nuggets Live Streams" group-title="Live",Portland Trail Blazers vs Denver Nuggets Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45494/load-playlist
 
-#EXTINF:-1 tvg-name="Merrimack Warriors vs Siena Saints Live Streams" group-title="Live",Merrimack Warriors vs Siena Saints Live Streams
+#EXTINF:-1 tvg-name="Los Angeles Lakers vs Los Angeles Clippers Live Streams" group-title="Live",Los Angeles Lakers vs Los Angeles Clippers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45497/load-playlist
-
-#EXTINF:-1 tvg-name="Purdue Boilermakers vs Indiana Hoosiers Live Streams" group-title="Live",Purdue Boilermakers vs Indiana Hoosiers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45498/load-playlist
-
-#EXTINF:-1 tvg-name="Miami (OH) RedHawks vs Bowling Green Falcons Live Streams" group-title="Live",Miami (OH) RedHawks vs Bowling Green Falcons Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45499/load-playlist
+https://red2.wecanfix8.space/playlist/45492/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
