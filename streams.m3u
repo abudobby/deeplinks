@@ -53,6 +53,12 @@ https://red2.wecanfix8.space/playlist/45493/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45494/load-playlist
 
+#EXTINF:-1 tvg-name="Bradley Braves vs Murray State Racers Live Streams" group-title="Live",Bradley Braves vs Murray State Racers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45501/load-playlist
+
 #EXTINF:-1 tvg-name="Ball State Cardinals vs Akron Zips Live Streams" group-title="Live",Ball State Cardinals vs Akron Zips Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -94,6 +100,24 @@ https://red2.wecanfix8.space/playlist/45485/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45482/load-playlist
+
+#EXTINF:-1 tvg-name="Rider Broncs vs Canisius Golden Griffins Live Streams" group-title="Live",Rider Broncs vs Canisius Golden Griffins Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45504/load-playlist
+
+#EXTINF:-1 tvg-name="Brown Bears vs Princeton Tigers Live Streams" group-title="Live",Brown Bears vs Princeton Tigers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45503/load-playlist
+
+#EXTINF:-1 tvg-name="Saint Louis Billikens vs VCU Rams Live Streams" group-title="Live",Saint Louis Billikens vs VCU Rams Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45502/load-playlist
 
 #EXTINF:-1 tvg-name="Merrimack Warriors vs Siena Saints Live Streams" group-title="Live",Merrimack Warriors vs Siena Saints Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
