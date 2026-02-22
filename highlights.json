@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Duke Blue Devils vs. Michigan Wolverines | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/SHltyGxmjyI",
+      "thumbnail": "https://i.ytimg.com/vi/SHltyGxmjyI/maxresdefault.jpg"
+    },
+    {
       "title": "Missouri Tigers vs. Arkansas Razorbacks | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/CMpMY-5EZLo",
       "thumbnail": "https://i.ytimg.com/vi/CMpMY-5EZLo/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Syracuse Orange vs. Duke Blue Devils | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/w6kL3M1IXjY",
       "thumbnail": "https://i.ytimg.com/vi/w6kL3M1IXjY/maxresdefault.jpg"
-    },
-    {
-      "title": "Texas Tech Red Raiders vs. Arizona Wildcats | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/feKzWKDR1mw",
-      "thumbnail": "https://i.ytimg.com/vi/feKzWKDR1mw/maxresdefault.jpg"
     }
   ]
 }
