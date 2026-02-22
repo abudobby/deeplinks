@@ -1,4 +1,34 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Celtic vs Hibernian Live Streams" group-title="Live",Celtic vs Hibernian Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45633/load-playlist
+
+#EXTINF:-1 tvg-name="Livingston vs Rangers Live Streams" group-title="Live",Livingston vs Rangers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45634/load-playlist
+
+#EXTINF:-1 tvg-name="Angers vs Lille Live Streams" group-title="Live",Angers vs Lille Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45636/load-playlist
+
+#EXTINF:-1 tvg-name="Nantes vs Le Havre Live Streams" group-title="Live",Nantes vs Le Havre Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45635/load-playlist
+
+#EXTINF:-1 tvg-name="Nice vs Lorient Live Streams" group-title="Live",Nice vs Lorient Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45637/load-playlist
+
 #EXTINF:-1 tvg-name="Crystal Palace vs Wolverhampton Live Streams" group-title="Live",Crystal Palace vs Wolverhampton Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -17,11 +47,17 @@ https://red2.wecanfix8.space/playlist/45631/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45630/load-playlist
 
-#EXTINF:-1 tvg-name="Canada vs USA Live Streams" group-title="Live",Canada vs USA Live Streams
+#EXTINF:-1 tvg-name="Tottenham Hotspur vs Arsenal Live Streams" group-title="Live",Tottenham Hotspur vs Arsenal Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45574/load-playlist
+https://red2.wecanfix8.space/playlist/45638/load-playlist
+
+#EXTINF:-1 tvg-name="Barcelona vs Levante UD Live Streams" group-title="Live",Barcelona vs Levante UD Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/45632/load-playlist
 
 #EXTINF:-1 tvg-name="Atalanta vs Napoli Live Streams" group-title="Live",Atalanta vs Napoli Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
