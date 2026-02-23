@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Indiana Pacers vs Dallas Mavericks Live Streams" group-title="Live",Indiana Pacers vs Dallas Mavericks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45699/load-playlist
-
-#EXTINF:-1 tvg-name="Washington Wizards vs Charlotte Hornets Live Streams" group-title="Live",Washington Wizards vs Charlotte Hornets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45700/load-playlist
-
 #EXTINF:-1 tvg-name="Los Angeles Lakers vs Boston Celtics Live Streams" group-title="Live",Los Angeles Lakers vs Boston Celtics Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -41,12 +29,6 @@ https://red2.wecanfix8.space/playlist/45707/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45708/load-playlist
 
-#EXTINF:-1 tvg-name="Washington Wizards vs Charlotte Hornets Live Streams" group-title="Live",Washington Wizards vs Charlotte Hornets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45700/load-playlist
-
 #EXTINF:-1 tvg-name="Los Angeles Lakers vs Boston Celtics Live Streams" group-title="Live",Los Angeles Lakers vs Boston Celtics Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -76,12 +58,6 @@ https://red2.wecanfix8.space/playlist/45707/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45708/load-playlist
-
-#EXTINF:-1 tvg-name="Minnesota Golden Gophers vs Michigan State Spartans Live Streams" group-title="Live",Minnesota Golden Gophers vs Michigan State Spartans Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45698/load-playlist
 
 #EXTINF:-1 tvg-name="LA Galaxy vs New York City FC Live Streams" group-title="Live",LA Galaxy vs New York City FC Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -94,12 +70,6 @@ https://red2.wecanfix8.space/playlist/45702/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45703/load-playlist
-
-#EXTINF:-1 tvg-name="Southern Methodist Mustangs vs Notre Dame Fighting Irish Live Streams" group-title="Live",Southern Methodist Mustangs vs Notre Dame Fighting Irish Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45709/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
