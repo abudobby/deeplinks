@@ -89,12 +89,6 @@ https://red2.wecanfix8.space/playlist/45766/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/45764/load-playlist
 
-#EXTINF:-1 tvg-name="Atlético Madrid vs Club Brugge KV Live Streams" group-title="Live",Atlético Madrid vs Club Brugge KV Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/45747/load-playlist
-
 #EXTINF:-1 tvg-name="Bayer 04 Leverkusen vs Olympiacos FC Live Streams" group-title="Live",Bayer 04 Leverkusen vs Olympiacos FC Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
