@@ -905,23 +905,6 @@
       }
     ]
   },
-  "401826824": {
-    "title": "Bucknell Bison at Army Black Knights",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401826824"
-      }
-    ]
-  },
   "401827706": {
     "title": "Kansas State Wildcats at Colorado Buffaloes",
     "broadcasts": [
@@ -1229,75 +1212,20 @@
       }
     ]
   },
-  "401858762": {
-    "title": "Borussia Dortmund at Atalanta",
+  "401861277": {
+    "title": "Morgan State Bears at South Carolina State Bulldogs",
     "broadcasts": [
       {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-europa-league/a5344af4-ba3a-4bac-924f-6b1ad1fa9124"
-      }
-    ]
-  },
-  "401858763": {
-    "title": "AS Monaco at Paris Saint-Germain",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/4eaa174e-aa45-483d-82ab-80460c03a125"
-      }
-    ]
-  },
-  "401858765": {
-    "title": "Galatasaray at Juventus",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "isNational": false,
-        "type": "tv",
+        "type": "streaming",
         "searchTokens": [
-          "cbs sports network"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/e797dd6c-aeeb-4ae0-b154-e7b4f30a9001"
-      }
-    ]
-  },
-  "401858769": {
-    "title": "Benfica at Real Madrid",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/45b53a26-0e33-447d-a850-cd5c34e7cd2a"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401861277"
       }
     ]
   }
