@@ -10,7 +10,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22ab090049-bbec-3960-a13e-40db471f1927%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22429a17d5-d289-3dc4-ac55-ba8ac9549b05%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -48,23 +48,6 @@
       }
     ]
   },
-  "740873": {
-    "title": "Sunderland at AFC Bournemouth",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "740874": {
     "title": "Everton at Newcastle United",
     "broadcasts": [
@@ -76,7 +59,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%220835a52c-27d5-34a3-a391-781f3a157b26%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22c5b65d45-571f-34a8-b271-96fd11185ee0%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
