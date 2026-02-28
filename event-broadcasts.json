@@ -1,21 +1,4 @@
 {
-  "740868": {
-    "title": "Aston Villa at Wolverhampton Wanderers",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401803281": {
     "title": "Buffalo Sabres at Florida Panthers",
     "broadcasts": [
@@ -568,16 +551,16 @@
     "title": "Miami (OH) RedHawks at Western Michigan Broncos",
     "broadcasts": [
       {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "id": 61,
+        "name": "CBS Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
         "isNational": false,
-        "type": "streaming",
+        "type": "tv",
         "searchTokens": [
-          "espn+"
+          "cbs sports network"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401814590"
+        "deeplink": null
       }
     ]
   },
