@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Vanderbilt Commodores vs. Kentucky Wildcats | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/02TdUzA6FT4",
+      "thumbnail": "https://i.ytimg.com/vi/02TdUzA6FT4/maxresdefault.jpg"
+    },
+    {
       "title": "Colorado Buffaloes vs. Houston Cougars | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/yzUG6xQ2-iU",
       "thumbnail": "https://i.ytimg.com/vi/yzUG6xQ2-iU/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Missouri Tigers vs. Arkansas Razorbacks | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/CMpMY-5EZLo",
       "thumbnail": "https://i.ytimg.com/vi/CMpMY-5EZLo/maxresdefault.jpg"
-    },
-    {
-      "title": "Arizona Wildcats vs. Houston Cougars | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/F9b1MxVPJDM",
-      "thumbnail": "https://i.ytimg.com/vi/F9b1MxVPJDM/maxresdefault.jpg"
     }
   ]
 }
