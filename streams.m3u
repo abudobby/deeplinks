@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Utah Jazz vs New Orleans Pelicans Live Streams" group-title="Live",Utah Jazz vs New Orleans Pelicans Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46085/load-playlist
-
 #EXTINF:-1 tvg-name="Seattle Kraken vs Vancouver Canucks Live Streams" group-title="Live",Seattle Kraken vs Vancouver Canucks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46080/load-playlist
-
-#EXTINF:-1 tvg-name="Utah State Aggies vs Grand Canyon Antelopes Live Streams" group-title="Live",Utah State Aggies vs Grand Canyon Antelopes Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46088/load-playlist
 
 #EXTINF:-1 tvg-name="UC Irvine Anteaters vs UC Santa Barbara Gauchos Live Streams" group-title="Live",UC Irvine Anteaters vs UC Santa Barbara Gauchos Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
