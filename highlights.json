@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Alabama Crimson Tide vs. Tennessee Volunteers | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/1i4lcfAcTl8",
+      "thumbnail": "https://i.ytimg.com/vi/1i4lcfAcTl8/maxresdefault.jpg"
+    },
+    {
       "title": "Kansas Jayhawks vs. Arizona Wildcats | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/jN2ZmMFgBS0",
       "thumbnail": "https://i.ytimg.com/vi/jN2ZmMFgBS0/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Iowa State Cyclones vs. BYU Cougars | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/aZ9jw4JnPKY",
       "thumbnail": "https://i.ytimg.com/vi/aZ9jw4JnPKY/maxresdefault.jpg"
-    },
-    {
-      "title": "Duke Blue Devils vs. Michigan Wolverines | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/SHltyGxmjyI",
-      "thumbnail": "https://i.ytimg.com/vi/SHltyGxmjyI/maxresdefault.jpg"
     }
   ]
 }
