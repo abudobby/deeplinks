@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rangers vs Celtic Live Streams" group-title="Live",Rangers vs Celtic Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46091/load-playlist
-
 #EXTINF:-1 tvg-name="Paris FC vs Nice Live Streams" group-title="Live",Paris FC vs Nice Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -34,12 +28,6 @@ https://red2.wecanfix8.space/playlist/46096/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46093/load-playlist
-
-#EXTINF:-1 tvg-name="Cremonese vs Milan Live Streams" group-title="Live",Cremonese vs Milan Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46092/load-playlist
 
 #EXTINF:-1 tvg-name="Roma vs Juventus Live Streams" group-title="Live",Roma vs Juventus Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
