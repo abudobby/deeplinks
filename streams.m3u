@@ -1,21 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Utah Jazz vs Denver Nuggets Live Streams" group-title="Live",Utah Jazz vs Denver Nuggets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46217/load-playlist
-
 #EXTINF:-1 tvg-name="Golden State Warriors vs Los Angeles Clippers Live Streams" group-title="Live",Golden State Warriors vs Los Angeles Clippers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46215/load-playlist
-
-#EXTINF:-1 tvg-name="Utah Jazz vs Denver Nuggets Live Streams" group-title="Live",Utah Jazz vs Denver Nuggets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46217/load-playlist
 
 #EXTINF:-1 tvg-name="Golden State Warriors vs Los Angeles Clippers Live Streams" group-title="Live",Golden State Warriors vs Los Angeles Clippers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -40,12 +28,6 @@ https://red2.wecanfix8.space/playlist/46224/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46225/load-playlist
-
-#EXTINF:-1 tvg-name="Portland State Vikings vs Weber State Wildcats Live Streams" group-title="Live",Portland State Vikings vs Weber State Wildcats Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46228/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
