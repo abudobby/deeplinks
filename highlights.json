@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Iowa State Cyclones vs. Arizona Wildcats | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/65Z8OGJ6D4c",
+      "thumbnail": "https://i.ytimg.com/vi/65Z8OGJ6D4c/maxresdefault.jpg"
+    },
+    {
       "title": "Duke Blue Devils vs. NC State Wolfpack | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/qKJA18VsFew",
       "thumbnail": "https://i.ytimg.com/vi/qKJA18VsFew/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Duke Blue Devils vs. Notre Dame Fighting Irish | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/_Gn2z7luCTQ",
       "thumbnail": "https://i.ytimg.com/vi/_Gn2z7luCTQ/maxresdefault.jpg"
-    },
-    {
-      "title": "Miami (OH) RedHawks vs. Eastern Michigan Eagles | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/2AprNbKA2xE",
-      "thumbnail": "https://i.ytimg.com/vi/2AprNbKA2xE/maxresdefault.jpg"
     }
   ]
 }
