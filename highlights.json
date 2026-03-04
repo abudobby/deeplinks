@@ -1,6 +1,21 @@
 {
   "nba": [
     {
+      "title": "MAVERICKS at HORNETS | FULL GAME HIGHLIGHTS | March 3, 2026",
+      "url": "youtube://watch/yBzZ9awyTLQ",
+      "thumbnail": "https://i.ytimg.com/vi/yBzZ9awyTLQ/maxresdefault.jpg"
+    },
+    {
+      "title": "WIZARDS at MAGIC | FULL GAME HIGHLIGHTS | March 3, 2026",
+      "url": "youtube://watch/6l_-nPPhijc",
+      "thumbnail": "https://i.ytimg.com/vi/6l_-nPPhijc/maxresdefault.jpg"
+    },
+    {
+      "title": "PISTONS at CAVALIERS | FULL GAME HIGHLIGHTS | March 3, 2026",
+      "url": "youtube://watch/C7KZFmFBGys",
+      "thumbnail": "https://i.ytimg.com/vi/C7KZFmFBGys/maxresdefault.jpg"
+    },
+    {
       "title": "CLIPPERS at WARRIORS | FULL GAME HIGHLIGHTS | March 2, 2026",
       "url": "youtube://watch/KhdWGYrnIVI",
       "thumbnail": "https://i.ytimg.com/vi/KhdWGYrnIVI/maxresdefault.jpg"
@@ -59,24 +74,19 @@
       "title": "CAVALIERS at NETS | FULL GAME HIGHLIGHTS | March 1, 2026",
       "url": "youtube://watch/kpuBH65cMvE",
       "thumbnail": "https://i.ytimg.com/vi/kpuBH65cMvE/maxresdefault.jpg"
-    },
-    {
-      "title": "TIMBERWOLVES at NUGGETS | FULL GAME HIGHLIGHTS | March 1, 2026",
-      "url": "youtube://watch/prftZbHekVY",
-      "thumbnail": "https://i.ytimg.com/vi/prftZbHekVY/maxresdefault.jpg"
-    },
-    {
-      "title": "BUCKS at BULLS | FULL GAME HIGHLIGHTS | March 1, 2026",
-      "url": "youtube://watch/BPLfbAjTWEY",
-      "thumbnail": "https://i.ytimg.com/vi/BPLfbAjTWEY/maxresdefault.jpg"
-    },
-    {
-      "title": "SPURS at KNICKS | FULL GAME HIGHLIGHTS | March 1, 2026",
-      "url": "youtube://watch/sQISGYHIV1A",
-      "thumbnail": "https://i.ytimg.com/vi/sQISGYHIV1A/maxresdefault.jpg"
     }
   ],
   "mens-college-basketball": [
+    {
+      "title": "Clemson Tigers vs. North Carolina Tar Heels | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/HlVqDqpxpWU",
+      "thumbnail": "https://i.ytimg.com/vi/HlVqDqpxpWU/maxresdefault.jpg"
+    },
+    {
+      "title": "Alabama Crimson Tide vs. Georgia Bulldogs | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/6jIuheuBNFI",
+      "thumbnail": "https://i.ytimg.com/vi/6jIuheuBNFI/maxresdefault.jpg"
+    },
     {
       "title": "Iowa State Cyclones vs. Arizona Wildcats | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/65Z8OGJ6D4c",
@@ -141,16 +151,6 @@
       "title": "UCF Knights vs. BYU Cougars | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/EsFFbBhFLHw",
       "thumbnail": "https://i.ytimg.com/vi/EsFFbBhFLHw/maxresdefault.jpg"
-    },
-    {
-      "title": "Arizona Wildcats vs. Baylor Bears | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/V1LpQvHVDyA",
-      "thumbnail": "https://i.ytimg.com/vi/V1LpQvHVDyA/maxresdefault.jpg"
-    },
-    {
-      "title": "Duke Blue Devils vs. Notre Dame Fighting Irish | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/_Gn2z7luCTQ",
-      "thumbnail": "https://i.ytimg.com/vi/_Gn2z7luCTQ/maxresdefault.jpg"
     }
   ]
 }
