@@ -62,6 +62,7 @@ function extractVideos(obj, results = [], seen = new Set()) {
             results.push({
               url,
               thumbnail,
+                title: legacy.full_text ?? "",
               date: new Date(legacy.created_at),
               durationMs: media.video_info.duration_millis ?? null,
             });
@@ -120,7 +121,7 @@ async function main() {
     .flat()
     .sort((a, b) => b.date - a.date); // latest first across all accounts
 
-    writeFileSync("videos.json", JSON.stringify(allVideos, null, 2));
+    writeFileSync("reactions.json", JSON.stringify(allVideos, null, 2));
   console.log("\nResults written to videos.json");
 
   return allVideos;
