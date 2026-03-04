@@ -77,6 +77,12 @@ https://red2.wecanfix8.space/playlist/46308/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46299/load-playlist
 
+#EXTINF:-1 tvg-name="Georgia Tech Yellow Jackets vs Florida State Seminoles Live Streams" group-title="Live",Georgia Tech Yellow Jackets vs Florida State Seminoles Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46311/load-playlist
+
 #EXTINF:-1 tvg-name="Nebraska Cornhuskers vs Indiana Hoosiers Live Streams" group-title="Live",Nebraska Cornhuskers vs Indiana Hoosiers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -100,12 +106,6 @@ https://red2.wecanfix8.space/playlist/46298/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46303/load-playlist
-
-#EXTINF:-1 tvg-name="Coastal Carolina Chanticleers vs South Alabama Jaguars Live Streams" group-title="Live",Coastal Carolina Chanticleers vs South Alabama Jaguars Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46291/load-playlist
 
 #EXTINF:-1 tvg-name="Louisiana-Monroe Warhawks vs Louisiana Lafayette Ragin Cajuns Live Streams" group-title="Live",Louisiana-Monroe Warhawks vs Louisiana Lafayette Ragin Cajuns Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
