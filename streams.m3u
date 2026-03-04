@@ -1,45 +1,51 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Athletics vs Arizona Diamondbacks Live Streams" group-title="Live",Athletics vs Arizona Diamondbacks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46293/load-playlist
-
-#EXTINF:-1 tvg-name="Milwaukee Brewers vs Chicago Cubs Live Streams" group-title="Live",Milwaukee Brewers vs Chicago Cubs Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46307/load-playlist
-
 #EXTINF:-1 tvg-name="San Francisco Giants vs Seattle Mariners Live Streams" group-title="Live",San Francisco Giants vs Seattle Mariners Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46312/load-playlist
 
-#EXTINF:-1 tvg-name="Newcastle United vs Manchester United Live Streams" group-title="Live",Newcastle United vs Manchester United Live Streams
+#EXTINF:-1 tvg-name="Butler Bulldogs vs Creighton Bluejays Live Streams" group-title="Live",Butler Bulldogs vs Creighton Bluejays Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46306/load-playlist
+https://red2.wecanfix8.space/playlist/46313/load-playlist
 
-#EXTINF:-1 tvg-name="Georgia Tech Yellow Jackets vs Florida State Seminoles Live Streams" group-title="Live",Georgia Tech Yellow Jackets vs Florida State Seminoles Live Streams
+#EXTINF:-1 tvg-name="Indiana Hoosiers vs Minnesota Golden Gophers Live Streams" group-title="Live",Indiana Hoosiers vs Minnesota Golden Gophers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46311/load-playlist
+https://red2.wecanfix8.space/playlist/46316/load-playlist
 
-#EXTINF:-1 tvg-name="Nebraska Cornhuskers vs Indiana Hoosiers Live Streams" group-title="Live",Nebraska Cornhuskers vs Indiana Hoosiers Live Streams
+#EXTINF:-1 tvg-name="La Salle Explorers vs Fordham Rams Live Streams" group-title="Live",La Salle Explorers vs Fordham Rams Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46310/load-playlist
+https://red2.wecanfix8.space/playlist/46317/load-playlist
 
-#EXTINF:-1 tvg-name="Louisiana-Monroe Warhawks vs Louisiana Lafayette Ragin Cajuns Live Streams" group-title="Live",Louisiana-Monroe Warhawks vs Louisiana Lafayette Ragin Cajuns Live Streams
+#EXTINF:-1 tvg-name="Georgia Tech Yellow Jackets vs California Golden Bears Live Streams" group-title="Live",Georgia Tech Yellow Jackets vs California Golden Bears Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46309/load-playlist
+https://red2.wecanfix8.space/playlist/46318/load-playlist
+
+#EXTINF:-1 tvg-name="Southern Methodist Mustangs vs Miami Hurricanes Live Streams" group-title="Live",Southern Methodist Mustangs vs Miami Hurricanes Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46319/load-playlist
+
+#EXTINF:-1 tvg-name="Illinois Fighting Illini vs Wisconsin Badgers Live Streams" group-title="Live",Illinois Fighting Illini vs Wisconsin Badgers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46314/load-playlist
+
+#EXTINF:-1 tvg-name="Texas A&amp;M Aggies vs Auburn Tigers Live Streams" group-title="Live",Texas A&amp;M Aggies vs Auburn Tigers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46315/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
