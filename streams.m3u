@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Baltimore Orioles vs Houston Astros Live Streams" group-title="Live",Baltimore Orioles vs Houston Astros Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46285/load-playlist
-
-#EXTINF:-1 tvg-name="Boston Red Sox vs New York Yankees Live Streams" group-title="Live",Boston Red Sox vs New York Yankees Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46286/load-playlist
-
 #EXTINF:-1 tvg-name="Athletics vs Arizona Diamondbacks Live Streams" group-title="Live",Athletics vs Arizona Diamondbacks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -71,12 +59,6 @@ https://red2.wecanfix8.space/playlist/46302/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46308/load-playlist
 
-#EXTINF:-1 tvg-name="California Golden Bears vs Wake Forest Demon Deacons Live Streams" group-title="Live",California Golden Bears vs Wake Forest Demon Deacons Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46299/load-playlist
-
 #EXTINF:-1 tvg-name="Georgia Tech Yellow Jackets vs Florida State Seminoles Live Streams" group-title="Live",Georgia Tech Yellow Jackets vs Florida State Seminoles Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -88,18 +70,6 @@ https://red2.wecanfix8.space/playlist/46311/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46310/load-playlist
-
-#EXTINF:-1 tvg-name="Arkansas Little Rock Trojans vs Southeast Missouri State Redhawks Live Streams" group-title="Live",Arkansas Little Rock Trojans vs Southeast Missouri State Redhawks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46292/load-playlist
-
-#EXTINF:-1 tvg-name="Florida Gators vs Mississippi State Lady Bulldogs Live Streams" group-title="Live",Florida Gators vs Mississippi State Lady Bulldogs Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46298/load-playlist
 
 #EXTINF:-1 tvg-name="Hamburger SV vs Bayer 04 Leverkusen Live Streams" group-title="Live",Hamburger SV vs Bayer 04 Leverkusen Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
