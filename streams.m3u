@@ -35,12 +35,6 @@ https://red2.wecanfix8.space/playlist/46365/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46371/load-playlist
 
-#EXTINF:-1 tvg-name="Cincinnati Reds vs Los Angeles Dodgers Live Streams" group-title="Live",Cincinnati Reds vs Los Angeles Dodgers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46375/load-playlist
-
 #EXTINF:-1 tvg-name="Colorado Rockies vs Milwaukee Brewers Live Streams" group-title="Live",Colorado Rockies vs Milwaukee Brewers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -58,6 +52,12 @@ https://red2.wecanfix8.space/playlist/46374/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46372/load-playlist
+
+#EXTINF:-1 tvg-name="Cincinnati Reds vs Los Angeles Dodgers Live Streams" group-title="Live",Cincinnati Reds vs Los Angeles Dodgers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46375/load-playlist
 
 #EXTINF:-1 tvg-name="Chicago White Sox vs Cleveland Guardians Live Streams" group-title="Live",Chicago White Sox vs Cleveland Guardians Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -100,12 +100,6 @@ https://red2.wecanfix8.space/playlist/46367/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46359/load-playlist
-
-#EXTINF:-1 tvg-name="Texas State Bobcats vs South Alabama Jaguars Live Streams" group-title="Live",Texas State Bobcats vs South Alabama Jaguars Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46355/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
