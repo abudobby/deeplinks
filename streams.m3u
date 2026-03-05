@@ -1,5 +1,45 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Loyola Chicago Ramblers vs St. Bonaventure Bonnies Live Streams" group-title="Live",Loyola Chicago Ramblers vs St. Bonaventure Bonnies Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46348/load-playlist
 
+#EXTINF:-1 tvg-name="Virginia Cavaliers vs Clemson Tigers Live Streams" group-title="Live",Virginia Cavaliers vs Clemson Tigers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46349/load-playlist
+
+#EXTINF:-1 tvg-name="Washington Huskies vs USC Trojans Live Streams" group-title="Live",Washington Huskies vs USC Trojans Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46353/load-playlist
+
+#EXTINF:-1 tvg-name="Georgia Bulldogs vs Kentucky Wildcats Live Streams" group-title="Live",Georgia Bulldogs vs Kentucky Wildcats Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46350/load-playlist
+
+#EXTINF:-1 tvg-name="Tennessee Chattanooga Mocs vs Western Carolina Catamounts Live Streams" group-title="Live",Tennessee Chattanooga Mocs vs Western Carolina Catamounts Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46351/load-playlist
+
+#EXTINF:-1 tvg-name="East Tennessee State Buccaneers vs UNC Greensboro Spartans Live Streams" group-title="Live",East Tennessee State Buccaneers vs UNC Greensboro Spartans Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46359/load-playlist
+
+#EXTINF:-1 tvg-name="Texas State Bobcats vs South Alabama Jaguars Live Streams" group-title="Live",Texas State Bobcats vs South Alabama Jaguars Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/46355/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
