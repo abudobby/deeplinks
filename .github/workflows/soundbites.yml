@@ -1,4 +1,4 @@
-name: Fetch Highlights
+name: Fetch Soundbites
 
 on:
   schedule:
