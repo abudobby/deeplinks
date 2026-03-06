@@ -1,45 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Denver Nuggets vs Los Angeles Lakers Live Streams" group-title="Live",Denver Nuggets vs Los Angeles Lakers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46418/load-playlist
-
-#EXTINF:-1 tvg-name="Sacramento Kings vs New Orleans Pelicans Live Streams" group-title="Live",Sacramento Kings vs New Orleans Pelicans Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46416/load-playlist
-
-#EXTINF:-1 tvg-name="Czechia vs Australia Live Streams" group-title="Live",Czechia vs Australia Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46378/load-playlist
-
 #EXTINF:-1 tvg-name="Chinese Taipei vs Japan Live Streams" group-title="Live",Chinese Taipei vs Japan Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46379/load-playlist
-
-#EXTINF:-1 tvg-name="Denver Nuggets vs Los Angeles Lakers Live Streams" group-title="Live",Denver Nuggets vs Los Angeles Lakers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46418/load-playlist
-
-#EXTINF:-1 tvg-name="Sacramento Kings vs New Orleans Pelicans Live Streams" group-title="Live",Sacramento Kings vs New Orleans Pelicans Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46416/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Kings vs New York Islanders Live Streams" group-title="Live",Los Angeles Kings vs New York Islanders Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46401/load-playlist
 
 #EXTINF:-1 tvg-name="Panama vs Cuba Live Streams" group-title="Live",Panama vs Cuba Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -52,12 +16,6 @@ https://red2.wecanfix8.space/playlist/46380/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46382/load-playlist
-
-#EXTINF:-1 tvg-name="Czechia vs Australia Live Streams" group-title="Live",Czechia vs Australia Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46378/load-playlist
 
 #EXTINF:-1 tvg-name="Chinese Taipei vs Japan Live Streams" group-title="Live",Chinese Taipei vs Japan Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
