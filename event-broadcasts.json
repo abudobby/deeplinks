@@ -1,21 +1,4 @@
 {
-  "740884": {
-    "title": "Crystal Palace at Tottenham Hotspur",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401803326": {
     "title": "Toronto Maple Leafs at New York Rangers",
     "broadcasts": [
@@ -903,20 +886,20 @@
       }
     ]
   },
-  "401829290": {
-    "title": "South Carolina State Bulldogs at North Carolina Central Eagles",
+  "401828732": {
+    "title": "Howard Bison at Norfolk State Spartans",
     "broadcasts": [
       {
-        "id": 145,
-        "name": "ESPN U",
-        "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "isNational": false,
-        "type": "tv",
+        "type": "streaming",
         "searchTokens": [
-          "espn u"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401828732"
       }
     ]
   },
@@ -951,23 +934,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851456"
-      }
-    ]
-  },
-  "401851485": {
-    "title": "Drake Bulldogs at Southern Illinois Salukis",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851485"
       }
     ]
   },
