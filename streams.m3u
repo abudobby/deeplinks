@@ -233,23 +233,11 @@ https://red2.wecanfix8.space/playlist/46421/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46411/load-playlist
 
-#EXTINF:-1 tvg-name="Michigan State Spartans vs Illinois Fighting Illini Live Streams" group-title="Live",Michigan State Spartans vs Illinois Fighting Illini Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46393/load-playlist
-
 #EXTINF:-1 tvg-name="Maryland Terrapins vs Oregon Ducks Live Streams" group-title="Live",Maryland Terrapins vs Oregon Ducks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/46417/load-playlist
-
-#EXTINF:-1 tvg-name="Ole Miss Rebels vs Auburn Tigers Live Streams" group-title="Live",Ole Miss Rebels vs Auburn Tigers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/46392/load-playlist
 
 #EXTINF:-1 tvg-name="Tennessee Lady Volunteers vs Alabama Crimson Tide Live Streams" group-title="Live",Tennessee Lady Volunteers vs Alabama Crimson Tide Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
