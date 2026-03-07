@@ -184,6 +184,14 @@
     "account": "FTFonFS1"
   },
   {
+    "url": "https://video.twimg.com/amplify_video/2029678432846544896/pl/Xz7L0MNvrCJPhf4Z.m3u8",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029678432846544896/img/5aBoZhbMZqnsdBIW.jpg?format=jpg&name=large",
+    "title": "MatCAPS\n\n- Upload your own GLB/GLTFs\n- Extrude SVG's and Text\n- Slap a matcap on it https://t.co/JwtiIoMaCe",
+    "date": "2026-03-05T22:01:48.000Z",
+    "durationMs": 33433,
+    "account": "FTFonFS1"
+  },
+  {
     "url": "https://video.twimg.com/amplify_video/2029603144099844097/pl/QwyerWBIFebSFLTx.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029603144099844097/img/wxGtDI-sbIedtkiu.jpg?format=jpg&name=large",
     "title": "The crew reacts to DJ Moore being traded from Chicago to the Buffalo Bills 👀 https://t.co/gRSj4HhRWQ",
@@ -230,14 +238,6 @@
     "date": "2026-03-05T16:02:40.000Z",
     "durationMs": 38942,
     "account": "FirstTake"
-  },
-  {
-    "url": "https://video.twimg.com/amplify_video/2029586159932731394/pl/8R38e-WBkN1fZnoU.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029586159932731394/img/gxnV7AAttDDPQfhF.jpg?format=jpg&name=large",
-    "title": "Today, I'm excited to announce Ask Galileo! I genuinely believe this is the biggest thing we've shipped in LogRocket's history since our original session replay.\n\nEvery team I talk to runs into the same problem. Someone asks why conversion dropped and suddenly you're spending https://t.co/ND6WVWtxqw",
-    "date": "2026-03-05T15:54:01.000Z",
-    "durationMs": 79600,
-    "account": "FTFonFS1"
   },
   {
     "url": "https://video.twimg.com/amplify_video/2029579153616302080/pl/f_JVXF0BOVrGBdSt.m3u8",
@@ -302,13 +302,5 @@
     "date": "2026-03-03T16:50:24.000Z",
     "durationMs": 79018,
     "account": "FirstTake"
-  },
-  {
-    "url": "https://video.twimg.com/amplify_video/2027302525280669696/pl/6KJWoTJ7HXuNuoyQ.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027302525280669696/img/JiyM30UGwTvCiAda.jpg?format=jpg&name=large",
-    "title": "Finally, a monkey on your feed that’s actually having a good time 😭\n\nAlso, Nano Banana 2 is now in your Envato subscription. Google took their highest-end model and made it fast. The result: sharper output, better reference consistency, and text rendering that holds up in client https://t.co/FvlMMfi3V9",
-    "date": "2026-02-27T08:41:48.000Z",
-    "durationMs": 6041,
-    "account": "FTFonFS1"
   }
 ]
