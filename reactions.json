@@ -232,6 +232,14 @@
     "account": "FirstTake"
   },
   {
+    "url": "https://video.twimg.com/amplify_video/2029586159932731394/pl/8R38e-WBkN1fZnoU.m3u8",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029586159932731394/img/gxnV7AAttDDPQfhF.jpg?format=jpg&name=large",
+    "title": "Today, I'm excited to announce Ask Galileo! I genuinely believe this is the biggest thing we've shipped in LogRocket's history since our original session replay.\n\nEvery team I talk to runs into the same problem. Someone asks why conversion dropped and suddenly you're spending https://t.co/ND6WVWtxqw",
+    "date": "2026-03-05T15:54:01.000Z",
+    "durationMs": 79600,
+    "account": "FTFonFS1"
+  },
+  {
     "url": "https://video.twimg.com/amplify_video/2029579153616302080/pl/f_JVXF0BOVrGBdSt.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029579153616302080/img/NGZMFTlHoL9Vig6Q.jpg?format=jpg&name=large",
     "title": "\"I don't want to hear Mike Brown talk about excuses, or SGA's free throw attempts. ... He only had six free throw attempts. The seventh came off a technical foul from you.\"\n\n—@RealJayWilliams on Mike Brown's postgame comments ✍️ https://t.co/E1gOmz1wmw",
@@ -280,14 +288,6 @@
     "account": "FirstTake"
   },
   {
-    "url": "https://video.twimg.com/amplify_video/2029211855558791168/pl/xo65cgpRf7AB4dK3.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029211855558791168/img/w9flsGpdwusZ4gMm.jpg?format=jpg&name=large",
-    "title": "$OWL - Private credit fear is having a spotlight moment\n\nOur thoughts on the industry, it's exposure, and Blue Owl specifically, in 3-min below https://t.co/gShvQKFoyB",
-    "date": "2026-03-04T15:12:07.000Z",
-    "durationMs": 166833,
-    "account": "FTFonFS1"
-  },
-  {
     "url": "https://video.twimg.com/amplify_video/2028905892297543680/pl/I0mty3Pbkx5lfFy2.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028905892297543680/img/kBOH75RNZRfW3w2h.jpg?format=jpg&name=large",
     "title": "\"I'm considering banning [Seth Rollins] from First Take. How could he do that to my guy, Paul Heyman!?\"\n\n@stephenasmith reacts to @WWERollins stomping out @HeymanHustle on Monday Night Raw 😳 https://t.co/1SIe9EQruE",
@@ -302,5 +302,13 @@
     "date": "2026-03-03T16:50:24.000Z",
     "durationMs": 79018,
     "account": "FirstTake"
+  },
+  {
+    "url": "https://video.twimg.com/amplify_video/2028427520928866304/pl/CZ-WgVRBSgeGjY47.m3u8",
+    "thumbnail": "https://pbs.twimg.com/media/HCZsIPaWQAA5zBy.jpg?format=jpg&name=large",
+    "title": "IOTA is now available on @Bullish digital asset exchange! \n\nThis is a major milestone for IOTA’s global access and for long-term institutional adoption. https://t.co/SKWbpjm0Dk",
+    "date": "2026-03-02T17:00:00.000Z",
+    "durationMs": 6000,
+    "account": "FTFonFS1"
   }
 ]
