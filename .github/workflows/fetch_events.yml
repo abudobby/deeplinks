@@ -19,7 +19,7 @@ jobs:
           node-version: '20'
 
       - name: Run fetch script
-        run: node extracter.js
+        run: node streams.js
 
       - name: Commit updated JSON files
         run: |
