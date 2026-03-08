@@ -128,14 +128,6 @@
     "account": "FirstTake"
   },
   {
-    "url": "https://video.twimg.com/amplify_video/2029916484600758272/pl/UqaaN39DlcMShiSp.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029916484600758272/img/vXR0463URzQJss8K.jpg?format=jpg&name=large",
-    "title": "Meet RIVR TWO, our next-generation robot designed for doorstep delivery and AI data collection at scale. https://t.co/RzBfXW4KlN",
-    "date": "2026-03-06T13:46:47.000Z",
-    "durationMs": 25918,
-    "account": "FTFonFS1"
-  },
-  {
     "url": "https://video.twimg.com/amplify_video/2029734445457231873/pl/T1myRLE2cSNTecdc.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029734445457231873/img/3KxDmbuqx0EIvoU7.jpg?format=jpg&name=large",
     "title": "“If Aaron Rodgers isn’t the quarterback for the Pittsburgh Steelers, they don’t make the playoffs. That’s the difference.”\n\n@willcolon66 says AR fixed a broken system: https://t.co/S4ADh1RWsB",
@@ -256,6 +248,14 @@
     "account": "FirstTake"
   },
   {
+    "url": "https://video.twimg.com/ext_tw_video/2029294092132179968/pu/pl/WpGzKUz9967Fpeeo.m3u8",
+    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2029294092132179968/pu/img/Imnbp2s8_sgsBlvJ.jpg?format=jpg&name=large",
+    "title": "Pulse covers the war with updates and analysis as events unfold. https://t.co/hhdPTiosml",
+    "date": "2026-03-04T20:33:17.000Z",
+    "durationMs": 39200,
+    "account": "FTFonFS1"
+  },
+  {
     "url": "https://video.twimg.com/amplify_video/2029228961608122370/pl/s2zo8HWOSJ7mEu4u.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029228961608122370/img/s9dRZN25Xjb0y_Hc.jpg?format=jpg&name=large",
     "title": "The response you've been waiting for 👀\n\n—@stephenasmith responds to the Pelicans social media video of him ⬇️ https://t.co/YBbSSdr9tX",
@@ -312,11 +312,11 @@
     "account": "FirstTake"
   },
   {
-    "url": "https://video.twimg.com/ext_tw_video/2025971432409206784/pu/pl/zUAuTMjUDLUMQxNB.m3u8",
-    "thumbnail": "https://pbs.twimg.com/ext_tw_video_thumb/2025971432409206784/pu/img/nKgVMCsjpBZXhbzA.jpg?format=jpg&name=large",
-    "title": "Not just a vote: Trump's movement gives you the deal room - Charlie Kirk https://t.co/0zleCwLsPw",
-    "date": "2026-02-23T16:30:29.000Z",
-    "durationMs": 52384,
+    "url": "https://video.twimg.com/amplify_video/2028353392192749568/pl/_-LckQdEjjtUBRBP.m3u8",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2028353392192749568/img/JUPl-DVuDCFn5lCo.jpg?format=jpg&name=large",
+    "title": "Times change. Privacy doesn't. https://t.co/VzqSoul51m",
+    "date": "2026-03-02T06:15:27.000Z",
+    "durationMs": 29033,
     "account": "FTFonFS1"
   }
 ]
