@@ -192,14 +192,6 @@
     "account": "FTFonFS1"
   },
   {
-    "url": "https://video.twimg.com/amplify_video/2029635153337929730/pl/rP5In6wtlslBAR27.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029635153337929730/img/5QBUGsl6Gz70qi6g.jpg?format=jpg&name=large",
-    "title": "Introducing Annotations. Out now in Reve.\n\nAdd instructions or draw right on your image to make changes. https://t.co/kFCkhF2CJK",
-    "date": "2026-03-05T19:17:31.000Z",
-    "durationMs": 30947,
-    "account": "FTFonFS1"
-  },
-  {
     "url": "https://video.twimg.com/amplify_video/2029603144099844097/pl/QwyerWBIFebSFLTx.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029603144099844097/img/wxGtDI-sbIedtkiu.jpg?format=jpg&name=large",
     "title": "The crew reacts to DJ Moore being traded from Chicago to the Buffalo Bills 👀 https://t.co/gRSj4HhRWQ",
@@ -310,5 +302,13 @@
     "date": "2026-03-03T16:50:24.000Z",
     "durationMs": 79018,
     "account": "FirstTake"
+  },
+  {
+    "url": "https://video.twimg.com/amplify_video/2024663663089430528/pl/S1SkzWNhUWuOO-AF.m3u8",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024663663089430528/img/wngweCGwy1VATDu1.jpg?format=jpg&name=large",
+    "title": "Thank you for the shoutout @GovPressOffice and congrats on being in the lead for Dem nominee on Kalshi.\n\nUnlike some competitors, Kalshi is federally regulated:\n\n1. It would be illegal for you to trade on this (that would be market manipulation).\n\n2. You would be immediately https://t.co/5m1TfdgHYa",
+    "date": "2026-02-20T01:53:45.000Z",
+    "durationMs": 38303,
+    "account": "FTFonFS1"
   }
 ]
