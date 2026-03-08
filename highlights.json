@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Arizona Wildcats vs. Colorado Buffaloes | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/yvpBcCrwrUw",
+      "thumbnail": "https://i.ytimg.com/vi/yvpBcCrwrUw/maxresdefault.jpg"
+    },
+    {
       "title": "Texas Tech Red Raiders vs. BYU Cougars | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/X1D2ITFjzTg",
       "thumbnail": "https://i.ytimg.com/vi/X1D2ITFjzTg/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Arkansas Razorbacks vs. Florida Gators | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/-2CNM8xf71k",
       "thumbnail": "https://i.ytimg.com/vi/-2CNM8xf71k/maxresdefault.jpg"
-    },
-    {
-      "title": "Virginia Tech Hokies vs. North Carolina Tar Heels | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/VuulEgaOE9E",
-      "thumbnail": "https://i.ytimg.com/vi/VuulEgaOE9E/maxresdefault.jpg"
     }
   ]
 }
