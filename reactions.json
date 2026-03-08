@@ -80,14 +80,6 @@
     "account": "FTFonFS1"
   },
   {
-    "url": "https://video.twimg.com/amplify_video/2029576022262251520/pl/a4_SZjTDkl9z43ts.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029576022262251520/img/YneKxDsewQNR15cq.jpg?format=jpg&name=large",
-    "title": "The momentum is building.\n\nWatch this reel from our first Analyst Day. Xanadu is going public through ($CHAC), whose shares are trading on NASDAQ. https://t.co/IZAHvkjsla",
-    "date": "2026-03-06T20:29:50.000Z",
-    "durationMs": 37000,
-    "account": "FTFonFS1"
-  },
-  {
     "url": "https://video.twimg.com/amplify_video/2029980459552092160/pl/j8lOxl24f7G5VC7p.m3u8",
     "thumbnail": "https://pbs.twimg.com/media/HCvwihQW4AES7X6.jpg?format=jpg&name=large",
     "title": "298 days ago, Jayson Tatum tore his Achilles. Tonight he takes the court for the first time this season 💪\n\n@ChrisCanty99 shares his thoughts ahead of Tatum's return against the Dallas Mavericks ✍️ https://t.co/RzoaTQiPPo",
@@ -310,5 +302,21 @@
     "date": "2026-03-03T16:50:24.000Z",
     "durationMs": 79018,
     "account": "FirstTake"
+  },
+  {
+    "url": "https://video.twimg.com/amplify_video/2028427520928866304/pl/CZ-WgVRBSgeGjY47.m3u8",
+    "thumbnail": "https://pbs.twimg.com/media/HCZsIPaWQAA5zBy.jpg?format=jpg&name=large",
+    "title": "IOTA is now available on @Bullish digital asset exchange! \n\nThis is a major milestone for IOTA’s global access and for long-term institutional adoption. https://t.co/SKWbpjm0Dk",
+    "date": "2026-03-02T17:00:00.000Z",
+    "durationMs": 6000,
+    "account": "FTFonFS1"
+  },
+  {
+    "url": "https://video.twimg.com/amplify_video/2024663663089430528/pl/S1SkzWNhUWuOO-AF.m3u8",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2024663663089430528/img/wngweCGwy1VATDu1.jpg?format=jpg&name=large",
+    "title": "Thank you for the shoutout @GovPressOffice and congrats on being in the lead for Dem nominee on Kalshi.\n\nUnlike some competitors, Kalshi is federally regulated:\n\n1. It would be illegal for you to trade on this (that would be market manipulation).\n\n2. You would be immediately https://t.co/5m1TfdgHYa",
+    "date": "2026-02-20T01:53:45.000Z",
+    "durationMs": 38303,
+    "account": "FTFonFS1"
   }
 ]
