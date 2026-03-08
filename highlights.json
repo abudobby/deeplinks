@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Texas Tech Red Raiders vs. BYU Cougars | Full Game Highlights | ESPN College Basketball",
+      "url": "youtube://watch/X1D2ITFjzTg",
+      "thumbnail": "https://i.ytimg.com/vi/X1D2ITFjzTg/maxresdefault.jpg"
+    },
+    {
       "title": "UNC Tar Heels vs. Duke Blue Devils | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/oaZ5f0UZcB4",
       "thumbnail": "https://i.ytimg.com/vi/oaZ5f0UZcB4/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Virginia Tech Hokies vs. North Carolina Tar Heels | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/VuulEgaOE9E",
       "thumbnail": "https://i.ytimg.com/vi/VuulEgaOE9E/maxresdefault.jpg"
-    },
-    {
-      "title": "Alabama Crimson Tide vs. Tennessee Volunteers | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/1i4lcfAcTl8",
-      "thumbnail": "https://i.ytimg.com/vi/1i4lcfAcTl8/maxresdefault.jpg"
     }
   ]
 }
