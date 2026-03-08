@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="571" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Islanders @ San Jose Sharks (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] New York Islanders @ San Jose Sharks (TVAPP)
-#EXTVLCOPT:http-referrer=https://thetvapp.to
-#EXTVLCOPT:http-origin=https://thetvapp.to
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-http://origin.thetvapp.to/hls/NHL13/mono.m3u8
-
-#EXTINF:-1 tvg-chno="572" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Islanders @ San Jose Sharks (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] New York Islanders @ San Jose Sharks (VOLOKIT)
+#EXTINF:-1 tvg-chno="656" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] New York Islanders @ San Jose Sharks (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] New York Islanders @ San Jose Sharks (VOLOKIT)
 #EXTVLCOPT:http-referrer=http://volokit.xyz/lives/new-york-islanders-at-san-jose-sharks-home/
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/new-york-islanders-at-san-jose-sharks-home/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://watcharena.xyz/hls/103.m3u8
+
+#EXTINF:-1 tvg-chno="729" tvg-id="Live.Event.us" tvg-name="[Serie A2] Sebastiani Rieti vs Roseto Sharks (WATCHFTY)" tvg-logo="https://api.watchfooty.pw/api/v1/poster/4598222" group-title="Live Events",[Serie A2] Sebastiani Rieti vs Roseto Sharks (WATCHFTY)
+#EXTVLCOPT:http-referrer=https://pikachusports.top/embed/4598222/sebastiani-rieti-roseto-sharks/elite/1
+#EXTVLCOPT:http-origin=https://pikachusports.top/embed/4598222/sebastiani-rieti-roseto-sharks/elite/1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://king.pikachu-on.top/playlist/elite/sebastiani-rieti-roseto-sharks/1/4598222/playlist.m3u8?hash=e23d3b8284171d0d5026e022b402d7ee
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
 http://fl31.moveonjoy.com/ACC_NETWORK/index.m3u8
