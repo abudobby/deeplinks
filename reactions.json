@@ -128,14 +128,6 @@
     "account": "FirstTake"
   },
   {
-    "url": "https://video.twimg.com/amplify_video/2029916484600758272/pl/UqaaN39DlcMShiSp.m3u8",
-    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029916484600758272/img/vXR0463URzQJss8K.jpg?format=jpg&name=large",
-    "title": "Meet RIVR TWO, our next-generation robot designed for doorstep delivery and AI data collection at scale. https://t.co/RzBfXW4KlN",
-    "date": "2026-03-06T13:46:47.000Z",
-    "durationMs": 25918,
-    "account": "FTFonFS1"
-  },
-  {
     "url": "https://video.twimg.com/amplify_video/2029734445457231873/pl/T1myRLE2cSNTecdc.m3u8",
     "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2029734445457231873/img/3KxDmbuqx0EIvoU7.jpg?format=jpg&name=large",
     "title": "“If Aaron Rodgers isn’t the quarterback for the Pittsburgh Steelers, they don’t make the playoffs. That’s the difference.”\n\n@willcolon66 says AR fixed a broken system: https://t.co/S4ADh1RWsB",
@@ -310,5 +302,13 @@
     "date": "2026-03-03T16:50:24.000Z",
     "durationMs": 79018,
     "account": "FirstTake"
+  },
+  {
+    "url": "https://video.twimg.com/amplify_video/2027302830198198272/pl/pkK5-dEtFKfR4h77.m3u8",
+    "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2027302830198198272/img/zHKOjasI3Is7G5E9.jpg?format=jpg&name=large",
+    "title": "🚨WATCH: $DRTS CEO after the stock surges on the Japanese approval news: We’re not looking to raise capital, we’re finishing FDA Phase 3 trial this quarter, Pancreas trial in H1 this year, GBM trial also this year, starting new trials and are forming strategic partnerships. https://t.co/m0znxxkz9c",
+    "date": "2026-02-27T08:41:03.000Z",
+    "durationMs": 72533,
+    "account": "FTFonFS1"
   }
 ]
