@@ -345,6 +345,28 @@
       }
     ]
   },
+  "401851593": {
+    "title": "Furman Paladins at East Tennessee State Buccaneers",
+    "broadcasts": [
+      {
+        "id": 126,
+        "name": "ESPN",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn"
+        ],
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
+          "espn+"
+        ],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      }
+    ]
+  },
   "401851607": {
     "title": "New Orleans Privateers at Texas A&M-Corpus Christi Islanders",
     "broadcasts": [
@@ -376,6 +398,23 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851608"
+      }
+    ]
+  },
+  "401851706": {
+    "title": "Georgia Southern Eagles at Troy Trojans",
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
       }
     ]
   },
@@ -413,23 +452,6 @@
       }
     ]
   },
-  "401851757": {
-    "title": "Pacific Tigers at Santa Clara Broncos",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
   "401851759": {
     "title": "Oregon State Beavers at Gonzaga Bulldogs",
     "broadcasts": [
@@ -453,7 +475,7 @@
     ]
   },
   "401851760": {
-    "title": "TBD at Saint Mary's Gaels",
+    "title": "Santa Clara Broncos at Saint Mary's Gaels",
     "broadcasts": [
       {
         "id": 139,
