@@ -418,23 +418,6 @@
       }
     ]
   },
-  "401851714": {
-    "title": "Alcorn State Braves at Alabama State Hornets",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851714"
-      }
-    ]
-  },
   "401851715": {
     "title": "Mississippi Valley State Delta Devils at Grambling Tigers",
     "broadcasts": [
@@ -491,23 +474,6 @@
       }
     ]
   },
-  "401856431": {
-    "title": "Campbell Fighting Camels at Monmouth Hawks",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401856432": {
     "title": "Towson Tigers at Hofstra Pride",
     "broadcasts": [
@@ -522,23 +488,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401857755": {
-    "title": "Los Angeles Kings at Columbus Blue Jackets",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401857755"
       }
     ]
   }
