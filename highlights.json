@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Oregon State Beavers vs. Gonzaga Bulldogs | WCC MBB Tournament Highlights | ESPN College Basketball",
+      "url": "youtube://watch/hVIf-s4RhaA",
+      "thumbnail": "https://i.ytimg.com/vi/hVIf-s4RhaA/maxresdefault.jpg"
+    },
+    {
       "title": "Arizona Wildcats vs. Colorado Buffaloes | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/yvpBcCrwrUw",
       "thumbnail": "https://i.ytimg.com/vi/yvpBcCrwrUw/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Duke Blue Devils vs. NC State Wolfpack | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/qKJA18VsFew",
       "thumbnail": "https://i.ytimg.com/vi/qKJA18VsFew/maxresdefault.jpg"
-    },
-    {
-      "title": "Arkansas Razorbacks vs. Florida Gators | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/-2CNM8xf71k",
-      "thumbnail": "https://i.ytimg.com/vi/-2CNM8xf71k/maxresdefault.jpg"
     }
   ]
 }
