@@ -683,23 +683,6 @@
       }
     ]
   },
-  "401851170": {
-    "title": "Pittsburgh Panthers at Stanford Cardinal",
-    "broadcasts": [
-      {
-        "id": 20,
-        "name": "AAC Network",
-        "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "aac network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851171": {
     "title": "Syracuse Orange at SMU Mustangs",
     "broadcasts": [
@@ -765,23 +748,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851204"
-      }
-    ]
-  },
-  "401851282": {
-    "title": "Baylor Bears at Arizona State Sun Devils",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851282"
       }
     ]
   },
@@ -1024,23 +990,6 @@
       }
     ]
   },
-  "401851716": {
-    "title": "Alcorn State Braves at Prairie View A&M Panthers",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851716"
-      }
-    ]
-  },
   "401851717": {
     "title": "Grambling Tigers at Jackson State Tigers",
     "broadcasts": [
@@ -1151,21 +1100,6 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/efc4ba3f-2b35-4f79-9dc1-627ffc96b7a3"
-      }
-    ]
-  },
-  "401862667": {
-    "title": "Liverpool at Galatasaray",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/0471db03-3a77-433f-baa2-9dfa7b5db8fd"
       }
     ]
   }
