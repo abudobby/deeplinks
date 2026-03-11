@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "SMU Mustangs vs. Louisville Cardinals | ACC MBB Tournament Highlights | ESPN College Basketball",
+      "url": "youtube://watch/FfGx_nBRYww",
+      "thumbnail": "https://i.ytimg.com/vi/FfGx_nBRYww/maxresdefault.jpg"
+    },
+    {
       "title": "Santa Clara Broncos vs. Gonzaga Bulldogs | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/nrApHXL3Juc",
       "thumbnail": "https://i.ytimg.com/vi/nrApHXL3Juc/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Mississippi State Bulldogs vs. Florida Gators | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/TJN--lmVb4g",
       "thumbnail": "https://i.ytimg.com/vi/TJN--lmVb4g/maxresdefault.jpg"
-    },
-    {
-      "title": "Clemson Tigers vs. North Carolina Tar Heels | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/HlVqDqpxpWU",
-      "thumbnail": "https://i.ytimg.com/vi/HlVqDqpxpWU/maxresdefault.jpg"
     }
   ]
 }
