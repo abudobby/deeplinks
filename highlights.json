@@ -78,6 +78,11 @@
   ],
   "mens-college-basketball": [
     {
+      "title": "Kansas State Wildcats vs. BYU Cougars | Big 12 MBB Tournament Highlights | ESPN College Basketball",
+      "url": "youtube://watch/b0nirb3ycac",
+      "thumbnail": "https://i.ytimg.com/vi/b0nirb3ycac/maxresdefault.jpg"
+    },
+    {
       "title": "Syracuse Orange vs. SMU Mustangs | ACC MBB Tournament Highlights | ESPN College Basketball",
       "url": "youtube://watch/aa5lFbhOonw",
       "thumbnail": "https://i.ytimg.com/vi/aa5lFbhOonw/maxresdefault.jpg"
@@ -146,11 +151,6 @@
       "title": "Alabama Crimson Tide vs. Georgia Bulldogs | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/6jIuheuBNFI",
       "thumbnail": "https://i.ytimg.com/vi/6jIuheuBNFI/maxresdefault.jpg"
-    },
-    {
-      "title": "Iowa State Cyclones vs. Arizona Wildcats | Full Game Highlights | ESPN College Basketball",
-      "url": "youtube://watch/65Z8OGJ6D4c",
-      "thumbnail": "https://i.ytimg.com/vi/65Z8OGJ6D4c/maxresdefault.jpg"
     }
   ]
 }
