@@ -575,7 +575,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22268a3f38-797d-339e-9a40-482c6092c725%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%229ded74de-1ea3-3a09-9893-5205463aa173%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -895,7 +895,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/9d4d829a-d296-429f-9527-31b5af919ef1"
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-europa-league/c144b9d8-1877-48d2-a5e6-c404fa5ef3e0"
       }
     ]
   },
