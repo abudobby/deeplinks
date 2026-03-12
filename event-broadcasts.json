@@ -301,45 +301,6 @@
       }
     ]
   },
-  "401851173": {
-    "title": "Pittsburgh Panthers at NC State Wolfpack",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
-  "401851174": {
-    "title": "SMU Mustangs at Louisville Cardinals",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
   "401851175": {
     "title": "California Golden Bears at Florida State Seminoles",
     "broadcasts": [
@@ -395,79 +356,6 @@
       }
     ]
   },
-  "401851258": {
-    "title": "St. Bonaventure Bonnies at La Salle Explorers",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851260": {
-    "title": "Loyola Chicago Ramblers at Richmond Spiders",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851289": {
-    "title": "Arizona State Sun Devils at Iowa State Cyclones",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
-  "401851291": {
-    "title": "Cincinnati Bearcats at UCF Knights",
-    "broadcasts": [
-      {
-        "id": 145,
-        "name": "ESPN U",
-        "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "espn u"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851293": {
     "title": "BYU Cougars at West Virginia Mountaineers",
     "broadcasts": [
@@ -499,21 +387,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401851308": {
-    "title": "Providence Friars at Butler Bulldogs",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22579db5e4-f379-3cd4-8bd3-1524900cf449%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -561,36 +434,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
-  "401851365": {
-    "title": "Maryland Terrapins at Iowa Hawkeyes",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%229ded74de-1ea3-3a09-9893-5205463aa173%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "401851367": {
-    "title": "USC Trojans at Washington Huskies",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22579db5e4-f379-3cd4-8bd3-1524900cf449%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -715,14 +558,6 @@
       }
     ]
   },
-  "401851495": {
-    "title": "Wyoming Cowboys at UNLV Rebels",
-    "broadcasts": []
-  },
-  "401851496": {
-    "title": "Air Force Falcons at Nevada Wolf Pack",
-    "broadcasts": []
-  },
   "401851497": {
     "title": "Fresno State Bulldogs at Colorado State Rams",
     "broadcasts": []
@@ -742,40 +577,6 @@
         "type": "tv",
         "searchTokens": [
           "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851557": {
-    "title": "LSU Tigers at Kentucky Wildcats",
-    "broadcasts": [
-      {
-        "id": 459,
-        "name": "SEC Network",
-        "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sec network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851558": {
-    "title": "Mississippi State Bulldogs at Auburn Tigers",
-    "broadcasts": [
-      {
-        "id": 459,
-        "name": "SEC Network",
-        "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sec network"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -816,40 +617,6 @@
       }
     ]
   },
-  "401851614": {
-    "title": "McNeese Cowboys at Stephen F. Austin Lumberjacks",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
-  "401851718": {
-    "title": "Prairie View A&M Panthers at Bethune-Cookman Wildcats",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851718"
-      }
-    ]
-  },
   "401851721": {
     "title": "Jackson State Tigers at Florida A&M Rattlers",
     "broadcasts": [
@@ -881,78 +648,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851733"
-      }
-    ]
-  },
-  "401862578": {
-    "title": "Arsenal at Bayer Leverkusen",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-europa-league/c144b9d8-1877-48d2-a5e6-c404fa5ef3e0"
-      }
-    ]
-  },
-  "401862583": {
-    "title": "Sporting CP at Bodo/Glimt",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/c278196f-36f1-4605-8a60-38a68da7203a"
-      }
-    ]
-  },
-  "401862645": {
-    "title": "Manchester City at Real Madrid",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/632c6b69-88f5-4d6c-b72c-6378e864a37c"
-      }
-    ]
-  },
-  "401862646": {
-    "title": "Chelsea at Paris Saint-Germain",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/b985cc48-b21c-4a26-9309-e6b3fb792839"
       }
     ]
   }
