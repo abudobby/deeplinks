@@ -310,47 +310,6 @@
       }
     ]
   },
-  "401810807": {
-    "title": "Minnesota Timberwolves at LA Clippers",
-    "broadcasts": [
-      {
-        "id": 834,
-        "name": "FanDuel Sports Network North",
-        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "fanduel",
-          "north"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 838,
-        "name": "FanDuel Sports Network SoCal",
-        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "fanduel",
-          "socal"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500952"
-      }
-    ]
-  },
   "401810808": {
     "title": "Philadelphia 76ers at Detroit Pistons",
     "broadcasts": [
@@ -1037,23 +996,6 @@
       }
     ]
   },
-  "401851336": {
-    "title": "Idaho Vandals at Montana Grizzlies",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
   "401851375": {
     "title": "Iowa Hawkeyes at Ohio State Buckeyes",
     "broadcasts": [
@@ -1126,23 +1068,6 @@
       }
     ]
   },
-  "401851392": {
-    "title": "UC Santa Barbara Gauchos at UC Davis Aggies",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851392"
-      }
-    ]
-  },
   "401851393": {
     "title": "UC San Diego Tritons at Cal State Northridge Matadors",
     "broadcasts": [
@@ -1161,7 +1086,7 @@
     ]
   },
   "401851394": {
-    "title": "TBD at Cal State Fullerton Titans",
+    "title": "UC Davis Aggies at Cal State Fullerton Titans",
     "broadcasts": [
       {
         "id": 755,
@@ -1245,10 +1170,6 @@
       }
     ]
   },
-  "401851498": {
-    "title": "San José State Spartans at Boise State Broncos",
-    "broadcasts": []
-  },
   "401851499": {
     "title": "UNLV Rebels at Utah State Aggies",
     "broadcasts": [
@@ -1301,7 +1222,7 @@
     ]
   },
   "401851502": {
-    "title": "TBD at New Mexico Lobos",
+    "title": "San José State Spartans at New Mexico Lobos",
     "broadcasts": [
       {
         "id": 61,
