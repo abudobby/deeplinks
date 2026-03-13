@@ -1,38 +1,4 @@
 {
-  "401803389": {
-    "title": "Nashville Predators at Vancouver Canucks",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803389"
-      }
-    ]
-  },
-  "401803390": {
-    "title": "Pittsburgh Penguins at Vegas Golden Knights",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803390"
-      }
-    ]
-  },
   "401803392": {
     "title": "Los Angeles Kings at New York Islanders",
     "broadcasts": [
@@ -64,45 +30,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803393"
-      }
-    ]
-  },
-  "401810815": {
-    "title": "Chicago Bulls at Los Angeles Lakers",
-    "broadcasts": [
-      {
-        "id": 1172,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500960"
-      },
-      {
-        "id": 912,
-        "name": "Spectrum SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "spectrum sportsnet"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
@@ -427,6 +354,40 @@
       }
     ]
   },
+  "401851181": {
+    "title": "Miami Hurricanes at Virginia Cavaliers",
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
+      }
+    ]
+  },
+  "401851182": {
+    "title": "Clemson Tigers at Duke Blue Devils",
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
+      }
+    ]
+  },
   "401851225": {
     "title": "Charlotte 49ers at UAB Blazers",
     "broadcasts": [
@@ -515,6 +476,50 @@
   "401851274": {
     "title": "Davidson Wildcats at Saint Joseph's Hawks",
     "broadcasts": []
+  },
+  "401851304": {
+    "title": "Iowa State Cyclones at Arizona Wildcats",
+    "broadcasts": [
+      {
+        "id": 126,
+        "name": "ESPN",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn"
+        ],
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
+          "espn+"
+        ],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      }
+    ]
+  },
+  "401851305": {
+    "title": "Kansas Jayhawks at Houston Cougars",
+    "broadcasts": [
+      {
+        "id": 126,
+        "name": "ESPN",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn"
+        ],
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
+          "espn+"
+        ],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      }
+    ]
   },
   "401851315": {
     "title": "Seton Hall Pirates at St. John's Red Storm",
@@ -623,23 +628,6 @@
       }
     ]
   },
-  "401851394": {
-    "title": "UC Davis Aggies at Cal State Fullerton Titans",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851394"
-      }
-    ]
-  },
   "401851395": {
     "title": "Cal State Northridge Matadors at UC Irvine Anteaters",
     "broadcasts": [
@@ -658,7 +646,7 @@
     ]
   },
   "401851397": {
-    "title": "TBD at Hawai'i Rainbow Warriors",
+    "title": "Cal State Fullerton Titans at Hawai'i Rainbow Warriors",
     "broadcasts": [
       {
         "id": 139,
@@ -742,23 +730,6 @@
       }
     ]
   },
-  "401851502": {
-    "title": "San José State Spartans at New Mexico Lobos",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851503": {
     "title": "Nevada Wolf Pack at Utah State Aggies",
     "broadcasts": [
@@ -777,7 +748,7 @@
     ]
   },
   "401851504": {
-    "title": "TBD at San Diego State Aztecs",
+    "title": "New Mexico Lobos at San Diego State Aztecs",
     "broadcasts": [
       {
         "id": 61,
@@ -905,23 +876,6 @@
       }
     ]
   },
-  "401851735": {
-    "title": "Abilene Christian Wildcats at Utah Tech Trailblazers",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851735"
-      }
-    ]
-  },
   "401851736": {
     "title": "UT Arlington Mavericks at Utah Valley Wolverines",
     "broadcasts": [
@@ -940,7 +894,7 @@
     ]
   },
   "401851738": {
-    "title": "TBD at California Baptist Lancers",
+    "title": "Utah Tech Trailblazers at California Baptist Lancers",
     "broadcasts": [
       {
         "id": 755,
