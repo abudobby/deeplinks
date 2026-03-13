@@ -1,6 +1,11 @@
 {
   "nba": [
     {
+      "title": "NUGGETS at SPURS | FULL GAME HIGHLIGHTS | March 12, 2026",
+      "url": "youtube://watch/BWMDP8vAVGs",
+      "thumbnail": "https://i.ytimg.com/vi/BWMDP8vAVGs/maxresdefault.jpg"
+    },
+    {
       "title": "NETS at HAWKS | FULL GAME HIGHLIGHTS | March 12, 2026",
       "url": "youtube://watch/SKbcFICgM8M",
       "thumbnail": "https://i.ytimg.com/vi/SKbcFICgM8M/maxresdefault.jpg"
@@ -69,16 +74,11 @@
       "title": "BULLS at WARRIORS | FULL GAME HIGHLIGHTS | March 10, 2026",
       "url": "youtube://watch/xwOH8QECzYA",
       "thumbnail": "https://i.ytimg.com/vi/xwOH8QECzYA/maxresdefault.jpg"
-    },
-    {
-      "title": "HORNETS at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | March 10, 2026",
-      "url": "youtube://watch/1G1vR7s_zbI",
-      "thumbnail": "https://i.ytimg.com/vi/1G1vR7s_zbI/maxresdefault.jpg"
     }
   ],
   "mens-college-basketball": [
     {
-      "title": "Florida State Seminoles vs. Duke Blue Devils | ACC Tournament Highlights | ESPN College Basketball",
+      "title": "Quarterfinals: FSU Seminoles vs. Duke Blue Devils | ACC Tournament Highlights | ESPN CBB",
       "url": "youtube://watch/yvcGGiR2O0M",
       "thumbnail": "https://i.ytimg.com/vi/yvcGGiR2O0M/maxresdefault.jpg"
     },
@@ -128,7 +128,7 @@
       "thumbnail": "https://i.ytimg.com/vi/wynUG2iwbBg/maxresdefault.jpg"
     },
     {
-      "title": "Mississippi State Bulldogs vs. Auburn Tigers | Full Game Highlights | ESPN College Basketball",
+      "title": "Mississippi State Bulldogs vs. Auburn Tigers | SEC Tournament Highlights | ESPN College Basketball",
       "url": "youtube://watch/HI_N27h5TXs",
       "thumbnail": "https://i.ytimg.com/vi/HI_N27h5TXs/maxresdefault.jpg"
     },
