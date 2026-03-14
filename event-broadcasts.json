@@ -366,61 +366,6 @@
       }
     ]
   },
-  "401810821": {
-    "title": "Minnesota Timberwolves at Golden State Warriors",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 763,
-        "name": "Prime Video",
-        "logoUrl": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w480-h960",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.a5cf8572-3952-44f1-b3bb-b2e6d004d582"
-      }
-    ]
-  },
-  "401810823": {
-    "title": "Chicago Bulls at LA Clippers",
-    "broadcasts": [
-      {
-        "id": 838,
-        "name": "FanDuel Sports Network SoCal",
-        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "fanduel",
-          "socal"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500968"
-      }
-    ]
-  },
   "401810824": {
     "title": "Brooklyn Nets at Philadelphia 76ers",
     "broadcasts": [
@@ -855,25 +800,8 @@
       }
     ]
   },
-  "401851397": {
-    "title": "Cal State Fullerton Titans at Hawai'i Rainbow Warriors",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
   "401851398": {
-    "title": "TBD at UC Irvine Anteaters",
+    "title": "Hawai'i Rainbow Warriors at UC Irvine Anteaters",
     "broadcasts": [
       {
         "id": 139,
@@ -944,25 +872,8 @@
       }
     ]
   },
-  "401851504": {
-    "title": "New Mexico Lobos at San Diego State Aztecs",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851505": {
-    "title": "TBD at Utah State Aggies",
+    "title": "San Diego State Aztecs at Utah State Aggies",
     "broadcasts": [
       {
         "id": 44,
@@ -1039,25 +950,8 @@
       }
     ]
   },
-  "401851738": {
-    "title": "Utah Tech Trailblazers at California Baptist Lancers",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851738"
-      }
-    ]
-  },
   "401851739": {
-    "title": "TBD at Utah Valley Wolverines",
+    "title": "California Baptist Lancers at Utah Valley Wolverines",
     "broadcasts": [
       {
         "id": 139,
