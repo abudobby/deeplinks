@@ -1,35 +1,77 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="460" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Charlotte Hornets vs San Antonio Spurs (SHARK)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Charlotte Hornets vs San Antonio Spurs (SHARK)
-#EXTVLCOPT:http-referrer=https://sharkstreams.net
-#EXTVLCOPT:http-origin=https://sharkstreams.net
+#EXTINF:-1 tvg-chno="289" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Hockey] San Jose Sharks at Montreal Canadiens (STRMCNTR)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[Hockey] San Jose Sharks at Montreal Canadiens (STRMCNTR)
+#EXTVLCOPT:http-referrer=https://streamcenter.xyz
+#EXTVLCOPT:http-origin=https://streamcenter.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://cdn7.tyfiles.cfd/live/cdn7/chunks.m3u8
+https://edge2caster.pro/hls/sdezqfza55.m3u8
 
-#EXTINF:-1 tvg-chno="480" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards vs Boston Celtics (SHARK)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Washington Wizards vs Boston Celtics (SHARK)
+#EXTINF:-1 tvg-chno="296" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[Ice Hockey] San Jose Sharks vs. Montreal Canadiens (PPV)" tvg-logo="https://api.ppv.sh/assets/thumb/115e2da46b7e4e770a192ec035021640-thumbnail.jpg" group-title="Live Events",[Ice Hockey] San Jose Sharks vs. Montreal Canadiens (PPV)
+#EXTVLCOPT:http-referrer=https://pooembed.eu/embed/nhl/2026-03-14/sj-mtl
+#EXTVLCOPT:http-origin=https://pooembed.eu/embed/nhl/2026-03-14/sj-mtl
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://lb2.modifiles.fans/secure/HUFWzYXVBLpRLdAfoZaZyznEqcujraRI/1773518400/1773547200/montrealcanadiens/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-chno="460" tvg-id="NBA.Basketball.Dummy.us" tvg-name="[NBA] Washington Wizards vs Boston Celtics (SHARK)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nba.png" group-title="Live Events",[NBA] Washington Wizards vs Boston Celtics (SHARK)
 #EXTVLCOPT:http-referrer=https://sharkstreams.net
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 https://cdn8.tyfiles.cfd/live/cdn8/chunks.m3u8
 
-#EXTINF:-1 tvg-chno="540" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks @ Montreal Canadiens (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks @ Montreal Canadiens (VOLOKIT)
+#EXTINF:-1 tvg-chno="475" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Montreal Canadiens vs San Jose Sharks 1 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Montreal Canadiens vs San Jose Sharks 1 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+http://195.178.110.2/hls/FVVVQ.m3u8
+
+#EXTINF:-1 tvg-chno="476" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL Hockey] Montreal Canadiens vs San Jose Sharks 2 (FAWA)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL Hockey] Montreal Canadiens vs San Jose Sharks 2 (FAWA)
+#EXTVLCOPT:http-referrer=http://www.fawanews.sc/
+#EXTVLCOPT:http-origin=http://www.fawanews.sc/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://live.kinescopecdn.net/on-air/5bf2c07e-3604-42cf-959a-67ed8914ffd5/7942c479-807d-4dcd-8bf1-1b392294bce4/master.m3u8
+
+#EXTINF:-1 tvg-chno="523" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Montreal Canadiens - San Jose Sharks (EMBEDHD)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Montreal Canadiens - San Jose Sharks (EMBEDHD)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://n10.sanwalyaarpya.com:1686/hls/mmontrealcanadiens.m3u8?md5=gTiNiSvo_kFj4R_hQZ7HBQ&expires=1773534628
+
+#EXTINF:-1 tvg-chno="535" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks @ Montreal Canadiens (VOLOKIT)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks @ Montreal Canadiens (VOLOKIT)
 #EXTVLCOPT:http-referrer=http://volokit.xyz/lives/san-jose-sharks-at-montreal-canadiens-home/
 #EXTVLCOPT:http-origin=http://volokit.xyz/lives/san-jose-sharks-at-montreal-canadiens-home/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://watcharena.xyz/hls/87.m3u8
 
-#EXTINF:-1 tvg-chno="541" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks @ Montréal Canadiens (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks @ Montréal Canadiens (TVAPP)
+#EXTINF:-1 tvg-chno="536" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks @ Montréal Canadiens (TVAPP)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks @ Montréal Canadiens (TVAPP)
 #EXTVLCOPT:http-referrer=https://thetvapp.to
 #EXTVLCOPT:http-origin=https://thetvapp.to
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
 http://origin.thetvapp.to/hls/NHL14/mono.m3u8
 
-#EXTINF:-1 tvg-chno="544" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Sharks vs Canadiens (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Sharks vs Canadiens (WEBCAST)
+#EXTINF:-1 tvg-chno="537" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks vs Montreal Canadiens (ROXIE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks vs Montreal Canadiens (ROXIE)
+#EXTVLCOPT:http-referrer=https://roxiestreams.info
+#EXTVLCOPT:http-origin=https://roxiestreams.info
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://602.xn--1000-ugoa0hsb9a0hb.com/nhl6.m3u8
+
+#EXTINF:-1 tvg-chno="538" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] San Jose Sharks vs Montreal Canadiens (SPRTZONE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] San Jose Sharks vs Montreal Canadiens (SPRTZONE)
+#EXTVLCOPT:http-referrer=https://vividmosaica.com/
+#EXTVLCOPT:http-origin=https://vividmosaica.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://n11.sanwalyaarpya.com:1686/hls/do8.m3u8?md5=QnmwHzH9sf5dnmUHuV-qEA&expires=1773536501
+
+#EXTINF:-1 tvg-chno="541" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[NHL] Sharks vs Canadiens (WEBCAST)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[NHL] Sharks vs Canadiens (WEBCAST)
 #EXTVLCOPT:http-referrer=https://slapstreams.com
 #EXTVLCOPT:http-origin=https://slapstreams.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://pro.packcast.top/newz/newz/87.m3u8
+https://webcast-cdn.b-cdn.net/newz/newz/87.m3u8
 
-#EXTINF:-1 tvg-chno="646" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] UFC Fight Night 269 Emmett vs Vallejos (SHARK)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC] UFC Fight Night 269 Emmett vs Vallejos (SHARK)
+#EXTINF:-1 tvg-chno="555" tvg-id="NHL.Hockey.Dummy.us" tvg-name="[National Hockey League] San Jose Sharks vs Montreal Canadiens (STRMSGATE)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/teamlogos/leagues/500/nhl.png" group-title="Live Events",[National Hockey League] San Jose Sharks vs Montreal Canadiens (STRMSGATE)
+#EXTVLCOPT:http-referrer=https://instreams.click/
+#EXTVLCOPT:http-origin=https://instreams.click/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.live/US/NHL8/index.m3u8?st=4iVkAHmp7nSMhOLW2KNrSw
+
+#EXTINF:-1 tvg-chno="625" tvg-id="UFC.247.Dummy.us" tvg-name="[UFC] UFC Fight Night 269 Emmett vs Vallejos (SHARK)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/06/Logo-UFC-500x313.png" group-title="Live Events",[UFC] UFC Fight Night 269 Emmett vs Vallejos (SHARK)
 #EXTVLCOPT:http-referrer=https://sharkstreams.net
 #EXTVLCOPT:http-origin=https://sharkstreams.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
