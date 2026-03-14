@@ -388,91 +388,6 @@
       }
     ]
   },
-  "401851225": {
-    "title": "Charlotte 49ers at UAB Blazers",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
-  "401851226": {
-    "title": "North Texas Mean Green at Tulsa Golden Hurricane",
-    "broadcasts": [
-      {
-        "id": 139,
-        "name": "ESPN2",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn2"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
-      }
-    ]
-  },
-  "401851270": {
-    "title": "George Washington Revolutionaries at Saint Louis Billikens",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851272": {
-    "title": "St. Bonaventure Bonnies at Dayton Flyers",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851273": {
-    "title": "Duquesne Dukes at VCU Rams",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851274": {
     "title": "Davidson Wildcats at Saint Joseph's Hawks",
     "broadcasts": []
@@ -521,23 +436,6 @@
       }
     ]
   },
-  "401851315": {
-    "title": "Seton Hall Pirates at St. John's Red Storm",
-    "broadcasts": [
-      {
-        "id": 148,
-        "name": "FOX",
-        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wfld"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851316": {
     "title": "Georgetown Hoyas at UConn Huskies",
     "broadcasts": [
@@ -550,42 +448,6 @@
         "searchTokens": [
           "fs1",
           "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851380": {
-    "title": "Ohio State Buckeyes at Michigan Wolverines",
-    "broadcasts": [
-      {
-        "id": 35,
-        "name": "Big Ten Network",
-        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "big ten network",
-          "btn"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851381": {
-    "title": "Wisconsin Badgers at Illinois Fighting Illini",
-    "broadcasts": [
-      {
-        "id": 35,
-        "name": "Big Ten Network",
-        "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "big ten network",
-          "btn"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -662,40 +524,6 @@
       }
     ]
   },
-  "401851413": {
-    "title": "Missouri State Bears at Louisiana Tech Bulldogs",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401851414": {
-    "title": "Kennesaw State Owls at Sam Houston Bearkats",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401851475": {
     "title": "South Carolina State Bulldogs at Howard Bison",
     "broadcasts": [
@@ -764,50 +592,6 @@
       }
     ]
   },
-  "401851565": {
-    "title": "Kentucky Wildcats at Florida Gators",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
-  "401851566": {
-    "title": "Tennessee Volunteers at Vanderbilt Commodores",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
   "401851567": {
     "title": "Ole Miss Rebels at Alabama Crimson Tide",
     "broadcasts": [
@@ -839,23 +623,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401851722": {
-    "title": "Prairie View A&M Panthers at Alabama A&M Bulldogs",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851722"
       }
     ]
   },
@@ -907,23 +674,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401851738"
-      }
-    ]
-  },
-  "401858190": {
-    "title": "Massachusetts Minutemen at Toledo Rockets",
-    "broadcasts": [
-      {
-        "id": 61,
-        "name": "CBS Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "cbs sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
