@@ -1,39 +1,62 @@
 import puppeteer from 'puppeteer';
 import fs from 'fs';
 
-const API_URL = 'https://sportyhunter.com/api/get-discovery-matches';
-const BASE_URL = 'https://sportyhunter.com/match/';
+const URL = 'https://crackstreams.ms/league/nbaregular';
 
-console.log('Fetching matches from API...');
-
-const res = await fetch(API_URL);
-const data = await res.json();
-
-const bundesligaMatches = data.matches.filter(match => match.league === 'Bundesliga');
-
-console.log(`Found ${data.matches.length} total matches, ${bundesligaMatches.length} Bundesliga`);
-
-if (bundesligaMatches.length === 0) {
-  console.log('No Bundesliga matches found.');
-  process.exit(0);
-}
+console.log(`Scraping hrefs from ${URL}...\n`);
 
 const browser = await puppeteer.launch({ headless: true });
+const page = await browser.newPage();
+await page.goto(URL, { waitUntil: 'networkidle2', timeout: 30000 });
+
+const hrefs = await page.evaluate(() => {
+  // Get the first h2 (today's games section)
+  const firstH2 = document.querySelector('h2');
+  if (!firstH2) return [];
+
+  // Collect all <a> links between the first h2 and the next h2
+  const links = [];
+  let el = firstH2.nextElementSibling;
+  while (el && el.tagName !== 'H2') {
+    for (const a of el.querySelectorAll('a[href]')) {
+      links.push({
+        text: a.textContent.trim().replace(/\s+/g, ' '),
+        href: a.href,
+      });
+    }
+    // Also check if el itself is a link
+    if (el.tagName === 'A' && el.href) {
+      links.push({
+        text: el.textContent.trim().replace(/\s+/g, ' '),
+        href: el.href,
+      });
+    }
+    el = el.nextElementSibling;
+  }
+  return links;
+});
+
+// Don't close browser yet — we need it for stream hunting
+await page.close();
+
+// Filter to only stream links (game links)
+const streamLinks = hrefs.filter(h => h.href.includes('/stream/'));
+
+console.log(`Found ${streamLinks.length} NBA game links. Hunting for streams...\n`);
+
 const results = [];
 
-for (const match of bundesligaMatches) {
-  const slug = match.slug;
-  const matchUrl = `${BASE_URL}${slug}`;
-  const label = `${match.team1} vs ${match.team2}`;
-  console.log(`\n⚽ ${label}`);
-  console.log(`   URL: ${matchUrl}`);
+for (const link of streamLinks) {
+  console.log(`🏀 ${link.text}`);
+  console.log(`   ${link.href}`);
 
   let m3u8Found = null;
 
   try {
-    const page = await browser.newPage();
+    const gamePage = await browser.newPage();
     const m3u8Urls = new Set();
 
+    // Listen for .m3u8 requests on the main page
     const capture = (url) => {
       if (url.includes('.m3u8') && !m3u8Urls.has(url)) {
         m3u8Urls.add(url);
@@ -41,63 +64,73 @@ for (const match of bundesligaMatches) {
       }
     };
 
-    page.on('request', (req) => capture(req.url()));
+    gamePage.on('request', (req) => capture(req.url()));
 
-    browser.on('targetcreated', async (target) => {
+    // Listen for new tabs/popups
+    const targetHandler = async (target) => {
       const newPage = await target.page();
       if (newPage) newPage.on('request', (req) => capture(req.url()));
-    });
+    };
+    browser.on('targetcreated', targetHandler);
 
-    await page.goto(matchUrl, { waitUntil: 'networkidle2', timeout: 30000 });
+    await gamePage.goto(link.href, { waitUntil: 'networkidle2', timeout: 30000 });
 
-    const frames = page.frames();
-    for (const frame of frames) {
+    // Listen on all iframes
+    for (const frame of gamePage.frames()) {
       frame.on('request', (req) => capture(req.url()));
     }
 
-    for (const frame of frames) {
+    // Try clicking play buttons inside iframes
+    for (const frame of gamePage.frames()) {
       try { await frame.click('video'); } catch {}
       try { await frame.click('.play-button, .vjs-big-play-button, .ytp-play-button, [aria-label="Play"]'); } catch {}
     }
 
-    // ⏱️ Wait up to 4 seconds for stream to appear, then skip
+    // Wait up to 6 seconds for a stream to appear
     await Promise.race([
-      new Promise(r => setTimeout(r, 4000)),
+      new Promise(r => setTimeout(r, 6000)),
       new Promise(r => {
         const interval = setInterval(() => {
           if (m3u8Urls.size > 0) { clearInterval(interval); r(); }
-        }, 100);
+        }, 200);
       })
     ]);
 
     if (m3u8Urls.size === 0) {
-      console.log(`   ⏭️  No stream after 4s, skipping...`);
+      console.log(`   ⏭️  No stream after 6s, skipping...\n`);
+    } else {
+      console.log('');
     }
 
     m3u8Found = [...m3u8Urls][0] || null;
-    await page.close();
 
+    browser.off('targetcreated', targetHandler);
+    await gamePage.close();
   } catch (err) {
-    console.log(`   ❌ Error: ${err.message}`);
+    console.log(`   ❌ Error: ${err.message}\n`);
   }
 
-  results.push({ slug, label, matchUrl, league: match.league, m3u8: m3u8Found });
+  results.push({ ...link, m3u8: m3u8Found });
 }
 
 await browser.close();
 
+// Build M3U playlist
 let playlist = '#EXTM3U\n\n';
 let count = 0;
 
-for (const { label, matchUrl, league, m3u8 } of results) {
+for (const { text, href, m3u8 } of results) {
   if (!m3u8) continue;
   count++;
-  playlist += `#EXTINF:-1 tvg-name="${label}" group-title="${league}",${label}\n`;
-  playlist += `#EXTVLCOPT:http-referrer=${matchUrl}\n`;
-  playlist += `#EXTVLCOPT:http-origin=https://sportyhunter.com\n`;
-  playlist += `#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15\n`;
+  playlist += `#EXTINF:-1 tvg-name="${text}" group-title="NBA",${text}\n`;
+  playlist += `#EXTVLCOPT:http-referrer=${href}\n`;
+  playlist += `#EXTVLCOPT:http-origin=https://crackstreams.ms\n`;
   playlist += `${m3u8}\n\n`;
 }
 
-fs.writeFileSync('streams.m3u8', playlist);
-console.log(`\n✅ Done! ${count} streams written to streams.m3u8`);
+fs.writeFileSync('nba_streams.m3u', playlist);
+
+
+console.log(`✅ Done! ${count}/${results.length} streams found.`);
+console.log(`   📄 crackstreams.json`);
+console.log(`   📺 nba_streams.m3u`);
