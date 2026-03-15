@@ -1,6 +1,11 @@
 {
   "nba": [
     {
+      "title": "MAGIC at HAWKS | FULL GAME HIGHLIGHTS | March 14, 2026",
+      "url": "youtube://watch/vS3GDlW_kWs",
+      "thumbnail": "https://i.ytimg.com/vi/vS3GDlW_kWs/maxresdefault.jpg"
+    },
+    {
       "title": "WIZARDS at CELTICS | FULL GAME HIGHLIGHTS | March 14, 2026",
       "url": "youtube://watch/c5OwJWXYhcQ",
       "thumbnail": "https://i.ytimg.com/vi/c5OwJWXYhcQ/maxresdefault.jpg"
@@ -69,11 +74,6 @@
       "title": "CELTICS at THUNDER | FULL GAME HIGHLIGHTS | March 12, 2026",
       "url": "youtube://watch/6xBbal6mn1Q",
       "thumbnail": "https://i.ytimg.com/vi/6xBbal6mn1Q/maxresdefault.jpg"
-    },
-    {
-      "title": "NUGGETS at SPURS | FULL GAME HIGHLIGHTS | March 12, 2026",
-      "url": "youtube://watch/BWMDP8vAVGs",
-      "thumbnail": "https://i.ytimg.com/vi/BWMDP8vAVGs/maxresdefault.jpg"
     }
   ],
   "mens-college-basketball": [
@@ -98,12 +98,12 @@
       "thumbnail": "https://i.ytimg.com/vi/LQ6RCzMKJ-w/maxresdefault.jpg"
     },
     {
-      "title": "SEC Tournament: Oklahoma Sooners vs. Arkansas Razorbacks | Full Game Highlights | ESPN CBB",
+      "title": "Oklahoma Sooners vs. Arkansas Razorbacks | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/oszRG8j0Bqc",
       "thumbnail": "https://i.ytimg.com/vi/oszRG8j0Bqc/maxresdefault.jpg"
     },
     {
-      "title": "Kansas Jayhawks vs. Houston Cougars | Big 12 Tournament Highlights | ESPN CBB",
+      "title": "Kansas Jayhawks vs. Houston Cougars | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/kva6Fz6yJ6A",
       "thumbnail": "https://i.ytimg.com/vi/kva6Fz6yJ6A/maxresdefault.jpg"
     },
@@ -143,12 +143,12 @@
       "thumbnail": "https://i.ytimg.com/vi/lHsaeWw1V6I/maxresdefault.jpg"
     },
     {
-      "title": "Clemson Tigers vs. North Carolina Tar Heels | ACC Tournament Highlights | ESPN College Basketball",
+      "title": "Quarterfinals: Clemson Tigers vs. North Carolina Tar Heels | ACC Tournament Highlights | ESPN CBB",
       "url": "youtube://watch/KfTPhIhtsuE",
       "thumbnail": "https://i.ytimg.com/vi/KfTPhIhtsuE/maxresdefault.jpg"
     },
     {
-      "title": "Quarterfinals: FSU Seminoles vs. Duke Blue Devils | ACC Tournament Highlights | ESPN CBB",
+      "title": "ACC Tournament: FSU Seminoles vs. Duke Blue Devils | Full Game Highlights | ESPN College Basketball",
       "url": "youtube://watch/yvcGGiR2O0M",
       "thumbnail": "https://i.ytimg.com/vi/yvcGGiR2O0M/maxresdefault.jpg"
     }
