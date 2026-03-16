@@ -41,12 +41,6 @@ https://red2.wecanfix8.space/playlist/47321/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47320/load-playlist
 
-#EXTINF:-1 tvg-name="San Jose Earthquakes vs Seattle Sounders FC Live Streams" group-title="Live",San Jose Earthquakes vs Seattle Sounders FC Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47311/load-playlist
-
 #EXTINF:-1 tvg-name="Montréal Canadiens vs Anaheim Ducks Live Streams" group-title="Live",Montréal Canadiens vs Anaheim Ducks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
