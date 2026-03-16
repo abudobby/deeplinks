@@ -1,21 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Atlanta Braves vs Tampa Bay Rays Live Streams" group-title="Live",Atlanta Braves vs Tampa Bay Rays Live Streams
+#EXTINF:-1 tvg-name="Los Angeles Dodgers vs Milwaukee Brewers Live Streams" group-title="Live",Los Angeles Dodgers vs Milwaukee Brewers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47325/load-playlist
+https://red2.wecanfix8.space/playlist/47331/load-playlist
 
-#EXTINF:-1 tvg-name="Minnesota Twins vs Pittsburgh Pirates Live Streams" group-title="Live",Minnesota Twins vs Pittsburgh Pirates Live Streams
+#EXTINF:-1 tvg-name="San Diego Padres vs San Francisco Giants Live Streams" group-title="Live",San Diego Padres vs San Francisco Giants Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47326/load-playlist
+https://red2.wecanfix8.space/playlist/47332/load-playlist
+
+#EXTINF:-1 tvg-name="Brentford vs Wolverhampton Live Streams" group-title="Live",Brentford vs Wolverhampton Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47328/load-playlist
+
+#EXTINF:-1 tvg-name="Rayo Vallecano vs Levante UD Live Streams" group-title="Live",Rayo Vallecano vs Levante UD Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47329/load-playlist
 
 #EXTINF:-1 tvg-name="Portsmouth vs Derby County Live Streams" group-title="Live",Portsmouth vs Derby County Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47323/load-playlist
+
+#EXTINF:-1 tvg-name="Cremonese vs Fiorentina Live Streams" group-title="Live",Cremonese vs Fiorentina Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47330/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network

@@ -1,37 +1,5 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-name="Oklahoma City Thunder vs Minnesota Timberwolves Start time: 12:00 PM ET" group-title="NBA",Oklahoma City Thunder vs Minnesota Timberwolves Start time: 12:00 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/oklahoma-city-thunder-vs-minnesota-timberwolves
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn2.tyfiles.cfd/live/cdn2/playlist.m3u8?expires=1773595645&token=2712cf3b0ba8417cdc062594da59471e7ea591f81fa2668396be11c9a5a46fbc
-
-#EXTINF:-1 tvg-name="Indiana Pacers vs Milwaukee Bucks Start time: 2:30 PM ET" group-title="NBA",Indiana Pacers vs Milwaukee Bucks Start time: 2:30 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/indiana-pacers-vs-milwaukee-bucks
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn3.tyfiles.cfd/live/cdn3/playlist.m3u8?expires=1773600531&token=ef9b07256767626060fbc4b14c9e9685e9521d297361dd0448888983d3da901a
-
-#EXTINF:-1 tvg-name="Dallas Mavericks vs Cleveland Cavaliers Start time: 2:30 PM ET" group-title="NBA",Dallas Mavericks vs Cleveland Cavaliers Start time: 2:30 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/dallas-mavericks-vs-cleveland-cavaliers
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn5.tyfiles.cfd/live/cdn5/playlist.m3u8?expires=1773601018&token=1170815f9f0f6a13989b8644ef0ff57217beabf10b83821a17c008a145760343
-
-#EXTINF:-1 tvg-name="Detroit Pistons vs Toronto Raptors Start time: 2:30 PM ET" group-title="NBA",Detroit Pistons vs Toronto Raptors Start time: 2:30 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/detroit-pistons-vs-toronto-raptors
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn4.tyfiles.cfd/live/cdn4/playlist.m3u8?expires=1773600163&token=e04f92e24418912874fe57295278a20dbee06b78c03e1d8b3902f0f378bbafdb
-
-#EXTINF:-1 tvg-name="Philadelphia 76ers vs Portland Trail Blazers Start time: 5:00 PM ET" group-title="NBA",Philadelphia 76ers vs Portland Trail Blazers Start time: 5:00 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/philadelphia-76ers-vs-portland-trail-blazers
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn6.tyfiles.cfd/live/cdn6/playlist.m3u8?expires=1773605059&token=52ff62a82a9a6fd270dbc56a8d4ae9c0545a4edb433705054b5db194bfae4de2
-
-#EXTINF:-1 tvg-name="Golden State Warriors vs New York Knicks Start time: 7:00 PM ET" group-title="NBA",Golden State Warriors vs New York Knicks Start time: 7:00 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/golden-state-warriors-vs-new-york-knicks
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn7.tyfiles.cfd/live/cdn7/playlist.m3u8?expires=1773614490&token=0a82e2e8f2b7e280b5aecf445d31aca3b28a0c3a6991e96a5c83a9ffc3438f01
-
-#EXTINF:-1 tvg-name="Utah Jazz vs Sacramento Kings Start time: 9:00 PM ET" group-title="NBA",Utah Jazz vs Sacramento Kings Start time: 9:00 PM ET
-#EXTVLCOPT:http-referrer=https://crackstreams.ms/stream/utah-jazz-vs-sacramento-kings
-#EXTVLCOPT:http-origin=https://crackstreams.ms
-https://cdn8.tyfiles.cfd/live/cdn8/playlist.m3u8?expires=1773618944&token=e9dbac138c06f1de37afc68d10e1f8f133363c1b5fdf61ef9c978d7a38194a36
-
+#EXTINF:-1 tvg-id="sacramentokings" tvg-name="Sacramento Kings" group-title="NBA", Sacramento Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0
+#EXTVLCOPT:http-referrer=https://pooembed.eu/
+#EXTVLCOPT:http-origin=https://pooembed.eu
+https://lb2.modifiles.fans/secure/lgwtdacrfifPdsHHrcJEqbNBRMRuPSTZ/1773615600/1773643680/sacramentokings/index.m3u8

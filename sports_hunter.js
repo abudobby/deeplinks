@@ -132,5 +132,4 @@ fs.writeFileSync('nba_streams.m3u', playlist);
 
 
 console.log(`✅ Done! ${count}/${results.length} streams found.`);
-console.log(`   📄 crackstreams.json`);
 console.log(`   📺 nba_streams.m3u`);
