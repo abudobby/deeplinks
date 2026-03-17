@@ -1,6 +1,6 @@
 {
-  "401803414": {
-    "title": "Calgary Flames at Detroit Red Wings",
+  "401803419": {
+    "title": "New York Islanders at Toronto Maple Leafs",
     "broadcasts": [
       {
         "id": 755,
@@ -12,34 +12,12 @@
           "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803414"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803419"
       }
     ]
   },
-  "401803415": {
-    "title": "Boston Bruins at New Jersey Devils",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
-  "401803416": {
-    "title": "Los Angeles Kings at New York Rangers",
+  "401803420": {
+    "title": "Boston Bruins at Montreal Canadiens",
     "broadcasts": [
       {
         "id": 755,
@@ -51,24 +29,12 @@
           "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803416"
-      },
-      {
-        "id": 346,
-        "name": "MSG Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/fjs0FYifieHNngkvZctWNDGK1qZ6eeKKgqnslE7e2AsMTa4fInDOjcEe97-oam_ieS8",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "msg network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803420"
       }
     ]
   },
-  "401803417": {
-    "title": "Utah Mammoth at Dallas Stars",
+  "401803421": {
+    "title": "Carolina Hurricanes at Columbus Blue Jackets",
     "broadcasts": [
       {
         "id": 755,
@@ -80,71 +46,45 @@
           "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803417"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803421"
       }
     ]
   },
-  "401803418": {
-    "title": "Pittsburgh Penguins at Colorado Avalanche",
+  "401803422": {
+    "title": "Nashville Predators at Winnipeg Jets",
     "broadcasts": [
       {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
+        "type": "streaming",
         "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
           "espn+"
         ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
-  "401810838": {
-    "title": "Orlando Magic at Atlanta Hawks",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%224fd65f1b-abab-3165-a25f-ab55d9296f90%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803422"
       }
     ]
   },
-  "401810839": {
-    "title": "Golden State Warriors at Washington Wizards",
+  "401803423": {
+    "title": "Minnesota Wild at Chicago Blackhawks",
+    "broadcasts": []
+  },
+  "401803424": {
+    "title": "San Jose Sharks at Edmonton Oilers",
     "broadcasts": [
       {
-        "id": 812,
-        "name": "Monumental Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/keh6pAESbLBQwWioYgZ1I7opwsh7fPeHB3OhZv_E1B9CpaKFe8vb0_yUzbG09DJTtIk=w480-h960",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "isNational": false,
-        "type": "tv",
+        "type": "streaming",
         "searchTokens": [
-          "monumental sports"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500984"
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803424"
       },
       {
         "id": 890,
@@ -160,243 +100,43 @@
       }
     ]
   },
-  "401810840": {
-    "title": "Portland Trail Blazers at Brooklyn Nets",
+  "401803425": {
+    "title": "Florida Panthers at Vancouver Canucks",
     "broadcasts": [
       {
-        "id": 1173,
-        "name": "BlazerVision",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "blazervision"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 1207,
-        "name": "KUNP 16",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "kunp",
-          "16"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "isNational": false,
         "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500985"
-      },
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
         "searchTokens": [
-          "yes network"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803425"
       }
     ]
   },
-  "401810841": {
-    "title": "Phoenix Suns at Boston Celtics",
+  "401803426": {
+    "title": "Buffalo Sabres at Vegas Golden Knights",
     "broadcasts": [
       {
-        "id": 966,
-        "name": "Arizona's Family 3TV",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "arizona's",
-          "family",
-          "3tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "isNational": false,
         "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500986"
-      },
-      {
-        "id": 891,
-        "name": "NBC Sports Boston",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
         "searchTokens": [
-          "nbc sports boston"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 1193,
-        "name": "Suns Live",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "suns",
-          "live"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803426"
       }
     ]
   },
-  "401810842": {
-    "title": "Memphis Grizzlies at Chicago Bulls",
-    "broadcasts": [
-      {
-        "id": 840,
-        "name": "FanDuel Sports Network Southeast",
-        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "fanduel",
-          "southeast"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500987"
-      }
-    ]
-  },
-  "401810843": {
-    "title": "Dallas Mavericks at New Orleans Pelicans",
-    "broadcasts": [
-      {
-        "id": 1159,
-        "name": "Gulf Coast Sports",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "gulf",
-          "coast",
-          "sports"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 1165,
-        "name": "KFAA",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "kfaa"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 1085,
-        "name": "Mavs.com",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "mavs.com"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022500988"
-      },
-      {
-        "id": 1083,
-        "name": "pelicans.com",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "pelicans.com"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401810844": {
-    "title": "Los Angeles Lakers at Houston Rockets",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%224b61e040-bd40-3222-a9f0-3968cc1a404e%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      },
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 912,
-        "name": "Spectrum SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "spectrum sportsnet"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
+  "401803427": {
+    "title": "Tampa Bay Lightning at Seattle Kraken",
+    "broadcasts": []
   },
   "401810845": {
     "title": "San Antonio Spurs at LA Clippers",
@@ -423,6 +163,545 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2201a8244c-1099-3786-96d0-e273363aaf93%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      }
+    ]
+  },
+  "401810846": {
+    "title": "Miami Heat at Charlotte Hornets",
+    "broadcasts": [
+      {
+        "id": 840,
+        "name": "FanDuel Sports Network Southeast",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "southeast"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 843,
+        "name": "FanDuel Sports Network Sun",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "sun"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 887,
+        "name": "NBA League Pass",
+        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "gametime://game/0022500991"
+      }
+    ]
+  },
+  "401810847": {
+    "title": "Oklahoma City Thunder at Orlando Magic",
+    "broadcasts": [
+      {
+        "id": 828,
+        "name": "FanDuel Sports Network Florida",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "florida"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 836,
+        "name": "FanDuel Sports Network Oklahoma",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "oklahoma"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 887,
+        "name": "NBA League Pass",
+        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "gametime://game/0022500992"
+      }
+    ]
+  },
+  "401810848": {
+    "title": "Detroit Pistons at Washington Wizards",
+    "broadcasts": [
+      {
+        "id": 812,
+        "name": "Monumental Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/keh6pAESbLBQwWioYgZ1I7opwsh7fPeHB3OhZv_E1B9CpaKFe8vb0_yUzbG09DJTtIk=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "monumental sports"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 887,
+        "name": "NBA League Pass",
+        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "gametime://game/0022500993"
+      }
+    ]
+  },
+  "401810849": {
+    "title": "Indiana Pacers at New York Knicks",
+    "broadcasts": [
+      {
+        "id": 830,
+        "name": "FanDuel Sports Network Indiana",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "indiana"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 346,
+        "name": "MSG Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/fjs0FYifieHNngkvZctWNDGK1qZ6eeKKgqnslE7e2AsMTa4fInDOjcEe97-oam_ieS8",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "msg network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 887,
+        "name": "NBA League Pass",
+        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "gametime://game/0022500994"
+      }
+    ]
+  },
+  "401810850": {
+    "title": "Cleveland Cavaliers at Milwaukee Bucks",
+    "broadcasts": [
+      {
+        "id": 846,
+        "name": "FanDuel Sports Network Wisconsin",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "wisconsin"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 379,
+        "name": "NBC",
+        "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "kare"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 789,
+        "name": "Peacock",
+        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22d2aa8065-7f9d-3349-a7e8-59b618de76f2%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      }
+    ]
+  },
+  "401810851": {
+    "title": "Phoenix Suns at Minnesota Timberwolves",
+    "broadcasts": [
+      {
+        "id": 966,
+        "name": "Arizona's Family 3TV",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "arizona's",
+          "family",
+          "3tv"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 834,
+        "name": "FanDuel Sports Network North",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "north"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 887,
+        "name": "NBA League Pass",
+        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "gametime://game/0022500996"
+      },
+      {
+        "id": 1193,
+        "name": "Suns Live",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "suns",
+          "live"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401810852": {
+    "title": "Philadelphia 76ers at Denver Nuggets",
+    "broadcasts": [
+      {
+        "id": 24,
+        "name": "Altitude Sports",
+        "logoUrl": "https://kseblobstorage.blob.core.windows.net/sitefiles/Altitude/Altitude_Plus_App.png",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "altitude sports"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 379,
+        "name": "NBC",
+        "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "kare"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 894,
+        "name": "NBC Sports Philadelphia",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports philadelphia"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 789,
+        "name": "Peacock",
+        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%224793a0e1-aac4-3992-9eb5-3df25d859a98%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      }
+    ]
+  },
+  "401810853": {
+    "title": "San Antonio Spurs at Sacramento Kings",
+    "broadcasts": [
+      {
+        "id": 841,
+        "name": "FanDuel Sports Network Southwest",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "southwest"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 887,
+        "name": "NBA League Pass",
+        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "gametime://game/0022500998"
+      },
+      {
+        "id": 892,
+        "name": "NBC Sports California",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports california"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401856434": {
+    "title": "Texas Longhorns at NC State Wolfpack",
+    "broadcasts": []
+  },
+  "401856435": {
+    "title": "UMBC Retrievers at Howard Bison",
+    "broadcasts": []
+  },
+  "401858193": {
+    "title": "South Alabama Jaguars at Auburn Tigers",
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
+      }
+    ]
+  },
+  "401858194": {
+    "title": "St. Thomas-Minnesota Tommies at Seattle U Redhawks",
+    "broadcasts": [
+      {
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [
+          "espn+"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401858194"
+      }
+    ]
+  },
+  "401858195": {
+    "title": "Liberty Flames at George Mason Patriots",
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
+      }
+    ]
+  },
+  "401858196": {
+    "title": "Stephen F. Austin Lumberjacks at Tulsa Golden Hurricane",
+    "broadcasts": [
+      {
+        "id": 145,
+        "name": "ESPN U",
+        "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "espn u"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401858197": {
+    "title": "UNLV Rebels at UC Irvine Anteaters",
+    "broadcasts": [
+      {
+        "id": 145,
+        "name": "ESPN U",
+        "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "espn u"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401858338": {
+    "title": "Wyoming Cowboys at Wichita State Shockers",
+    "broadcasts": [
+      {
+        "id": 145,
+        "name": "ESPN U",
+        "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "espn u"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401858339": {
+    "title": "Davidson Wildcats at Oklahoma State Cowboys",
+    "broadcasts": [
+      {
+        "id": 139,
+        "name": "ESPN2",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "espn2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn2"
+      }
+    ]
+  },
+  "401858340": {
+    "title": "UNC Wilmington Seahawks at Yale Bulldogs",
+    "broadcasts": [
+      {
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "isNational": false,
+        "type": "streaming",
+        "searchTokens": [
+          "espn+"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401858340"
+      }
+    ]
+  },
+  "401862581": {
+    "title": "Bayer Leverkusen at Arsenal",
+    "broadcasts": [
+      {
+        "id": 792,
+        "name": "Paramount+",
+        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/8a338b78-e5b3-47e4-9afd-80c52fa557cb"
+      }
+    ]
+  },
+  "401862584": {
+    "title": "Bodo/Glimt at Sporting CP",
+    "broadcasts": [
+      {
+        "id": 792,
+        "name": "Paramount+",
+        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/3c264d77-0e37-4132-969a-549ba484b18b"
+      }
+    ]
+  },
+  "401862647": {
+    "title": "Real Madrid at Manchester City",
+    "broadcasts": [
+      {
+        "id": 792,
+        "name": "Paramount+",
+        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/20a45be9-d0a9-46db-920c-095e6eb69858"
+      }
+    ]
+  },
+  "401862648": {
+    "title": "Paris Saint-Germain at Chelsea",
+    "broadcasts": [
+      {
+        "id": 792,
+        "name": "Paramount+",
+        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/c7173aa4-a793-4d95-b0d2-61fde7f6b668"
       }
     ]
   }
