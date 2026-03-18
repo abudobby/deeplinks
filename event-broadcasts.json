@@ -1,25 +1,4 @@
 {
-  "401803426": {
-    "title": "Buffalo Sabres at Vegas Golden Knights",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803426"
-      }
-    ]
-  },
-  "401803427": {
-    "title": "Tampa Bay Lightning at Seattle Kraken",
-    "broadcasts": []
-  },
   "401803428": {
     "title": "New Jersey Devils at New York Rangers",
     "broadcasts": []
@@ -473,23 +452,6 @@
   "401856437": {
     "title": "Prairie View A&M Panthers at Lehigh Mountain Hawks",
     "broadcasts": []
-  },
-  "401858197": {
-    "title": "UNLV Rebels at UC Irvine Anteaters",
-    "broadcasts": [
-      {
-        "id": 145,
-        "name": "ESPN U",
-        "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "espn u"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
   },
   "401858341": {
     "title": "Murray State Racers at Nevada Wolf Pack",
