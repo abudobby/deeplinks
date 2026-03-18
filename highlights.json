@@ -1,6 +1,16 @@
 {
   "nba": [
     {
+      "title": "76ERS at NUGGETS | FULL GAME HIGHLIGHTS | March 17, 2026",
+      "url": "youtube://watch/oxnKeiexE3U",
+      "thumbnail": "https://i.ytimg.com/vi/oxnKeiexE3U/maxresdefault.jpg"
+    },
+    {
+      "title": "SPURS at KINGS | FULL GAME HIGHLIGHTS | March 17, 2026",
+      "url": "youtube://watch/tKdMy_3kr1M",
+      "thumbnail": "https://i.ytimg.com/vi/tKdMy_3kr1M/maxresdefault.jpg"
+    },
+    {
       "title": "SUNS at TIMBERWOLVES | FULL GAME HIGHLIGHTS | March 17, 2026",
       "url": "youtube://watch/SbRv_fDARIg",
       "thumbnail": "https://i.ytimg.com/vi/SbRv_fDARIg/maxresdefault.jpg"
@@ -64,21 +74,11 @@
       "title": "MAGIC at HAWKS | FULL GAME HIGHLIGHTS | March 16, 2026",
       "url": "youtube://watch/95mYDcUXFeY",
       "thumbnail": "https://i.ytimg.com/vi/95mYDcUXFeY/maxresdefault.jpg"
-    },
-    {
-      "title": "WARRIORS at WIZARDS | FULL GAME HIGHLIGHTS | March 16, 2026",
-      "url": "youtube://watch/_1vxP1Pgwkc",
-      "thumbnail": "https://i.ytimg.com/vi/_1vxP1Pgwkc/maxresdefault.jpg"
-    },
-    {
-      "title": "JAZZ at KINGS | FULL GAME HIGHLIGHTS | March 15, 2026",
-      "url": "youtube://watch/_sufltuKxtY",
-      "thumbnail": "https://i.ytimg.com/vi/_sufltuKxtY/maxresdefault.jpg"
     }
   ],
   "mens-college-basketball": [
     {
-      "title": "Wichita State Shockers vs. South Florida Bulls | Full Game Highlights | ESPN College Basketball",
+      "title": "American Championship: Wichita State Shockers vs. South Florida Bulls | Full Game Highlights",
       "url": "youtube://watch/n1HeBq4PJZE",
       "thumbnail": "https://i.ytimg.com/vi/n1HeBq4PJZE/maxresdefault.jpg"
     },
