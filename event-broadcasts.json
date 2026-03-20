@@ -16,69 +16,6 @@
       }
     ]
   },
-  "401803441": {
-    "title": "Tampa Bay Lightning at Vancouver Canucks",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803441"
-      }
-    ]
-  },
-  "401803442": {
-    "title": "Utah Mammoth at Vegas Golden Knights",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803442"
-      }
-    ]
-  },
-  "401803444": {
-    "title": "Philadelphia Flyers at Los Angeles Kings",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803444"
-      },
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401803445": {
     "title": "Carolina Hurricanes at Toronto Maple Leafs",
     "broadcasts": []
@@ -394,10 +331,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401856485": {
-    "title": "Kennesaw State Owls at Gonzaga Bulldogs",
-    "broadcasts": []
   },
   "401856494": {
     "title": "Northern Iowa Panthers at St. John's Red Storm",
