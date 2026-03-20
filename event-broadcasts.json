@@ -548,56 +548,6 @@
       }
     ]
   },
-  "401856478": {
-    "title": "Siena Saints at Duke Blue Devils",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401856479": {
-    "title": "TCU Horned Frogs at Ohio State Buckeyes",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401856480": {
-    "title": "High Point Panthers at Wisconsin Badgers",
-    "broadcasts": []
-  },
-  "401856481": {
-    "title": "Hawai'i Rainbow Warriors at Arkansas Razorbacks",
-    "broadcasts": []
-  },
-  "401856482": {
-    "title": "South Florida Bulls at Louisville Cardinals",
-    "broadcasts": []
-  },
-  "401856483": {
-    "title": "North Dakota State Bison at Michigan State Spartans",
-    "broadcasts": []
-  },
   "401856484": {
     "title": "Texas Longhorns at BYU Cougars",
     "broadcasts": []
@@ -639,14 +589,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401856488": {
-    "title": "McNeese Cowboys at Vanderbilt Commodores",
-    "broadcasts": []
-  },
-  "401856489": {
-    "title": "Troy Trojans at Nebraska Cornhuskers",
-    "broadcasts": []
   },
   "401856490": {
     "title": "VCU Rams at North Carolina Tar Heels",
