@@ -67,23 +67,6 @@
       }
     ]
   },
-  "401803449": {
-    "title": "Anaheim Ducks at Utah Mammoth",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803449"
-      }
-    ]
-  },
   "401803450": {
     "title": "Winnipeg Jets at Pittsburgh Penguins",
     "broadcasts": []
@@ -739,10 +722,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401856497": {
-    "title": "Furman Paladins at UConn Huskies",
-    "broadcasts": []
   },
   "401856530": {
     "title": "TCU Horned Frogs at Duke Blue Devils",
