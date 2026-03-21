@@ -1,7 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="minnesotatimberwolves" tvg-name="Minnesota Timberwolves" group-title="NBA", Minnesota Timberwolves
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0
-#EXTVLCOPT:http-referrer=https://pooembed.eu/
-#EXTVLCOPT:http-origin=https://pooembed.eu
-#EXTVLCOPT:http-header=Accept: */*
-https://lb1.modifiles.fans/secure/hFDTIQJXWlitevEolVWLddHEopjFGCcB/1773781200/1773809280/minnesotatimberwolves/index.m3u8
+#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", Thunder vs Wizards
+https://video.twimg.com/amplify_video/2035180736903311360/pl/avc1/480x270/AZPTTMaMhjmLeAtS.m3u8
