@@ -131,6 +131,12 @@ https://red2.wecanfix8.space/playlist/47657/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47628/load-playlist
 
+#EXTINF:-1 tvg-name="Michigan Wolverines vs Saint Louis Billikens Live Streams" group-title="Live",Michigan Wolverines vs Saint Louis Billikens Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47673/load-playlist
+
 #EXTINF:-1 tvg-name="Houston Cougars vs Texas A&amp;M Aggies Live Streams" group-title="Live",Houston Cougars vs Texas A&amp;M Aggies Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -154,12 +160,6 @@ https://red2.wecanfix8.space/playlist/47658/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47660/load-playlist
-
-#EXTINF:-1 tvg-name="Parma vs Cremonese Live Streams" group-title="Live",Parma vs Cremonese Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47616/load-playlist
 
 #EXTINF:-1 tvg-name="Milan vs Torino Live Streams" group-title="Live",Milan vs Torino Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
