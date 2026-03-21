@@ -1,21 +1,4 @@
 {
-  "740897": {
-    "title": "Manchester United at AFC Bournemouth",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401803445": {
     "title": "Carolina Hurricanes at Toronto Maple Leafs",
     "broadcasts": []
@@ -382,70 +365,12 @@
     "title": "Queens University Royals at Purdue Boilermakers",
     "broadcasts": []
   },
-  "401856520": {
-    "title": "Akron Zips at Texas Tech Red Raiders",
-    "broadcasts": []
-  },
-  "401856521": {
-    "title": "Hofstra Pride at Alabama Crimson Tide",
-    "broadcasts": []
-  },
   "401856522": {
     "title": "Iowa Hawkeyes at Clemson Tigers",
     "broadcasts": []
   },
   "401856523": {
     "title": "Prairie View A&M Panthers at Florida Gators",
-    "broadcasts": []
-  },
-  "401856524": {
-    "title": "Tennessee State Tigers at Iowa State Cyclones",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401856525": {
-    "title": "Santa Clara Broncos at Kentucky Wildcats",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401856526": {
-    "title": "Wright State Raiders at Virginia Cavaliers",
-    "broadcasts": []
-  },
-  "401856527": {
-    "title": "Miami (OH) RedHawks at Tennessee Volunteers",
-    "broadcasts": []
-  },
-  "401856528": {
-    "title": "Utah State Aggies at Villanova Wildcats",
-    "broadcasts": []
-  },
-  "401856529": {
-    "title": "Long Island University Sharks at Arizona Wildcats",
     "broadcasts": []
   }
 }
