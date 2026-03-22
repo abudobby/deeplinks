@@ -197,6 +197,18 @@ https://red2.wecanfix8.space/playlist/47763/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47764/load-playlist
 
+#EXTINF:-1 tvg-name="Florida Gators vs Iowa Hawkeyes Live Streams" group-title="Live",Florida Gators vs Iowa Hawkeyes Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47765/load-playlist
+
+#EXTINF:-1 tvg-name="Arizona Wildcats vs Utah State Aggies Live Streams" group-title="Live",Arizona Wildcats vs Utah State Aggies Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47766/load-playlist
+
 #EXTINF:-1 tvg-name="Bologna vs Lazio Live Streams" group-title="Live",Bologna vs Lazio Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
