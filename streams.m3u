@@ -71,12 +71,6 @@ https://red2.wecanfix8.space/playlist/47752/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47724/load-playlist
 
-#EXTINF:-1 tvg-name="Dundee United vs Celtic Live Streams" group-title="Live",Dundee United vs Celtic Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47742/load-playlist
-
 #EXTINF:-1 tvg-name="Aston Villa vs West Ham United Live Streams" group-title="Live",Aston Villa vs West Ham United Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -100,12 +94,6 @@ https://red2.wecanfix8.space/playlist/47691/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47692/load-playlist
-
-#EXTINF:-1 tvg-name="Barcelona vs Rayo Vallecano Live Streams" group-title="Live",Barcelona vs Rayo Vallecano Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47728/load-playlist
 
 #EXTINF:-1 tvg-name="Celta Vigo vs Deportivo Alavés Live Streams" group-title="Live",Celta Vigo vs Deportivo Alavés Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
