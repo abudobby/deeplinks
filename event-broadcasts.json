@@ -48,23 +48,6 @@
       }
     ]
   },
-  "401803460": {
-    "title": "Tampa Bay Lightning at Edmonton Oilers",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803460"
-      }
-    ]
-  },
   "401803461": {
     "title": "Winnipeg Jets at New York Rangers",
     "broadcasts": [
