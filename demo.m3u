@@ -1,3 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", Thunder vs Wizards
-https://video.twimg.com/amplify_video/2035180736903311360/pl/avc1/480x270/AZPTTMaMhjmLeAtS.m3u8
+#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", Atlanta Hawks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_02" tvg-name="nba" group-title="NBA", Boston Celtics
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_03" tvg-name="nba" group-title="NBA", Brooklyn Nets
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_04" tvg-name="nba" group-title="NBA", Charlotte Hornets
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_05" tvg-name="nba" group-title="NBA", Chicago Bulls
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_06" tvg-name="nba" group-title="NBA", Cleveland Cavaliers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_07" tvg-name="nba" group-title="NBA", Dallas Mavericks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_08" tvg-name="nba" group-title="NBA", Denver Nuggets
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_09" tvg-name="nba" group-title="NBA", Detroit Pistons
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_10" tvg-name="nba" group-title="NBA", Golden State Warriors
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_11" tvg-name="nba" group-title="NBA", Houston Rockets
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_12" tvg-name="nba" group-title="NBA", Indiana Pacers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_13" tvg-name="nba" group-title="NBA", LA Clippers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_14" tvg-name="nba" group-title="NBA", Los Angeles Lakers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_15" tvg-name="nba" group-title="NBA", Memphis Grizzlies
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_16" tvg-name="nba" group-title="NBA", Miami Heat
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_17" tvg-name="nba" group-title="NBA", Milwaukee Bucks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_18" tvg-name="nba" group-title="NBA", Minnesota Timberwolves
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_19" tvg-name="nba" group-title="NBA", New Orleans Pelicans
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_20" tvg-name="nba" group-title="NBA", New York Knicks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_21" tvg-name="nba" group-title="NBA", Oklahoma City Thunder
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_22" tvg-name="nba" group-title="NBA", Orlando Magic
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_23" tvg-name="nba" group-title="NBA", Philadelphia 76ers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_24" tvg-name="nba" group-title="NBA", Phoenix Suns
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_25" tvg-name="nba" group-title="NBA", Portland Trail Blazers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_26" tvg-name="nba" group-title="NBA", Sacramento Kings
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_27" tvg-name="nba" group-title="NBA", San Antonio Spurs
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_28" tvg-name="nba" group-title="NBA", Toronto Raptors
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_29" tvg-name="nba" group-title="NBA", Utah Jazz
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_30" tvg-name="nba" group-title="NBA", Washington Wizards
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
