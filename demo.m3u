@@ -59,3 +59,67 @@ https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PN
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
 #EXTINF:-1 tvg-id="nba_30" tvg-name="nba" group-title="NBA", Washington Wizards
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_01" tvg-name="nhl" group-title="NHL", Anaheim Ducks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_02" tvg-name="nhl" group-title="NHL", Arizona Coyotes
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_03" tvg-name="nhl" group-title="NHL", Boston Bruins
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_04" tvg-name="nhl" group-title="NHL", Buffalo Sabres
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_05" tvg-name="nhl" group-title="NHL", Calgary Flames
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_06" tvg-name="nhl" group-title="NHL", Carolina Hurricanes
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_07" tvg-name="nhl" group-title="NHL", Chicago Blackhawks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_08" tvg-name="nhl" group-title="NHL", Colorado Avalanche
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_09" tvg-name="nhl" group-title="NHL", Columbus Blue Jackets
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_10" tvg-name="nhl" group-title="NHL", Dallas Stars
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_11" tvg-name="nhl" group-title="NHL", Detroit Red Wings
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_12" tvg-name="nhl" group-title="NHL", Edmonton Oilers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_13" tvg-name="nhl" group-title="NHL", Florida Panthers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_14" tvg-name="nhl" group-title="NHL", Los Angeles Kings
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_15" tvg-name="nhl" group-title="NHL", Minnesota Wild
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_16" tvg-name="nhl" group-title="NHL", Montreal Canadiens
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_17" tvg-name="nhl" group-title="NHL", Nashville Predators
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_18" tvg-name="nhl" group-title="NHL", New Jersey Devils
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_19" tvg-name="nhl" group-title="NHL", New York Islanders
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_20" tvg-name="nhl" group-title="NHL", New York Rangers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_21" tvg-name="nhl" group-title="NHL", Ottawa Senators
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_22" tvg-name="nhl" group-title="NHL", Philadelphia Flyers
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_23" tvg-name="nhl" group-title="NHL", Pittsburgh Penguins
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_24" tvg-name="nhl" group-title="NHL", San Jose Sharks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_25" tvg-name="nhl" group-title="NHL", Seattle Kraken
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_26" tvg-name="nhl" group-title="NHL", St. Louis Blues
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_27" tvg-name="nhl" group-title="NHL", Tampa Bay Lightning
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_28" tvg-name="nhl" group-title="NHL", Toronto Maple Leafs
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_29" tvg-name="nhl" group-title="NHL", Vancouver Canucks
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_30" tvg-name="nhl" group-title="NHL", Vegas Golden Knights
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_31" tvg-name="nhl" group-title="NHL", Washington Capitals
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nhl_32" tvg-name="nhl" group-title="NHL", Winnipeg Jets
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
