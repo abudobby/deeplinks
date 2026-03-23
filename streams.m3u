@@ -1,45 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Phoenix Suns vs Toronto Raptors Live Streams" group-title="Live",Phoenix Suns vs Toronto Raptors Live Streams
+#EXTINF:-1 tvg-name="Louisville Cardinals vs Alabama Crimson Tide Live Streams" group-title="Live",Louisville Cardinals vs Alabama Crimson Tide Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47798/load-playlist
-
-#EXTINF:-1 tvg-name="Chicago White Sox vs Seattle Mariners Live Streams" group-title="Live",Chicago White Sox vs Seattle Mariners Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47786/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Angels vs Los Angeles Dodgers Live Streams" group-title="Live",Los Angeles Angels vs Los Angeles Dodgers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47724/load-playlist
-
-#EXTINF:-1 tvg-name="Utah Mammoth vs Los Angeles Kings Live Streams" group-title="Live",Utah Mammoth vs Los Angeles Kings Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47789/load-playlist
-
-#EXTINF:-1 tvg-name="Connecticut Huskies vs UCLA Bruins Live Streams" group-title="Live",Connecticut Huskies vs UCLA Bruins Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47769/load-playlist
-
-#EXTINF:-1 tvg-name="Alabama Crimson Tide vs Texas Tech Red Raiders Live Streams" group-title="Live",Alabama Crimson Tide vs Texas Tech Red Raiders Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47771/load-playlist
-
-#EXTINF:-1 tvg-name="TCU Horned Frogs vs Washington Huskies Live Streams" group-title="Live",TCU Horned Frogs vs Washington Huskies Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47772/load-playlist
+https://red2.wecanfix8.space/playlist/47800/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
