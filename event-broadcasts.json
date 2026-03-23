@@ -1,38 +1,4 @@
 {
-  "401803463": {
-    "title": "Carolina Hurricanes at Pittsburgh Penguins",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803463"
-      }
-    ]
-  },
-  "401803464": {
-    "title": "Nashville Predators at Chicago Blackhawks",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803464"
-      }
-    ]
-  },
   "401803465": {
     "title": "Columbus Blue Jackets at New York Islanders",
     "broadcasts": [
@@ -357,23 +323,6 @@
   "401856560": {
     "title": "Texas Tech Red Raiders at Alabama Crimson Tide",
     "broadcasts": []
-  },
-  "401856561": {
-    "title": "Kentucky Wildcats at Iowa State Cyclones",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
   },
   "401856562": {
     "title": "Tennessee Volunteers at Virginia Cavaliers",
