@@ -23,6 +23,24 @@ https://red2.wecanfix8.space/playlist/47847/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47848/load-playlist
 
+#EXTINF:-1 tvg-name="Youngstown State Penguins vs Maryland Eastern Shore Hawks Live Streams" group-title="Live",Youngstown State Penguins vs Maryland Eastern Shore Hawks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47867/load-playlist
+
+#EXTINF:-1 tvg-name="Boston Bruins vs Toronto Maple Leafs Live Streams" group-title="Live",Boston Bruins vs Toronto Maple Leafs Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47865/load-playlist
+
+#EXTINF:-1 tvg-name="Montréal Canadiens vs Carolina Hurricanes Live Streams" group-title="Live",Montréal Canadiens vs Carolina Hurricanes Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47866/load-playlist
+
 #EXTINF:-1 tvg-name="New York Islanders vs Chicago Blackhawks Live Streams" group-title="Live",New York Islanders vs Chicago Blackhawks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
