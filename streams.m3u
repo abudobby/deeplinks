@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="New York Knicks vs New Orleans Pelicans Live Streams" group-title="Live",New York Knicks vs New Orleans Pelicans Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47859/load-playlist
+
 #EXTINF:-1 tvg-name="Minnesota Twins vs Boston Red Sox Live Streams" group-title="Live",Minnesota Twins vs Boston Red Sox Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -16,6 +22,30 @@ https://red2.wecanfix8.space/playlist/47847/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47857/load-playlist
+
+#EXTINF:-1 tvg-name="Tampa Bay Lightning vs Minnesota Wild Live Streams" group-title="Live",Tampa Bay Lightning vs Minnesota Wild Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47860/load-playlist
+
+#EXTINF:-1 tvg-name="Dallas Stars vs New Jersey Devils Live Streams" group-title="Live",Dallas Stars vs New Jersey Devils Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47861/load-playlist
+
+#EXTINF:-1 tvg-name="Nashville Predators vs San Jose Sharks Live Streams" group-title="Live",Nashville Predators vs San Jose Sharks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47862/load-playlist
+
+#EXTINF:-1 tvg-name="St. Louis Blues vs Washington Capitals Live Streams" group-title="Live",St. Louis Blues vs Washington Capitals Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47863/load-playlist
 
 #EXTINF:-1 tvg-name="Tulsa Golden Hurricane vs Wichita State Shockers Live Streams" group-title="Live",Tulsa Golden Hurricane vs Wichita State Shockers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
