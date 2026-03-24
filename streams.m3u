@@ -59,6 +59,12 @@ https://red2.wecanfix8.space/playlist/47819/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47821/load-playlist
 
+#EXTINF:-1 tvg-name="Detroit Pistons vs Los Angeles Lakers Live Streams" group-title="Live",Detroit Pistons vs Los Angeles Lakers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47805/load-playlist
+
 #EXTINF:-1 tvg-name="Orlando Magic vs Indiana Pacers Live Streams" group-title="Live",Orlando Magic vs Indiana Pacers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -70,12 +76,6 @@ https://red2.wecanfix8.space/playlist/47824/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47826/load-playlist
-
-#EXTINF:-1 tvg-name="Detroit Pistons vs Los Angeles Lakers Live Streams" group-title="Live",Detroit Pistons vs Los Angeles Lakers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47805/load-playlist
 
 #EXTINF:-1 tvg-name="Miami Heat vs San Antonio Spurs Live Streams" group-title="Live",Miami Heat vs San Antonio Spurs Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -141,19 +141,7 @@ https://red2.wecanfix8.space/playlist/47817/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47830/load-playlist
-
-#EXTINF:-1 tvg-name="La Salle Explorers vs Binghamton Bearcats Live Streams" group-title="Live",La Salle Explorers vs Binghamton Bearcats Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47822/load-playlist
-
-#EXTINF:-1 tvg-name="Marshall Thundering Herd vs UMBC Retrievers Live Streams" group-title="Live",Marshall Thundering Herd vs UMBC Retrievers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47823/load-playlist
+https://red2.wecanfix8.space/playlist/47843/load-playlist
 
 #EXTINF:-1 tvg-name="Cleveland State Vikings vs Monmouth Hawks Live Streams" group-title="Live",Cleveland State Vikings vs Monmouth Hawks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -177,13 +165,13 @@ https://red2.wecanfix8.space/playlist/47832/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47840/load-playlist
+https://red2.wecanfix8.space/playlist/47842/load-playlist
 
 #EXTINF:-1 tvg-name="Arkansas State Red Wolves vs Radford Highlanders Live Streams" group-title="Live",Arkansas State Red Wolves vs Radford Highlanders Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47841/load-playlist
+https://red2.wecanfix8.space/playlist/47844/load-playlist
 
 #EXTINF:-1 tvg-name="New York Rangers vs Ottawa Senators Live Streams" group-title="Live",New York Rangers vs Ottawa Senators Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -196,18 +184,6 @@ https://red2.wecanfix8.space/playlist/47807/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47835/load-playlist
-
-#EXTINF:-1 tvg-name="West Virginia Mountaineers vs Kentucky Wildcats Live Streams" group-title="Live",West Virginia Mountaineers vs Kentucky Wildcats Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47803/load-playlist
-
-#EXTINF:-1 tvg-name="Connecticut Huskies vs Syracuse Orange Live Streams" group-title="Live",Connecticut Huskies vs Syracuse Orange Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/47804/load-playlist
 
 #EXTINF:-1 tvg-name="Vanderbilt Commodores vs Illinois Fighting Illini Live Streams" group-title="Live",Vanderbilt Commodores vs Illinois Fighting Illini Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
