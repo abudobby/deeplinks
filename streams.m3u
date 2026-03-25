@@ -47,6 +47,12 @@ https://red2.wecanfix8.space/playlist/47895/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47885/load-playlist
 
+#EXTINF:-1 tvg-name="Army Black Knights vs La Salle Explorers Live Streams" group-title="Live",Army Black Knights vs La Salle Explorers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47896/load-playlist
+
 #EXTINF:-1 tvg-name="Buffalo Sabres vs Boston Bruins Live Streams" group-title="Live",Buffalo Sabres vs Boston Bruins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
