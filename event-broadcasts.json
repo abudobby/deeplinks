@@ -278,34 +278,6 @@
       }
     ]
   },
-  "401810917": {
-    "title": "Toronto Raptors at LA Clippers",
-    "broadcasts": [
-      {
-        "id": 838,
-        "name": "FanDuel Sports Network SoCal",
-        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "fanduel",
-          "socal"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022501062"
-      }
-    ]
-  },
   "401810918": {
     "title": "New York Knicks at Charlotte Hornets",
     "broadcasts": [
