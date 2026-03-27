@@ -1,9 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Indiana Pacers vs Los Angeles Clippers Live Streams" group-title="Live",Indiana Pacers vs Los Angeles Clippers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47950/load-playlist
+
 #EXTINF:-1 tvg-name="San Francisco Giants vs New York Yankees Live Streams" group-title="Live",San Francisco Giants vs New York Yankees Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47937/load-playlist
+
+#EXTINF:-1 tvg-name="Buffalo Sabres vs Detroit Red Wings Live Streams" group-title="Live",Buffalo Sabres vs Detroit Red Wings Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47951/load-playlist
+
+#EXTINF:-1 tvg-name="New York Rangers vs Chicago Blackhawks Live Streams" group-title="Live",New York Rangers vs Chicago Blackhawks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47952/load-playlist
 
 #EXTINF:-1 tvg-name="Vanderbilt Commodores vs Notre Dame Fighting Irish Live Streams" group-title="Live",Vanderbilt Commodores vs Notre Dame Fighting Irish Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
