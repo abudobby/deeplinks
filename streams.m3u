@@ -77,6 +77,24 @@ https://red2.wecanfix8.space/playlist/47961/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47875/load-playlist
 
+#EXTINF:-1 tvg-name="Arkansas State Red Wolves vs Purdue Fort Wayne Mastodons Live Streams" group-title="Live",Arkansas State Red Wolves vs Purdue Fort Wayne Mastodons Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47964/load-playlist
+
+#EXTINF:-1 tvg-name="George Washington Revolutionaries vs Loyola Chicago Ramblers Live Streams" group-title="Live",George Washington Revolutionaries vs Loyola Chicago Ramblers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47965/load-playlist
+
+#EXTINF:-1 tvg-name="Youngstown State Penguins vs Marshall Thundering Herd Live Streams" group-title="Live",Youngstown State Penguins vs Marshall Thundering Herd Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47966/load-playlist
+
 #EXTINF:-1 tvg-name="Buffalo Sabres vs Detroit Red Wings Live Streams" group-title="Live",Buffalo Sabres vs Detroit Red Wings Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -88,6 +106,12 @@ https://red2.wecanfix8.space/playlist/47951/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47952/load-playlist
+
+#EXTINF:-1 tvg-name="Duke Blue Devils vs St. John&#039;s Red Storm Live Streams" group-title="Live",Duke Blue Devils vs St. John&#039;s Red Storm Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47967/load-playlist
 
 #EXTINF:-1 tvg-name="Michigan Wolverines vs Alabama Crimson Tide Live Streams" group-title="Live",Michigan Wolverines vs Alabama Crimson Tide Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
