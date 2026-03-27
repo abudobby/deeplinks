@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", Atlanta Hawks @ Detroit Pistons
+#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", LA Clippers @ Indiana Pacers
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_02" tvg-name="nba" group-title="NBA", Los Angeles Lakers @ Indiana Pacers
+#EXTINF:-1 tvg-id="nba_02" tvg-name="nba" group-title="NBA", Miami Heat @ Cleveland Cavaliers
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_03" tvg-name="nba" group-title="NBA", Chicago Bulls @ Philadelphia 76ers
+#EXTINF:-1 tvg-id="nba_03" tvg-name="nba" group-title="NBA", Atlanta Hawks @ Boston Celtics
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_04" tvg-name="nba" group-title="NBA", Miami Heat @ Cleveland Cavaliers
+#EXTINF:-1 tvg-id="nba_04" tvg-name="nba" group-title="NBA", Houston Rockets @ Memphis Grizzlies
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_05" tvg-name="nba" group-title="NBA", Oklahoma City Thunder @ Boston Celtics
+#EXTINF:-1 tvg-id="nba_05" tvg-name="nba" group-title="NBA", Chicago Bulls @ Oklahoma City Thunder
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_06" tvg-name="nba" group-title="NBA", San Antonio Spurs @ Memphis Grizzlies
+#EXTINF:-1 tvg-id="nba_06" tvg-name="nba" group-title="NBA", New Orleans Pelicans @ Toronto Raptors
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_07" tvg-name="nba" group-title="NBA", Washington Wizards @ Utah Jazz
+#EXTINF:-1 tvg-id="nba_07" tvg-name="nba" group-title="NBA", Utah Jazz @ Denver Nuggets
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_08" tvg-name="nba" group-title="NBA", Houston Rockets @ Minnesota Timberwolves
+#EXTINF:-1 tvg-id="nba_08" tvg-name="nba" group-title="NBA", Dallas Mavericks @ Portland Trail Blazers
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_09" tvg-name="nba" group-title="NBA", Dallas Mavericks @ Denver Nuggets
+#EXTINF:-1 tvg-id="nba_09" tvg-name="nba" group-title="NBA", Washington Wizards @ Golden State Warriors
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_10" tvg-name="nba" group-title="NBA", Milwaukee Bucks @ Portland Trail Blazers
+#EXTINF:-1 tvg-id="nba_10" tvg-name="nba" group-title="NBA", Brooklyn Nets @ Los Angeles Lakers
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
