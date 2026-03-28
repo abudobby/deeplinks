@@ -292,45 +292,6 @@
       }
     ]
   },
-  "401810930": {
-    "title": "Brooklyn Nets at Los Angeles Lakers",
-    "broadcasts": [
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022501075"
-      },
-      {
-        "id": 912,
-        "name": "Spectrum SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "spectrum sportsnet"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401810931": {
     "title": "San Antonio Spurs at Milwaukee Bucks",
     "broadcasts": [
@@ -551,10 +512,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401856573": {
-    "title": "Tennessee Volunteers at Iowa State Cyclones",
-    "broadcasts": []
   },
   "401856574": {
     "title": "Iowa Hawkeyes at Illinois Fighting Illini",
