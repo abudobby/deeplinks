@@ -35,11 +35,29 @@ https://red2.wecanfix8.space/playlist/48051/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48038/load-playlist
 
+#EXTINF:-1 tvg-name="Philadelphia Phillies vs Texas Rangers Live Streams" group-title="Live",Philadelphia Phillies vs Texas Rangers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48055/load-playlist
+
+#EXTINF:-1 tvg-name="Toronto Blue Jays vs Athletics Live Streams" group-title="Live",Toronto Blue Jays vs Athletics Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48056/load-playlist
+
 #EXTINF:-1 tvg-name="Cincinnati Reds vs Boston Red Sox Live Streams" group-title="Live",Cincinnati Reds vs Boston Red Sox Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48039/load-playlist
+
+#EXTINF:-1 tvg-name="Miami Marlins vs Colorado Rockies Live Streams" group-title="Live",Miami Marlins vs Colorado Rockies Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48057/load-playlist
 
 #EXTINF:-1 tvg-name="New York Mets vs Pittsburgh Pirates Live Streams" group-title="Live",New York Mets vs Pittsburgh Pirates Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
