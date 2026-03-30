@@ -1,6 +1,6 @@
 const PLAYLISTS = {
   nba: "PLlVlyGVtvuVlek5UOvwJaRDtuAI1FgGZf",
-  "mens-college-basketball": "PLn3nHXu50t5zIzgZhRCXRsZcRIfapIxEV"
+  "mens-college-basketball": "PLXCWZ2G0LOasfGYXzgE7mZajWMRYSCG0E"
 };
 
 const fetchPage = async (url) => {
