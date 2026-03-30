@@ -1,6 +1,11 @@
 {
   "nba": [
     {
+      "title": "WARRIORS at NUGGETS | FULL GAME HIGHLIGHTS | March 29, 2026",
+      "url": "youtube://watch/SXihw-UgOCc",
+      "thumbnail": "https://i.ytimg.com/vi/SXihw-UgOCc/maxresdefault.jpg"
+    },
+    {
       "title": "KNICKS at THUNDER | FULL GAME HIGHLIGHTS | March 29, 2026",
       "url": "youtube://watch/GjQld3fLfQI",
       "thumbnail": "https://i.ytimg.com/vi/GjQld3fLfQI/maxresdefault.jpg"
@@ -69,11 +74,6 @@
       "title": "NETS at LAKERS | FULL GAME HIGHLIGHTS | March 27, 2026",
       "url": "youtube://watch/t44ztyYZ434",
       "thumbnail": "https://i.ytimg.com/vi/t44ztyYZ434/maxresdefault.jpg"
-    },
-    {
-      "title": "MAVERICKS at TRAIL BLAZERS | FULL GAME HIGHLIGHTS | March 27, 2026",
-      "url": "youtube://watch/946rqqfJT6Y",
-      "thumbnail": "https://i.ytimg.com/vi/946rqqfJT6Y/maxresdefault.jpg"
     }
   ],
   "mens-college-basketball": []
