@@ -5,6 +5,18 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48112/load-playlist
 
+#EXTINF:-1 tvg-name="Los Angeles Lakers vs Cleveland Cavaliers Live Streams" group-title="Live",Los Angeles Lakers vs Cleveland Cavaliers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48116/load-playlist
+
+#EXTINF:-1 tvg-name="Los Angeles Clippers vs Portland Trail Blazers Live Streams" group-title="Live",Los Angeles Clippers vs Portland Trail Blazers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48117/load-playlist
+
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Texas Rangers Live Streams" group-title="Live",Baltimore Orioles vs Texas Rangers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -34,6 +46,12 @@ https://red2.wecanfix8.space/playlist/48113/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48114/load-playlist
+
+#EXTINF:-1 tvg-name="Los Angeles Dodgers vs Cleveland Guardians Live Streams" group-title="Live",Los Angeles Dodgers vs Cleveland Guardians Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48115/load-playlist
 
 #EXTINF:-1 tvg-name="Boston Bruins vs Dallas Stars Live Streams" group-title="Live",Boston Bruins vs Dallas Stars Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
