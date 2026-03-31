@@ -1,9 +1,27 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Houston Rockets vs New York Knicks Live Streams" group-title="Live",Houston Rockets vs New York Knicks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48112/load-playlist
+
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Texas Rangers Live Streams" group-title="Live",Baltimore Orioles vs Texas Rangers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48108/load-playlist
+
+#EXTINF:-1 tvg-name="Chicago Cubs vs Los Angeles Angels Live Streams" group-title="Live",Chicago Cubs vs Los Angeles Angels Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48110/load-playlist
+
+#EXTINF:-1 tvg-name="St. Louis Cardinals vs New York Mets Live Streams" group-title="Live",St. Louis Cardinals vs New York Mets Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48111/load-playlist
 
 #EXTINF:-1 tvg-name="Boston Bruins vs Dallas Stars Live Streams" group-title="Live",Boston Bruins vs Dallas Stars Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
