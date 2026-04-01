@@ -1,15 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", Phoenix Suns @ Orlando Magic
+#EXTINF:-1 tvg-id="nba_01" tvg-name="nba" group-title="NBA", Philadelphia 76ers @ Washington Wizards
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_02" tvg-name="nba" group-title="NBA", Charlotte Hornets @ Brooklyn Nets
+#EXTINF:-1 tvg-id="nba_02" tvg-name="nba" group-title="NBA", Atlanta Hawks @ Orlando Magic
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_03" tvg-name="nba" group-title="NBA", Dallas Mavericks @ Milwaukee Bucks
+#EXTINF:-1 tvg-id="nba_03" tvg-name="nba" group-title="NBA", Boston Celtics @ Miami Heat
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_04" tvg-name="nba" group-title="NBA", Toronto Raptors @ Detroit Pistons
+#EXTINF:-1 tvg-id="nba_04" tvg-name="nba" group-title="NBA", Indiana Pacers @ Chicago Bulls
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_05" tvg-name="nba" group-title="NBA", New York Knicks @ Houston Rockets
+#EXTINF:-1 tvg-id="nba_05" tvg-name="nba" group-title="NBA", Milwaukee Bucks @ Houston Rockets
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_06" tvg-name="nba" group-title="NBA", Cleveland Cavaliers @ Los Angeles Lakers
+#EXTINF:-1 tvg-id="nba_06" tvg-name="nba" group-title="NBA", Sacramento Kings @ Toronto Raptors
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
-#EXTINF:-1 tvg-id="nba_07" tvg-name="nba" group-title="NBA", Portland Trail Blazers @ LA Clippers
+#EXTINF:-1 tvg-id="nba_07" tvg-name="nba" group-title="NBA", New York Knicks @ Memphis Grizzlies
+https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
+#EXTINF:-1 tvg-id="nba_08" tvg-name="nba" group-title="NBA", Denver Nuggets @ Utah Jazz
 https://video.twimg.com/ext_tw_video/2034421703229775872/pu/pl/avc1/576x1024/_PNiP1mdKlGsPfNh.m3u8
