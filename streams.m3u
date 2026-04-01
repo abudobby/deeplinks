@@ -1,4 +1,16 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Washington Wizards vs Philadelphia 76ers Live Streams" group-title="Live",Washington Wizards vs Philadelphia 76ers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48171/load-playlist
+
+#EXTINF:-1 tvg-name="Orlando Magic vs Atlanta Hawks Live Streams" group-title="Live",Orlando Magic vs Atlanta Hawks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48172/load-playlist
+
 #EXTINF:-1 tvg-name="Miami Heat vs Boston Celtics Live Streams" group-title="Live",Miami Heat vs Boston Celtics Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -22,18 +34,6 @@ https://red2.wecanfix8.space/playlist/48158/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48164/load-playlist
-
-#EXTINF:-1 tvg-name="St. Louis Cardinals vs New York Mets Live Streams" group-title="Live",St. Louis Cardinals vs New York Mets Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48151/load-playlist
-
-#EXTINF:-1 tvg-name="Arizona Diamondbacks vs Detroit Tigers Live Streams" group-title="Live",Arizona Diamondbacks vs Detroit Tigers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48169/load-playlist
 
 #EXTINF:-1 tvg-name="San Diego Padres vs San Francisco Giants Live Streams" group-title="Live",San Diego Padres vs San Francisco Giants Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
