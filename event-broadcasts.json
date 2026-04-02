@@ -587,24 +587,6 @@
       }
     ]
   },
-  "401858380": {
-    "title": "Baylor Bears at Minnesota Golden Gophers",
-    "broadcasts": [
-      {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "fs1",
-          "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401858381": {
     "title": "Stanford Cardinal at West Virginia Mountaineers",
     "broadcasts": [
