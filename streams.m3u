@@ -11,6 +11,12 @@ https://red2.wecanfix8.space/playlist/48180/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48181/load-playlist
 
+#EXTINF:-1 tvg-name="Edmonton Oilers vs Chicago Blackhawks Live Streams" group-title="Live",Edmonton Oilers vs Chicago Blackhawks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/47794/load-playlist
+
 #EXTINF:-1 tvg-name="Tulsa Golden Hurricane vs New Mexico Lobos Live Streams" group-title="Live",Tulsa Golden Hurricane vs New Mexico Lobos Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
