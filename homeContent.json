@@ -1,8 +1,8 @@
 {
   "gameShelfs": [
-    { "league": "nfl" },
-    { "league": "nba" },
     { "league": "nhl" },
+    { "league": "nba" },
+    { "league": "nfl" },
     { "league": "eng.1" },
     { "league": "uefa.champions" },
     { "league": "mens-college-basketball" },
