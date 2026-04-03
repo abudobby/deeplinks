@@ -1,4 +1,22 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="Brooklyn Nets vs Atlanta Hawks Live Streams" group-title="Live",Brooklyn Nets vs Atlanta Hawks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48217/load-playlist
+
+#EXTINF:-1 tvg-name="New York Knicks vs Chicago Bulls Live Streams" group-title="Live",New York Knicks vs Chicago Bulls Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48218/load-playlist
+
+#EXTINF:-1 tvg-name="Houston Rockets vs Utah Jazz Live Streams" group-title="Live",Houston Rockets vs Utah Jazz Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48219/load-playlist
+
 #EXTINF:-1 tvg-name="Washington Nationals vs Los Angeles Dodgers Live Streams" group-title="Live",Washington Nationals vs Los Angeles Dodgers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -28,6 +46,12 @@ https://red2.wecanfix8.space/playlist/48213/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48214/load-playlist
+
+#EXTINF:-1 tvg-name="Columbus Aviators vs D.C. Defenders Live Streams" group-title="Live",Columbus Aviators vs D.C. Defenders Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48220/load-playlist
 
 #EXTINF:-1 tvg-name="Rayo Vallecano vs Elche Live Streams" group-title="Live",Rayo Vallecano vs Elche Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
