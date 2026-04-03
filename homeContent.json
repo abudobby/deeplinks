@@ -1,7 +1,7 @@
 {
   "gameShelfs": [
-    { "league": "nba" },
     { "league": "nfl" },
+    { "league": "nba" },
     { "league": "nhl" },
     { "league": "eng.1" },
     { "league": "uefa.champions" },
