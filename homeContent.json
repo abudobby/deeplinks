@@ -1,0 +1,15 @@
+{
+  "gameShelfs": [
+    { "league": "nba" },
+    { "league": "nfl" },
+    { "league": "nhl" },
+    { "league": "eng.1" },
+    { "league": "uefa.champions" },
+    { "league": "mens-college-basketball" },
+    { "league": "mlb" }
+  ],
+  "mediaShelfs": [
+    { "title": "NBA Highlights", "path": "nba_highlights" },
+    { "title": "College Basketball Highlights", "path": "college_basketball_highlights" }
+  ]
+}
