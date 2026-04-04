@@ -1,12 +1,12 @@
 {
   "gameShelfs": [
-    { "league": "nhl" },
-    { "league": "nba" },
-    { "league": "nfl" },
-    { "league": "eng.1" },
-    { "league": "uefa.champions" },
-    { "league": "mens-college-basketball" },
-    { "league": "mlb" }
+    { "league": "nhl", "title": "NHL" },
+    { "league": "nba",  "title": "NBA"  },
+    { "league": "nfl",  "title": "NFL"  },
+    { "league": "eng.1",  "title": "Premier League" },
+    { "league": "uefa.champions",  "title": "Champions League"  },
+    { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
+    { "league": "mlb",  "title": "MLB"}
   ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights" },
