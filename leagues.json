@@ -1,0 +1,9 @@
+[
+  { "league": "nhl", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png" },
+  { "league": "nba", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" },
+  { "league": "nfl", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png" },
+  { "league": "eng.1", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/eng.1.png" },
+  { "league": "uefa.champions", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/uefa.champions.png" },
+  { "league": "mens-college-basketball", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/mens-college-basketball.png" },
+  { "league": "mlb", "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png" }
+]
