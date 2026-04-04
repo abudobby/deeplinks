@@ -89,12 +89,6 @@ https://red2.wecanfix8.space/playlist/48301/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48289/load-playlist
 
-#EXTINF:-1 tvg-name="Real Betis vs Espanyol Live Streams" group-title="Live",Real Betis vs Espanyol Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48262/load-playlist
-
 #EXTINF:-1 tvg-name="Atlético Madrid vs Barcelona Live Streams" group-title="Live",Atlético Madrid vs Barcelona Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -148,12 +142,6 @@ https://red2.wecanfix8.space/playlist/48270/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48287/load-playlist
-
-#EXTINF:-1 tvg-name="VfB Stuttgart vs Borussia Dortmund Live Streams" group-title="Live",VfB Stuttgart vs Borussia Dortmund Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48285/load-playlist
 
 #EXTINF:-1 tvg-name="Baylor Bears vs Oklahoma Sooners Live Streams" group-title="Live",Baylor Bears vs Oklahoma Sooners Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
