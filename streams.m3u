@@ -119,12 +119,6 @@ https://red2.wecanfix8.space/playlist/47791/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48270/load-playlist
 
-#EXTINF:-1 tvg-name="Sassuolo vs Cagliari Live Streams" group-title="Live",Sassuolo vs Cagliari Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48276/load-playlist
-
 #EXTINF:-1 tvg-name="Hellas Verona vs Fiorentina Live Streams" group-title="Live",Hellas Verona vs Fiorentina Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
