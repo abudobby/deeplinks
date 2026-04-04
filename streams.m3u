@@ -47,12 +47,6 @@ https://red2.wecanfix8.space/playlist/48290/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48275/load-playlist
 
-#EXTINF:-1 tvg-name="Rangers vs Dundee United Live Streams" group-title="Live",Rangers vs Dundee United Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48281/load-playlist
-
 #EXTINF:-1 tvg-name="Chelsea vs Port Vale Live Streams" group-title="Live",Chelsea vs Port Vale Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -88,6 +82,12 @@ https://red2.wecanfix8.space/playlist/48264/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/47793/load-playlist
+
+#EXTINF:-1 tvg-name="Ottawa Senators vs Minnesota Wild Live Streams" group-title="Live",Ottawa Senators vs Minnesota Wild Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48292/load-playlist
 
 #EXTINF:-1 tvg-name="Dallas Stars vs Colorado Avalanche Live Streams" group-title="Live",Dallas Stars vs Colorado Avalanche Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -130,18 +130,6 @@ https://red2.wecanfix8.space/playlist/48283/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48287/load-playlist
-
-#EXTINF:-1 tvg-name="Bayer 04 Leverkusen vs VfL Wolfsburg Live Streams" group-title="Live",Bayer 04 Leverkusen vs VfL Wolfsburg Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48278/load-playlist
-
-#EXTINF:-1 tvg-name="SC Freiburg vs FC Bayern München Live Streams" group-title="Live",SC Freiburg vs FC Bayern München Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48277/load-playlist
 
 #EXTINF:-1 tvg-name="VfB Stuttgart vs Borussia Dortmund Live Streams" group-title="Live",VfB Stuttgart vs Borussia Dortmund Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
