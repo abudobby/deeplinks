@@ -1,5 +1,6 @@
 {
   "gameShelfs": [
+    { "league": "esp.1", "title": "La Liga" },
     { "league": "nhl", "title": "NHL" },
     { "league": "nba",  "title": "NBA"  },
     { "league": "nfl",  "title": "NFL"  },
