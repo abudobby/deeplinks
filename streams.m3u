@@ -77,12 +77,6 @@ https://red2.wecanfix8.space/playlist/48360/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48338/load-playlist
 
-#EXTINF:-1 tvg-name="Valencia vs Celta Vigo Live Streams" group-title="Live",Valencia vs Celta Vigo Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48337/load-playlist
-
 #EXTINF:-1 tvg-name="Real Oviedo vs Sevilla Live Streams" group-title="Live",Real Oviedo vs Sevilla Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
