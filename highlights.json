@@ -1,6 +1,11 @@
 {
   "nba": [
     {
+      "title": "TRAIL BLAZERS at NUGGETS | FULL GAME HIGHLIGHTS | April 6, 2026",
+      "url": "youtube://watch/cSJfC6qqYOk",
+      "thumbnail": "https://i.ytimg.com/vi/cSJfC6qqYOk/maxresdefault.jpg"
+    },
+    {
       "title": "CAVALIERS at GRIZZLIES | FULL GAME HIGHLIGHTS | April 6, 2026",
       "url": "youtube://watch/O1dhNMp4eig",
       "thumbnail": "https://i.ytimg.com/vi/O1dhNMp4eig/maxresdefault.jpg"
@@ -69,14 +74,14 @@
       "title": "RAPTORS at CELTICS | FULL GAME HIGHLIGHTS | April 5, 2026",
       "url": "youtube://watch/AnqwK3pdVd0",
       "thumbnail": "https://i.ytimg.com/vi/AnqwK3pdVd0/maxresdefault.jpg"
-    },
-    {
-      "title": "GRIZZLIES at BUCKS | FULL GAME HIGHLIGHTS | April 5, 2026",
-      "url": "youtube://watch/qTKUaWL0tYs",
-      "thumbnail": "https://i.ytimg.com/vi/qTKUaWL0tYs/maxresdefault.jpg"
     }
   ],
   "mens-college-basketball": [
+    {
+      "title": "Michigan vs. UConn - National Championship NCAA tournament extended highlights",
+      "url": "youtube://watch/2ZLXQ62lWlQ",
+      "thumbnail": "https://i.ytimg.com/vi/2ZLXQ62lWlQ/maxresdefault.jpg"
+    },
     {
       "title": "Michigan vs. Arizona - Final Four NCAA tournament extended highlights",
       "url": "youtube://watch/-OmxGRrPry4",
@@ -146,11 +151,6 @@
       "title": "Iowa vs. Nebraska - Sweet 16 NCAA tournament extended highlights",
       "url": "youtube://watch/_lpUpaDvMfY",
       "thumbnail": "https://i.ytimg.com/vi/_lpUpaDvMfY/maxresdefault.jpg"
-    },
-    {
-      "title": "Alabama vs. Texas Tech - Second round NCAA tournament extended highlights",
-      "url": "youtube://watch/-i2fw_fc_k4",
-      "thumbnail": "https://i.ytimg.com/vi/-i2fw_fc_k4/maxresdefault.jpg"
     }
   ]
 }
