@@ -5,6 +5,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48450/load-playlist
 
+#EXTINF:-1 tvg-name="Indiana Pacers vs Minnesota Timberwolves Live Streams" group-title="Live",Indiana Pacers vs Minnesota Timberwolves Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48459/load-playlist
+
 #EXTINF:-1 tvg-name="Los Angeles Clippers vs Dallas Mavericks Live Streams" group-title="Live",Los Angeles Clippers vs Dallas Mavericks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -35,6 +41,18 @@ https://red2.wecanfix8.space/playlist/48431/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48432/load-playlist
 
+#EXTINF:-1 tvg-name="Miami Marlins vs Cincinnati Reds Live Streams" group-title="Live",Miami Marlins vs Cincinnati Reds Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48455/load-playlist
+
+#EXTINF:-1 tvg-name="Pittsburgh Pirates vs San Diego Padres Live Streams" group-title="Live",Pittsburgh Pirates vs San Diego Padres Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48456/load-playlist
+
 #EXTINF:-1 tvg-name="Tampa Bay Rays vs Chicago Cubs Live Streams" group-title="Live",Tampa Bay Rays vs Chicago Cubs Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -46,6 +64,12 @@ https://red2.wecanfix8.space/playlist/48433/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48434/load-playlist
+
+#EXTINF:-1 tvg-name="Washington Nationals vs St. Louis Cardinals Live Streams" group-title="Live",Washington Nationals vs St. Louis Cardinals Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48457/load-playlist
 
 #EXTINF:-1 tvg-name="New York Yankees vs Athletics Live Streams" group-title="Live",New York Yankees vs Athletics Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -77,11 +101,29 @@ https://red2.wecanfix8.space/playlist/48447/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48453/load-playlist
 
+#EXTINF:-1 tvg-name="Detroit Red Wings vs Columbus Blue Jackets Live Streams" group-title="Live",Detroit Red Wings vs Columbus Blue Jackets Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48461/load-playlist
+
+#EXTINF:-1 tvg-name="Montréal Canadiens vs Florida Panthers Live Streams" group-title="Live",Montréal Canadiens vs Florida Panthers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48460/load-playlist
+
 #EXTINF:-1 tvg-name="New Jersey Devils vs Philadelphia Flyers Live Streams" group-title="Live",New Jersey Devils vs Philadelphia Flyers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48435/load-playlist
+
+#EXTINF:-1 tvg-name="Ottawa Senators vs Tampa Bay Lightning Live Streams" group-title="Live",Ottawa Senators vs Tampa Bay Lightning Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48458/load-playlist
 
 #EXTINF:-1 tvg-name="Utah Mammoth vs Edmonton Oilers Live Streams" group-title="Live",Utah Mammoth vs Edmonton Oilers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
