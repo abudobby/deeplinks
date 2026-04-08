@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="San Antonio Spurs vs Portland Trail Blazers Live Streams" group-title="Live",San Antonio Spurs vs Portland Trail Blazers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48474/load-playlist
+
 #EXTINF:-1 tvg-name="Cleveland Cavaliers vs Atlanta Hawks Live Streams" group-title="Live",Cleveland Cavaliers vs Atlanta Hawks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -17,36 +23,6 @@ https://red2.wecanfix8.space/playlist/48532/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48531/load-playlist
 
-#EXTINF:-1 tvg-name="San Antonio Spurs vs Portland Trail Blazers Live Streams" group-title="Live",San Antonio Spurs vs Portland Trail Blazers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48474/load-playlist
-
-#EXTINF:-1 tvg-name="San Francisco Giants vs Philadelphia Phillies Live Streams" group-title="Live",San Francisco Giants vs Philadelphia Phillies Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48521/load-playlist
-
-#EXTINF:-1 tvg-name="Washington Nationals vs St. Louis Cardinals Live Streams" group-title="Live",Washington Nationals vs St. Louis Cardinals Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48489/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Angels vs Atlanta Braves Live Streams" group-title="Live",Los Angeles Angels vs Atlanta Braves Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48524/load-playlist
-
-#EXTINF:-1 tvg-name="New York Mets vs Arizona Diamondbacks Live Streams" group-title="Live",New York Mets vs Arizona Diamondbacks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48522/load-playlist
-
 #EXTINF:-1 tvg-name="Miami Marlins vs Cincinnati Reds Live Streams" group-title="Live",Miami Marlins vs Cincinnati Reds Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -64,6 +40,12 @@ https://red2.wecanfix8.space/playlist/48526/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48533/load-playlist
+
+#EXTINF:-1 tvg-name="Minnesota Twins vs Detroit Tigers Live Streams" group-title="Live",Minnesota Twins vs Detroit Tigers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48534/load-playlist
 
 #EXTINF:-1 tvg-name="New York Rangers vs Buffalo Sabres Live Streams" group-title="Live",New York Rangers vs Buffalo Sabres Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
