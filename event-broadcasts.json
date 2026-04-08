@@ -617,35 +617,5 @@
         "deeplink": null
       }
     ]
-  },
-  "401862886": {
-    "title": "Bayern Munich at Real Madrid",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/bf68f1bc-5c9e-4c20-ad7b-2a7516153839"
-      }
-    ]
-  },
-  "401862888": {
-    "title": "Arsenal at Sporting CP",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/bc4e8b63-94b3-4def-88b4-5efb62010ff3"
-      }
-    ]
   }
 }
