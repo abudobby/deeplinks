@@ -13,7 +13,6 @@
   ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights" },
-    { "title": "College Basketball Highlights", "path": "college_basketball_highlights" },
     { "title": "Sound Bites", "path": "reactions" }
   ]
 }
