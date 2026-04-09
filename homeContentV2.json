@@ -1,0 +1,16 @@
+{
+  "gameShelfs": [
+    { "league": "nhl", "title": "NHL" },
+    { "league": "nba",  "title": "NBA"  },
+    { "league": "nfl",  "title": "NFL"  },
+    { "league": "eng.1",  "title": "Premier League" },
+    { "league": "uefa.champions",  "title": "Champions League"  },
+    { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
+    { "league": "mlb",  "title": "MLB"}
+  ],
+  "mediaShelfs": [
+    { "title": "NBA Highlights", "path": "nba_highlights" },
+    { "title": "College Basketball Highlights", "path": "college_basketball_highlights" },
+    { "title": "Sound Bites", "path": "reactions" }
+  ]
+}
