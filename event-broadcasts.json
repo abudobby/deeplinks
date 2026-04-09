@@ -347,35 +347,5 @@
         "deeplink": null
       }
     ]
-  },
-  "401862885": {
-    "title": "Liverpool at Paris Saint-Germain",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/9425f081-2914-420e-9999-ec00abb919d9"
-      }
-    ]
-  },
-  "401862887": {
-    "title": "Atlético Madrid at Barcelona",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/9aa73cc2-291d-4f30-964a-e58638a2bcf9"
-      }
-    ]
   }
 }
