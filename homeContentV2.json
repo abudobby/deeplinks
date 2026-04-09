@@ -1,5 +1,6 @@
 {
   "gameShelfs": [
+    { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
     { "league": "nhl", "title": "NHL" },
     { "league": "nba",  "title": "NBA"  },
     { "league": "nfl",  "title": "NFL"  },
