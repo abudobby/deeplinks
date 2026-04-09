@@ -1,34 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Denver Nuggets vs Memphis Grizzlies Live Streams" group-title="Live",Denver Nuggets vs Memphis Grizzlies Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48538/load-playlist
-
-#EXTINF:-1 tvg-name="San Antonio Spurs vs Portland Trail Blazers Live Streams" group-title="Live",San Antonio Spurs vs Portland Trail Blazers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48539/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Clippers vs Oklahoma City Thunder Live Streams" group-title="Live",Los Angeles Clippers vs Oklahoma City Thunder Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48543/load-playlist
-
-#EXTINF:-1 tvg-name="Phoenix Suns vs Dallas Mavericks Live Streams" group-title="Live",Phoenix Suns vs Dallas Mavericks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48544/load-playlist
-
-#EXTINF:-1 tvg-name="San Jose Sharks vs Edmonton Oilers Live Streams" group-title="Live",San Jose Sharks vs Edmonton Oilers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48541/load-playlist
-
 #EXTINF:-1 tvg-name="CD Toluca vs LA Galaxy Live Streams" group-title="Live",CD Toluca vs LA Galaxy Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
