@@ -2,7 +2,8 @@ const PLAYLISTS = {
   nba: "PLlVlyGVtvuVlek5UOvwJaRDtuAI1FgGZf",
   "mens-college-basketball": "PLXCWZ2G0LOasfGYXzgE7mZajWMRYSCG0E",
   nhl: "PL1NbHSfosBuFyu867mbHHhB2G6fx7jtiH",
-  "europa-league": "PLF1A3xcj_XjauRnOMIAX0CQbMhJbbcDvN"
+  "europa-league": "PLF1A3xcj_XjauRnOMIAX0CQbMhJbbcDvN",
+  "europa-conference-league": "PLF1A3xcj_XjYWfzeXvnO8Uy8K3Q8JIQ5z"
 };
 
 const fetchPage = async (url) => {
