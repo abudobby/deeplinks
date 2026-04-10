@@ -13,7 +13,8 @@
     { "league": "fra.1",  "title": "Ligue 1" },
     { "league": "usa.1",  "title": "MLS" },
     { "league": "esp.1",  "title": "La Liga" },
-    { "league": "ita.1",  "title": "Serie A" }
+    { "league": "ita.1",  "title": "Serie A" },
+    { "league": "ger.1",  "title": "Bundesliga" }
   ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights" },
