@@ -20,6 +20,7 @@
     { "title": "NBA Highlights", "path": "nba_highlights" },
     { "title": "NHL Highlights", "path": "nhl_highlights" },
      { "title": "UEFA Europa League Highlights", "path": "europa-league_highlights" },
-     { "title": "UEFA Europa Conference League Highlights", "path": "europa-conference-league_highlights" }
+     { "title": "UEFA Europa Conference League Highlights", "path": "europa-conference-league_highlights" },
+     { "title": "La Liga Highlights", "path": "la-liga_highlights" }
   ]
 }
