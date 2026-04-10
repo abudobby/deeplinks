@@ -13,6 +13,7 @@
   ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights" },
-    { "title": "Sound Bites", "path": "reactions" }
+    { "title": "NHL Highlights", "path": "nhl_highlights" },
+     { "title": "UEFA Europa League", "path": "europa-league_highlights" }
   ]
 }
