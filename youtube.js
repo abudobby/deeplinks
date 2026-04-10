@@ -1,6 +1,7 @@
 const PLAYLISTS = {
   nba: "PLlVlyGVtvuVlek5UOvwJaRDtuAI1FgGZf",
-  "mens-college-basketball": "PLXCWZ2G0LOasfGYXzgE7mZajWMRYSCG0E"
+  "mens-college-basketball": "PLXCWZ2G0LOasfGYXzgE7mZajWMRYSCG0E",
+  nhl: "PL1NbHSfosBuFyu867mbHHhB2G6fx7jtiH"
 };
 
 const fetchPage = async (url) => {
@@ -34,10 +35,6 @@ const getPlaylistUrls = async () => {
       .filter((item) => {
         const title = item.playlistVideoRenderer?.title?.runs?.[0]?.text || '';
         const lowerTitle = title.toLowerCase();
-
-        if (key === 'mens-college-basketball') {
-          return lowerTitle.includes('highlights');
-        }
         return lowerTitle.includes('highlights');
       })
       .map(({ playlistVideoRenderer: { videoId, title } }) => ({
