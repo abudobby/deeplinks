@@ -16,8 +16,8 @@
       }
     ]
   },
-  "401803610": {
-    "title": "Vegas Golden Knights at Seattle Kraken",
+  "748453": {
+    "title": "Girona at Real Madrid",
     "broadcasts": [
       {
         "id": 755,
@@ -29,24 +29,19 @@
           "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803610"
-      }
-    ]
-  },
-  "401803611": {
-    "title": "Vancouver Canucks at Los Angeles Kings",
-    "broadcasts": [
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748453"
+      },
       {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
+        "id": 738,
+        "name": "TSN",
+        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
         "isNational": false,
-        "type": "streaming",
+        "type": "tv",
         "searchTokens": [
-          "espn+"
+          "tsn"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803611"
+        "deeplink": null
       }
     ]
   },

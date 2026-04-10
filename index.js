@@ -12,7 +12,7 @@ const broadcasterMap = broadcasters.reduce((acc, broadcaster) => {
 
 async function fetchEvents() {
   try {
-    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?leagues=nba,nhl,uefa.champions,eng.1,mens-college-basketball&limit=200');
+    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?leagues=nba,nhl,uefa.champions,eng.1,mens-college-basketball,esp.1&limit=200');
     const data = await response.json();
         const peacockResponse = await searchPeacock()
         const nbcResponse = await fetchNBCSportsData()
@@ -32,10 +32,12 @@ const peacockSchedule = peacockResponse.data.search.results
 
     
     // Create an object keyed by event ID
-const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName, watch }) => {
-  acc[id] = {
-    title: displayName,
-    broadcasts: watch.broadcasts.map(({ broadcasterId }) => {
+const tsnBroadcaster = broadcasterMap[738];
+
+const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName, watch, league }) => {
+  const isLaLiga = league?.slug === 'esp.1';
+
+  let broadcasts = watch.broadcasts.map(({ broadcasterId }) => {
       // Get full broadcaster info
       const broadcasterInfo = broadcasterMap[broadcasterId];
       let deeplink = null;
@@ -113,8 +115,22 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         excludedSearchTokens: broadcasterInfo?.excludedSearchTokens || [],
         deeplink: deeplink
       };
-    }).filter(broadcast => broadcasterMap[broadcast.id]) // Only include known broadcasters
-  };
+    }).filter(broadcast => broadcasterMap[broadcast.id]); // Only include known broadcasters
+
+  if (isLaLiga && tsnBroadcaster && !broadcasts.some(b => b.id === 738)) {
+    broadcasts.push({
+      id: 738,
+      name: tsnBroadcaster.name,
+      logoUrl: tsnBroadcaster.logoUrl,
+      isNational: tsnBroadcaster.isNational,
+      type: tsnBroadcaster.type,
+      searchTokens: tsnBroadcaster.searchTokens,
+      excludedSearchTokens: tsnBroadcaster.excludedSearchTokens || [],
+      deeplink: null
+    });
+  }
+
+  acc[id] = { title: displayName, broadcasts };
   return acc;
 }, {});
     

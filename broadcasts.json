@@ -484,5 +484,13 @@
      "isNational": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
     "searchTokens": ["usa network"]
+  },
+  {
+    "id": 738,
+    "name": "TSN",
+    "type": "tv",
+    "isNational": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+    "searchTokens": ["tsn"]
   }
 ]
