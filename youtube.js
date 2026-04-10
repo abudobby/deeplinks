@@ -11,8 +11,6 @@ const fetchPage = async (url) => {
 };
 
 const getPlaylistUrls = async () => {
-  const result = {};
-
   for (const [key, playlistId] of Object.entries(PLAYLISTS)) {
     const html = await fetchPage(`https://www.youtube.com/playlist?list=${playlistId}`);
 
@@ -44,19 +42,11 @@ const getPlaylistUrls = async () => {
         thumbnail: `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`
       }));
 
-    result[key] = videos;
+    const limited = videos.slice(0, 15);
+    const filename = `${key}_highlights.json`;
+    await fs.writeFile(filename, JSON.stringify(limited, null, 2));
+    console.log(`✓ Saved ${limited.length} highlights to ${filename}`);
   }
-
-  // Limit to 15 videos per category
-  Object.keys(result).forEach(key => {
-    result[key] = result[key].slice(0, 15);
-  });
-
-  console.log(JSON.stringify(result, null, 2));
-
-  // Save to file
-  await fs.writeFile('highlights.json', JSON.stringify(result, null, 2));
-  console.log('\n✓ Saved to highlights.json');
 };
 
 getPlaylistUrls().catch((err) => {
