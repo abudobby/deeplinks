@@ -32,11 +32,7 @@ const peacockSchedule = peacockResponse.data.search.results
 
     
     // Create an object keyed by event ID
-const tsnBroadcaster = broadcasterMap[738];
-
 const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName, watch, league }) => {
-  const isLaLiga = league?.slug === 'esp.1';
-
   let broadcasts = watch.broadcasts.map(({ broadcasterId }) => {
       // Get full broadcaster info
       const broadcasterInfo = broadcasterMap[broadcasterId];
@@ -116,19 +112,6 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         deeplink: deeplink
       };
     }).filter(broadcast => broadcasterMap[broadcast.id]); // Only include known broadcasters
-
-  if (isLaLiga && tsnBroadcaster && !broadcasts.some(b => b.id === 738)) {
-    broadcasts.push({
-      id: 738,
-      name: tsnBroadcaster.name,
-      logoUrl: tsnBroadcaster.logoUrl,
-      isNational: tsnBroadcaster.isNational,
-      type: tsnBroadcaster.type,
-      searchTokens: tsnBroadcaster.searchTokens,
-      excludedSearchTokens: tsnBroadcaster.excludedSearchTokens || [],
-      deeplink: null
-    });
-  }
 
   acc[id] = { title: displayName, broadcasts };
   return acc;

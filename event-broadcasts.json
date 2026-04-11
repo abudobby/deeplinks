@@ -79,18 +79,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748447"
-      },
-      {
-        "id": 738,
-        "name": "TSN",
-        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
@@ -108,18 +96,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748449"
-      },
-      {
-        "id": 738,
-        "name": "TSN",
-        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
@@ -137,18 +113,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748450"
-      },
-      {
-        "id": 738,
-        "name": "TSN",
-        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
@@ -166,18 +130,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748452"
-      },
-      {
-        "id": 738,
-        "name": "TSN",
-        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
@@ -492,60 +444,6 @@
         "type": "tv",
         "searchTokens": [
           "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401811040": {
-    "title": "Phoenix Suns at Los Angeles Lakers",
-    "broadcasts": [
-      {
-        "id": 966,
-        "name": "Arizona's Family 3TV",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "arizona's",
-          "family",
-          "3tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 887,
-        "name": "NBA League Pass",
-        "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "gametime://game/0022501185"
-      },
-      {
-        "id": 912,
-        "name": "Spectrum SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "spectrum sportsnet"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 1193,
-        "name": "Suns Live",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "suns",
-          "live"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
