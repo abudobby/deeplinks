@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Plymouth Argyle vs Exeter City Live Streams" group-title="Live",Plymouth Argyle vs Exeter City Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48693/load-playlist
-
-#EXTINF:-1 tvg-name="Arsenal vs Bournemouth Live Streams" group-title="Live",Arsenal vs Bournemouth Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48689/load-playlist
-
 #EXTINF:-1 tvg-name="Brentford vs Everton Live Streams" group-title="Live",Brentford vs Everton Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -23,23 +11,11 @@ https://red2.wecanfix8.space/playlist/48704/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48706/load-playlist
 
-#EXTINF:-1 tvg-name="Real Sociedad vs Deportivo Alavés Live Streams" group-title="Live",Real Sociedad vs Deportivo Alavés Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48691/load-playlist
-
 #EXTINF:-1 tvg-name="Elche vs Valencia Live Streams" group-title="Live",Elche vs Valencia Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48707/load-playlist
-
-#EXTINF:-1 tvg-name="Norwich City vs Ipswich Town Live Streams" group-title="Live",Norwich City vs Ipswich Town Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48659/load-playlist
 
 #EXTINF:-1 tvg-name="Cagliari vs Cremonese Live Streams" group-title="Live",Cagliari vs Cremonese Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
