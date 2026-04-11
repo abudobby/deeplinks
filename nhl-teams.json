@@ -28,5 +28,7 @@
   { "id": "s:70l:90t:27", "name": "Canadiens", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/27.png" },
   { "id": "s:70l:90t:28", "name": "Predators", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/28.png" },
   { "id": "s:70l:90t:29", "name": "Blues", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/29.png" },
-  { "id": "s:70l:90t:30", "name": "Sabres (alt)", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/30.png" }
+  { "id": "s:70l:90t:37", "name": "Golden Knights", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/37.png" },
+  { "id": "s:70l:90t:39", "name": "Kraken", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/39.png" },
+  { "id": "s:70l:90t:40", "name": "Mammoth", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/40.png" }
 ]
