@@ -29,29 +29,17 @@ https://red2.wecanfix8.space/playlist/48745/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48749/load-playlist
 
-#EXTINF:-1 tvg-name="Austin FC vs LA Galaxy Live Streams" group-title="Live",Austin FC vs LA Galaxy Live Streams
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs New York Yankees Live Streams" group-title="Live",Tampa Bay Rays vs New York Yankees Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48734/load-playlist
-
-#EXTINF:-1 tvg-name="CF Montréal vs Philadelphia Union Live Streams" group-title="Live",CF Montréal vs Philadelphia Union Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48736/load-playlist
+https://red2.wecanfix8.space/playlist/48763/load-playlist
 
 #EXTINF:-1 tvg-name="Portland Timbers vs Los Angeles FC Live Streams" group-title="Live",Portland Timbers vs Los Angeles FC Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48752/load-playlist
-
-#EXTINF:-1 tvg-name="Sevilla vs Atlético Madrid Live Streams" group-title="Live",Sevilla vs Atlético Madrid Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48738/load-playlist
 
 #EXTINF:-1 tvg-name="Pittsburgh Penguins vs Washington Capitals Live Streams" group-title="Live",Pittsburgh Penguins vs Washington Capitals Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -94,12 +82,6 @@ https://red2.wecanfix8.space/playlist/48758/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48757/load-playlist
-
-#EXTINF:-1 tvg-name="Atalanta vs Juventus Live Streams" group-title="Live",Atalanta vs Juventus Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48737/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
