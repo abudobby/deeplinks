@@ -17,11 +17,11 @@
     { "league": "ger.1",  "title": "Bundesliga" }
   ],
   "mediaShelfs": [
-    { "title": "NBA Highlights", "path": "nba_highlights" },
-    { "title": "NHL Highlights", "path": "nhl_highlights" },
-     { "title": "UEFA Europa League Highlights", "path": "europa-league_highlights" },
-     { "title": "UEFA Europa Conference League Highlights", "path": "europa-conference-league_highlights" },
-     { "title": "La Liga Highlights", "path": "la-liga_highlights" },
-     { "title": "Serie A Highlights", "path": "serie-a_highlights" }
+    { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },
+    { "title": "NHL Highlights", "path": "nhl_highlights", "league": "nhl" },
+    { "title": "UEFA Europa League Highlights", "path": "europa-league_highlights", "league": "uefa.europa" },
+    { "title": "UEFA Europa Conference League Highlights", "path": "europa-conference-league_highlights", "league": "uefa.europa.conf" },
+    { "title": "La Liga Highlights", "path": "la-liga_highlights", "league": "esp.1" },
+    { "title": "Serie A Highlights", "path": "serie-a_highlights", "league": "ita.1" }
   ]
 }
