@@ -71,12 +71,6 @@ https://red2.wecanfix8.space/playlist/48482/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48835/load-playlist
 
-#EXTINF:-1 tvg-name="Chicago Cubs vs Pittsburgh Pirates Live Streams" group-title="Live",Chicago Cubs vs Pittsburgh Pirates Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48841/load-playlist
-
 #EXTINF:-1 tvg-name="Los Angeles Dodgers vs Texas Rangers Live Streams" group-title="Live",Los Angeles Dodgers vs Texas Rangers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -87,13 +81,13 @@ https://red2.wecanfix8.space/playlist/48849/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48854/load-playlist
+https://red2.wecanfix8.space/playlist/48853/load-playlist
 
 #EXTINF:-1 tvg-name="Seattle Mariners vs Houston Astros Live Streams" group-title="Live",Seattle Mariners vs Houston Astros Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48851/load-playlist
+https://red2.wecanfix8.space/playlist/48852/load-playlist
 
 #EXTINF:-1 tvg-name="St. Louis Battlehawks vs Birmingham Stallions Live Streams" group-title="Live",St. Louis Battlehawks vs Birmingham Stallions Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -101,11 +95,11 @@ https://red2.wecanfix8.space/playlist/48851/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48843/load-playlist
 
-#EXTINF:-1 tvg-name="Washington Capitals vs Pittsburgh Penguins Live Streams" group-title="Live",Washington Capitals vs Pittsburgh Penguins Live Streams
+#EXTINF:-1 tvg-name="Columbus Crew vs Orlando City SC Live Streams" group-title="Live",Columbus Crew vs Orlando City SC Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48846/load-playlist
+https://red2.wecanfix8.space/playlist/48872/load-playlist
 
 #EXTINF:-1 tvg-name="Columbus Blue Jackets vs Boston Bruins Live Streams" group-title="Live",Columbus Blue Jackets vs Boston Bruins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -118,6 +112,12 @@ https://red2.wecanfix8.space/playlist/48868/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48864/load-playlist
+
+#EXTINF:-1 tvg-name="New Jersey Devils vs Ottawa Senators Live Streams" group-title="Live",New Jersey Devils vs Ottawa Senators Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48871/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
