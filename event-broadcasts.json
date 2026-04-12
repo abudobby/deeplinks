@@ -16,23 +16,6 @@
       }
     ]
   },
-  "748445": {
-    "title": "Rayo Vallecano at Mallorca",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748445"
-      }
-    ]
-  },
   "748448": {
     "title": "Real Oviedo at Celta Vigo",
     "broadcasts": [
@@ -436,6 +419,18 @@
     "title": "Chicago Bulls at Dallas Mavericks",
     "broadcasts": [
       {
+        "id": 1125,
+        "name": "Chicago Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "chicago sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
         "id": 1165,
         "name": "KFAA",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
@@ -822,7 +817,21 @@
   },
   "401814906": {
     "title": "Los Angeles Angels at Cincinnati Reds",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 844,
+        "name": "FanDuel Sports Network West",
+        "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "fanduel",
+          "west"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401814907": {
     "title": "Arizona Diamondbacks at Philadelphia Phillies",
@@ -948,7 +957,20 @@
   },
   "401814915": {
     "title": "Chicago White Sox at Kansas City Royals",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 1125,
+        "name": "Chicago Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "chicago sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401814916": {
     "title": "Pittsburgh Pirates at Chicago Cubs",
