@@ -131,35 +131,6 @@
       }
     ]
   },
-  "401803626": {
-    "title": "Vancouver Canucks at San Jose Sharks",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=401803626"
-      },
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401803627": {
     "title": "Pittsburgh Penguins at Washington Capitals",
     "broadcasts": [
