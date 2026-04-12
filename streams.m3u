@@ -1,39 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="San Diego Padres vs Colorado Rockies Live Streams" group-title="Live",San Diego Padres vs Colorado Rockies Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48790/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Dodgers vs Texas Rangers Live Streams" group-title="Live",Los Angeles Dodgers vs Texas Rangers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48791/load-playlist
-
-#EXTINF:-1 tvg-name="Seattle Mariners vs Houston Astros Live Streams" group-title="Live",Seattle Mariners vs Houston Astros Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48794/load-playlist
-
 #EXTINF:-1 tvg-name="Falkirk FC vs Rangers Live Streams" group-title="Live",Falkirk FC vs Rangers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48797/load-playlist
 
-#EXTINF:-1 tvg-name="Colorado Rapids vs Houston Dynamo Live Streams" group-title="Live",Colorado Rapids vs Houston Dynamo Live Streams
+#EXTINF:-1 tvg-name="Chelsea vs Manchester City Live Streams" group-title="Live",Chelsea vs Manchester City Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48793/load-playlist
-
-#EXTINF:-1 tvg-name="San Diego FC vs Minnesota United Live Streams" group-title="Live",San Diego FC vs Minnesota United Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/48800/load-playlist
+https://red2.wecanfix8.space/playlist/48799/load-playlist
 
 #EXTINF:-1 tvg-name="San Jose Sharks vs Vancouver Canucks Live Streams" group-title="Live",San Jose Sharks vs Vancouver Canucks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
