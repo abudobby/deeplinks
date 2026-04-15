@@ -389,36 +389,6 @@
       }
     ]
   },
-  "401862889": {
-    "title": "Paris Saint-Germain at Liverpool",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/3cbeeabb-3702-4183-a932-05c541140583"
-      }
-    ]
-  },
-  "401862892": {
-    "title": "Barcelona at Atlético Madrid",
-    "broadcasts": [
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/e2570fde-d77d-4d96-a16c-1b4711478dd1"
-      }
-    ]
-  },
   "401866754": {
     "title": "Portland Trail Blazers at Phoenix Suns",
     "broadcasts": [
