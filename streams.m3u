@@ -5,6 +5,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48971/load-playlist
 
+#EXTINF:-1 tvg-name="Phoenix Suns vs Portland Trail Blazers Live Streams" group-title="Live",Phoenix Suns vs Portland Trail Blazers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48986/load-playlist
+
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Arizona Diamondbacks Live Streams" group-title="Live",Baltimore Orioles vs Arizona Diamondbacks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -77,6 +83,18 @@ https://red2.wecanfix8.space/playlist/48980/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48983/load-playlist
 
+#EXTINF:-1 tvg-name="Athletics vs Texas Rangers Live Streams" group-title="Live",Athletics vs Texas Rangers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48990/load-playlist
+
+#EXTINF:-1 tvg-name="San Diego Padres vs Seattle Mariners Live Streams" group-title="Live",San Diego Padres vs Seattle Mariners Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48992/load-playlist
+
 #EXTINF:-1 tvg-name="Boston Bruins vs New Jersey Devils Live Streams" group-title="Live",Boston Bruins vs New Jersey Devils Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -106,6 +124,24 @@ https://red2.wecanfix8.space/playlist/48963/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/48981/load-playlist
+
+#EXTINF:-1 tvg-name="Calgary Flames vs Colorado Avalanche Live Streams" group-title="Live",Calgary Flames vs Colorado Avalanche Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48985/load-playlist
+
+#EXTINF:-1 tvg-name="Utah Mammoth vs Winnipeg Jets Live Streams" group-title="Live",Utah Mammoth vs Winnipeg Jets Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48984/load-playlist
+
+#EXTINF:-1 tvg-name="St. Louis Blues vs Pittsburgh Penguins Live Streams" group-title="Live",St. Louis Blues vs Pittsburgh Penguins Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/48988/load-playlist
 
 #EXTINF:-1 tvg-name="Cruz Azul vs Los Angeles FC Live Streams" group-title="Live",Cruz Azul vs Los Angeles FC Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
