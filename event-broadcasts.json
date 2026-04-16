@@ -61,7 +61,12 @@
           "espn 2",
           "espn news",
           "espn plus",
-          "espn+"
+          "espn+",
+          "espn2",
+          "espnnews",
+          "espnu",
+          "espn u",
+          "espn deportes"
         ],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
       }
@@ -130,7 +135,12 @@
           "espn 2",
           "espn news",
           "espn plus",
-          "espn+"
+          "espn+",
+          "espn2",
+          "espnnews",
+          "espnu",
+          "espn u",
+          "espn deportes"
         ],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
       },
@@ -186,27 +196,6 @@
     "title": "Kansas City Royals at Detroit Tigers",
     "broadcasts": []
   },
-  "401814964": {
-    "title": "San Francisco Giants at Cincinnati Reds",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401814965": {
-    "title": "Washington Nationals at Pittsburgh Pirates",
-    "broadcasts": []
-  },
   "401814966": {
     "title": "Colorado Rockies at Houston Astros",
     "broadcasts": [
@@ -237,25 +226,6 @@
           "chicago sports network"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401814968": {
-    "title": "Toronto Blue Jays at Milwaukee Brewers",
-    "broadcasts": [
-      {
-        "id": 722,
-        "name": "SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet"
-        ],
-        "excludedSearchTokens": [
-          "spectrum"
-        ],
         "deeplink": null
       }
     ]
