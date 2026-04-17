@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Baltimore Orioles Live Streams" group-title="Live",Cleveland Guardians vs Baltimore Orioles Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49071/load-playlist
-
 #EXTINF:-1 tvg-name="Houston Astros vs Colorado Rockies Live Streams" group-title="Live",Houston Astros vs Colorado Rockies Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49080/load-playlist
+https://red2.wecanfix8.space/playlist/49081/load-playlist
+
+#EXTINF:-1 tvg-name="San Diego Padres vs Seattle Mariners Live Streams" group-title="Live",San Diego Padres vs Seattle Mariners Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/49083/load-playlist
 
 #EXTINF:-1 tvg-name="Houston Gamblers vs Louisville Kings Live Streams" group-title="Live",Houston Gamblers vs Louisville Kings Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -34,6 +34,18 @@ https://red2.wecanfix8.space/playlist/49075/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/49076/load-playlist
+
+#EXTINF:-1 tvg-name="Calgary Flames vs Los Angeles Kings Live Streams" group-title="Live",Calgary Flames vs Los Angeles Kings Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/49084/load-playlist
+
+#EXTINF:-1 tvg-name="Edmonton Oilers vs Vancouver Canucks Live Streams" group-title="Live",Edmonton Oilers vs Vancouver Canucks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/49086/load-playlist
 
 #EXTINF:-1 tvg-name="Blackburn Rovers vs Coventry City Live Streams" group-title="Live",Blackburn Rovers vs Coventry City Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
