@@ -80,10 +80,6 @@
       }
     ]
   },
-  "401814984": {
-    "title": "Texas Rangers at Seattle Mariners",
-    "broadcasts": []
-  },
   "401814986": {
     "title": "Atlanta Braves at Philadelphia Phillies",
     "broadcasts": [
@@ -247,21 +243,6 @@
   "401815000": {
     "title": "Toronto Blue Jays at Arizona Diamondbacks",
     "broadcasts": []
-  },
-  "401866759": {
-    "title": "Golden State Warriors at Phoenix Suns",
-    "broadcasts": [
-      {
-        "id": 763,
-        "name": "Prime Video",
-        "logoUrl": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w480-h960",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.feb4711f-e7a8-48cd-95d0-8ab065db2312"
-      }
-    ]
   },
   "401869187": {
     "title": "Toronto Raptors at Cleveland Cavaliers",
