@@ -1,85 +1,4 @@
 {
-  "740918": {
-    "title": "AFC Bournemouth at Newcastle United",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "740920": {
-    "title": "Brighton & Hove Albion at Tottenham Hotspur",
-    "broadcasts": [
-      {
-        "id": 379,
-        "name": "NBC",
-        "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "kare"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "740921": {
-    "title": "Fulham at Brentford",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "740922": {
-    "title": "Manchester United at Chelsea",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22c45a81d1-a08e-3ad3-83ea-b01e14e81154%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "740924": {
-    "title": "Wolverhampton Wanderers at Leeds United",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%227431a2ec-c857-3942-bfd4-fdf93b89c762%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
   "401814986": {
     "title": "Atlanta Braves at Philadelphia Phillies",
     "broadcasts": [
@@ -101,58 +20,8 @@
     "title": "Baltimore Orioles at Cleveland Guardians",
     "broadcasts": []
   },
-  "401814988": {
-    "title": "Detroit Tigers at Boston Red Sox",
-    "broadcasts": []
-  },
-  "401814989": {
-    "title": "Kansas City Royals at New York Yankees",
-    "broadcasts": [
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401814990": {
-    "title": "Milwaukee Brewers at Miami Marlins",
-    "broadcasts": []
-  },
-  "401814991": {
-    "title": "San Francisco Giants at Washington Nationals",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401814992": {
     "title": "Tampa Bay Rays at Pittsburgh Pirates",
-    "broadcasts": []
-  },
-  "401814993": {
-    "title": "Cincinnati Reds at Minnesota Twins",
-    "broadcasts": []
-  },
-  "401814994": {
-    "title": "New York Mets at Chicago Cubs",
     "broadcasts": []
   },
   "401814995": {
@@ -175,35 +44,6 @@
   "401814996": {
     "title": "Los Angeles Dodgers at Colorado Rockies",
     "broadcasts": []
-  },
-  "401814997": {
-    "title": "Chicago White Sox at Athletics",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 892,
-        "name": "NBC Sports California",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports california"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
   },
   "401814998": {
     "title": "San Diego Padres at Los Angeles Angels",
@@ -244,36 +84,6 @@
     "title": "Toronto Blue Jays at Arizona Diamondbacks",
     "broadcasts": []
   },
-  "401869187": {
-    "title": "Toronto Raptors at Cleveland Cavaliers",
-    "broadcasts": [
-      {
-        "id": 763,
-        "name": "Prime Video",
-        "logoUrl": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w480-h960",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.3886d74a-9043-4961-9fec-4ff03c5ec984"
-      }
-    ]
-  },
-  "401869188": {
-    "title": "Minnesota Timberwolves at Denver Nuggets",
-    "broadcasts": [
-      {
-        "id": 763,
-        "name": "Prime Video",
-        "logoUrl": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w480-h960",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.5888a6a4-2bcd-478b-b314-889a1a5317b9"
-      }
-    ]
-  },
   "401869189": {
     "title": "Atlanta Hawks at New York Knicks",
     "broadcasts": [
@@ -303,60 +113,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401869715": {
-    "title": "Ottawa Senators at Carolina Hurricanes",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
-  "401869716": {
-    "title": "Minnesota Wild at Dallas Stars",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
       }
     ]
   },
