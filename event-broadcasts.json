@@ -6,57 +6,11 @@
         "id": 379,
         "name": "NBC",
         "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
           "kare"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "740917": {
-    "title": "Burnley at Nottingham Forest",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22f7962bbd-da79-3e15-9f75-e6bd17a79ed7%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "740919": {
-    "title": "Sunderland at Aston Villa",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22f189dea9-a01b-35ab-af39-afdf44f1e941%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "740925": {
-    "title": "Liverpool at Everton",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -70,6 +24,7 @@
         "id": 789,
         "name": "Peacock",
         "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "hasLocalAffiliate": false,
         "isNational": true,
         "type": "streaming",
         "searchTokens": [],
@@ -93,6 +48,7 @@
         "id": 600,
         "name": "YES Network",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
@@ -114,6 +70,7 @@
         "id": 890,
         "name": "NBC Sports Bay Area",
         "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
@@ -143,6 +100,7 @@
         "id": 962,
         "name": "Space City Home Network",
         "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
+        "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
@@ -164,6 +122,7 @@
         "id": 1125,
         "name": "Chicago Sports Network",
         "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+        "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
@@ -176,6 +135,7 @@
         "id": 892,
         "name": "NBC Sports California",
         "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
@@ -193,6 +153,7 @@
         "id": 844,
         "name": "FanDuel Sports Network West",
         "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
+        "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
@@ -219,6 +180,7 @@
         "id": 2,
         "name": "ABC",
         "logoUrl": "https://www.newscaststudio.com/wp-content/uploads/2021/05/abc-old-logo.jpg",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
@@ -236,6 +198,7 @@
         "id": 2,
         "name": "ABC",
         "logoUrl": "https://www.newscaststudio.com/wp-content/uploads/2021/05/abc-old-logo.jpg",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
@@ -253,6 +216,7 @@
         "id": 379,
         "name": "NBC",
         "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
@@ -265,6 +229,7 @@
         "id": 789,
         "name": "Peacock",
         "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "hasLocalAffiliate": false,
         "isNational": true,
         "type": "streaming",
         "searchTokens": [],
@@ -280,6 +245,7 @@
         "id": 379,
         "name": "NBC",
         "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
@@ -292,6 +258,7 @@
         "id": 789,
         "name": "Peacock",
         "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "hasLocalAffiliate": false,
         "isNational": true,
         "type": "streaming",
         "searchTokens": [],
@@ -311,6 +278,7 @@
         "id": 126,
         "name": "ESPN",
         "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "hasLocalAffiliate": false,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
@@ -338,6 +306,7 @@
         "id": 126,
         "name": "ESPN",
         "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "hasLocalAffiliate": false,
         "isNational": true,
         "type": "tv",
         "searchTokens": [

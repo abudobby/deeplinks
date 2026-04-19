@@ -105,6 +105,7 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         id: broadcasterId,
         name: broadcasterInfo?.name || 'Unknown',
         logoUrl: broadcasterInfo?.logoUrl || null,
+        hasLocalAffiliate: broadcasterInfo?.hasLocalAffiliate || false,
         isNational: broadcasterInfo?.isNational || false,
         type: broadcasterInfo?.type || null,
         searchTokens: broadcasterInfo?.searchTokens || [],
