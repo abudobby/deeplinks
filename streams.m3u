@@ -101,6 +101,12 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
+#EXTINF:-1 tvg-name="Philadelphia Phillies vs Atlanta Braves Live Streams" group-title="Live",Philadelphia Phillies vs Atlanta Braves Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+
 #EXTINF:-1 tvg-name="Paris Saint-Germain vs Olympique Lyonnais Live Streams" group-title="Live",Paris Saint-Germain vs Olympique Lyonnais Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -111,19 +117,19 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/49241?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Everton vs Liverpool Live Streams" group-title="Live",Everton vs Liverpool Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/49238?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Nottingham Forest vs Burnley Live Streams" group-title="Live",Nottingham Forest vs Burnley Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/49240?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Manchester City vs Arsenal Live Streams" group-title="Live",Manchester City vs Arsenal Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -138,6 +144,12 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Tampa Bay Lightning vs Montréal Canadiens Live Streams" group-title="Live",Tampa Bay Lightning vs Montréal Canadiens Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Buffalo Sabres vs Boston Bruins Live Streams" group-title="Live",Buffalo Sabres vs Boston Bruins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
