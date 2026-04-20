@@ -5,18 +5,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/49293?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Detroit Pistons vs Orlando Magic Live Streams" group-title="Live",Detroit Pistons vs Orlando Magic Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49292?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Detroit Pistons vs Orlando Magic Live Streams" group-title="Live",Detroit Pistons vs Orlando Magic Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49292?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="San Antonio Spurs vs Portland Trail Blazers Live Streams" group-title="Live",San Antonio Spurs vs Portland Trail Blazers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -29,12 +17,6 @@ https://red2.wecanfix8.space/playlist/49293?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/49289?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Tampa Bay Lightning vs Montréal Canadiens Live Streams" group-title="Live",Tampa Bay Lightning vs Montréal Canadiens Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49285?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Buffalo Sabres vs Boston Bruins Live Streams" group-title="Live",Buffalo Sabres vs Boston Bruins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -45,13 +27,7 @@ https://red2.wecanfix8.space/playlist/49291?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles FC vs San Jose Earthquakes Live Streams" group-title="Live",Los Angeles FC vs San Jose Earthquakes Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49288?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/49294?ad=1111/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
