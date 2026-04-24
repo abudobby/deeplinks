@@ -1,15 +1,27 @@
 {
   "gameShelfs": [
+    { "league": "uefa.europa", "title": "UEFA Europa League" },
+    { "league": "uefa.europa.conf", "title": "UEFA Europa Conference" },
+    { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
     { "league": "nhl", "title": "NHL" },
     { "league": "nba",  "title": "NBA"  },
     { "league": "nfl",  "title": "NFL"  },
     { "league": "eng.1",  "title": "Premier League" },
     { "league": "uefa.champions",  "title": "Champions League"  },
     { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
-    { "league": "mlb",  "title": "MLB"}
+    { "league": "mlb",  "title": "MLB"},
+    { "league": "fra.1",  "title": "Ligue 1" },
+    { "league": "usa.1",  "title": "MLS" },
+    { "league": "esp.1",  "title": "La Liga" },
+    { "league": "ita.1",  "title": "Serie A" },
+    { "league": "ger.1",  "title": "Bundesliga" }
   ],
   "mediaShelfs": [
-    { "title": "NBA Highlights", "path": "nba_highlights" },
-    { "title": "Sound Bites", "path": "reactions" }
+    { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },
+    { "title": "NHL Highlights", "path": "nhl_highlights", "league": "nhl" },
+    { "title": "UEFA Europa League Highlights", "path": "europa-league_highlights", "league": "uefa.europa" },
+    { "title": "UEFA Europa Conference League Highlights", "path": "europa-conference-league_highlights", "league": "uefa.europa.conf" },
+    { "title": "La Liga Highlights", "path": "la-liga_highlights", "league": "esp.1" },
+    { "title": "Serie A Highlights", "path": "serie-a_highlights", "league": "ita.1" }
   ]
 }
