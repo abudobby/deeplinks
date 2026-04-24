@@ -5,7 +5,6 @@
     { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
     { "league": "nhl", "title": "NHL" },
     { "league": "nba",  "title": "NBA"  },
-    { "league": "nfl",  "title": "NFL"  },
     { "league": "eng.1",  "title": "Premier League" },
     { "league": "uefa.champions",  "title": "Champions League"  },
     { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
