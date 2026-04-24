@@ -1,40 +1,4 @@
 {
-  "740933": {
-    "title": "Nottingham Forest at Sunderland",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "748457": {
-    "title": "Real Madrid at Real Betis",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748457"
-      }
-    ]
-  },
   "401815065": {
     "title": "Boston Red Sox at Baltimore Orioles",
     "broadcasts": []
@@ -187,7 +151,21 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.a1264eb3-97c1-4938-9f50-4c5e1d5c08e0"
+        "deeplink": null
+      },
+      {
+        "id": 104,
+        "name": "TSN4",
+        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "tsn4",
+          "tsn 4"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },
@@ -203,7 +181,21 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.b1dd1d8d-15d4-4453-86d9-7029b2446209"
+        "deeplink": null
+      },
+      {
+        "id": 104,
+        "name": "TSN4",
+        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "tsn4",
+          "tsn 4"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },
@@ -219,7 +211,21 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "aiv://aiv/detail?gti=amzn1.dv.gti.16fc8427-daae-48fa-befe-e09935698075"
+        "deeplink": null
+      },
+      {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },

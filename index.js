@@ -1,4 +1,5 @@
 import { writeFile, readFile } from 'fs/promises';
+import { fetchTSNGames } from './tsn.js';
 const raw = await readFile(
   new URL('./broadcasts.json', import.meta.url),
   'utf-8'
@@ -18,6 +19,7 @@ async function fetchEvents() {
         const nbcResponse = await fetchNBCSportsData()
         const paramountResponse = await fetchParamountSportsData()
         const primeVideoResponse = await fetchPrimeVideoSportsData()
+        const tsnGames = await fetchTSNGames()
 
 const peacockSchedule = peacockResponse.data.search.results
   .filter(item => {
@@ -33,6 +35,8 @@ const peacockSchedule = peacockResponse.data.search.results
     
     // Create an object keyed by event ID
 const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName, watch, league }) => {
+  const gameTitle = `${competitors[1].team.name} vs. ${competitors[0].team.name}`;
+
   let broadcasts = watch.broadcasts.map(({ broadcasterId }) => {
       // Get full broadcaster info
       const broadcasterInfo = broadcasterMap[broadcasterId];
@@ -56,8 +60,10 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         case 763: {
           let items = primeVideoResponse.resource.containers[0].standardCarousel.items
           const event = items.find(item => item.title === title);
-          deeplink = `aiv://aiv/detail?gti=${event.gti}`;
-          console.log(event.gti)
+          // console.log(event.gti)
+          //      if (event) {                                                                             
+          //        deeplink = `aiv://aiv/detail?gti=${event.gti}`;                                 
+          //     }  
          break
         }
         case 792: {
@@ -113,6 +119,24 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         deeplink: deeplink
       };
     }).filter(broadcast => broadcasterMap[broadcast.id]); // Only include known broadcasters
+
+  const tsnMatch = findBestMatch(gameTitle, tsnGames, 0.5);
+  if (tsnMatch?.channel) {
+    const { channel } = tsnMatch;
+    if (!broadcasts.some(b => b.id === channel.id)) {
+      broadcasts.push({
+        id: channel.id,
+        name: channel.name,
+        logoUrl: channel.logoUrl,
+        hasLocalAffiliate: channel.hasLocalAffiliate,
+        isNational: channel.isNational,
+        type: channel.type,
+        searchTokens: channel.searchTokens,
+        excludedSearchTokens: channel.excludedSearchTokens || [],
+        deeplink: null
+      });
+    }
+  }
 
   acc[id] = { title: displayName, broadcasts };
   return acc;
@@ -358,7 +382,7 @@ fetchEvents();
 
 
 
-function findBestMatch(searchString, array) {
+function findBestMatch(searchString, array, minScore = 0) {
   const normalize = (str) => {
     return str
       .toLowerCase()
@@ -408,5 +432,5 @@ function findBestMatch(searchString, array) {
       bestMatch = item;
     }
   }
-  return bestMatch;
+  return bestScore >= minScore ? bestMatch : null;
 }

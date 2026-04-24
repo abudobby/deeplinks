@@ -546,12 +546,48 @@
     "searchTokens": ["usa network"]
   },
   {
-    "id": 738,
-    "name": "TSN",
+    "id":101,
+    "name": "TSN1",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
-    "searchTokens": ["tsn"]
+    "searchTokens": ["tsn1","tsn 1"]
+  },
+      {
+    "id": 102,
+    "name": "TSN2",
+    "type": "tv",
+    "isNational": false,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+    "searchTokens": ["tsn2","tsn 2"]
+  },
+     {
+    "id": 103,
+    "name": "TSN3",
+    "type": "tv",
+    "isNational": false,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+    "searchTokens": ["tsn3","tsn 3"]
+  },
+     {
+    "id": 104,
+    "name": "TSN4",
+    "type": "tv",
+    "isNational": false,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+    "searchTokens": ["tsn4","tsn 4"]
+  },
+     {
+    "id": 105,
+    "name": "TSN5",
+    "type": "tv",
+    "isNational": false,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/xBFjzM2G5_tMY7RMGq3DLxLQdMEfH7iq1NNNFPLEpGEfFh9BzF1G8hBLSdDSBhTj4A=w480-h960",
+    "searchTokens": ["tsn5","tsn 5"]
   }
 ]
