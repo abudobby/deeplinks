@@ -1,7 +1,9 @@
 {
   "gameShelfs": [
-    { "league": "nba",  "title": "NBA"  }
-  ],
+    { "league": "nhl", "title": "NHL" },
+    { "league": "nba",  "title": "NBA"  },
+    { "league": "mlb",  "title": "MLB"}
+    ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },
     { "title": "NHL Highlights", "path": "nhl_highlights", "league": "nhl" },
