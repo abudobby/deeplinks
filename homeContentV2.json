@@ -1,20 +1,6 @@
 {
   "gameShelfs": [
-    { "league": "uefa.europa", "title": "UEFA Europa League" },
-    { "league": "uefa.europa.conf", "title": "UEFA Europa Conference" },
-    { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
-    { "league": "nhl", "title": "NHL" },
-    { "league": "nba",  "title": "NBA"  },
-    { "league": "nfl",  "title": "NFL"  },
-    { "league": "eng.1",  "title": "Premier League" },
-    { "league": "uefa.champions",  "title": "Champions League"  },
-    { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
-    { "league": "mlb",  "title": "MLB"},
-    { "league": "fra.1",  "title": "Ligue 1" },
-    { "league": "usa.1",  "title": "MLS" },
-    { "league": "esp.1",  "title": "La Liga" },
-    { "league": "ita.1",  "title": "Serie A" },
-    { "league": "ger.1",  "title": "Bundesliga" }
+    { "league": "nba",  "title": "NBA"  }
   ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },
