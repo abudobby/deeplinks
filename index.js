@@ -1,5 +1,6 @@
 import { writeFile, readFile } from 'fs/promises';
 import { fetchTSNGames } from './tsn.js';
+import { fetchSportsnetGames } from './sportsnet.js';
 const raw = await readFile(
   new URL('./broadcasts.json', import.meta.url),
   'utf-8'
@@ -20,6 +21,7 @@ async function fetchEvents() {
         const paramountResponse = await fetchParamountSportsData()
         const primeVideoResponse = await fetchPrimeVideoSportsData()
         const tsnGames = await fetchTSNGames()
+        const sportsnetGames = await fetchSportsnetGames()
 
 const peacockSchedule = peacockResponse.data.search.results
   .filter(item => {
@@ -134,6 +136,24 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         searchTokens: channel.searchTokens,
         excludedSearchTokens: channel.excludedSearchTokens || [],
         deeplink: null
+      });
+    }
+  }
+
+  const sportsnetMatch = findBestMatch(gameTitle, sportsnetGames, 0.5);
+  if (sportsnetMatch?.channel) {
+    const { channel, deeplink } = sportsnetMatch;
+    if (!broadcasts.some(b => b.id === channel.id)) {
+      broadcasts.push({
+        id: channel.id,
+        name: channel.name,
+        logoUrl: channel.logoUrl,
+        hasLocalAffiliate: channel.hasLocalAffiliate,
+        isNational: channel.isNational,
+        type: channel.type,
+        searchTokens: channel.searchTokens,
+        excludedSearchTokens: channel.excludedSearchTokens || [],
+        deeplink: deeplink
       });
     }
   }
