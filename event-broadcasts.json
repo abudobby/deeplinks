@@ -11,7 +11,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22ef3897c0-c3ad-31ac-83c4-0d95789b665d%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%224a640a1d-9b29-304f-9883-4d68140015ba%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -67,24 +67,6 @@
       }
     ]
   },
-  "740935": {
-    "title": "Aston Villa at Fulham",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "748454": {
     "title": "Girona at Valencia",
     "broadcasts": [
@@ -100,24 +82,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748454"
-      }
-    ]
-  },
-  "748455": {
-    "title": "Mallorca at Alavés",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748455"
       }
     ]
   },
@@ -179,10 +143,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401815082": {
-    "title": "Colorado Rockies at New York Mets",
-    "broadcasts": []
   },
   "401815083": {
     "title": "Detroit Tigers at Cincinnati Reds",
