@@ -1,9 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Orlando Magic vs Detroit Pistons Live Streams" group-title="Live",Orlando Magic vs Detroit Pistons Live Streams
+#EXTINF:-1 tvg-name="Phoenix Suns vs Oklahoma City Thunder Live Streams" group-title="Live",Phoenix Suns vs Oklahoma City Thunder Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49568?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/49586?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Atlanta Hawks vs New York Knicks Live Streams" group-title="Live",Atlanta Hawks vs New York Knicks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Phoenix Suns vs Oklahoma City Thunder Live Streams" group-title="Live",Phoenix Suns vs Oklahoma City Thunder Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -219,7 +225,7 @@ https://red2.wecanfix8.space/playlist/49583?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/49594?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/49596?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Washington Mystics vs Minnesota Lynx Live Streams" group-title="Live",Washington Mystics vs Minnesota Lynx Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
