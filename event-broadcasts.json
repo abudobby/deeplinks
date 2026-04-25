@@ -212,20 +212,6 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": null
-      },
-      {
-        "id": 105,
-        "name": "TSN5",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/af/eb/68/afeb68b8-dda6-af94-dda0-2c905f02deef/AppIcon-0-0-1x_U007epad-0-1-0-0-P3-85-220.png/1200x630wa.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn5",
-          "tsn 5"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
