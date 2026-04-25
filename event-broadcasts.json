@@ -182,17 +182,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      },
-      {
-        "id": null,
-        "name": "SN NOW",
-        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/snnow.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7c0r26smitc4uhccdo0"
       }
     ]
   },
@@ -361,17 +350,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      },
-      {
-        "id": null,
-        "name": "SN NOW",
-        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/snnow.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7c0r26smitc4uhccdo0"
       }
     ]
   },
@@ -568,15 +546,19 @@
         "deeplink": null
       },
       {
-        "id": null,
-        "name": "SN NOW",
-        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/snnow.png",
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
-        "searchTokens": [],
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7h4bbmsmitbprql70d0"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7h4ac6smit9hfkehgn0"
       }
     ]
   },

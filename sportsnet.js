@@ -47,7 +47,9 @@ const getDayRange = () => {
 
 const parseGames = (events) =>
   events
-    .filter(({ event_name }) => event_name.includes(' vs. ') || event_name.includes(' @ '))
+    .filter(({ event_name, channel_id }) =>
+      (event_name.includes(' vs. ') || event_name.includes(' @ ')) && channel_id.trim() !== ''
+    )
     .map(({ event_name, channel_id, primary_broadcaster, primary_broadcaster_img, start_time_utc, end_time_utc, deep_link_ios, league }) => ({
       title: event_name,
       matchTitle: toMatchTitle(event_name),
