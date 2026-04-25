@@ -140,10 +140,14 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
     }
   }
 
-  const sportsnetMatch = findBestMatch(gameTitle, sportsnetGames, 0.5);
-  if (sportsnetMatch?.channel) {
+  const sportsnetMatchable = sportsnetGames.map(g => ({ ...g, title: g.matchTitle }));
+  const sportsnetMatch = findBestMatch(displayName, sportsnetMatchable, 0.4);
+  if (sportsnetMatch) {
     const { channel, deeplink } = sportsnetMatch;
-    if (!broadcasts.some(b => b.id === channel.id)) {
+    const duplicate = channel.id !== null
+      ? broadcasts.some(b => b.id === channel.id)
+      : broadcasts.some(b => b.name === channel.name);
+    if (!duplicate) {
       broadcasts.push({
         id: channel.id,
         name: channel.name,
@@ -153,7 +157,7 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         type: channel.type,
         searchTokens: channel.searchTokens,
         excludedSearchTokens: channel.excludedSearchTokens || [],
-        deeplink: deeplink
+        deeplink
       });
     }
   }

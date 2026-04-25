@@ -642,7 +642,7 @@
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
-    "searchTokens": ["sportsnet 360", "sportsnet360"]
+    "searchTokens": ["sportsnet 360", "sportsnet360", "sn360"]
   },
    {
     "id": 108,
@@ -687,7 +687,7 @@
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
-    "searchTokens": ["sportsnet ontario", "sportsnetontario"]
+    "searchTokens": ["sportsnet ontario", "sportsnetontario", "snontario"]
    },
      {
     "id": 113,
@@ -696,6 +696,6 @@
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
-    "searchTokens": ["sportsnet one", "sportsnetone"]
+    "searchTokens": ["sportsnet one", "sportsnetone", "snone"]
    }
 ]

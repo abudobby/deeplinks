@@ -10,12 +10,31 @@ const formatTime = (utcSeconds) =>
     timeStyle: 'short',
   });
 
-const findChannel = (broadcasterName) => {
-  const needle = broadcasterName.toLowerCase();
-  return broadcasts.find(({ searchTokens = [] }) =>
-    searchTokens.some((token) => needle === token.toLowerCase())
-  ) ?? null;
+const findChannel = (channelId, broadcasterName, broadcasterImg) => {
+  const needle = (channelId.trim() || broadcasterName).toLowerCase();
+  return (
+    broadcasts.find(({ searchTokens = [] }) =>
+      searchTokens.some((token) => needle === token.toLowerCase())
+    ) ?? {
+      id: null,
+      name: broadcasterName,
+      logoUrl: broadcasterImg,
+      isNational: false,
+      hasLocalAffiliate: false,
+      type: 'tv',
+      searchTokens: [],
+      excludedSearchTokens: [],
+    }
+  );
 };
+
+// Normalize title for matching against ESPN: strip league prefix, game suffix, convert @ to vs.
+const toMatchTitle = (title) =>
+  title
+    .replace(/^[^:]+:\s*/, '')         // "HNIC IN PUNJABI: X @ Y" → "X @ Y"
+    .replace(/\s*-\s*Game\s*\d+.*$/i, '') // "X @ Y - Game 4" → "X @ Y"
+    .replace(/\s*@\s*/, ' vs. ')       // "X @ Y" → "X vs. Y"
+    .trim();
 
 const getDayRange = () => {
   const todayStr = new Date().toLocaleDateString('en-CA', { timeZone: 'America/Toronto' });
@@ -29,10 +48,11 @@ const getDayRange = () => {
 const parseGames = (events) =>
   events
     .filter(({ event_name }) => event_name.includes(' vs. ') || event_name.includes(' @ '))
-    .map(({ event_name, primary_broadcaster, start_time_utc, end_time_utc, deep_link_ios, league }) => ({
+    .map(({ event_name, channel_id, primary_broadcaster, primary_broadcaster_img, start_time_utc, end_time_utc, deep_link_ios, league }) => ({
       title: event_name,
+      matchTitle: toMatchTitle(event_name),
       sport: league,
-      channel: findChannel(primary_broadcaster),
+      channel: findChannel(channel_id, primary_broadcaster, primary_broadcaster_img),
       start: formatTime(start_time_utc),
       end: formatTime(end_time_utc),
       deeplink: deep_link_ios ?? null,
