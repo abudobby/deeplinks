@@ -1,56 +1,6 @@
 {
-  "740927": {
-    "title": "Crystal Palace at Liverpool",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%224a640a1d-9b29-304f-9883-4d68140015ba%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "740930": {
-    "title": "Everton at West Ham United",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2215a9e4cf-63c9-31b2-a0fc-8a299d08d030%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
   "740931": {
     "title": "Newcastle United at Arsenal",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "740934": {
-    "title": "Tottenham Hotspur at Wolverhampton Wanderers",
     "broadcasts": [
       {
         "id": 519,
@@ -82,24 +32,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748454"
-      }
-    ]
-  },
-  "748460": {
-    "title": "Barcelona at Getafe",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748460"
       }
     ]
   },
@@ -141,6 +73,21 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": 113,
+        "name": "SportsNet One",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet one",
+          "sportsnetone",
+          "snone"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7buvomsmitf907psr0g"
       }
     ]
   },
@@ -235,12 +182,39 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": null,
+        "name": "SN NOW",
+        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/snnow.png",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7c0r26smitc4uhccdo0"
       }
     ]
   },
   "401815089": {
     "title": "Pittsburgh Pirates at Milwaukee Brewers",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7h4at6smitc4f64383g"
+      }
+    ]
   },
   "401815090": {
     "title": "Seattle Mariners at St. Louis Cardinals",
@@ -387,6 +361,17 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": null,
+        "name": "SN NOW",
+        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/snnow.png",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7c0r26smitc4uhccdo0"
       }
     ]
   },
@@ -435,6 +420,21 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22fd6978ea-6d1b-305a-8a6d-9a96d045101f%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      },
+      {
+        "id": 107,
+        "name": "SportsNet 360",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet 360",
+          "sportsnet360",
+          "sn360"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7horousmit9hfkehgng"
       }
     ]
   },
@@ -507,6 +507,21 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7h4ak6smite9h9gvak0"
       }
     ]
   },
@@ -551,6 +566,17 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": null,
+        "name": "SN NOW",
+        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/snnow.png",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7h4bbmsmitbprql70d0"
       }
     ]
   },
@@ -608,6 +634,21 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d7h4at6smitc4f64383g"
       }
     ]
   }
