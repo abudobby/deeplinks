@@ -1,5 +1,11 @@
-[
-    {
+[  {
+    "league": "f1",
+    "sport": "motorsports",
+    "title": "F1",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+      {
     "league": "nhl",
     "sport": "hockey",
     "title": "NHL",
@@ -13,19 +19,80 @@
     "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
     "featuredPhoto": "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
+    {
+    "league": "eng.1",
+    "sport": "soccer",
+    "title": "Premier League",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/eng.1.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1540379708242-14a809bef941?q=80&w=2320&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+    {
+    "league": "fra.1",
+    "sport": "soccer",
+    "title": "Ligue 1",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/9.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
   {
+    "league": "usa.1",
+    "sport": "soccer",
+    "title": "MLS",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/19.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+    {
+    "league": "esp.1",
+    "sport": "soccer",
+    "title": "La Liga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/15.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "league": "ita.1",
+    "sport": "soccer",
+    "title": "Serie A",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/12.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  {
+    "league": "ger.1",
+    "sport": "soccer",
+    "title": "Bundesliga",
+    "logo": "https://a.espncdn.com/i/leaguelogos/soccer/500/10.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+    {
     "league": "nfl",
     "sport": "football",
     "title": "NFL",
     "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nfl.png",
     "featuredPhoto": "https://images.unsplash.com/photo-1597481929652-9bdc374e8f81?q=80&w=2231&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
-  {
-    "league": "eng.1",
+    {
+    "league": "mlb",
+    "sport": "baseball",
+    "title": "MLB",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
+    "featuredPhoto": "https://img.mlbstatic.com/mlb-images/image/private/t_w1536/mlb/gnwc9xw06aegqhjawjgm.jpg"
+  },
+        {
+    "league": "uefa.europa",
     "sport": "soccer",
-    "title": "Premier League",
-    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/eng.1.png",
-    "featuredPhoto": "https://images.unsplash.com/photo-1540379708242-14a809bef941?q=80&w=2320&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    "title": "UEFA Europa League",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }, {
+    "league": "uefa.europa.conf",
+    "sport": "soccer",
+    "title": "UEFA Europa Conference",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },  {
+    "league": "concacaf.champions",
+    "sport": "soccer",
+    "title": "Concacaf Champions",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1561917488-91aa9bc0a3a7?q=80&w=2088&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     "league": "uefa.champions",
@@ -34,18 +101,11 @@
     "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/uefa.champions.png",
     "featuredPhoto": "https://images.unsplash.com/photo-1540379708242-14a809bef941?q=80&w=2320&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
-  {
-    "league": "mens-college-basketball",
-    "sport": "basketball",
-    "title": "NCAA Men's Basketball",
-    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/mens-college-basketball.png",
-    "featuredPhoto": "https://images.unsplash.com/photo-1546519638-68e109498ffc?q=80&w=1780&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  },
-  {
-    "league": "mlb",
-    "sport": "baseball",
-    "title": "MLB",
-    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/mlb.png",
-    "featuredPhoto": "https://images.unsplash.com/photo-1508344928928-7165b5c1ed5d?q=80&w=2232&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    {
+    "league": "eng.2",
+    "sport": "soccer",
+    "title": "English League Championship",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/uefa.champions.png",
+    "featuredPhoto": "https://images.unsplash.com/photo-1540379708242-14a809bef941?q=80&w=2320&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
