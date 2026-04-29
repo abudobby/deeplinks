@@ -13,6 +13,7 @@
     { "league": "usa.1",  "title": "MLS" },
     { "league": "esp.1",  "title": "La Liga" },
     { "league": "ita.1",  "title": "Serie A" },
+    { "league": "f1",  "title": "Formula 1" },
     { "league": "ger.1",  "title": "Bundesliga" }
   ],
   "mediaShelfs": [
