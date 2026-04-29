@@ -184,35 +184,6 @@
     "title": "Miami Marlins at Los Angeles Dodgers",
     "broadcasts": []
   },
-  "401862893": {
-    "title": "Bayern Munich at Paris Saint-Germain",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "hasLocalAffiliate": true,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/565eaade-1f95-4239-93d8-d819020347e4"
-      }
-    ]
-  },
   "401869386": {
     "title": "Portland Trail Blazers at San Antonio Spurs",
     "broadcasts": [
