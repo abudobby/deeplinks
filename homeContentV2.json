@@ -5,6 +5,13 @@
     { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
     { "league": "nhl", "title": "NHL" },
     { "league": "nba",  "title": "NBA"  },
+    { "league": "afl",  "title": "AFL", "leagueDetail":  {
+    "league": "afl",
+    "sport": "australian-football",
+    "title": "AFL",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://static01.nyt.com/images/2024/05/04/multimedia/04sp-miami-miami-inyt/04sp-miami-miami-inyt-videoSixteenByNineJumbo1600.jpg"
+  } },
     { "league": "eng.1",  "title": "Premier League" },
     { "league": "uefa.champions",  "title": "Champions League"  },
     { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
@@ -13,7 +20,7 @@
     { "league": "usa.1",  "title": "MLS" },
     { "league": "esp.1",  "title": "La Liga" },
     { "league": "ita.1",  "title": "Serie A" },
-    { "league": "ger.1",  "title": "Bundesliga" }
+    { "league": "f1",  "title": "Formula 1" }
   ],
   "mediaShelfs": [
     { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },

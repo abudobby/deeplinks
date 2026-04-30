@@ -1,4 +1,19 @@
-[ 
+[
+   {
+    "league": "afl",
+    "sport": "Australian Football",
+    "title": "AFL",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://static01.nyt.com/images/2024/05/04/multimedia/04sp-miami-miami-inyt/04sp-miami-miami-inyt-videoSixteenByNineJumbo1600.jpg"
+  },
+  
+  {
+    "league": "f1",
+    "sport": "motorsports",
+    "title": "F1",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://static01.nyt.com/images/2024/05/04/multimedia/04sp-miami-miami-inyt/04sp-miami-miami-inyt-videoSixteenByNineJumbo1600.jpg"
+  },
       {
     "league": "nhl",
     "sport": "hockey",
