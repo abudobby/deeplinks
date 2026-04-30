@@ -7,7 +7,7 @@
     { "league": "nba",  "title": "NBA"  },
     { "league": "afl",  "title": "AFL", "leagueDetail":  {
     "league": "afl",
-    "sport": "Australian Football",
+    "sport": "australian-football",
     "title": "AFL",
     "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
     "featuredPhoto": "https://static01.nyt.com/images/2024/05/04/multimedia/04sp-miami-miami-inyt/04sp-miami-miami-inyt-videoSixteenByNineJumbo1600.jpg"
