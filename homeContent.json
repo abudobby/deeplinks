@@ -4,6 +4,14 @@
     { "league": "uefa.europa.conf", "title": "UEFA Europa Conference" },
     { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
     { "league": "nhl", "title": "NHL" },
+    { "league": "nba",  "title": "NBA"  },
+    { "league": "afl",  "title": "AFL", "leagueDetail":  {
+    "league": "afl",
+    "sport": "Australian Football",
+    "title": "AFL",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://static01.nyt.com/images/2024/05/04/multimedia/04sp-miami-miami-inyt/04sp-miami-miami-inyt-videoSixteenByNineJumbo1600.jpg"
+  } },
     { "league": "eng.1",  "title": "Premier League" },
     { "league": "uefa.champions",  "title": "Champions League"  },
     { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
