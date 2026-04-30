@@ -220,51 +220,6 @@
       }
     ]
   },
-  "401869761": {
-    "title": "Utah Mammoth at Vegas Golden Knights",
-    "broadcasts": [
-      {
-        "id": 798,
-        "name": "HBO Max",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ef/1b/6eef1b64-bbec-b6ac-9ed8-6813cc469bb4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [
-          "hbo"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 498,
-        "name": "TNT",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/2b/86/78/2b8678c1-29a7-ea90-5d3e-2915294dd19d/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.png",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "tnt west",
-          "tnt east"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 495,
-        "name": "truTV",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/6e/ef/1b/6eef1b64-bbec-b6ac-9ed8-6813cc469bb4/AppIcon-0-0-1x_U007emarketing-0-6-0-85-220.png/1200x630wa.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "trutv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401869776": {
     "title": "Edmonton Oilers at Anaheim Ducks",
     "broadcasts": [
