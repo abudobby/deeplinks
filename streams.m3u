@@ -5,6 +5,18 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
+#EXTINF:-1 tvg-name="Leeds United vs Burnley Live Streams" group-title="Live",Leeds United vs Burnley Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/49873?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Girona FC vs Mallorca Live Streams" group-title="Live",Girona FC vs Mallorca Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+
 #EXTINF:-1 tvg-name="Pisa vs Lecce Live Streams" group-title="Live",Pisa vs Lecce Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
