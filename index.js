@@ -14,7 +14,7 @@ const broadcasterMap = broadcasters.reduce((acc, broadcaster) => {
 
 async function fetchEvents() {
   try {
-    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?leagues=nba,mlb,nhl,uefa.champions,eng.1,mens-college-basketball,esp.1&limit=200');
+    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?limit=200&leagues=nba,mlb,nhl,uefa.champions,eng.1,mens-college-basketball,esp.1,racing,f1');
     const data = await response.json();
         const peacockResponse = await searchPeacock()
         const nbcResponse = await fetchNBCSportsData()
@@ -37,15 +37,18 @@ const peacockSchedule = peacockResponse.data.search.results
     
     // Create an object keyed by event ID
 const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName, watch, league }) => {
-  const gameTitle = `${competitors[1].team.name} vs. ${competitors[0].team.name}`;
+  const gameTitle = competitors?.length
+    ? `${competitors[1].team.name} vs. ${competitors[0].team.name}`
+    : displayName;
 
-  let broadcasts = watch.broadcasts.map(({ broadcasterId }) => {
+  let broadcasts = watch.broadcasts.map((broadcast) => {
+      const broadcasterId = broadcast.broadcasterId ?? Number(broadcast.media?.id);
       // Get full broadcaster info
       const broadcasterInfo = broadcasterMap[broadcasterId];
       let deeplink = null;
-      let hometeam = competitors[0].team.name;
-      let awayTeam = competitors[1].team.name;
-      let title = `${awayTeam} vs. ${hometeam}`;
+      let hometeam = competitors?.[0]?.team.name;
+      let awayTeam = competitors?.[1]?.team.name;
+      let title = hometeam && awayTeam ? `${awayTeam} vs. ${hometeam}` : displayName;
       
       switch (broadcasterId) {
         case 379:
@@ -69,9 +72,8 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
          break
         }
         case 792: {
-                let hometeam = competitors[0].team.name;
-      let awayTeam = competitors[1].team.name;
-      let title = `${hometeam} vs. ${awayTeam}`;
+          const paramTitle = hometeam && awayTeam ? `${hometeam} vs. ${awayTeam}` : displayName;
+          const title = paramTitle;
           const events = paramountResponse.result.data;
           const event = findBestMatch(title, events)         
           deeplink = `pplus://www.paramountplus.com/live-tv/stream/${event.channelSlug}/${event.content_id}`;
@@ -116,7 +118,9 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         hasLocalAffiliate: broadcasterInfo?.hasLocalAffiliate || false,
         isNational: broadcasterInfo?.isNational || false,
         type: broadcasterInfo?.type || null,
-        searchTokens: broadcasterInfo?.searchTokens || [],
+        searchTokens: (!competitors?.length && broadcasterId === 796 && league?.name)
+          ? [league.name.toLowerCase()]
+          : (broadcasterInfo?.searchTokens || []),
         excludedSearchTokens: broadcasterInfo?.excludedSearchTokens || [],
         deeplink: deeplink
       };
