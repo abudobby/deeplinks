@@ -1,73 +1,4 @@
 {
-  "401815148": {
-    "title": "Colorado Rockies at Cincinnati Reds",
-    "broadcasts": []
-  },
-  "401815149": {
-    "title": "Detroit Tigers at Atlanta Braves",
-    "broadcasts": []
-  },
-  "401815150": {
-    "title": "Houston Astros at Baltimore Orioles",
-    "broadcasts": [
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815151": {
-    "title": "San Francisco Giants at Philadelphia Phillies",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815152": {
-    "title": "St. Louis Cardinals at Pittsburgh Pirates",
-    "broadcasts": []
-  },
-  "401815153": {
-    "title": "Washington Nationals at New York Mets",
-    "broadcasts": []
-  },
-  "401815154": {
-    "title": "Arizona Diamondbacks at Milwaukee Brewers",
-    "broadcasts": []
-  },
   "401815155": {
     "title": "Toronto Blue Jays at Minnesota Twins",
     "broadcasts": [
@@ -85,24 +16,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d7gh4g6smitaukliars0"
-      }
-    ]
-  },
-  "401815156": {
-    "title": "Kansas City Royals at Athletics",
-    "broadcasts": [
-      {
-        "id": 892,
-        "name": "NBC Sports California",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports california"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
@@ -365,24 +278,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d7p12lmsmite9h9gvam0"
-      }
-    ]
-  },
-  "401871088": {
-    "title": "Houston Astros at Baltimore Orioles",
-    "broadcasts": [
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
