@@ -701,7 +701,7 @@
   {
     "id": 796,
     "name": "Apple TV",
-    "type": "streaming",
+    "type": "tv",
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "",

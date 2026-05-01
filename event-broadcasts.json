@@ -62,7 +62,7 @@
         "logoUrl": null,
         "hasLocalAffiliate": false,
         "isNational": true,
-        "type": "streaming",
+        "type": "tv",
         "searchTokens": [
           "apple tv"
         ],
@@ -210,7 +210,7 @@
         "logoUrl": null,
         "hasLocalAffiliate": false,
         "isNational": true,
-        "type": "streaming",
+        "type": "tv",
         "searchTokens": [
           "apple tv"
         ],
@@ -398,7 +398,7 @@
         "logoUrl": null,
         "hasLocalAffiliate": false,
         "isNational": true,
-        "type": "streaming",
+        "type": "tv",
         "searchTokens": [
           "formula 1"
         ],
