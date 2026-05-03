@@ -15,7 +15,7 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50028?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Boston Red Sox vs Houston Astros Live Streams" group-title="Live",Boston Red Sox vs Houston Astros Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -153,7 +153,7 @@ https://red2.wecanfix8.space/playlist/50022?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50026?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Espanyol vs Real Madrid Live Streams" group-title="Live",Espanyol vs Real Madrid Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -172,12 +172,6 @@ https://red2.wecanfix8.space/playlist/50025?ad=1111/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="FC St. Pauli vs 1. FSV Mainz 05 Live Streams" group-title="Live",FC St. Pauli vs 1. FSV Mainz 05 Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50021?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Borussia M&#039;gladbach vs Borussia Dortmund Live Streams" group-title="Live",Borussia M&#039;gladbach vs Borussia Dortmund Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
