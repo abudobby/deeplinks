@@ -1,150 +1,4 @@
 {
-  "740936": {
-    "title": "Fulham at Arsenal",
-    "broadcasts": [
-      {
-        "id": 379,
-        "name": "NBC",
-        "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
-        "hasLocalAffiliate": true,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "kare"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "748480": {
-    "title": "Barcelona at Osasuna",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748480"
-      }
-    ]
-  },
-  "748482": {
-    "title": "Athletic Club at Alavés",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748482"
-      }
-    ]
-  },
-  "401815172": {
-    "title": "Baltimore Orioles at New York Yankees",
-    "broadcasts": [
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815173": {
-    "title": "Cincinnati Reds at Pittsburgh Pirates",
-    "broadcasts": [
-      {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "fs1",
-          "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815174": {
-    "title": "Houston Astros at Boston Red Sox",
-    "broadcasts": [
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815175": {
-    "title": "Milwaukee Brewers at Washington Nationals",
-    "broadcasts": []
-  },
-  "401815176": {
-    "title": "Philadelphia Phillies at Miami Marlins",
-    "broadcasts": [
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7qbbdmsmitc1qpjglu0"
-      }
-    ]
-  },
   "401815177": {
     "title": "San Francisco Giants at Tampa Bay Rays",
     "broadcasts": [
@@ -181,10 +35,6 @@
       }
     ]
   },
-  "401815179": {
-    "title": "Arizona Diamondbacks at Chicago Cubs",
-    "broadcasts": []
-  },
   "401815180": {
     "title": "Los Angeles Dodgers at St. Louis Cardinals",
     "broadcasts": [
@@ -200,26 +50,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401815181": {
-    "title": "Toronto Blue Jays at Minnesota Twins",
-    "broadcasts": [
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7ginj6smitc0cj11lrg"
       }
     ]
   },
@@ -239,24 +69,6 @@
         "type": "tv",
         "searchTokens": [
           "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815184": {
-    "title": "Cleveland Guardians at Athletics",
-    "broadcasts": [
-      {
-        "id": 892,
-        "name": "NBC Sports California",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports california"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -345,24 +157,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d7qbbdmsmitc1qpjglu0"
-      }
-    ]
-  },
-  "600057432": {
-    "title": "Crypto.com Miami Grand Prix - Qualifying",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": null,
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   }
