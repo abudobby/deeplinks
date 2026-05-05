@@ -1,40 +1,4 @@
 {
-  "740941": {
-    "title": "Manchester City at Everton",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "748478": {
-    "title": "Real Sociedad at Sevilla",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748478"
-      }
-    ]
-  },
   "401815202": {
     "title": "Baltimore Orioles at New York Yankees",
     "broadcasts": [
@@ -154,10 +118,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401815210": {
-    "title": "New York Mets at Colorado Rockies",
-    "broadcasts": []
   },
   "401815211": {
     "title": "Atlanta Braves at Seattle Mariners",
