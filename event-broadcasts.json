@@ -123,10 +123,6 @@
     "title": "Milwaukee Brewers at St. Louis Cardinals",
     "broadcasts": []
   },
-  "401815224": {
-    "title": "New York Mets at Colorado Rockies",
-    "broadcasts": []
-  },
   "401815225": {
     "title": "Atlanta Braves at Seattle Mariners",
     "broadcasts": []
@@ -175,15 +171,17 @@
     "title": "Atlético Madrid at Arsenal",
     "broadcasts": [
       {
-        "id": 792,
-        "name": "Paramount+",
+        "id": 44,
+        "name": "CBS",
         "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "hasLocalAffiliate": false,
+        "hasLocalAffiliate": true,
         "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
+        "type": "tv",
+        "searchTokens": [
+          "wcco"
+        ],
         "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/f112c566-e7af-4add-b5a6-c3ce13d93146"
+        "deeplink": null
       }
     ]
   },
