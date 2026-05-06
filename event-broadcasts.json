@@ -119,10 +119,6 @@
       }
     ]
   },
-  "401815223": {
-    "title": "Milwaukee Brewers at St. Louis Cardinals",
-    "broadcasts": []
-  },
   "401815225": {
     "title": "Atlanta Braves at Seattle Mariners",
     "broadcasts": []
@@ -161,24 +157,6 @@
         "type": "tv",
         "searchTokens": [
           "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401862896": {
-    "title": "Atlético Madrid at Arsenal",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "hasLocalAffiliate": true,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
