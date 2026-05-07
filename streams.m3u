@@ -11,23 +11,11 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="New York Yankees vs Texas Rangers Live Streams" group-title="Live",New York Yankees vs Texas Rangers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50195?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Washington Nationals vs Minnesota Twins Live Streams" group-title="Live",Washington Nationals vs Minnesota Twins Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50196?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Kansas City Royals vs Cleveland Guardians Live Streams" group-title="Live",Kansas City Royals vs Cleveland Guardians Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50199?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50200?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Chicago Cubs vs Cincinnati Reds Live Streams" group-title="Live",Chicago Cubs vs Cincinnati Reds Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -94,12 +82,6 @@ https://red2.wecanfix8.space/playlist/50207?ad=1111/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/50203?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Al-Shabab vs Al-Nassr Live Streams" group-title="Live",Al-Shabab vs Al-Nassr Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50198?ad=1111/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
