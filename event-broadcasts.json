@@ -74,41 +74,6 @@
       }
     ]
   },
-  "401815234": {
-    "title": "Toronto Blue Jays at Tampa Bay Rays",
-    "broadcasts": [
-      {
-        "id": 722,
-        "name": "SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet"
-        ],
-        "excludedSearchTokens": [
-          "spectrum"
-        ],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/2e/97/dd/2e97dd9a-b906-32a6-831e-c2a1c262ad22/Placeholder.mill/1200x630wa.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7l5m8msmitcb3fr1nng"
-      }
-    ]
-  },
   "401815235": {
     "title": "Cincinnati Reds at Chicago Cubs",
     "broadcasts": []
@@ -117,104 +82,13 @@
     "title": "Cleveland Guardians at Kansas City Royals",
     "broadcasts": []
   },
-  "401815237": {
-    "title": "Los Angeles Dodgers at Houston Astros",
-    "broadcasts": [
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815238": {
-    "title": "Milwaukee Brewers at St. Louis Cardinals",
-    "broadcasts": []
-  },
   "401815239": {
     "title": "New York Mets at Colorado Rockies",
     "broadcasts": []
   },
-  "401815240": {
-    "title": "Atlanta Braves at Seattle Mariners",
-    "broadcasts": []
-  },
-  "401815241": {
-    "title": "Chicago White Sox at Los Angeles Angels",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401815242": {
     "title": "Pittsburgh Pirates at Arizona Diamondbacks",
     "broadcasts": []
-  },
-  "401815243": {
-    "title": "San Diego Padres at San Francisco Giants",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401862895": {
-    "title": "Paris Saint-Germain at Bayern Munich",
-    "broadcasts": [
-      {
-        "id": 44,
-        "name": "CBS",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "hasLocalAffiliate": true,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "wcco"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 792,
-        "name": "Paramount+",
-        "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "pplus://www.paramountplus.com/live-tv/stream/uefa-champions-league/d34a202d-0a07-44cc-bb28-b6659c6a7f9e"
-      }
-    ]
   },
   "401871153": {
     "title": "Minnesota Timberwolves at San Antonio Spurs",
