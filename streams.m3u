@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50304?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Los Angeles Lakers vs Oklahoma City Thunder Live Streams" group-title="Live",Los Angeles Lakers vs Oklahoma City Thunder Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -15,7 +15,7 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50307?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Baltimore Orioles vs Athletics Live Streams" group-title="Live",Baltimore Orioles vs Athletics Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -201,19 +201,13 @@ https://red2.wecanfix8.space/playlist/50295?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Lazio vs Inter Live Streams" group-title="Live",Lazio vs Inter Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50293?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50305?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Lecce vs Juventus Live Streams" group-title="Live",Lecce vs Juventus Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50303?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="VfL Wolfsburg vs FC Bayern München Live Streams" group-title="Live",VfL Wolfsburg vs FC Bayern München Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
