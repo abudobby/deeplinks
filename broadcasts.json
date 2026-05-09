@@ -2,7 +2,7 @@
   {
     "id": 2,
     "name": "ABC",
-    "logoUrl": "https://www.newscaststudio.com/wp-content/uploads/2021/05/abc-old-logo.jpg",
+    "logoUrl": "https://cdn.aptoide.com/imgs/d/4/3/d43ec492d851a7a083b316265f2b042e_icon.png",
     "isNational": true,
     "hasLocalAffiliate": true,
     "type": "tv",
@@ -506,7 +506,7 @@
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
-    "logoUrl": "https://yt3.googleusercontent.com/ytc/AIdro_kTSdQHhqbBo4ki8791Bk4bv5JrbvHRUH5dm1oG4MG1lNM=s900-c-k-c0x00ffffff-no-rj",
+    "logoUrl": "https://play-lh.googleusercontent.com/pidRS3m-PNWoxVakNYzUiJ0JALhBt9taQN4t0kjCul6HlpDWxW2oOtF4gj8TnmyVb_c=s512",
     "searchTokens": ["big ten network", "btn"]
   },
      {
@@ -515,7 +515,7 @@
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
-    "logoUrl": "https://espnpressroom.com/us/files/2011/06/ESPNU_CLR_Pos1-642x405.jpg",
+    "logoUrl": "https://play-lh.googleusercontent.com/vXYsdJcXHBq_b35X61Yu88G4uEjvddkljw125nVzVYCLD6sY7fEOFmZZoi7hCA_F8mFJ=w240-h480-rw",
     "searchTokens": ["espn u"]
   },
        {
@@ -533,7 +533,7 @@
               "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "logoUrl": "https://theacc.com/images/2019/8/14/19_20_GEN_ACCN_Announcement_V2.png?preset=large.storyimage",
+    "logoUrl": "https://play-lh.googleusercontent.com/2Uwz-VVechiKg9zF7SVXtshEm8JXMIpFzvdzUl4UEzwNHiJYSgC4WCiTpPnWjuBrya8=w240-h480-rw",
     "searchTokens": ["aac network"]
   },
        {
