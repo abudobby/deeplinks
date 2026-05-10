@@ -1,54 +1,4 @@
 {
-  "740947": {
-    "title": "Aston Villa at Burnley",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22e8aded98-8dda-3166-a682-efec7770ca4b%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "740948": {
-    "title": "Everton at Crystal Palace",
-    "broadcasts": [
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%223bbdff38-eb05-326f-b724-f41a65ff39a2%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
-  "740952": {
-    "title": "Newcastle United at Nottingham Forest",
-    "broadcasts": [
-      {
-        "id": 519,
-        "name": "USA Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "usa network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "740955": {
     "title": "Arsenal at West Ham United",
     "broadcasts": [
@@ -105,42 +55,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748484"
-      }
-    ]
-  },
-  "748488": {
-    "title": "Valencia at Athletic Club",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748488"
-      }
-    ]
-  },
-  "748490": {
-    "title": "Villarreal at Mallorca",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748490"
       }
     ]
   },
@@ -325,7 +239,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%223bbdff38-eb05-326f-b724-f41a65ff39a2%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22e8aded98-8dda-3166-a682-efec7770ca4b%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
