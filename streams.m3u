@@ -11,12 +11,6 @@ https://red2.wecanfix8.space/playlist/50419?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/50419?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="San Francisco Giants vs Pittsburgh Pirates Live Streams" group-title="Live",San Francisco Giants vs Pittsburgh Pirates Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50404?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Kansas City Royals vs Detroit Tigers Live Streams" group-title="Live",Kansas City Royals vs Detroit Tigers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -39,7 +33,7 @@ https://red2.wecanfix8.space/playlist/50416?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50421?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Minnesota United vs Austin FC Live Streams" group-title="Live",Minnesota United vs Austin FC Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -51,13 +45,7 @@ https://red2.wecanfix8.space/playlist/50415?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Las Vegas Aces Live Streams" group-title="Live",Los Angeles Sparks vs Las Vegas Aces Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50413?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50420?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Golden State Valkyries vs Phoenix Mercury Live Streams" group-title="Live",Golden State Valkyries vs Phoenix Mercury Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
