@@ -107,11 +107,17 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Celta Vigo vs Levante UD Live Streams" group-title="Live",Celta Vigo vs Levante UD Live Streams
+#EXTINF:-1 tvg-name="Real Betis vs Elche Live Streams" group-title="Live",Real Betis vs Elche Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50447?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50449?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Southampton vs Middlesbrough Live Streams" group-title="Live",Southampton vs Middlesbrough Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/50450?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Dallas Wings vs Atlanta Dream Live Streams" group-title="Live",Dallas Wings vs Atlanta Dream Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
