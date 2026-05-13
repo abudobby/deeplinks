@@ -15,7 +15,7 @@ https://red2.wecanfix8.space/playlist/50501?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50503?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50504?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Cincinnati Reds vs Washington Nationals Live Streams" group-title="Live",Cincinnati Reds vs Washington Nationals Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -95,6 +95,12 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
+#EXTINF:-1 tvg-name="Manchester City vs Crystal Palace Live Streams" group-title="Live",Manchester City vs Crystal Palace Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/50507?ad=1111/load-playlist
+
 #EXTINF:-1 tvg-name="Colorado Avalanche vs Minnesota Wild Live Streams" group-title="Live",Colorado Avalanche vs Minnesota Wild Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -147,13 +153,13 @@ https://red2.wecanfix8.space/playlist/50499?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50497?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50505?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Getafe vs Mallorca Live Streams" group-title="Live",Getafe vs Mallorca Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50506?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Toronto Tempo vs Seattle Storm Live Streams" group-title="Live",Toronto Tempo vs Seattle Storm Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
