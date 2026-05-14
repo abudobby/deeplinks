@@ -1,297 +1,86 @@
 {
-  "761615": {
-    "title": "New York City FC at Charlotte FC",
+  "748495": {
+    "title": "Real Sociedad at Girona",
     "broadcasts": [
       {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
+        "isNational": false,
+        "type": "streaming",
         "searchTokens": [
-          "apple tv"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "fs1",
-          "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748495"
       }
     ]
   },
-  "761616": {
-    "title": "Philadelphia Union at Orlando City SC",
+  "748502": {
+    "title": "Rayo Vallecano at Valencia",
     "broadcasts": [
       {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
+        "isNational": false,
+        "type": "streaming",
         "searchTokens": [
-          "apple tv"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748502"
       }
     ]
   },
-  "761617": {
-    "title": "Nashville SC at New England Revolution",
+  "748503": {
+    "title": "Real Oviedo at Real Madrid",
     "broadcasts": [
       {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "id": 755,
+        "name": "ESPN+",
+        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
         "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
+        "isNational": false,
+        "type": "streaming",
         "searchTokens": [
-          "apple tv"
+          "espn+"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748503"
       }
     ]
   },
-  "761618": {
-    "title": "Portland Timbers at CF Montréal",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761619": {
-    "title": "Inter Miami CF at FC Cincinnati",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761620": {
-    "title": "Chicago Fire FC at D.C. United",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761621": {
-    "title": "Columbus Crew at Red Bull New York",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761622": {
-    "title": "Vancouver Whitecaps at FC Dallas",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761623": {
-    "title": "LA Galaxy at Sporting Kansas City",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761624": {
-    "title": "Colorado Rapids at Minnesota United FC",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761625": {
-    "title": "LAFC at St. Louis CITY SC",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761626": {
-    "title": "San Jose Earthquakes at Seattle Sounders FC",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761627": {
-    "title": "Austin FC at San Diego FC",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "fs1",
-          "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761628": {
-    "title": "Houston Dynamo FC at Real Salt Lake",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815320": {
+  "401815334": {
     "title": "Chicago Cubs at Atlanta Braves",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 102,
+        "name": "TSN2",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "tsn2",
+          "tsn 2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
-  "401815321": {
+  "401815335": {
     "title": "Colorado Rockies at Pittsburgh Pirates",
     "broadcasts": []
   },
-  "401815322": {
+  "401815336": {
     "title": "Detroit Tigers at New York Mets",
     "broadcasts": []
   },
-  "401815324": {
+  "401815337": {
     "title": "Philadelphia Phillies at Boston Red Sox",
     "broadcasts": [
       {
@@ -309,35 +98,11 @@
       }
     ]
   },
-  "401815325": {
-    "title": "Tampa Bay Rays at Toronto Blue Jays",
-    "broadcasts": [
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7pptlmsmitc0um4h1fg"
-      }
-    ]
-  },
-  "401815326": {
+  "401815338": {
     "title": "Washington Nationals at Cincinnati Reds",
     "broadcasts": []
   },
-  "401815327": {
-    "title": "Arizona Diamondbacks at Texas Rangers",
-    "broadcasts": []
-  },
-  "401815328": {
+  "401815339": {
     "title": "Kansas City Royals at Chicago White Sox",
     "broadcasts": [
       {
@@ -355,15 +120,15 @@
       }
     ]
   },
-  "401815329": {
+  "401815340": {
     "title": "Miami Marlins at Minnesota Twins",
     "broadcasts": []
   },
-  "401815330": {
+  "401815341": {
     "title": "San Diego Padres at Milwaukee Brewers",
     "broadcasts": []
   },
-  "401815331": {
+  "401815342": {
     "title": "Seattle Mariners at Houston Astros",
     "broadcasts": [
       {
@@ -381,7 +146,7 @@
       }
     ]
   },
-  "401815332": {
+  "401815343": {
     "title": "San Francisco Giants at Los Angeles Dodgers",
     "broadcasts": [
       {
@@ -399,7 +164,7 @@
       }
     ]
   },
-  "401815333": {
+  "401815344": {
     "title": "St. Louis Cardinals at Athletics",
     "broadcasts": [
       {
@@ -417,50 +182,8 @@
       }
     ]
   },
-  "401871337": {
-    "title": "Cleveland Cavaliers at Detroit Pistons",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      },
-      {
-        "id": 101,
-        "name": "TSN1",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn1",
-          "tsn 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401871420": {
-    "title": "Minnesota Wild at Colorado Avalanche",
+  "401871408": {
+    "title": "Montreal Canadiens at Buffalo Sabres",
     "broadcasts": [
       {
         "id": 798,
@@ -515,7 +238,67 @@
           "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d80t82esmitaehtg1bqg"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d80t8emsmit9s0r47f0g"
+      }
+    ]
+  },
+  "401871428": {
+    "title": "Vegas Golden Knights at Anaheim Ducks",
+    "broadcasts": [
+      {
+        "id": 798,
+        "name": "HBO Max",
+        "logoUrl": "https://play-lh.googleusercontent.com/WBH8B97jBYuKXhY-wmsjvHPg_tbJbgFg_N2cmAks7i92xuuJ9oLnoeBTfOEibBnrhEJM",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "hbo"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 498,
+        "name": "TNT",
+        "logoUrl": "https://play-lh.googleusercontent.com/iCOmPHcv9TW4MwB_BmCOr3Q6fR-3lQ0R27vcjHbgnpcGgmzOse4SfPJ8ASDjG4oP9lQ=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tnt west",
+          "tnt east"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 495,
+        "name": "truTV",
+        "logoUrl": "https://play-lh.googleusercontent.com/xwnvklLX5on1HIT-c5TP_Q0Cr02Z1vuTx1NFsRJvUTuhSOGZycO8kqJzoK6ah3E4tO8",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "trutv"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d80t8qusmitdvpd29h50"
       }
     ]
   }
