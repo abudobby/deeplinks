@@ -1,58 +1,4 @@
 {
-  "748495": {
-    "title": "Real Sociedad at Girona",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748495"
-      }
-    ]
-  },
-  "748502": {
-    "title": "Rayo Vallecano at Valencia",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748502"
-      }
-    ]
-  },
-  "748503": {
-    "title": "Real Oviedo at Real Madrid",
-    "broadcasts": [
-      {
-        "id": 755,
-        "name": "ESPN+",
-        "logoUrl": "https://espnpressroom.com/us/files/2023/08/ESPN_FC_VarsityBlue.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "streaming",
-        "searchTokens": [
-          "espn+"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playGameID=748503"
-      }
-    ]
-  },
   "401815334": {
     "title": "Chicago Cubs at Atlanta Braves",
     "broadcasts": [
@@ -72,14 +18,6 @@
       }
     ]
   },
-  "401815335": {
-    "title": "Colorado Rockies at Pittsburgh Pirates",
-    "broadcasts": []
-  },
-  "401815336": {
-    "title": "Detroit Tigers at New York Mets",
-    "broadcasts": []
-  },
   "401815337": {
     "title": "Philadelphia Phillies at Boston Red Sox",
     "broadcasts": [
@@ -97,10 +35,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401815338": {
-    "title": "Washington Nationals at Cincinnati Reds",
-    "broadcasts": []
   },
   "401815339": {
     "title": "Kansas City Royals at Chicago White Sox",
@@ -120,32 +54,6 @@
       }
     ]
   },
-  "401815340": {
-    "title": "Miami Marlins at Minnesota Twins",
-    "broadcasts": []
-  },
-  "401815341": {
-    "title": "San Diego Padres at Milwaukee Brewers",
-    "broadcasts": []
-  },
-  "401815342": {
-    "title": "Seattle Mariners at Houston Astros",
-    "broadcasts": [
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401815343": {
     "title": "San Francisco Giants at Los Angeles Dodgers",
     "broadcasts": [
@@ -158,24 +66,6 @@
         "type": "tv",
         "searchTokens": [
           "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815344": {
-    "title": "St. Louis Cardinals at Athletics",
-    "broadcasts": [
-      {
-        "id": 892,
-        "name": "NBC Sports California",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports california"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
