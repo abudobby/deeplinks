@@ -119,17 +119,11 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Finland vs Germany Live Streams" group-title="Live",Finland vs Germany Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50455?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="USA vs Switzerland Live Streams" group-title="Live",USA vs Switzerland Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50610?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Great Britain vs Austria Live Streams" group-title="Live",Great Britain vs Austria Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -137,17 +131,11 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Canada vs Sweden Live Streams" group-title="Live",Canada vs Sweden Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50607?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Czechia vs Denmark Live Streams" group-title="Live",Czechia vs Denmark Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50611?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Slovakia vs Norway Live Streams" group-title="Live",Slovakia vs Norway Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
