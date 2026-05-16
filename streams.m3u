@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Minnesota Wild vs Colorado Avalanche Live Streams" group-title="Live",Minnesota Wild vs Colorado Avalanche Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50637?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Detroit Tigers vs Toronto Blue Jays Live Streams" group-title="Live",Detroit Tigers vs Toronto Blue Jays Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -15,13 +9,13 @@ https://red2.wecanfix8.space/playlist/50674?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50680?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50681?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Colorado Rockies vs Arizona Diamondbacks Live Streams" group-title="Live",Colorado Rockies vs Arizona Diamondbacks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50687?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Pittsburgh Pirates vs Philadelphia Phillies Live Streams" group-title="Live",Pittsburgh Pirates vs Philadelphia Phillies Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -105,13 +99,13 @@ https://red2.wecanfix8.space/playlist/50671?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50685?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Minnesota Wild vs Colorado Avalanche Live Streams" group-title="Live",Minnesota Wild vs Colorado Avalanche Live Streams
+#EXTINF:-1 tvg-name="Al-Nassr vs Gamba Osaka Live Streams" group-title="Live",Al-Nassr vs Gamba Osaka Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50637?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/50676?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Vegas Golden Knights vs Anaheim Ducks Live Streams" group-title="Live",Vegas Golden Knights vs Anaheim Ducks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -208,12 +202,6 @@ https://red2.wecanfix8.space/playlist/50682?ad=1111/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/50683?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Al-Hilal vs Neom SC Live Streams" group-title="Live",Al-Hilal vs Neom SC Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50677?ad=1111/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
