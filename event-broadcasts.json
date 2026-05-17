@@ -68,39 +68,6 @@
       }
     ]
   },
-  "761632": {
-    "title": "Chicago Fire FC at CF Montréal",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d827fmesmitdvapgv7tg"
-      }
-    ]
-  },
   "761633": {
     "title": "New York City FC at Red Bull New York",
     "broadcasts": [
@@ -277,25 +244,6 @@
       }
     ]
   },
-  "401815360": {
-    "title": "Baltimore Orioles at Washington Nationals",
-    "broadcasts": [
-      {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "fs1",
-          "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401815361": {
     "title": "Boston Red Sox at Atlanta Braves",
     "broadcasts": [
@@ -319,10 +267,6 @@
     "title": "Cincinnati Reds at Cleveland Guardians",
     "broadcasts": []
   },
-  "401815363": {
-    "title": "Miami Marlins at Tampa Bay Rays",
-    "broadcasts": []
-  },
   "401815364": {
     "title": "New York Yankees at New York Mets",
     "broadcasts": [
@@ -335,24 +279,6 @@
         "type": "tv",
         "searchTokens": [
           "wfld"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815365": {
-    "title": "Philadelphia Phillies at Pittsburgh Pirates",
-    "broadcasts": [
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -377,10 +303,6 @@
       }
     ]
   },
-  "401815368": {
-    "title": "Kansas City Royals at St. Louis Cardinals",
-    "broadcasts": []
-  },
   "401815369": {
     "title": "Milwaukee Brewers at Minnesota Twins",
     "broadcasts": []
@@ -402,10 +324,6 @@
         "deeplink": null
       }
     ]
-  },
-  "401815371": {
-    "title": "Arizona Diamondbacks at Colorado Rockies",
-    "broadcasts": []
   },
   "401815372": {
     "title": "Los Angeles Dodgers at Los Angeles Angels",
