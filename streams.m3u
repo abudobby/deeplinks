@@ -83,6 +83,12 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
+#EXTINF:-1 tvg-name="Seattle Mariners vs San Diego Padres Live Streams" group-title="Live",Seattle Mariners vs San Diego Padres Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+
 #EXTINF:-1 tvg-name="Birmingham Stallions vs Columbus Aviators Live Streams" group-title="Live",Birmingham Stallions vs Columbus Aviators Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -143,17 +149,35 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/50738?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Genoa vs Milan Live Streams" group-title="Live",Genoa vs Milan Live Streams
+#EXTINF:-1 tvg-name="Austria vs Hungary Live Streams" group-title="Live",Austria vs Hungary Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50735?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Juventus vs Fiorentina Live Streams" group-title="Live",Juventus vs Fiorentina Live Streams
+#EXTINF:-1 tvg-name="Germany vs Latvia Live Streams" group-title="Live",Germany vs Latvia Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/50733?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Italy vs Slovakia Live Streams" group-title="Live",Italy vs Slovakia Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/50739?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Denmark vs Sweden Live Streams" group-title="Live",Denmark vs Sweden Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Norway vs Slovenia Live Streams" group-title="Live",Norway vs Slovenia Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Inter vs Hellas Verona Live Streams" group-title="Live",Inter vs Hellas Verona Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
