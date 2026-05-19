@@ -71,6 +71,21 @@
     "title": "Toronto Blue Jays at New York Yankees",
     "broadcasts": [
       {
+        "id": 722,
+        "name": "SportsNet",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet"
+        ],
+        "excludedSearchTokens": [
+          "spectrum"
+        ],
+        "deeplink": null
+      },
+      {
         "id": 487,
         "name": "TBS",
         "logoUrl": "https://play-lh.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U",
