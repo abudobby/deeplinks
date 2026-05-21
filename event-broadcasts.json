@@ -3,26 +3,6 @@
     "title": "Atlanta Braves at Miami Marlins",
     "broadcasts": []
   },
-  "401815435": {
-    "title": "Cleveland Guardians at Detroit Tigers",
-    "broadcasts": [
-      {
-        "id": 107,
-        "name": "SportsNet 360",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet 360",
-          "sportsnet360",
-          "sn360"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d86aht6smitdvpd29hg0"
-      }
-    ]
-  },
   "401815436": {
     "title": "New York Mets at Washington Nationals",
     "broadcasts": []
@@ -59,10 +39,6 @@
         "deeplink": "sportsnetca://app/watch/event?event_id=d7tq1cusmit9vtoggqi0"
       }
     ]
-  },
-  "401815438": {
-    "title": "Pittsburgh Pirates at St. Louis Cardinals",
-    "broadcasts": []
   },
   "401815439": {
     "title": "Athletics at Los Angeles Angels",
