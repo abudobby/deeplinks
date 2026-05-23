@@ -503,17 +503,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      },
-      {
-        "id": null,
-        "name": "SNEast",
-        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/sne.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d7tq506smit9r5pfbij0"
       }
     ]
   },
