@@ -63,10 +63,6 @@
       }
     ]
   },
-  "401815446": {
-    "title": "St. Louis Cardinals at Cincinnati Reds",
-    "broadcasts": []
-  },
   "401815447": {
     "title": "Tampa Bay Rays at New York Yankees",
     "broadcasts": [
@@ -88,24 +84,6 @@
   "401815448": {
     "title": "Washington Nationals at Atlanta Braves",
     "broadcasts": []
-  },
-  "401815449": {
-    "title": "Houston Astros at Chicago Cubs",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
   },
   "401815450": {
     "title": "Los Angeles Dodgers at Milwaukee Brewers",
@@ -237,24 +215,6 @@
         "searchTokens": [
           "tsn5",
           "tsn 5"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "600057433": {
-    "title": "Lenovo Canadian Grand Prix - Sprint Shootout",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
