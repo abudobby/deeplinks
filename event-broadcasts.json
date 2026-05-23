@@ -227,17 +227,13 @@
         "deeplink": null
       },
       {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "id": null,
+        "name": "SNEast",
+        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/sne.png",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
+        "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d8693b6smit8sga3gilg"
       }
@@ -488,24 +484,6 @@
       }
     ]
   },
-  "401815462": {
-    "title": "Tampa Bay Rays at New York Yankees",
-    "broadcasts": [
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401815463": {
     "title": "Washington Nationals at Atlanta Braves",
     "broadcasts": []
@@ -698,17 +676,13 @@
         "deeplink": null
       },
       {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "id": null,
+        "name": "SNEast",
+        "logoUrl": "https://d2bdydtb2u2ki3.cloudfront.net/broadcast_schedule/broadcast_logos/sne.png",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
+        "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d8693b6smit8sga3gilg"
       }
