@@ -1,12 +1,4 @@
 {
-  "401815486": {
-    "title": "Chicago Cubs at Pittsburgh Pirates",
-    "broadcasts": []
-  },
-  "401815487": {
-    "title": "Cincinnati Reds at New York Mets",
-    "broadcasts": []
-  },
   "401815488": {
     "title": "Miami Marlins at Toronto Blue Jays",
     "broadcasts": [
@@ -27,26 +19,6 @@
       }
     ]
   },
-  "401815489": {
-    "title": "Tampa Bay Rays at Baltimore Orioles",
-    "broadcasts": [
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d82dc2esmit940d7c4qg"
-      }
-    ]
-  },
   "401815490": {
     "title": "Washington Nationals at Cleveland Guardians",
     "broadcasts": []
@@ -63,74 +35,6 @@
         "type": "tv",
         "searchTokens": [
           "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815492": {
-    "title": "Minnesota Twins at Chicago White Sox",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815493": {
-    "title": "New York Yankees at Kansas City Royals",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      }
-    ]
-  },
-  "401815494": {
-    "title": "St. Louis Cardinals at Milwaukee Brewers",
-    "broadcasts": []
-  },
-  "401815495": {
-    "title": "Arizona Diamondbacks at San Francisco Giants",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
