@@ -25,7 +25,22 @@
   },
   "401815531": {
     "title": "Chicago Cubs at Pittsburgh Pirates",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 104,
+        "name": "TSN4",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "tsn4",
+          "tsn 4"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401815532": {
     "title": "Toronto Blue Jays at Baltimore Orioles",
@@ -123,7 +138,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22a47cd807-3468-3e09-8021-fd167823dc08%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22041662ab-5730-386f-a842-7703eacc2f23%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
         "id": 107,
