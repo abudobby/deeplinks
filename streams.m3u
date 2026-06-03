@@ -5,23 +5,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Washington Nationals vs Miami Marlins Live Streams" group-title="Live",Washington Nationals vs Miami Marlins Live Streams
+#EXTINF:-1 tvg-name="San Antonio Spurs vs New York Knicks Live Streams" group-title="Live",San Antonio Spurs vs New York Knicks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51536?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Tampa Bay Rays vs Detroit Tigers Live Streams" group-title="Live",Tampa Bay Rays vs Detroit Tigers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51537?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Minnesota Twins vs Chicago White Sox Live Streams" group-title="Live",Minnesota Twins vs Chicago White Sox Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51539?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Seattle Mariners vs New York Mets Live Streams" group-title="Live",Seattle Mariners vs New York Mets Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -112,30 +100,6 @@ https://red2.wecanfix8.space/playlist/51484?ad=1111/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Denmark vs DR Congo Live Streams" group-title="Live",Denmark vs DR Congo Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51530?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Luxembourg vs Italy Live Streams" group-title="Live",Luxembourg vs Italy Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51532?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Netherlands vs Algeria Live Streams" group-title="Live",Netherlands vs Algeria Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51534?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Poland vs Nigeria Live Streams" group-title="Live",Poland vs Nigeria Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51533?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="New York Liberty vs Toronto Tempo Live Streams" group-title="Live",New York Liberty vs Toronto Tempo Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
