@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/51588?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Minnesota Twins vs Kansas City Royals Live Streams" group-title="Live",Minnesota Twins vs Kansas City Royals Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -35,18 +35,6 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/51483?ad=1111/load-playlist
 
-#EXTINF:-1 tvg-name="Calgary Stampeders vs Winnipeg Blue Bombers Live Streams" group-title="Live",Calgary Stampeders vs Winnipeg Blue Bombers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51484?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Ottawa Redblacks vs Edmonton Elks Live Streams" group-title="Live",Ottawa Redblacks vs Edmonton Elks Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Carolina Hurricanes vs Vegas Golden Knights Live Streams" group-title="Live",Carolina Hurricanes vs Vegas Golden Knights Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -69,7 +57,7 @@ https://red2.wecanfix8.space/playlist/51575?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/51587?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Minnesota Lynx vs Golden State Valkyries Live Streams" group-title="Live",Minnesota Lynx vs Golden State Valkyries Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
