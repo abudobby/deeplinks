@@ -19,16 +19,8 @@
       }
     ]
   },
-  "401815606": {
-    "title": "Detroit Tigers at Tampa Bay Rays",
-    "broadcasts": []
-  },
   "401815607": {
     "title": "Kansas City Royals at Cincinnati Reds",
-    "broadcasts": []
-  },
-  "401815608": {
-    "title": "Miami Marlins at Washington Nationals",
     "broadcasts": []
   },
   "401815609": {
@@ -81,24 +73,6 @@
         "type": "tv",
         "searchTokens": [
           "nbc sports california"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815612": {
-    "title": "Chicago White Sox at Minnesota Twins",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
