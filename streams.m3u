@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Detroit Tigers vs Seattle Mariners Live Streams" group-title="Live",Detroit Tigers vs Seattle Mariners Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51664?ad=1111/load-playlist
-
 #EXTINF:-1 tvg-name="Minnesota Twins vs Kansas City Royals Live Streams" group-title="Live",Minnesota Twins vs Kansas City Royals Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -15,7 +9,7 @@ https://red2.wecanfix8.space/playlist/51667?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51672?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/51671?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Chicago Cubs vs San Francisco Giants Live Streams" group-title="Live",Chicago Cubs vs San Francisco Giants Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -39,7 +33,7 @@ https://red2.wecanfix8.space/playlist/51679?ad=1111/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51682?ad=1111/load-playlist
+https://red2.wecanfix8.space/playlist/51683?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="Atlanta Braves vs Pittsburgh Pirates Live Streams" group-title="Live",Atlanta Braves vs Pittsburgh Pirates Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -89,23 +83,29 @@ https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
 
+#EXTINF:-1 tvg-name="USC Trojans vs North Carolina Tar Heels Live Streams" group-title="Live",USC Trojans vs North Carolina Tar Heels Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51691?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Ole Miss Rebels vs Auburn Tigers Live Streams" group-title="Live",Ole Miss Rebels vs Auburn Tigers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51693?ad=1111/load-playlist
+
+#EXTINF:-1 tvg-name="Texas Longhorns vs Oregon Ducks Live Streams" group-title="Live",Texas Longhorns vs Oregon Ducks Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51695?ad=1111/load-playlist
+
 #EXTINF:-1 tvg-name="Vegas Golden Knights vs Carolina Hurricanes Live Streams" group-title="Live",Vegas Golden Knights vs Carolina Hurricanes Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Portugal vs Chile Live Streams" group-title="Live",Portugal vs Chile Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51666?ad=1111/load-playlist
-
-#EXTINF:-1 tvg-name="Romania vs Wales Live Streams" group-title="Live",Romania vs Wales Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51665?ad=1111/load-playlist
 
 #EXTINF:-1 tvg-name="USA vs Germany Live Streams" group-title="Live",USA vs Germany Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
