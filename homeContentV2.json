@@ -24,6 +24,7 @@
     { "league": "f1",  "title": "Formula 1" }
   ],
   "mediaShelfs": [
+    { "title": "World Cup Previews", "path": "world_cup_previews", "league": "fifa.world" },
     { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },
     { "title": "NHL Highlights", "path": "nhl_highlights", "league": "nhl" },
     { "title": "UEFA Europa League Highlights", "path": "europa-league_highlights", "league": "uefa.europa" },
