@@ -3,26 +3,6 @@
     "title": "Arizona Diamondbacks at Miami Marlins",
     "broadcasts": []
   },
-  "401815697": {
-    "title": "Boston Red Sox at Tampa Bay Rays",
-    "broadcasts": [
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8c9ohusmita0msjojm0"
-      }
-    ]
-  },
   "401815698": {
     "title": "Los Angeles Dodgers at Pittsburgh Pirates",
     "broadcasts": []
@@ -30,39 +10,6 @@
   "401815699": {
     "title": "Minnesota Twins at Detroit Tigers",
     "broadcasts": []
-  },
-  "401815700": {
-    "title": "New York Yankees at Cleveland Guardians",
-    "broadcasts": [
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 109,
-        "name": "SportsNet East",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet east",
-          "sportsneteast",
-          "SNEast"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8c9oamsmitcjmgvrcbg"
-      }
-    ]
   },
   "401815701": {
     "title": "Philadelphia Phillies at Toronto Blue Jays",
