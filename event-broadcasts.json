@@ -26,6 +26,32 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2200e43092-95be-360d-8cba-5d59a912141f%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      },
+      {
+        "id": 1208,
+        "name": "ITV",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "itv"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1212,
+        "name": "ITVX",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "itvx"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },
@@ -55,6 +81,32 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%228585b934-f3b2-321a-9ca8-c557927c9f75%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      },
+      {
+        "id": 1208,
+        "name": "ITV",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "itv"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1212,
+        "name": "ITVX",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "itvx"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },
@@ -84,7 +136,22 @@
   },
   "401815713": {
     "title": "Minnesota Twins at Detroit Tigers",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 1218,
+        "name": "BBC iPlayer",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "bbc iplayer",
+          "iplayer"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401815714": {
     "title": "Seattle Mariners at Baltimore Orioles",

@@ -6,16 +6,20 @@
     "isNational": true,
     "hasLocalAffiliate": true,
     "type": "tv",
-    "searchTokens": ["kstp"]
+    "searchTokens": [
+      "kstp"
+    ]
   },
-    {
+  {
     "id": 148,
     "name": "FOX",
     "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
     "isNational": true,
     "hasLocalAffiliate": true,
     "type": "tv",
-    "searchTokens": ["wfld"]
+    "searchTokens": [
+      "wfld"
+    ]
   },
   {
     "id": 24,
@@ -24,12 +28,14 @@
     "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["altitude sports"]
+    "searchTokens": [
+      "altitude sports"
+    ]
   },
   {
     "id": 763,
     "name": "Prime Video",
-        "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w480-h960",
     "type": "streaming",
@@ -40,16 +46,18 @@
     "name": "CBS",
     "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
     "deeplink": "cbs://",
-        "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": true,
     "type": "tv",
-    "searchTokens": ["wcco"]
+    "searchTokens": [
+      "wcco"
+    ]
   },
   {
     "id": 792,
     "name": "Paramount+",
     "logoUrl": "https://i.insider.com/62c729878045920019ae13ae?width=1200&format=jpeg",
-        "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "type": "streaming",
     "searchTokens": []
@@ -58,10 +66,12 @@
     "id": 1125,
     "name": "Chicago Sports Network",
     "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["chicago sports network"]
+    "searchTokens": [
+      "chicago sports network"
+    ]
   },
   {
     "id": 126,
@@ -71,8 +81,20 @@
     "hasLocalAffiliate": false,
     "appleId": "tvs.lvs.30040",
     "type": "tv",
-    "searchTokens": ["espn"],
-    "excludedSearchTokens": ["espn 2", "espn news", "espn plus", "espn+", "espn2", "espnnews", "espnu", "espn u", "espn deportes"]
+    "searchTokens": [
+      "espn"
+    ],
+    "excludedSearchTokens": [
+      "espn 2",
+      "espn news",
+      "espn plus",
+      "espn+",
+      "espn2",
+      "espnnews",
+      "espnu",
+      "espn u",
+      "espn deportes"
+    ]
   },
   {
     "id": 139,
@@ -81,7 +103,9 @@
     "isNational": true,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["espn2"]
+    "searchTokens": [
+      "espn2"
+    ]
   },
   {
     "id": 755,
@@ -90,7 +114,9 @@
     "type": "streaming",
     "isNational": false,
     "hasLocalAffiliate": false,
-    "searchTokens": ["espn+"]
+    "searchTokens": [
+      "espn+"
+    ]
   },
   {
     "id": 834,
@@ -99,148 +125,194 @@
     "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "north"]
+    "searchTokens": [
+      "fanduel",
+      "north"
+    ]
   },
   {
     "id": 514,
     "name": "FanDuel Sports Network Ohio",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "ohio"]
+    "searchTokens": [
+      "fanduel",
+      "ohio"
+    ]
   },
   {
     "id": 836,
     "name": "FanDuel Sports Network Oklahoma",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "oklahoma"]
+    "searchTokens": [
+      "fanduel",
+      "oklahoma"
+    ]
   },
   {
     "id": 838,
     "name": "FanDuel Sports Network SoCal",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "socal"]
+    "searchTokens": [
+      "fanduel",
+      "socal"
+    ]
   },
   {
     "id": 517,
     "name": "FanDuel Sports Network South",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "south"]
+    "searchTokens": [
+      "fanduel",
+      "south"
+    ]
   },
   {
     "id": 840,
     "name": "FanDuel Sports Network Southeast",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "southeast"]
+    "searchTokens": [
+      "fanduel",
+      "southeast"
+    ]
   },
   {
     "id": 841,
     "name": "FanDuel Sports Network Southwest",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "southwest"]
+    "searchTokens": [
+      "fanduel",
+      "southwest"
+    ]
   },
   {
     "id": 843,
     "name": "FanDuel Sports Network Sun",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "sun"]
+    "searchTokens": [
+      "fanduel",
+      "sun"
+    ]
   },
   {
     "id": 844,
     "name": "FanDuel Sports Network West",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "west"]
+    "searchTokens": [
+      "fanduel",
+      "west"
+    ]
   },
   {
     "id": 846,
     "name": "FanDuel Sports Network Wisconsin",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "wisconsin"]
+    "searchTokens": [
+      "fanduel",
+      "wisconsin"
+    ]
   },
   {
     "id": 826,
     "name": "FanDuel Sports Network Detroit",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "detroit"]
+    "searchTokens": [
+      "fanduel",
+      "detroit"
+    ]
   },
   {
     "id": 828,
     "name": "FanDuel Sports Network Florida",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "florida"]
+    "searchTokens": [
+      "fanduel",
+      "florida"
+    ]
   },
   {
     "id": 830,
     "name": "FanDuel Sports Network Indiana",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "indiana"]
+    "searchTokens": [
+      "fanduel",
+      "indiana"
+    ]
   },
   {
     "id": 512,
     "name": "FanDuel Sports Network Midwest",
     "logoUrl": "https://play-lh.googleusercontent.com/M6I-Q5nOMxbcl_rKgBd1NIikUPaF1s3URZKbW-jxVdKt_wERDB9ayxxA1le-M05g2g=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["fanduel", "midwest"]
+    "searchTokens": [
+      "fanduel",
+      "midwest"
+    ]
   },
   {
     "id": 812,
     "name": "Monumental Sports Network",
     "logoUrl": "https://play-lh.googleusercontent.com/keh6pAESbLBQwWioYgZ1I7opwsh7fPeHB3OhZv_E1B9CpaKFe8vb0_yUzbG09DJTtIk=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["monumental sports"]
+    "searchTokens": [
+      "monumental sports"
+    ]
   },
   {
     "id": 346,
     "name": "MSG Network",
     "logoUrl": "https://play-lh.googleusercontent.com/fjs0FYifieHNngkvZctWNDGK1qZ6eeKKgqnslE7e2AsMTa4fInDOjcEe97-oam_ieS8",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["msg network"]
+    "searchTokens": [
+      "msg network"
+    ]
   },
   {
     "id": 887,
     "name": "NBA League Pass",
     "logoUrl": "https://play-lh.googleusercontent.com/lMs1E0GX9BRASU64Mm9WWd84Nzp451fZtOTniF3bHtEfmwU0vnruk2QOz-8LiSYhgsdO=w480-h960",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "streaming",
     "searchTokens": []
@@ -249,70 +321,84 @@
     "id": 379,
     "name": "NBC",
     "logoUrl": "https://play-lh.googleusercontent.com/o_lPCcIAydymKEaqSNw7SvDnBLACh8gHs1_EP-rRyNpWRE83nuUOXWT8CmaWvfd7fQmP=w480-h960",
-            "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": true,
     "type": "tv",
-    "searchTokens": ["kare"]
+    "searchTokens": [
+      "kare"
+    ]
   },
   {
     "id": 890,
     "name": "NBC Sports Bay Area",
     "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nbc sports bay"]
+    "searchTokens": [
+      "nbc sports bay"
+    ]
   },
   {
     "id": 891,
     "name": "NBC Sports Boston",
     "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nbc sports boston"]
+    "searchTokens": [
+      "nbc sports boston"
+    ]
   },
   {
     "id": 892,
     "name": "NBC Sports California",
     "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nbc sports california"]
+    "searchTokens": [
+      "nbc sports california"
+    ]
   },
   {
     "id": 531,
     "name": "NBC Sports Network",
     "logoUrl": "https://thedesk.net/wp-content/uploads/2021/01/SOCIAL-NBC-Sports-Network-Slate.jpg",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nbc sports network"]
+    "searchTokens": [
+      "nbc sports network"
+    ]
   },
   {
     "id": 894,
     "name": "NBC Sports Philadelphia",
     "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nbc sports philadelphia"]
+    "searchTokens": [
+      "nbc sports philadelphia"
+    ]
   },
   {
     "id": 533,
     "name": "NESN",
     "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nesn"]
+    "searchTokens": [
+      "nesn"
+    ]
   },
   {
     "id": 789,
     "name": "Peacock",
     "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-            "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "type": "streaming",
     "searchTokens": []
@@ -321,7 +407,7 @@
     "id": 535,
     "name": "Root Sports",
     "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
     "searchTokens": []
@@ -330,28 +416,34 @@
     "id": 962,
     "name": "Space City Home Network",
     "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["space city"]
+    "searchTokens": [
+      "space city"
+    ]
   },
   {
     "id": 912,
     "name": "Spectrum SportsNet",
     "logoUrl": "https://play-lh.googleusercontent.com/vjfuvrYjZtVivD12gI0Nm_kq6ZnD5ycgMRs4G9JxX2mN_4biQiw-dRZmxtKbRpxPDI8=w480-h960-rw",
-            "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["spectrum sportsnet"]
+    "searchTokens": [
+      "spectrum sportsnet"
+    ]
   },
   {
     "id": 600,
     "name": "YES Network",
-          "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
     "type": "tv",
-    "searchTokens": ["yes network"]
+    "searchTokens": [
+      "yes network"
+    ]
   },
   {
     "id": 355,
@@ -361,343 +453,448 @@
     "isNational": true,
     "hasLocalAffiliate": false,
     "type": "tv",
-    "searchTokens": ["nba tv"]
+    "searchTokens": [
+      "nba tv"
+    ]
   },
   {
     "id": 1107,
     "name": "Jazz+",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
     "deeplink": "gametime://",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "streaming",
-    "searchTokens": ["jazz+"]
+    "searchTokens": [
+      "jazz+"
+    ]
   },
   {
     "id": 1165,
     "name": "KFAA",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
     "type": "tv",
-    "searchTokens": ["kfaa"]
+    "searchTokens": [
+      "kfaa"
+    ]
   },
   {
     "id": 867,
     "name": "KJZZ",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
     "type": "tv",
-    "searchTokens": ["kjzz"]
+    "searchTokens": [
+      "kjzz"
+    ]
   },
   {
     "id": 1085,
     "name": "Mavs.com",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
     "type": "streaming",
-    "searchTokens": ["mavs.com"]
+    "searchTokens": [
+      "mavs.com"
+    ]
   },
   {
     "id": 722,
     "name": "SportsNet",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
     "type": "tv",
-    "searchTokens": ["sportsnet"],
-    "excludedSearchTokens": ["spectrum"]
+    "searchTokens": [
+      "sportsnet"
+    ],
+    "excludedSearchTokens": [
+      "spectrum"
+    ]
   },
   {
     "id": 1159,
     "name": "Gulf Coast Sports",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
     "type": "tv",
-    "searchTokens": ["gulf", "coast", "sports"]
+    "searchTokens": [
+      "gulf",
+      "coast",
+      "sports"
+    ]
   },
   {
     "id": 1083,
     "name": "pelicans.com",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
     "type": "tv",
-    "searchTokens": ["pelicans.com"]
+    "searchTokens": [
+      "pelicans.com"
+    ]
   },
   {
     "id": 1173,
     "name": "BlazerVision",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
     "type": "tv",
-    "searchTokens": ["blazervision"]
+    "searchTokens": [
+      "blazervision"
+    ]
   },
   {
     "id": 1207,
     "name": "KUNP 16",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
     "type": "tv",
-    "searchTokens": ["kunp", "16"]
+    "searchTokens": [
+      "kunp",
+      "16"
+    ]
   },
   {
     "id": 966,
     "name": "Arizona's Family 3TV",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-    "searchTokens": ["arizona's", "family", "3tv"]
+    "searchTokens": [
+      "arizona's",
+      "family",
+      "3tv"
+    ]
   },
   {
     "id": 1089,
     "name": "MNMT2",
     "type": "tv",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-    "searchTokens": ["mnmt2"]
+    "searchTokens": [
+      "mnmt2"
+    ]
   },
   {
     "id": 1193,
     "name": "Suns Live",
     "type": "tv",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-    "searchTokens": ["suns", "live"]
+    "searchTokens": [
+      "suns",
+      "live"
+    ]
   },
-    {
+  {
     "id": 459,
     "name": "SEC Network",
     "type": "tv",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-    "searchTokens": ["sec network"]
+    "searchTokens": [
+      "sec network"
+    ]
   },
-      {
+  {
     "id": 701,
     "name": "SEC Network +",
     "type": "tv",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://awfulannouncing.com/wp-content/uploads/sites/94/2024/12/sec-network-logo-2024-768x414.jpg",
-    "searchTokens": ["sec network +"]
+    "searchTokens": [
+      "sec network +"
+    ]
   },
-    {
+  {
     "id": 661,
     "name": "FS1",
     "type": "tv",
-              "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-    "searchTokens": ["fs1", "fox sports 1"]
+    "searchTokens": [
+      "fs1",
+      "fox sports 1"
+    ]
   },
-      {
+  {
     "id": 35,
     "name": "Big Ten Network",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/pidRS3m-PNWoxVakNYzUiJ0JALhBt9taQN4t0kjCul6HlpDWxW2oOtF4gj8TnmyVb_c=s512",
-    "searchTokens": ["big ten network", "btn"]
+    "searchTokens": [
+      "big ten network",
+      "btn"
+    ]
   },
-     {
+  {
     "id": 145,
     "name": "ESPN U",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/vXYsdJcXHBq_b35X61Yu88G4uEjvddkljw125nVzVYCLD6sY7fEOFmZZoi7hCA_F8mFJ=w240-h480-rw",
-    "searchTokens": ["espn u"]
+    "searchTokens": [
+      "espn u"
+    ]
   },
-       {
+  {
     "id": 61,
     "name": "CBS Sports Network",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
     "logoUrl": "https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf=w480-h960",
-    "searchTokens": ["cbs sports network"]
+    "searchTokens": [
+      "cbs sports network"
+    ]
   },
-     {
+  {
     "id": 20,
     "name": "AAC Network",
-              "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "type": "tv",
     "logoUrl": "https://play-lh.googleusercontent.com/2Uwz-VVechiKg9zF7SVXtshEm8JXMIpFzvdzUl4UEzwNHiJYSgC4WCiTpPnWjuBrya8=w240-h480-rw",
-    "searchTokens": ["aac network"]
+    "searchTokens": [
+      "aac network"
+    ]
   },
-       {
+  {
     "id": 519,
     "name": "USA Network",
     "type": "tv",
-     "isNational": false,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Gf15rAaOWAhYVpvmDMgFbhC4cKf_qXAeJD8MiELfXxf2ooddIBGVdJp3Y0677kzV3nMRNYJgwWtHZSD81WAq",
-    "searchTokens": ["usa network"]
+    "searchTokens": [
+      "usa network"
+    ]
   },
   {
     "id": 498,
     "name": "TNT",
     "type": "tv",
-     "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/iCOmPHcv9TW4MwB_BmCOr3Q6fR-3lQ0R27vcjHbgnpcGgmzOse4SfPJ8ASDjG4oP9lQ=w240-h480-rw",
-    "searchTokens": ["tnt west", "tnt east"]
+    "searchTokens": [
+      "tnt west",
+      "tnt east"
+    ]
   },
-    {
+  {
     "id": 487,
     "name": "TBS",
     "type": "tv",
-     "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U",
-    "searchTokens": ["us tbs"]
+    "searchTokens": [
+      "us tbs"
+    ]
   },
-      {
+  {
     "id": 495,
     "name": "truTV",
     "type": "tv",
-     "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/xwnvklLX5on1HIT-c5TP_Q0Cr02Z1vuTx1NFsRJvUTuhSOGZycO8kqJzoK6ah3E4tO8",
-    "searchTokens": ["trutv"]
+    "searchTokens": [
+      "trutv"
+    ]
   },
-    {
+  {
     "id": 798,
     "name": "HBO Max",
     "type": "streaming",
-     "isNational": true,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/WBH8B97jBYuKXhY-wmsjvHPg_tbJbgFg_N2cmAks7i92xuuJ9oLnoeBTfOEibBnrhEJM",
-    "searchTokens": ["hbo"]
-  },  
+    "searchTokens": [
+      "hbo"
+    ]
+  },
   {
-    "id":101,
+    "id": 101,
     "name": "TSN1",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
-     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-    "searchTokens": ["tsn1","tsn 1"]
+    "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+    "searchTokens": [
+      "tsn1",
+      "tsn 1"
+    ]
   },
-      {
+  {
     "id": 102,
     "name": "TSN2",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-    "searchTokens": ["tsn2","tsn 2"]
+    "searchTokens": [
+      "tsn2",
+      "tsn 2"
+    ]
   },
-     {
+  {
     "id": 103,
     "name": "TSN3",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-    "searchTokens": ["tsn3","tsn 3"]
+    "searchTokens": [
+      "tsn3",
+      "tsn 3"
+    ]
   },
-     {
+  {
     "id": 104,
     "name": "TSN4",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-    "searchTokens": ["tsn4","tsn 4"]
+    "searchTokens": [
+      "tsn4",
+      "tsn 4"
+    ]
   },
-     {
+  {
     "id": 105,
     "name": "TSN5",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-    "searchTokens": ["tsn5","tsn 5"]
+    "searchTokens": [
+      "tsn5",
+      "tsn 5"
+    ]
   },
-    {
+  {
     "id": 106,
     "name": "SportsNet",
     "type": "tv",
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet west", "sportsnet east"]
+    "searchTokens": [
+      "sportsnet west",
+      "sportsnet east"
+    ]
   },
-    {
+  {
     "id": 107,
     "name": "SportsNet 360",
     "type": "tv",
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet 360", "sportsnet360", "sn360"]
+    "searchTokens": [
+      "sportsnet 360",
+      "sportsnet360",
+      "sn360"
+    ]
   },
-   {
+  {
     "id": 108,
     "name": "SportsNet World",
     "type": "tv",
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet world", "sportsnetworld"]
+    "searchTokens": [
+      "sportsnet world",
+      "sportsnetworld"
+    ]
   },
-     {
+  {
     "id": 109,
     "name": "SportsNet East",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet east", "sportsneteast", "SNEast"]
+    "searchTokens": [
+      "sportsnet east",
+      "sportsneteast",
+      "SNEast"
+    ]
   },
-   {
+  {
     "id": 110,
     "name": "SportsNet West",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet west", "sportsnetwest"]
+    "searchTokens": [
+      "sportsnet west",
+      "sportsnetwest"
+    ]
   },
-     {
+  {
     "id": 111,
     "name": "SportsNet Pacific",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet pacific", "sportsnetpacific", "snpacific"]
+    "searchTokens": [
+      "sportsnet pacific",
+      "sportsnetpacific",
+      "snpacific"
+    ]
   },
-     {
+  {
     "id": 112,
     "name": "SportsNet Ontario",
     "type": "tv",
     "isNational": false,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet ontario", "sportsnetontario", "snontario"]
-   },
-     {
+    "searchTokens": [
+      "sportsnet ontario",
+      "sportsnetontario",
+      "snontario"
+    ]
+  },
+  {
     "id": 113,
     "name": "SportsNet One",
     "type": "tv",
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-    "searchTokens": ["sportsnet one", "sportsnetone", "snone"]
-   },
+    "searchTokens": [
+      "sportsnet one",
+      "sportsnetone",
+      "snone"
+    ]
+  },
   {
     "id": 796,
     "name": "Apple TV",
@@ -705,6 +902,141 @@
     "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-    "searchTokens": ["apple tv"]
+    "searchTokens": [
+      "apple tv"
+    ]
+  },
+  {
+    "id": 1208,
+    "name": "ITV",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+    "searchTokens": [
+      "itv"
+    ]
+  },
+  {
+    "id": 1209,
+    "name": "ITV2",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+    "searchTokens": [
+      "itv2",
+      "itv 2"
+    ]
+  },
+  {
+    "id": 1210,
+    "name": "ITV3",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+    "searchTokens": [
+      "itv3",
+      "itv 3"
+    ]
+  },
+  {
+    "id": 1211,
+    "name": "ITV4",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+    "searchTokens": [
+      "itv4",
+      "itv 4"
+    ]
+  },
+  {
+    "id": 1212,
+    "name": "ITVX",
+    "type": "streaming",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+    "searchTokens": [
+      "itvx"
+    ]
+  },
+  {
+    "id": 1213,
+    "name": "BBC One",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+    "searchTokens": [
+      "bbc one",
+      "bbc1",
+      "bbc 1"
+    ]
+  },
+  {
+    "id": 1214,
+    "name": "BBC Two",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+    "searchTokens": [
+      "bbc two",
+      "bbc2",
+      "bbc 2"
+    ]
+  },
+  {
+    "id": 1215,
+    "name": "BBC Three",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+    "searchTokens": [
+      "bbc three",
+      "bbc3",
+      "bbc 3"
+    ]
+  },
+  {
+    "id": 1216,
+    "name": "BBC Four",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+    "searchTokens": [
+      "bbc four",
+      "bbc4",
+      "bbc 4"
+    ]
+  },
+  {
+    "id": 1217,
+    "name": "BBC News",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+    "searchTokens": [
+      "bbc news"
+    ]
+  },
+  {
+    "id": 1218,
+    "name": "BBC iPlayer",
+    "type": "streaming",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+    "searchTokens": [
+      "bbc iplayer",
+      "iplayer"
+    ]
   }
 ]

@@ -12,6 +12,39 @@ const broadcasterMap = broadcasters.reduce((acc, broadcaster) => {
   return acc;
 }, {});
 
+const broadcasterNameMap = broadcasters.reduce((acc, broadcaster) => {
+  acc[broadcaster.name.toLowerCase()] = broadcaster;
+  return acc;
+}, {});
+
+// world_cup_broadcasts.json uses display names that differ slightly from broadcasts.json
+const wcChannelAliases = {
+  'itv 1': 'ITV',
+  'itv x': 'ITVX',
+  'itv 4': 'ITV4',
+};
+
+const wcBroadcastsRaw = await readFile(
+  new URL('./world_cup_broadcasts.json', import.meta.url),
+  'utf-8'
+);
+const wcBroadcastsByMatchup = JSON.parse(wcBroadcastsRaw);
+
+const teamNameAliases = {
+  'czechia': 'czech republic',
+};
+
+// Normalize a matchup string to a sorted canonical key for order-agnostic lookup
+function matchupKey(str) {
+  const normalized = str.toLowerCase().replace(/\s*vs\.?\s*/gi, ' vs ').trim();
+  const teams = normalized.split(' vs ').map(t => teamNameAliases[t.trim()] ?? t.trim()).sort();
+  return teams.join(' vs ');
+}
+
+const wcMatchupMap = Object.fromEntries(
+  Object.entries(wcBroadcastsByMatchup).map(([key, channels]) => [matchupKey(key), channels])
+);
+
 async function fetchEvents() {
   try {
     const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?limit=200&leagues=nba,mlb,nhl,uefa.champions,eng.1,mens-college-basketball,esp.1,racing,f1,usa.1,fifa.world');
@@ -163,6 +196,27 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
         excludedSearchTokens: channel.excludedSearchTokens || [],
         deeplink
       });
+    }
+  }
+
+  const wcChannels = wcMatchupMap[matchupKey(gameTitle)];
+  if (wcChannels) {
+    for (const channelName of wcChannels) {
+      const resolvedName = wcChannelAliases[channelName.toLowerCase()] ?? channelName;
+      const broadcaster = broadcasterNameMap[resolvedName.toLowerCase()];
+      if (broadcaster && !broadcasts.some(b => b.id === broadcaster.id)) {
+        broadcasts.push({
+          id: broadcaster.id,
+          name: broadcaster.name,
+          logoUrl: broadcaster.logoUrl || null,
+          hasLocalAffiliate: broadcaster.hasLocalAffiliate || false,
+          isNational: broadcaster.isNational || false,
+          type: broadcaster.type || null,
+          searchTokens: broadcaster.searchTokens || [],
+          excludedSearchTokens: broadcaster.excludedSearchTokens || [],
+          deeplink: null
+        });
+      }
     }
   }
 
