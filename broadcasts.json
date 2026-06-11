@@ -918,7 +918,7 @@
       "itv1",
       "itv 1"
     ],
-        "excludedSearchTokens": ["itv2", "itv3", "itv4", "itvx"]
+        "excludedSearchTokens": ["itv2", "itv 2", "itv3", "itv 3", "itv4", "itv 4", "itvx", "itv x"]
   },
   {
     "id": 1209,

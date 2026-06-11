@@ -41,9 +41,13 @@
         ],
         "excludedSearchTokens": [
           "itv2",
+          "itv 2",
           "itv3",
+          "itv 3",
           "itv4",
-          "itvx"
+          "itv 4",
+          "itvx",
+          "itv x"
         ],
         "deeplink": null
       },
@@ -117,9 +121,13 @@
         ],
         "excludedSearchTokens": [
           "itv2",
+          "itv 2",
           "itv3",
+          "itv 3",
           "itv4",
-          "itvx"
+          "itv 4",
+          "itvx",
+          "itv x"
         ],
         "deeplink": null
       },
