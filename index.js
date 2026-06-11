@@ -159,7 +159,11 @@ const eventsDictionary = data.events.reduce((acc, { id, competitors, displayName
       };
     }).filter(broadcast => broadcasterMap[broadcast.id]); // Only include known broadcasters
 
-  const tsnMatch = findBestMatch(gameTitle, tsnGames, 0.5);
+  const reversedGameTitle = competitors?.length
+    ? `${competitors[0].team.name} vs. ${competitors[1].team.name}`
+    : gameTitle;
+  const tsnMatch = findBestMatch(gameTitle, tsnGames, 0.5) ?? findBestMatch(reversedGameTitle, tsnGames, 0.5);
+  console.log(gameTitle, tsnMatch)
   if (tsnMatch?.channel) {
     const { channel } = tsnMatch;
     if (!broadcasts.some(b => b.id === channel.id)) {

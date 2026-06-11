@@ -19,7 +19,10 @@ const findChannel = (channelName) => {
 
 const parseGames = (items) =>
   items
-    .filter(({ headlines }) => headlines?.basic?.includes(' vs. '))
+    .filter(({ headlines }) =>
+      headlines?.basic?.includes(' vs. ') &&
+      !headlines.basic.toLowerCase().includes('spanish feed')
+    )
     .map(({ headlines, itemsType, channelName, startTime, endTime, duration }) => ({
       title: headlines?.basic ?? 'Unknown',
       sport: itemsType ?? 'Unknown',
