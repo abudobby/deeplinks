@@ -35,10 +35,16 @@
         "isNational": true,
         "type": "tv",
         "searchTokens": [
+          "itv",
           "itv1",
           "itv 1"
         ],
-        "excludedSearchTokens": [],
+        "excludedSearchTokens": [
+          "itv2",
+          "itv3",
+          "itv4",
+          "itvx"
+        ],
         "deeplink": null
       },
       {
@@ -105,10 +111,16 @@
         "isNational": true,
         "type": "tv",
         "searchTokens": [
+          "itv",
           "itv1",
           "itv 1"
         ],
-        "excludedSearchTokens": [],
+        "excludedSearchTokens": [
+          "itv2",
+          "itv3",
+          "itv4",
+          "itvx"
+        ],
         "deeplink": null
       },
       {
