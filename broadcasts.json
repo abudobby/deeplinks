@@ -914,9 +914,11 @@
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
     "searchTokens": [
+      "itv",
       "itv1",
       "itv 1"
-    ]
+    ],
+        "excludedSearchTokens": ["itv2", "itv3", "itv4", "itvx"]
   },
   {
     "id": 1209,
