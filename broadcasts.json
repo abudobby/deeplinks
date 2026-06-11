@@ -908,7 +908,7 @@
   },
   {
     "id": 1208,
-    "name": "ITV1",
+    "name": "ITV",
     "type": "tv",
     "isNational": true,
     "hasLocalAffiliate": false,
