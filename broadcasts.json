@@ -77,7 +77,7 @@
     "id": 126,
     "name": "ESPN",
     "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-    "isNational": true,
+    "isNational": false,
     "hasLocalAffiliate": false,
     "appleId": "tvs.lvs.30040",
     "type": "tv",
