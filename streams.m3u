@@ -17,6 +17,12 @@ https://red2.wecanfix8.space/playlist/51908/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/51903/load-playlist
 
+#EXTINF:-1 tvg-name="Washington Nationals vs Seattle Mariners Live Streams" group-title="Live",Washington Nationals vs Seattle Mariners Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51906/load-playlist
+
 #EXTINF:-1 tvg-name="Baltimore Orioles vs San Diego Padres Live Streams" group-title="Live",Baltimore Orioles vs San Diego Padres Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -27,25 +33,19 @@ https://red2.wecanfix8.space/playlist/51909/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51914/load-playlist
+https://red2.wecanfix8.space/playlist/51913/load-playlist
 
 #EXTINF:-1 tvg-name="Cleveland Guardians vs Detroit Tigers Live Streams" group-title="Live",Cleveland Guardians vs Detroit Tigers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51911/load-playlist
+https://red2.wecanfix8.space/playlist/51912/load-playlist
 
 #EXTINF:-1 tvg-name="Cincinnati Reds vs Arizona Diamondbacks Live Streams" group-title="Live",Cincinnati Reds vs Arizona Diamondbacks Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/51925/load-playlist
-
-#EXTINF:-1 tvg-name="Washington Nationals vs Seattle Mariners Live Streams" group-title="Live",Washington Nationals vs Seattle Mariners Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51907/load-playlist
 
 #EXTINF:-1 tvg-name="New York Mets vs Atlanta Braves Live Streams" group-title="Live",New York Mets vs Atlanta Braves Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -69,7 +69,7 @@ https://red2.wecanfix8.space/playlist/51923/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/51922/load-playlist
+https://red2.wecanfix8.space/playlist/51921/load-playlist
 
 #EXTINF:-1 tvg-name="Kansas City Royals vs Houston Astros Live Streams" group-title="Live",Kansas City Royals vs Houston Astros Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -83,6 +83,18 @@ https://red2.wecanfix8.space/playlist/51929/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/51930/load-playlist
 
+#EXTINF:-1 tvg-name="Los Angeles Angels vs Tampa Bay Rays Live Streams" group-title="Live",Los Angeles Angels vs Tampa Bay Rays Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51934/load-playlist
+
+#EXTINF:-1 tvg-name="Athletics vs Colorado Rockies Live Streams" group-title="Live",Athletics vs Colorado Rockies Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51937/load-playlist
+
 #EXTINF:-1 tvg-name="North Carolina Tar Heels vs Ole Miss Rebels Live Streams" group-title="Live",North Carolina Tar Heels vs Ole Miss Rebels Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
@@ -94,6 +106,12 @@ https://red2.wecanfix8.space/playlist/51927/load-playlist
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/51917/load-playlist
+
+#EXTINF:-1 tvg-name="Seattle Storm vs Golden State Valkyries Live Streams" group-title="Live",Seattle Storm vs Golden State Valkyries Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/51935/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
