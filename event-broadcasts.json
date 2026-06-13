@@ -82,7 +82,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%224c388b5d-6445-3efa-9de2-f81a5482eede%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2208e32ac5-287c-3883-989c-b7934cb596e5%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
         "id": 1213,
@@ -457,24 +457,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d8c9qjmsmit940d7c530"
-      }
-    ]
-  },
-  "600057435": {
-    "title": "MSC Cruises Barcelona-Catalunya Grand Prix - Qualifying",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   }
