@@ -1,34 +1,4 @@
 {
-  "760421": {
-    "title": "Türkiye at Australia",
-    "broadcasts": [
-      {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "fs1",
-          "fox sports 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 789,
-        "name": "Peacock",
-        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2208e32ac5-287c-3883-989c-b7934cb596e5%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      }
-    ]
-  },
   "760422": {
     "title": "Curaçao at Germany",
     "broadcasts": [
