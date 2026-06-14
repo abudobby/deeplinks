@@ -116,20 +116,6 @@
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2212806ee8-ac96-35b3-918f-8b3201caad10%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
-        "id": 105,
-        "name": "TSN5",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn5",
-          "tsn 5"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
         "id": 1208,
         "name": "ITV",
         "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
@@ -193,21 +179,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2208e32ac5-287c-3883-989c-b7934cb596e5%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      },
-      {
-        "id": 105,
-        "name": "TSN5",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn5",
-          "tsn 5"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22f831836d-c433-3518-9c82-f43e6dbedbaa%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
         "id": 1208,
@@ -272,7 +244,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2208e32ac5-287c-3883-989c-b7934cb596e5%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22f831836d-c433-3518-9c82-f43e6dbedbaa%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -485,24 +457,6 @@
         "type": "tv",
         "searchTokens": [
           "kstp"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "600057435": {
-    "title": "MSC Cruises Barcelona-Catalunya Grand Prix - Race",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
