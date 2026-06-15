@@ -27,20 +27,6 @@
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22c2cedd56-f2e1-3b32-9e6e-3fe0c4d1cdcf%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
-        "id": 104,
-        "name": "TSN4",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn4",
-          "tsn 4"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
         "id": 1213,
         "name": "BBC One",
         "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
@@ -98,20 +84,6 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22020efde8-33e2-3b44-8c92-25f478bbfb34%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      },
-      {
-        "id": 105,
-        "name": "TSN5",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn5",
-          "tsn 5"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       },
       {
         "id": 1213,
@@ -237,20 +209,6 @@
         "searchTokens": [],
         "excludedSearchTokens": [],
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22020efde8-33e2-3b44-8c92-25f478bbfb34%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
-      },
-      {
-        "id": 105,
-        "name": "TSN5",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "tsn5",
-          "tsn 5"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       },
       {
         "id": 1208,
