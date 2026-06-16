@@ -157,6 +157,20 @@
         "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22e9d3a1ae-0b6b-395a-8800-52264ea94c03%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
         "id": 1208,
         "name": "ITV",
         "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
