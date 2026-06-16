@@ -1,17 +1,16 @@
 {
-  "760427": {
-    "title": "New Zealand at Iran",
+  "760430": {
+    "title": "Norway at Iraq",
     "broadcasts": [
       {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "fs1",
-          "fox sports 1"
+          "wfld"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -25,18 +24,76 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22db32306f-a0d5-33ed-9207-e6123aa34475%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2204201b06-44bc-3665-9c52-797b97a4c0aa%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       },
       {
-        "id": 105,
-        "name": "TSN5",
+        "id": 1213,
+        "name": "BBC One",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bbc one",
+          "bbc1",
+          "bbc 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1218,
+        "name": "BBC iPlayer",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "bbc iplayer",
+          "iplayer"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "760432": {
+    "title": "Senegal at France",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 789,
+        "name": "Peacock",
+        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%2204201b06-44bc-3665-9c52-797b97a4c0aa%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      },
+      {
+        "id": 104,
+        "name": "TSN4",
         "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "tsn5",
-          "tsn 5"
+          "tsn4",
+          "tsn 4"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -72,11 +129,108 @@
       }
     ]
   },
-  "401815764": {
+  "760433": {
+    "title": "Algeria at Argentina",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 789,
+        "name": "Peacock",
+        "logoUrl": "https://i.redd.it/ec34zw80pu8c1.jpeg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [],
+        "excludedSearchTokens": [],
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22e9d3a1ae-0b6b-395a-8800-52264ea94c03%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+      },
+      {
+        "id": 1208,
+        "name": "ITV",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "itv",
+          "itv1",
+          "itv 1"
+        ],
+        "excludedSearchTokens": [
+          "itv2",
+          "itv 2",
+          "itv3",
+          "itv 3",
+          "itv4",
+          "itv 4",
+          "itvx",
+          "itv x"
+        ],
+        "deeplink": null
+      },
+      {
+        "id": 1212,
+        "name": "ITVX",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "itvx"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401815774": {
+    "title": "Chicago White Sox at New York Yankees",
+    "broadcasts": [
+      {
+        "id": 1125,
+        "name": "Chicago Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "chicago sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 600,
+        "name": "YES Network",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "yes network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401815775": {
     "title": "Kansas City Royals at Washington Nationals",
     "broadcasts": []
   },
-  "401815765": {
+  "401815776": {
     "title": "Miami Marlins at Philadelphia Phillies",
     "broadcasts": [
       {
@@ -94,9 +248,46 @@
       }
     ]
   },
-  "401815766": {
+  "401815777": {
     "title": "New York Mets at Cincinnati Reds",
+    "broadcasts": []
+  },
+  "401815778": {
+    "title": "San Francisco Giants at Atlanta Braves",
     "broadcasts": [
+      {
+        "id": 890,
+        "name": "NBC Sports Bay Area",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports bay"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401815779": {
+    "title": "Toronto Blue Jays at Boston Red Sox",
+    "broadcasts": [
+      {
+        "id": 722,
+        "name": "SportsNet",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet"
+        ],
+        "excludedSearchTokens": [
+          "spectrum"
+        ],
+        "deeplink": null
+      },
       {
         "id": 112,
         "name": "SportsNet Ontario",
@@ -110,15 +301,19 @@
           "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8fjtresmitcjmgvrcgg"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d8fjueusmitcjmgvrch0"
       }
     ]
   },
-  "401815767": {
+  "401815780": {
+    "title": "Cleveland Guardians at Milwaukee Brewers",
+    "broadcasts": []
+  },
+  "401815781": {
     "title": "Colorado Rockies at Chicago Cubs",
     "broadcasts": []
   },
-  "401815768": {
+  "401815782": {
     "title": "Detroit Tigers at Houston Astros",
     "broadcasts": [
       {
@@ -136,7 +331,7 @@
       }
     ]
   },
-  "401815769": {
+  "401815783": {
     "title": "Minnesota Twins at Texas Rangers",
     "broadcasts": [
       {
@@ -155,15 +350,33 @@
       }
     ]
   },
-  "401815770": {
+  "401815784": {
     "title": "San Diego Padres at St. Louis Cardinals",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 487,
+        "name": "TBS",
+        "logoUrl": "https://play-lh.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "us tbs"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
-  "401815771": {
+  "401815785": {
     "title": "Los Angeles Angels at Arizona Diamondbacks",
     "broadcasts": []
   },
-  "401815772": {
+  "401815786": {
+    "title": "Baltimore Orioles at Seattle Mariners",
+    "broadcasts": []
+  },
+  "401815787": {
     "title": "Pittsburgh Pirates at Athletics",
     "broadcasts": [
       {
@@ -181,47 +394,8 @@
       }
     ]
   },
-  "401815773": {
+  "401815788": {
     "title": "Tampa Bay Rays at Los Angeles Dodgers",
-    "broadcasts": [
-      {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "espn"
-        ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8fju2esmitdv75f76b0"
-      }
-    ]
+    "broadcasts": []
   }
 }
