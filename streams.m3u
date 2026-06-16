@@ -9,7 +9,13 @@ https://red2.wecanfix8.space/playlist/49727/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52100/load-playlist
+https://red2.wecanfix8.space/playlist/52098/load-playlist
+
+#EXTINF:-1 tvg-name="Iraq vs Norway Live Streams" group-title="Live",Iraq vs Norway Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52104/load-playlist
 
 #EXTINF:-1 tvg-name="Troy Trojans vs West Virginia Mountaineers Live Streams" group-title="Live",Troy Trojans vs West Virginia Mountaineers Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
