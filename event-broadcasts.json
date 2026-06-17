@@ -263,6 +263,24 @@
       }
     ]
   },
+  "401815778": {
+    "title": "San Francisco Giants at Atlanta Braves",
+    "broadcasts": [
+      {
+        "id": 890,
+        "name": "NBC Sports Bay Area",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports bay"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
   "401815789": {
     "title": "Chicago White Sox at New York Yankees",
     "broadcasts": [
@@ -298,7 +316,21 @@
   },
   "401815791": {
     "title": "Miami Marlins at Philadelphia Phillies",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 894,
+        "name": "NBC Sports Philadelphia",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports philadelphia"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
   },
   "401815792": {
     "title": "New York Mets at Cincinnati Reds",
