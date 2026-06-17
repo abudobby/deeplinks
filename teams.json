@@ -246,7 +246,7 @@
     { "id": "s:1~l:10~t:6", "name": "Tigers", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png" },
     { "id": "s:1~l:10~t:9", "name": "Twins", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png" },
     { "id": "s:1~l:10~t:4", "name": "White Sox", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png" },
-    { "id": "s:1~l:10~t:10", "name": "Yankees", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png", "cover": "https://npr.brightspotcdn.com/dims4/default/4baed21/2147483647/strip/true/crop/3811x2540+0+0/resize/1760x1174!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2Fb2%2Fdad3274d43bb8a979140162b21dc%2Fcavaliers-donovan-mitchell-ap22351195129523.jpg" }
+    { "id": "s:1~l:10~t:10", "name": "Yankees", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png"}
   ],
   "fifa.world": [
   { "name": "Algeria", "id": "s:600~t:624", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png" },
@@ -268,7 +268,7 @@
   { "name": "England", "id": "s:600~t:448", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png" },
   { "name": "France", "id": "s:600~t:478", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png" },
   { "name": "Germany", "id": "s:600~t:481", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png" },
-  { "name": "Ghana", "id": "s:600~t:4469", "logo": "https://imageservice.disco.peacocktv.com/pcms/9e313e8a-605a-11f1-a340-9b39ec0f35e9/LAND_16_9/3840x2160?image-quality=7&image-format=webp&proposition=NBCUOTT&language=eng&version=a32d7224-5f72-53a5-8b5b-06b9fc795c64&territory=US" },
+  { "name": "Ghana", "id": "s:600~t:4469", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png", "cover": "https://imageservice.disco.peacocktv.com/pcms/9e313e8a-605a-11f1-a340-9b39ec0f35e9/LAND_16_9/3840x2160?image-quality=7&image-format=webp&proposition=NBCUOTT&language=eng&version=a32d7224-5f72-53a5-8b5b-06b9fc795c64&territory=US" },
   { "name": "Haiti", "id": "s:600~t:2654", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png" },
   { "name": "Iran", "id": "s:600~t:469", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png" },
   { "name": "Iraq", "id": "s:600~t:4375", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png" },
