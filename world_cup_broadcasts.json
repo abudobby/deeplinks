@@ -1,95 +1,542 @@
 {
-  "Mexico vs South Africa": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "South Korea vs Czechia": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Canada vs Bosnia-Herzegovina": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "United States vs Paraguay": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Qatar vs Switzerland": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Brazil vs Morocco": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Haiti vs Scotland": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Australia vs Türkiye": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Germany vs Curaçao": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Netherlands vs Japan": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Ivory Coast vs Ecuador": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Sweden vs Tunisia": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Spain vs Cape Verde": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Belgium vs Egypt": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Saudi Arabia vs Uruguay": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Iran vs New Zealand": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "France vs Senegal": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Iraq vs Norway": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Argentina vs Algeria": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Austria vs Jordan": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Portugal vs Congo DR": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "England vs Croatia": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Ghana vs Panama": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Uzbekistan vs Colombia": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Czechia vs South Africa": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Switzerland vs Bosnia-Herzegovina": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Canada vs Qatar": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "United States vs Australia": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Scotland vs Morocco": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Brazil vs Haiti": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Türkiye vs Paraguay": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Netherlands vs Sweden": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Germany vs Ivory Coast": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Ecuador vs Curaçao": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Tunisia vs Japan": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Spain vs Saudi Arabia": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Belgium vs Iran": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Uruguay vs Cape Verde": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "New Zealand vs Egypt": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Argentina vs Austria": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "France vs Iraq": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Norway vs Senegal": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Jordan vs Algeria": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Portugal vs Uzbekistan": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "England vs Ghana": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Panama vs Croatia": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Colombia vs Congo DR": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Bosnia-Herzegovina vs Qatar": ["ITV 4", "ITV X"],
-  "Switzerland vs Canada": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Morocco vs Haiti": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "Scotland vs Brazil": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Czechia vs Mexico": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "South Africa vs South Korea": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "Curaçao vs Ivory Coast": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "Ecuador vs Germany": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Japan vs Sweden": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "Tunisia vs Netherlands": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Paraguay vs Australia": ["ITV 4", "ITV X"],
-  "Türkiye vs United States": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Norway vs France": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Senegal vs Iraq": ["ITV 4", "ITV X"],
-  "Cape Verde vs Saudi Arabia": ["ITV 4", "ITV X"],
-  "Uruguay vs Spain": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Egypt vs Iran": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "New Zealand vs Belgium": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Croatia vs Ghana": ["ITV 4", "ITV X"],
-  "Panama vs England": ["ITV 1", "ITV X", "STV", "STV Player"],
-  "Colombia vs Portugal": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Congo DR vs Uzbekistan": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "Algeria vs Austria": ["BBC Two", "BBC iPlayer", "BBC Sport website"],
-  "Jordan vs Argentina": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Mexico vs South Korea": ["BBC One", "BBC iPlayer", "BBC Sport website"],
-  "Round of 32 (Runner-up A vs Runner-up B)": ["TBC"],
-  "Round of 32 (Winner C vs Runner-up F)": ["TBC"],
-  "Round of 32 (Winner E vs Third place A/B/C/D/F)": ["TBC"],
-  "Round of 32 (Winner F vs Runner-up C)": ["TBC"],
-  "Round of 32 (Runner-up E vs Runner-up I)": ["TBC"],
-  "Round of 32 (Winner I vs Third place C/D/F/G/H)": ["TBC"],
-  "Round of 32 (Winner A vs Third place C/E/F/H/I)": ["TBC"],
-  "Round of 32 (Winner L vs Third place E/H/I/J/K)": ["TBC"],
-  "Round of 32 (Winner G vs Third place A/E/H/I/J)": ["TBC"],
-  "Round of 32 (Winner D vs Third place B/E/F/I/J)": ["TBC"],
-  "Round of 32 (Winner H vs Runner-up J)": ["TBC"],
-  "Round of 32 (Runner-up K vs Runner-up L)": ["TBC"],
-  "Round of 32 (Winner B vs Third place E/F/G/I/J)": ["TBC"],
-  "Round of 32 (Runner-up D vs Runner-up G)": ["TBC"],
-  "Round of 32 (Winner J vs Runner-up H)": ["TBC"],
-  "Round of 32 (Winner K vs Runner-up D/E/I/J/L)": ["TBC"],
-  "Round of 16": ["TBC"],
-  "Quarter-final": ["TBC"],
-  "Semi-final": ["TBC"],
-  "Third-place play-off": ["TBC"],
-  "Final": ["TBC"]
+  "Mexico vs South Africa": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "South Korea vs Czechia": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Canada vs Bosnia-Herzegovina": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "United States vs Paraguay": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Qatar vs Switzerland": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Brazil vs Morocco": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Haiti vs Scotland": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Australia vs T\u00fcrkiye": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Germany vs Cura\u00e7ao": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Netherlands vs Japan": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Ivory Coast vs Ecuador": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Sweden vs Tunisia": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Spain vs Cape Verde": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Belgium vs Egypt": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Saudi Arabia vs Uruguay": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Iran vs New Zealand": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "France vs Senegal": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Iraq vs Norway": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Argentina vs Algeria": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Austria vs Jordan": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Portugal vs Congo DR": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "England vs Croatia": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Ghana vs Panama": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Uzbekistan vs Colombia": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Czechia vs South Africa": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Switzerland vs Bosnia-Herzegovina": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Canada vs Qatar": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "United States vs Australia": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Scotland vs Morocco": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Brazil vs Haiti": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "T\u00fcrkiye vs Paraguay": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Netherlands vs Sweden": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Germany vs Ivory Coast": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Ecuador vs Cura\u00e7ao": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Tunisia vs Japan": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Spain vs Saudi Arabia": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Belgium vs Iran": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Uruguay vs Cape Verde": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "New Zealand vs Egypt": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Argentina vs Austria": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "France vs Iraq": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Norway vs Senegal": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Jordan vs Algeria": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Portugal vs Uzbekistan": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "England vs Ghana": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Panama vs Croatia": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Colombia vs Congo DR": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Bosnia-Herzegovina vs Qatar": [
+    "ITV 4",
+    "ITV X",
+    "beIN Sports 1"
+  ],
+  "Switzerland vs Canada": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Morocco vs Haiti": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Scotland vs Brazil": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Czechia vs Mexico": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "South Africa vs South Korea": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Cura\u00e7ao vs Ivory Coast": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Ecuador vs Germany": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Japan vs Sweden": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Tunisia vs Netherlands": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Paraguay vs Australia": [
+    "ITV 4",
+    "ITV X",
+    "beIN Sports 1"
+  ],
+  "T\u00fcrkiye vs United States": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Norway vs France": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Senegal vs Iraq": [
+    "ITV 4",
+    "ITV X",
+    "beIN Sports 1"
+  ],
+  "Cape Verde vs Saudi Arabia": [
+    "ITV 4",
+    "ITV X",
+    "beIN Sports 1"
+  ],
+  "Uruguay vs Spain": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Egypt vs Iran": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "New Zealand vs Belgium": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Croatia vs Ghana": [
+    "ITV 4",
+    "ITV X",
+    "beIN Sports 1"
+  ],
+  "Panama vs England": [
+    "ITV 1",
+    "ITV X",
+    "STV",
+    "STV Player",
+    "beIN Sports 1"
+  ],
+  "Colombia vs Portugal": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Congo DR vs Uzbekistan": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Algeria vs Austria": [
+    "BBC Two",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Jordan vs Argentina": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Mexico vs South Korea": [
+    "BBC One",
+    "BBC iPlayer",
+    "BBC Sport website",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Runner-up A vs Runner-up B)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner C vs Runner-up F)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner E vs Third place A/B/C/D/F)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner F vs Runner-up C)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Runner-up E vs Runner-up I)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner I vs Third place C/D/F/G/H)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner A vs Third place C/E/F/H/I)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner L vs Third place E/H/I/J/K)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner G vs Third place A/E/H/I/J)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner D vs Third place B/E/F/I/J)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner H vs Runner-up J)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Runner-up K vs Runner-up L)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner B vs Third place E/F/G/I/J)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Runner-up D vs Runner-up G)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner J vs Runner-up H)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 32 (Winner K vs Runner-up D/E/I/J/L)": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Round of 16": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Quarter-final": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Semi-final": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Third-place play-off": [
+    "TBC",
+    "beIN Sports 1"
+  ],
+  "Final": [
+    "TBC",
+    "beIN Sports 1"
+  ]
 }

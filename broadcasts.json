@@ -918,7 +918,16 @@
       "itv1",
       "itv 1"
     ],
-        "excludedSearchTokens": ["itv2", "itv 2", "itv3", "itv 3", "itv4", "itv 4", "itvx", "itv x"]
+    "excludedSearchTokens": [
+      "itv2",
+      "itv 2",
+      "itv3",
+      "itv 3",
+      "itv4",
+      "itv 4",
+      "itvx",
+      "itv x"
+    ]
   },
   {
     "id": 1209,
@@ -1040,6 +1049,17 @@
     "searchTokens": [
       "bbc iplayer",
       "iplayer"
+    ]
+  },
+  {
+    "id": 1219,
+    "name": "beIN Sports 1",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": false,
+    "logoUrl": "https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w480-h960",
+    "searchTokens": [
+      "bein sports 1"
     ]
   }
 ]
