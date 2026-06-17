@@ -9,7 +9,7 @@ https://red2.wecanfix8.space/playlist/52143/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52147/load-playlist
+https://red2.wecanfix8.space/playlist/52146/load-playlist
 
 #EXTINF:-1 tvg-name="Philadelphia Phillies vs Miami Marlins Live Streams" group-title="Live",Philadelphia Phillies vs Miami Marlins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -21,7 +21,25 @@ https://red2.wecanfix8.space/playlist/52150/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52148/load-playlist
+https://red2.wecanfix8.space/playlist/52149/load-playlist
+
+#EXTINF:-1 tvg-name="Houston Astros vs Detroit Tigers Live Streams" group-title="Live",Houston Astros vs Detroit Tigers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52154/load-playlist
+
+#EXTINF:-1 tvg-name="St. Louis Cardinals vs San Diego Padres Live Streams" group-title="Live",St. Louis Cardinals vs San Diego Padres Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52156/load-playlist
+
+#EXTINF:-1 tvg-name="West Virginia Mountaineers vs North Carolina Tar Heels Live Streams" group-title="Live",West Virginia Mountaineers vs North Carolina Tar Heels Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52152/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
