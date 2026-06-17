@@ -30,14 +30,10 @@ const wcBroadcastsRaw = await readFile(
 );
 const wcBroadcastsByMatchup = JSON.parse(wcBroadcastsRaw);
 
-const teamNameAliases = {
-  'czechia': 'czech republic',
-};
-
 // Normalize a matchup string to a sorted canonical key for order-agnostic lookup
 function matchupKey(str) {
   const normalized = str.toLowerCase().replace(/\s*vs\.?\s*/gi, ' vs ').trim();
-  const teams = normalized.split(' vs ').map(t => teamNameAliases[t.trim()] ?? t.trim()).sort();
+  const teams = normalized.split(' vs ').map(t => t.trim()).sort();
   return teams.join(' vs ');
 }
 
