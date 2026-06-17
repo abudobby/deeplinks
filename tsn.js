@@ -21,7 +21,7 @@ const parseGames = (items) =>
   items
     .filter(({ headlines }) =>
       headlines?.basic?.includes(' vs. ') &&
-      !headlines.basic.toLowerCase().includes('spanish feed')
+      !/ feed:/i.test(headlines.basic)
     )
     .map(({ headlines, itemsType, channelName, startTime, endTime, duration }) => ({
       title: headlines?.basic ?? 'Unknown',
