@@ -246,6 +246,6 @@
     { "id": "s:1~l:10~t:6", "name": "Tigers", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png" },
     { "id": "s:1~l:10~t:9", "name": "Twins", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png" },
     { "id": "s:1~l:10~t:4", "name": "White Sox", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png" },
-    { "id": "s:1~l:10~t:10", "name": "Yankees", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png" }
+    { "id": "s:1~l:10~t:10", "name": "Yankees", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png", "cover": "https://npr.brightspotcdn.com/dims4/default/4baed21/2147483647/strip/true/crop/3811x2540+0+0/resize/1760x1174!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2Fb2%2Fdad3274d43bb8a979140162b21dc%2Fcavaliers-donovan-mitchell-ap22351195129523.jpg" }
   ]
 }
