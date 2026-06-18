@@ -3,19 +3,31 @@
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52198/load-playlist
+https://red2.wecanfix8.space/playlist/52199/load-playlist
 
-#EXTINF:-1 tvg-name="Boston Red Sox vs Toronto Blue Jays Live Streams" group-title="Live",Boston Red Sox vs Toronto Blue Jays Live Streams
+#EXTINF:-1 tvg-name="Canada vs Qatar Live Streams" group-title="Live",Canada vs Qatar Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52192/load-playlist
+https://red2.wecanfix8.space/playlist/52203/load-playlist
+
+#EXTINF:-1 tvg-name="Switzerland vs Bosnia &amp; Herzegovina Live Streams" group-title="Live",Switzerland vs Bosnia &amp; Herzegovina Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52199/load-playlist
+
+#EXTINF:-1 tvg-name="Canada vs Qatar Live Streams" group-title="Live",Canada vs Qatar Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52203/load-playlist
 
 #EXTINF:-1 tvg-name="Milwaukee Brewers vs Cleveland Guardians Live Streams" group-title="Live",Milwaukee Brewers vs Cleveland Guardians Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52195/load-playlist
+https://red2.wecanfix8.space/playlist/52194/load-playlist
 
 #EXTINF:-1 tvg-name="Texas Rangers vs Minnesota Twins Live Streams" group-title="Live",Texas Rangers vs Minnesota Twins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
