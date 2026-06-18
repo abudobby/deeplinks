@@ -1,1482 +1,301 @@
 {
   "nba": [
-    {
-      "id": "s:40~l:46~t:1",
-      "name": "Hawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png"
-    },
-    {
-      "id": "s:40~l:46~t:2",
-      "name": "Celtics",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png"
-    },
-    {
-      "id": "s:40~l:46~t:17",
-      "name": "Nets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png"
-    },
-    {
-      "id": "s:40~l:46~t:30",
-      "name": "Hornets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png"
-    },
-    {
-      "id": "s:40~l:46~t:4",
-      "name": "Bulls",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png"
-    },
-    {
-      "id": "s:40~l:46~t:5",
-      "name": "Cavaliers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png",
-      "cover": "https://npr.brightspotcdn.com/dims4/default/4baed21/2147483647/strip/true/crop/3811x2540+0+0/resize/1760x1174!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2Fb2%2Fdad3274d43bb8a979140162b21dc%2Fcavaliers-donovan-mitchell-ap22351195129523.jpg"
-    },
-    {
-      "id": "s:40~l:46~t:6",
-      "name": "Mavericks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png"
-    },
-    {
-      "id": "s:40~l:46~t:7",
-      "name": "Nuggets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png"
-    },
-    {
-      "id": "s:40~l:46~t:8",
-      "name": "Pistons",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png",
-      "cover": "https://www.tsn.ca/resizer/v2/MPZ2S7VNUQKR5C6WCOWRTUURPY.jpg?smart=true&auth=d0dfcfb71616307940653454827c3d8c0be9fc2572661fcfc934c46ef1e0a469&width=1600&height=899"
-    },
-    {
-      "id": "s:40~l:46~t:9",
-      "name": "Warriors",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png"
-    },
-    {
-      "id": "s:40~l:46~t:10",
-      "name": "Rockets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png"
-    },
-    {
-      "id": "s:40~l:46~t:11",
-      "name": "Pacers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png"
-    },
-    {
-      "id": "s:40~l:46~t:12",
-      "name": "Clippers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png"
-    },
-    {
-      "id": "s:40~l:46~t:13",
-      "name": "Lakers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png",
-      "cover": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/11/522828.JPG"
-    },
-    {
-      "id": "s:40~l:46~t:29",
-      "name": "Grizzlies",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png"
-    },
-    {
-      "id": "s:40~l:46~t:14",
-      "name": "Heat",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png"
-    },
-    {
-      "id": "s:40~l:46~t:15",
-      "name": "Bucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png"
-    },
-    {
-      "id": "s:40~l:46~t:16",
-      "name": "Timberwolves",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png",
-      "cover": "https://cdn.nba.com/teams/uploads/sites/1610612750/2024/11/GettyImages-2181956316.jpg?im=Resize=(1920)"
-    },
-    {
-      "id": "s:40~l:46~t:3",
-      "name": "Pelicans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png"
-    },
-    {
-      "id": "s:40~l:46~t:18",
-      "name": "Knicks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png",
-      "cover": "https://dknetwork.draftkings.com/wp-content/uploads/USATSI_25333295.jpg"
-    },
-    {
-      "id": "s:40~l:46~t:25",
-      "name": "Thunder",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png",
-      "cover": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2214216005_large_cropped.jpg?w=1280"
-    },
-    {
-      "id": "s:40~l:46~t:19",
-      "name": "Magic",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png"
-    },
-    {
-      "id": "s:40~l:46~t:20",
-      "name": "76ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png",
-      "cover": "https://media.cnn.com/api/v1/images/stellar/prod/231006034952-01-joel-embiid-paris-olympics.jpg?c=16x9&q=h_653,w_1160,c_fill/f_avif"
-    },
-    {
-      "id": "s:40~l:46~t:21",
-      "name": "Suns",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png"
-    },
-    {
-      "id": "s:40~l:46~t:22",
-      "name": "Trail Blazers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png"
-    },
-    {
-      "id": "s:40~l:46~t:23",
-      "name": "Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png"
-    },
-    {
-      "id": "s:40~l:46~t:24",
-      "name": "Spurs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png",
-      "cover": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-02/2263269912_large_cropped.jpg?w=1280"
-    },
-    {
-      "id": "s:40~l:46~t:28",
-      "name": "Raptors",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png"
-    },
-    {
-      "id": "s:40~l:46~t:26",
-      "name": "Jazz",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png"
-    },
-    {
-      "id": "s:40~l:46~t:27",
-      "name": "Wizards",
-      "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png"
-    }
+    { "id": "s:40~l:46~t:1", "name": "Hawks", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/atl.png" },
+    { "id": "s:40~l:46~t:2", "name": "Celtics", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bos.png" },
+    { "id": "s:40~l:46~t:17", "name": "Nets", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/bkn.png" },
+    { "id": "s:40~l:46~t:30", "name": "Hornets", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cha.png" },
+    { "id": "s:40~l:46~t:4", "name": "Bulls", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/chi.png" },
+    { "id": "s:40~l:46~t:5", "name": "Cavaliers", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/cle.png", "cover": "https://npr.brightspotcdn.com/dims4/default/4baed21/2147483647/strip/true/crop/3811x2540+0+0/resize/1760x1174!/format/webp/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F34%2Fb2%2Fdad3274d43bb8a979140162b21dc%2Fcavaliers-donovan-mitchell-ap22351195129523.jpg" },
+    { "id": "s:40~l:46~t:6", "name": "Mavericks", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/dal.png" },
+    { "id": "s:40~l:46~t:7", "name": "Nuggets", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/den.png" },
+    { "id": "s:40~l:46~t:8", "name": "Pistons", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/det.png", "cover": "https://www.tsn.ca/resizer/v2/MPZ2S7VNUQKR5C6WCOWRTUURPY.jpg?smart=true&auth=d0dfcfb71616307940653454827c3d8c0be9fc2572661fcfc934c46ef1e0a469&width=1600&height=899" },
+    { "id": "s:40~l:46~t:9", "name": "Warriors", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/gs.png" },
+    { "id": "s:40~l:46~t:10", "name": "Rockets", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/hou.png" },
+    { "id": "s:40~l:46~t:11", "name": "Pacers", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ind.png" },
+    { "id": "s:40~l:46~t:12", "name": "Clippers", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lac.png" },
+    { "id": "s:40~l:46~t:13", "name": "Lakers", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/lal.png", "cover": "https://www.japantimes.co.jp/japantimes/uploads/images/2026/02/11/522828.JPG" },
+    { "id": "s:40~l:46~t:29", "name": "Grizzlies", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mem.png" },
+    { "id": "s:40~l:46~t:14", "name": "Heat", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mia.png" },
+    { "id": "s:40~l:46~t:15", "name": "Bucks", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/mil.png" },
+    { "id": "s:40~l:46~t:16", "name": "Timberwolves", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/min.png", "cover": "https://cdn.nba.com/teams/uploads/sites/1610612750/2024/11/GettyImages-2181956316.jpg?im=Resize=(1920)" },
+    { "id": "s:40~l:46~t:3", "name": "Pelicans", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/no.png" },
+    { "id": "s:40~l:46~t:18", "name": "Knicks", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/ny.png", "cover": "https://dknetwork.draftkings.com/wp-content/uploads/USATSI_25333295.jpg" },
+    { "id": "s:40~l:46~t:25", "name": "Thunder", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/okc.png", "cover": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2214216005_large_cropped.jpg?w=1280" },
+    { "id": "s:40~l:46~t:19", "name": "Magic", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/orl.png" },
+    { "id": "s:40~l:46~t:20", "name": "76ers", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phi.png", "cover": "https://media.cnn.com/api/v1/images/stellar/prod/231006034952-01-joel-embiid-paris-olympics.jpg?c=16x9&q=h_653,w_1160,c_fill/f_avif" },
+    { "id": "s:40~l:46~t:21", "name": "Suns", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/phx.png" },
+    { "id": "s:40~l:46~t:22", "name": "Trail Blazers", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/por.png" },
+    { "id": "s:40~l:46~t:23", "name": "Kings", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sac.png" },
+    { "id": "s:40~l:46~t:24", "name": "Spurs", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/sa.png", "cover": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-02/2263269912_large_cropped.jpg?w=1280" },
+    { "id": "s:40~l:46~t:28", "name": "Raptors", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/tor.png" },
+    { "id": "s:40~l:46~t:26", "name": "Jazz", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/utah.png" },
+    { "id": "s:40~l:46~t:27", "name": "Wizards", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/wsh.png" }
   ],
   "nfl": [
-    {
-      "id": "s:20~l:28~t:22",
-      "name": "Arizona Cardinals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png"
-    },
-    {
-      "id": "s:20~l:28~t:1",
-      "name": "Atlanta Falcons",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png"
-    },
-    {
-      "id": "s:20~l:28~t:33",
-      "name": "Baltimore Ravens",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png"
-    },
-    {
-      "id": "s:20~l:28~t:2",
-      "name": "Buffalo Bills",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png"
-    },
-    {
-      "id": "s:20~l:28~t:29",
-      "name": "Carolina Panthers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png"
-    },
-    {
-      "id": "s:20~l:28~t:3",
-      "name": "Chicago Bears",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png"
-    },
-    {
-      "id": "s:20~l:28~t:4",
-      "name": "Cincinnati Bengals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png"
-    },
-    {
-      "id": "s:20~l:28~t:5",
-      "name": "Cleveland Browns",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png"
-    },
-    {
-      "id": "s:20~l:28~t:6",
-      "name": "Dallas Cowboys",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png"
-    },
-    {
-      "id": "s:20~l:28~t:7",
-      "name": "Denver Broncos",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png"
-    },
-    {
-      "id": "s:20~l:28~t:8",
-      "name": "Detroit Lions",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png"
-    },
-    {
-      "id": "s:20~l:28~t:9",
-      "name": "Green Bay Packers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png"
-    },
-    {
-      "id": "s:20~l:28~t:34",
-      "name": "Houston Texans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png"
-    },
-    {
-      "id": "s:20~l:28~t:11",
-      "name": "Indianapolis Colts",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png"
-    },
-    {
-      "id": "s:20~l:28~t:30",
-      "name": "Jacksonville Jaguars",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png"
-    },
-    {
-      "id": "s:20~l:28~t:12",
-      "name": "Kansas City Chiefs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png"
-    },
-    {
-      "id": "s:20~l:28~t:13",
-      "name": "Las Vegas Raiders",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png"
-    },
-    {
-      "id": "s:20~l:28~t:24",
-      "name": "Los Angeles Chargers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png"
-    },
-    {
-      "id": "s:20~l:28~t:14",
-      "name": "Los Angeles Rams",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png"
-    },
-    {
-      "id": "s:20~l:28~t:15",
-      "name": "Miami Dolphins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png"
-    },
-    {
-      "id": "s:20~l:28~t:16",
-      "name": "Minnesota Vikings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png"
-    },
-    {
-      "id": "s:20~l:28~t:17",
-      "name": "New England Patriots",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png"
-    },
-    {
-      "id": "s:20~l:28~t:18",
-      "name": "New Orleans Saints",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png"
-    },
-    {
-      "id": "s:20~l:28~t:19",
-      "name": "New York Giants",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png"
-    },
-    {
-      "id": "s:20~l:28~t:20",
-      "name": "New York Jets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png"
-    },
-    {
-      "id": "s:20~l:28~t:21",
-      "name": "Philadelphia Eagles",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png"
-    },
-    {
-      "id": "s:20~l:28~t:23",
-      "name": "Pittsburgh Steelers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png"
-    },
-    {
-      "id": "s:20~l:28~t:25",
-      "name": "San Francisco 49ers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png"
-    },
-    {
-      "id": "s:20~l:28~t:26",
-      "name": "Seattle Seahawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png"
-    },
-    {
-      "id": "s:20~l:28~t:27",
-      "name": "Tampa Bay Buccaneers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png"
-    },
-    {
-      "id": "s:20~l:28~t:10",
-      "name": "Tennessee Titans",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png"
-    },
-    {
-      "id": "s:20~l:28~t:28",
-      "name": "Washington Commanders",
-      "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png"
-    }
+    { "id": "s:20~l:28~t:22", "name": "Arizona Cardinals", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ari.png" },
+    { "id": "s:20~l:28~t:1", "name": "Atlanta Falcons", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/atl.png" },
+    { "id": "s:20~l:28~t:33", "name": "Baltimore Ravens", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/bal.png" },
+    { "id": "s:20~l:28~t:2", "name": "Buffalo Bills", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/buf.png" },
+    { "id": "s:20~l:28~t:29", "name": "Carolina Panthers", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/car.png" },
+    { "id": "s:20~l:28~t:3", "name": "Chicago Bears", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/chi.png" },
+    { "id": "s:20~l:28~t:4", "name": "Cincinnati Bengals", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cin.png" },
+    { "id": "s:20~l:28~t:5", "name": "Cleveland Browns", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/cle.png" },
+    { "id": "s:20~l:28~t:6", "name": "Dallas Cowboys", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/dal.png" },
+    { "id": "s:20~l:28~t:7", "name": "Denver Broncos", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/den.png" },
+    { "id": "s:20~l:28~t:8", "name": "Detroit Lions", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/det.png" },
+    { "id": "s:20~l:28~t:9", "name": "Green Bay Packers", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/gb.png" },
+    { "id": "s:20~l:28~t:34", "name": "Houston Texans", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/hou.png" },
+    { "id": "s:20~l:28~t:11", "name": "Indianapolis Colts", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ind.png" },
+    { "id": "s:20~l:28~t:30", "name": "Jacksonville Jaguars", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/jax.png" },
+    { "id": "s:20~l:28~t:12", "name": "Kansas City Chiefs", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/kc.png" },
+    { "id": "s:20~l:28~t:13", "name": "Las Vegas Raiders", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lv.png" },
+    { "id": "s:20~l:28~t:24", "name": "Los Angeles Chargers", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lac.png" },
+    { "id": "s:20~l:28~t:14", "name": "Los Angeles Rams", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/lar.png" },
+    { "id": "s:20~l:28~t:15", "name": "Miami Dolphins", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/mia.png" },
+    { "id": "s:20~l:28~t:16", "name": "Minnesota Vikings", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/min.png" },
+    { "id": "s:20~l:28~t:17", "name": "New England Patriots", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ne.png" },
+    { "id": "s:20~l:28~t:18", "name": "New Orleans Saints", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/no.png" },
+    { "id": "s:20~l:28~t:19", "name": "New York Giants", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyg.png" },
+    { "id": "s:20~l:28~t:20", "name": "New York Jets", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/nyj.png" },
+    { "id": "s:20~l:28~t:21", "name": "Philadelphia Eagles", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/phi.png" },
+    { "id": "s:20~l:28~t:23", "name": "Pittsburgh Steelers", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/pit.png" },
+    { "id": "s:20~l:28~t:25", "name": "San Francisco 49ers", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sf.png" },
+    { "id": "s:20~l:28~t:26", "name": "Seattle Seahawks", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/sea.png" },
+    { "id": "s:20~l:28~t:27", "name": "Tampa Bay Buccaneers", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/tb.png" },
+    { "id": "s:20~l:28~t:10", "name": "Tennessee Titans", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/ten.png" },
+    { "id": "s:20~l:28~t:28", "name": "Washington Commanders", "logo": "https://a.espncdn.com/i/teamlogos/nfl/500/wsh.png" }
   ],
   "nhl": [
-    {
-      "id": "s:70l:90t:25",
-      "name": "Ducks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png",
-      "cover": "https://www.baltimoresun.com/wp-content/uploads/2026/05/APTOPIX_Oilers_Ducks_Hockey_63525.jpg"
-    },
-    {
-      "id": "s:70l:90t:1",
-      "name": "Bruins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png"
-    },
-    {
-      "id": "s:70l:90t:2",
-      "name": "Sabres",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/buf.png",
-      "cover": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/DW2ZR5QJBAI6VPRPELU4SDPVVU.jpg"
-    },
-    {
-      "id": "s:70l:90t:3",
-      "name": "Flames",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png"
-    },
-    {
-      "id": "s:70l:90t:7",
-      "name": "Hurricanes",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png",
-      "cover": "https://www.dailyfaceoff.com/_next/image?url=https%3A%2F%2Fpublish.dailyfaceoff.com%2Fwp-content%2Fuploads%2F2025%2F07%2FUSATSI_26313779-scaled.jpg&w=3840&q=75"
-    },
-    {
-      "id": "s:70l:90t:4",
-      "name": "Blackhawks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png"
-    },
-    {
-      "id": "s:70~l:90~t:17",
-      "name": "Avalanche",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png",
-      "cover": "https://guerillasports.net/wp-content/uploads/2026/01/20260119_GS_COL_VS_WSH_006-scaled.jpg"
-    },
-    {
-      "id": "s:70l:90t:29",
-      "name": "Blue Jackets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png"
-    },
-    {
-      "id": "s:70l:90t:9",
-      "name": "Stars",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png"
-    },
-    {
-      "id": "s:70l:90t:5",
-      "name": "Red Wings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png"
-    },
-    {
-      "id": "s:70l:90t:6",
-      "name": "Oilers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png"
-    },
-    {
-      "id": "s:70l:90t:26",
-      "name": "Panthers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png"
-    },
-    {
-      "id": "s:70l:90t:8",
-      "name": "Kings",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png"
-    },
-    {
-      "id": "s:70~l:90~t:30",
-      "name": "Wild",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png",
-      "cover": "https://hockeywilderness.com/uploads/monthly_2026_04/USATSI_28835178_168390100_lowres.jpg.f3b20d594a9d40d021c47e67cfb0af6c.jpg"
-    },
-    {
-      "id": "s:70~l:90~t:10",
-      "name": "Canadiens",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png",
-      "cover": "https://i0.wp.com/www.habseyesontheprize.com/wp-content/uploads/sites/29/2023/10/USATSI_21728962-scaled.jpg?resize=1200%2C800&ssl=1"
-    },
-    {
-      "id": "s:70l:90t:27",
-      "name": "Predators",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png"
-    },
-    {
-      "id": "s:70l:90t:11",
-      "name": "Devils",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png"
-    },
-    {
-      "id": "s:70l:90t:12",
-      "name": "Islanders",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png"
-    },
-    {
-      "id": "s:70l:90t:13",
-      "name": "Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png"
-    },
-    {
-      "id": "s:70l:90t:14",
-      "name": "Senators",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ott.png"
-    },
-    {
-      "id": "s:70l:90t:15",
-      "name": "Flyers",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png",
-      "cover": "https://www.tsn.ca/resizer/v2/VGL64M5DDZCJND5HU2MNCWS6NU.jpg?auth=05fbbdf88eb0ccea8b6f54cc6a20619baa43aa23b8d7c79492f0c7ee83bc2111"
-    },
-    {
-      "id": "s:70l:90t:16",
-      "name": "Penguins",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png"
-    },
-    {
-      "id": "s:70l:90t:18",
-      "name": "Sharks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png"
-    },
-    {
-      "id": "s:70l:90t:124292",
-      "name": "Kraken",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/sea.png"
-    },
-    {
-      "id": "s:70l:90t:19",
-      "name": "Blues",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png"
-    },
-    {
-      "id": "s:70~l:90~t:20",
-      "name": "Lightning",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png",
-      "cover": "https://www.thebiglead.com/wp-content/uploads/2026/04/default-347.jpg.webp"
-    },
-    {
-      "id": "s:70l:90t:21",
-      "name": "Maple Leafs",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png"
-    },
-    {
-      "id": "s:70l:90t:129764",
-      "name": "Mammoth",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/utah.png"
-    },
-    {
-      "id": "s:70l:90t:22",
-      "name": "Canucks",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png"
-    },
-    {
-      "id": "s:70l:90t:37",
-      "name": "Golden Knights",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png",
-      "cover": "https://www.dailyfaceoff.com/_next/image?url=https%3A%2F%2Fpublish.dailyfaceoff.com%2Fwp-content%2Fuploads%2F2024%2F08%2FUSATSI_22342791-scaled.jpg&w=3840&q=75"
-    },
-    {
-      "id": "s:70l:90t:23",
-      "name": "Capitals",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png"
-    },
-    {
-      "id": "s:70l:90t:28",
-      "name": "Jets",
-      "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png"
-    }
-  ],
+  { "id": "s:70l:90t:25", "name": "Ducks", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ana.png", "cover": "https://www.baltimoresun.com/wp-content/uploads/2026/05/APTOPIX_Oilers_Ducks_Hockey_63525.jpg" },
+  { "id": "s:70l:90t:1", "name": "Bruins", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/bos.png" },
+  { "id": "s:70l:90t:2", "name": "Sabres", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/buf.png", "cover": "https://arc-anglerfish-arc2-prod-bostonglobe.s3.amazonaws.com/public/DW2ZR5QJBAI6VPRPELU4SDPVVU.jpg" },
+  { "id": "s:70l:90t:3", "name": "Flames", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/cgy.png" },
+  { "id": "s:70l:90t:7", "name": "Hurricanes", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/car.png", "cover": "https://www.dailyfaceoff.com/_next/image?url=https%3A%2F%2Fpublish.dailyfaceoff.com%2Fwp-content%2Fuploads%2F2025%2F07%2FUSATSI_26313779-scaled.jpg&w=3840&q=75" },
+  { "id": "s:70l:90t:4", "name": "Blackhawks", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/chi.png" },
+  { "id": "s:70~l:90~t:17", "name": "Avalanche", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/col.png", "cover": "https://guerillasports.net/wp-content/uploads/2026/01/20260119_GS_COL_VS_WSH_006-scaled.jpg" },
+  { "id": "s:70l:90t:29", "name": "Blue Jackets", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/cbj.png" },
+  { "id": "s:70l:90t:9", "name": "Stars", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/dal.png" },
+  { "id": "s:70l:90t:5", "name": "Red Wings", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/det.png" },
+  { "id": "s:70l:90t:6", "name": "Oilers", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/edm.png" },
+  { "id": "s:70l:90t:26", "name": "Panthers", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/fla.png" },
+  { "id": "s:70l:90t:8", "name": "Kings", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/la.png" },
+  { "id": "s:70~l:90~t:30", "name": "Wild", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/min.png", "cover": "https://hockeywilderness.com/uploads/monthly_2026_04/USATSI_28835178_168390100_lowres.jpg.f3b20d594a9d40d021c47e67cfb0af6c.jpg" },
+  { "id": "s:70~l:90~t:10", "name": "Canadiens", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/mtl.png", "cover": "https://i0.wp.com/www.habseyesontheprize.com/wp-content/uploads/sites/29/2023/10/USATSI_21728962-scaled.jpg?resize=1200%2C800&ssl=1" },
+  { "id": "s:70l:90t:27", "name": "Predators", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nsh.png" },
+  { "id": "s:70l:90t:11", "name": "Devils", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nj.png" },
+  { "id": "s:70l:90t:12", "name": "Islanders", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyi.png" },
+  { "id": "s:70l:90t:13", "name": "Rangers", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/nyr.png" },
+  { "id": "s:70l:90t:14", "name": "Senators", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/ott.png" },
+  { "id": "s:70l:90t:15", "name": "Flyers", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/phi.png", "cover": "https://www.tsn.ca/resizer/v2/VGL64M5DDZCJND5HU2MNCWS6NU.jpg?auth=05fbbdf88eb0ccea8b6f54cc6a20619baa43aa23b8d7c79492f0c7ee83bc2111" },
+  { "id": "s:70l:90t:16", "name": "Penguins", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/pit.png" },
+  { "id": "s:70l:90t:18", "name": "Sharks", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/sj.png" },
+  { "id": "s:70l:90t:124292", "name": "Kraken", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/sea.png" },
+  { "id": "s:70l:90t:19", "name": "Blues", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/stl.png" },
+  { "id": "s:70~l:90~t:20", "name": "Lightning", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tb.png", "cover": "https://www.thebiglead.com/wp-content/uploads/2026/04/default-347.jpg.webp" },
+  { "id": "s:70l:90t:21", "name": "Maple Leafs", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/tor.png" },
+  { "id": "s:70l:90t:129764", "name": "Mammoth", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/utah.png" },
+  { "id": "s:70l:90t:22", "name": "Canucks", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/van.png" },
+  { "id": "s:70l:90t:37", "name": "Golden Knights", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/vgk.png", "cover": "https://www.dailyfaceoff.com/_next/image?url=https%3A%2F%2Fpublish.dailyfaceoff.com%2Fwp-content%2Fuploads%2F2024%2F08%2FUSATSI_22342791-scaled.jpg&w=3840&q=75" },
+  { "id": "s:70l:90t:23", "name": "Capitals", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/wsh.png" },
+  { "id": "s:70l:90t:28", "name": "Jets", "logo": "https://a.espncdn.com/i/teamlogos/nhl/500/wpg.png" }
+],
   "eng.1": [
-    {
-      "id": "s:600t:349",
-      "name": "AFC Bournemouth",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png"
-    },
-    {
-      "id": "s:600t:359",
-      "name": "Arsenal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png"
-    },
-    {
-      "id": "s:600t:362",
-      "name": "Aston Villa",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png"
-    },
-    {
-      "id": "s:600t:337",
-      "name": "Brentford",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png"
-    },
-    {
-      "id": "s:600t:331",
-      "name": "Brighton & Hove Albion",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png"
-    },
-    {
-      "id": "s:600t:379",
-      "name": "Burnley",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png"
-    },
-    {
-      "id": "s:600t:363",
-      "name": "Chelsea",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png"
-    },
-    {
-      "id": "s:600t:384",
-      "name": "Crystal Palace",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png"
-    },
-    {
-      "id": "s:600t:368",
-      "name": "Everton",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png"
-    },
-    {
-      "id": "s:600t:370",
-      "name": "Fulham",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png"
-    },
-    {
-      "id": "s:600t:357",
-      "name": "Leeds United",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png"
-    },
-    {
-      "id": "s:600t:364",
-      "name": "Liverpool",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png"
-    },
-    {
-      "id": "s:600t:382",
-      "name": "Manchester City",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png"
-    },
-    {
-      "id": "s:600t:360",
-      "name": "Manchester United",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png"
-    },
-    {
-      "id": "s:600t:361",
-      "name": "Newcastle United",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png"
-    },
-    {
-      "id": "s:600t:393",
-      "name": "Nottingham Forest",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png"
-    },
-    {
-      "id": "s:600t:366",
-      "name": "Sunderland",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png"
-    },
-    {
-      "id": "s:600t:367",
-      "name": "Tottenham Hotspur",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png"
-    },
-    {
-      "id": "s:600t:371",
-      "name": "West Ham United",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png"
-    },
-    {
-      "id": "s:600t:380",
-      "name": "Wolverhampton Wanderers",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png"
-    }
-  ],
+  { "id": "s:600t:349", "name": "AFC Bournemouth", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/349.png" },
+  { "id": "s:600t:359", "name": "Arsenal", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/359.png" },
+  { "id": "s:600t:362", "name": "Aston Villa", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/362.png" },
+  { "id": "s:600t:337", "name": "Brentford", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/337.png" },
+  { "id": "s:600t:331", "name": "Brighton & Hove Albion", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/331.png" },
+  { "id": "s:600t:379", "name": "Burnley", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/379.png" },
+  { "id": "s:600t:363", "name": "Chelsea", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/363.png" },
+  { "id": "s:600t:384", "name": "Crystal Palace", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/384.png" },
+  { "id": "s:600t:368", "name": "Everton", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/368.png" },
+  { "id": "s:600t:370", "name": "Fulham", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/370.png" },
+  { "id": "s:600t:357", "name": "Leeds United", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/357.png" },
+  { "id": "s:600t:364", "name": "Liverpool", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/364.png" },
+  { "id": "s:600t:382", "name": "Manchester City", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/382.png" },
+  { "id": "s:600t:360", "name": "Manchester United", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/360.png" },
+  { "id": "s:600t:361", "name": "Newcastle United", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/361.png" },
+  { "id": "s:600t:393", "name": "Nottingham Forest", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/393.png" },
+  { "id": "s:600t:366", "name": "Sunderland", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/366.png" },
+  { "id": "s:600t:367", "name": "Tottenham Hotspur", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/367.png" },
+  { "id": "s:600t:371", "name": "West Ham United", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/371.png" },
+  { "id": "s:600t:380", "name": "Wolverhampton Wanderers", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/380.png" }
+],
   "esp.1": [
-    {
-      "id": "s:600t:96",
-      "name": "Alav\u00e9s",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png"
-    },
-    {
-      "id": "s:600t:93",
-      "name": "Athletic Club",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png"
-    },
-    {
-      "id": "s:600t:1068",
-      "name": "Atl\u00e9tico Madrid",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png"
-    },
-    {
-      "id": "s:600t:83",
-      "name": "Barcelona",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png"
-    },
-    {
-      "id": "s:600t:85",
-      "name": "Celta Vigo",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png"
-    },
-    {
-      "id": "s:600t:3751",
-      "name": "Elche",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png"
-    },
-    {
-      "id": "s:600t:88",
-      "name": "Espanyol",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png"
-    },
-    {
-      "id": "s:600t:2922",
-      "name": "Getafe",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png"
-    },
-    {
-      "id": "s:600t:9812",
-      "name": "Girona",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png"
-    },
-    {
-      "id": "s:600t:1538",
-      "name": "Levante",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png"
-    },
-    {
-      "id": "s:600t:84",
-      "name": "Mallorca",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png"
-    },
-    {
-      "id": "s:600t:97",
-      "name": "Osasuna",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png"
-    },
-    {
-      "id": "s:600t:101",
-      "name": "Rayo Vallecano",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png"
-    },
-    {
-      "id": "s:600t:244",
-      "name": "Real Betis",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png"
-    },
-    {
-      "id": "s:600t:86",
-      "name": "Real Madrid",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png"
-    },
-    {
-      "id": "s:600t:92",
-      "name": "Real Oviedo",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png"
-    },
-    {
-      "id": "s:600t:89",
-      "name": "Real Sociedad",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png"
-    },
-    {
-      "id": "s:600t:243",
-      "name": "Sevilla",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png"
-    },
-    {
-      "id": "s:600t:94",
-      "name": "Valencia",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png"
-    },
-    {
-      "id": "s:600t:102",
-      "name": "Villarreal",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png"
-    }
+    { "id": "s:600t:96", "name": "Alavés", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/96.png" },
+    { "id": "s:600t:93", "name": "Athletic Club", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/93.png" },
+    { "id": "s:600t:1068", "name": "Atlético Madrid", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1068.png" },
+    { "id": "s:600t:83", "name": "Barcelona", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/83.png" },
+    { "id": "s:600t:85", "name": "Celta Vigo", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/85.png" },
+    { "id": "s:600t:3751", "name": "Elche", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3751.png" },
+    { "id": "s:600t:88", "name": "Espanyol", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/88.png" },
+    { "id": "s:600t:2922", "name": "Getafe", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2922.png" },
+    { "id": "s:600t:9812", "name": "Girona", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9812.png" },
+    { "id": "s:600t:1538", "name": "Levante", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/1538.png" },
+    { "id": "s:600t:84", "name": "Mallorca", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/84.png" },
+    { "id": "s:600t:97", "name": "Osasuna", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/97.png" },
+    { "id": "s:600t:101", "name": "Rayo Vallecano", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/101.png" },
+    { "id": "s:600t:244", "name": "Real Betis", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/244.png" },
+    { "id": "s:600t:86", "name": "Real Madrid", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/86.png" },
+    { "id": "s:600t:92", "name": "Real Oviedo", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/92.png" },
+    { "id": "s:600t:89", "name": "Real Sociedad", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/89.png" },
+    { "id": "s:600t:243", "name": "Sevilla", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/243.png" },
+    { "id": "s:600t:94", "name": "Valencia", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/94.png" },
+    { "id": "s:600t:102", "name": "Villarreal", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/102.png" }
   ],
   "ita.1": [
-    {
-      "id": "s:600t:103",
-      "name": "AC Milan",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png"
-    },
-    {
-      "id": "s:600t:104",
-      "name": "AS Roma",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png"
-    },
-    {
-      "id": "s:600t:105",
-      "name": "Atalanta",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png"
-    },
-    {
-      "id": "s:600t:107",
-      "name": "Bologna",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png"
-    },
-    {
-      "id": "s:600t:2925",
-      "name": "Cagliari",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png"
-    },
-    {
-      "id": "s:600t:2572",
-      "name": "Como",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png"
-    },
-    {
-      "id": "s:600t:4050",
-      "name": "Cremonese",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4050.png"
-    },
-    {
-      "id": "s:600t:109",
-      "name": "Fiorentina",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png"
-    },
-    {
-      "id": "s:600t:3263",
-      "name": "Genoa",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png"
-    },
-    {
-      "id": "s:600t:119",
-      "name": "Hellas Verona",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png"
-    },
-    {
-      "id": "s:600t:110",
-      "name": "Inter Milan",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png"
-    },
-    {
-      "id": "s:600t:111",
-      "name": "Juventus",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png"
-    },
-    {
-      "id": "s:600t:112",
-      "name": "Lazio",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png"
-    },
-    {
-      "id": "s:600t:113",
-      "name": "Lecce",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png"
-    },
-    {
-      "id": "s:600t:114",
-      "name": "Napoli",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png"
-    },
-    {
-      "id": "s:600t:115",
-      "name": "Parma",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png"
-    },
-    {
-      "id": "s:600t:3956",
-      "name": "Pisa",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png"
-    },
-    {
-      "id": "s:600t:3997",
-      "name": "Sassuolo",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png"
-    },
-    {
-      "id": "s:600t:239",
-      "name": "Torino",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png"
-    },
-    {
-      "id": "s:600t:118",
-      "name": "Udinese",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png"
-    }
+    { "id": "s:600t:103", "name": "AC Milan", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/103.png" },
+    { "id": "s:600t:104", "name": "AS Roma", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/104.png" },
+    { "id": "s:600t:105", "name": "Atalanta", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/105.png" },
+    { "id": "s:600t:107", "name": "Bologna", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/107.png" },
+    { "id": "s:600t:2925", "name": "Cagliari", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2925.png" },
+    { "id": "s:600t:2572", "name": "Como", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2572.png" },
+    { "id": "s:600t:4050", "name": "Cremonese", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4050.png" },
+    { "id": "s:600t:109", "name": "Fiorentina", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/109.png" },
+    { "id": "s:600t:3263", "name": "Genoa", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3263.png" },
+    { "id": "s:600t:119", "name": "Hellas Verona", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/119.png" },
+    { "id": "s:600t:110", "name": "Inter Milan", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/110.png" },
+    { "id": "s:600t:111", "name": "Juventus", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/111.png" },
+    { "id": "s:600t:112", "name": "Lazio", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/112.png" },
+    { "id": "s:600t:113", "name": "Lecce", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/113.png" },
+    { "id": "s:600t:114", "name": "Napoli", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/114.png" },
+    { "id": "s:600t:115", "name": "Parma", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/115.png" },
+    { "id": "s:600t:3956", "name": "Pisa", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3956.png" },
+    { "id": "s:600t:3997", "name": "Sassuolo", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3997.png" },
+    { "id": "s:600t:239", "name": "Torino", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/239.png" },
+    { "id": "s:600t:118", "name": "Udinese", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/118.png" }
   ],
   "fra.1": [
-    {
-      "id": "s:600t:172",
-      "name": "AJ Auxerre",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png"
-    },
-    {
-      "id": "s:600t:174",
-      "name": "AS Monaco",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png"
-    },
-    {
-      "id": "s:600t:7868",
-      "name": "Angers",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png"
-    },
-    {
-      "id": "s:600t:6997",
-      "name": "Brest",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png"
-    },
-    {
-      "id": "s:600t:3236",
-      "name": "Le Havre AC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png"
-    },
-    {
-      "id": "s:600t:175",
-      "name": "Lens",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png"
-    },
-    {
-      "id": "s:600t:166",
-      "name": "Lille",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png"
-    },
-    {
-      "id": "s:600t:273",
-      "name": "Lorient",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png"
-    },
-    {
-      "id": "s:600t:167",
-      "name": "Lyon",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png"
-    },
-    {
-      "id": "s:600t:176",
-      "name": "Marseille",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png"
-    },
-    {
-      "id": "s:600t:177",
-      "name": "Metz",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png"
-    },
-    {
-      "id": "s:600t:165",
-      "name": "Nantes",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png"
-    },
-    {
-      "id": "s:600t:2502",
-      "name": "Nice",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png"
-    },
-    {
-      "id": "s:600t:6851",
-      "name": "Paris FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png"
-    },
-    {
-      "id": "s:600t:160",
-      "name": "Paris Saint-Germain",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png"
-    },
-    {
-      "id": "s:600t:169",
-      "name": "Stade Rennais",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png"
-    },
-    {
-      "id": "s:600t:180",
-      "name": "Strasbourg",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png"
-    },
-    {
-      "id": "s:600t:179",
-      "name": "Toulouse",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png"
-    }
+    { "id": "s:600t:172", "name": "AJ Auxerre", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/172.png" },
+    { "id": "s:600t:174", "name": "AS Monaco", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/174.png" },
+    { "id": "s:600t:7868", "name": "Angers", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7868.png" },
+    { "id": "s:600t:6997", "name": "Brest", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6997.png" },
+    { "id": "s:600t:3236", "name": "Le Havre AC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/3236.png" },
+    { "id": "s:600t:175", "name": "Lens", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/175.png" },
+    { "id": "s:600t:166", "name": "Lille", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/166.png" },
+    { "id": "s:600t:273", "name": "Lorient", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/273.png" },
+    { "id": "s:600t:167", "name": "Lyon", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/167.png" },
+    { "id": "s:600t:176", "name": "Marseille", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/176.png" },
+    { "id": "s:600t:177", "name": "Metz", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/177.png" },
+    { "id": "s:600t:165", "name": "Nantes", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/165.png" },
+    { "id": "s:600t:2502", "name": "Nice", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/2502.png" },
+    { "id": "s:600t:6851", "name": "Paris FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6851.png" },
+    { "id": "s:600t:160", "name": "Paris Saint-Germain", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/160.png" },
+    { "id": "s:600t:169", "name": "Stade Rennais", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/169.png" },
+    { "id": "s:600t:180", "name": "Strasbourg", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/180.png" },
+    { "id": "s:600t:179", "name": "Toulouse", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/179.png" }
   ],
   "usa.1": [
-    {
-      "id": "s:600t:18418",
-      "name": "Atlanta United FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png"
-    },
-    {
-      "id": "s:600t:20906",
-      "name": "Austin FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png"
-    },
-    {
-      "id": "s:600t:9720",
-      "name": "CF Montr\u00e9al",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png"
-    },
-    {
-      "id": "s:600t:21300",
-      "name": "Charlotte FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png"
-    },
-    {
-      "id": "s:600t:182",
-      "name": "Chicago Fire FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png"
-    },
-    {
-      "id": "s:600t:184",
-      "name": "Colorado Rapids",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png"
-    },
-    {
-      "id": "s:600t:183",
-      "name": "Columbus Crew",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png"
-    },
-    {
-      "id": "s:600t:193",
-      "name": "D.C. United",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png"
-    },
-    {
-      "id": "s:600t:18267",
-      "name": "FC Cincinnati",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png"
-    },
-    {
-      "id": "s:600t:185",
-      "name": "FC Dallas",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png"
-    },
-    {
-      "id": "s:600t:6077",
-      "name": "Houston Dynamo FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png"
-    },
-    {
-      "id": "s:600t:20232",
-      "name": "Inter Miami CF",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png"
-    },
-    {
-      "id": "s:600t:187",
-      "name": "LA Galaxy",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png"
-    },
-    {
-      "id": "s:600t:18966",
-      "name": "LAFC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png"
-    },
-    {
-      "id": "s:600t:17362",
-      "name": "Minnesota United FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png"
-    },
-    {
-      "id": "s:600t:18986",
-      "name": "Nashville SC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png"
-    },
-    {
-      "id": "s:600t:189",
-      "name": "New England Revolution",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png"
-    },
-    {
-      "id": "s:600t:17606",
-      "name": "New York City FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png"
-    },
-    {
-      "id": "s:600t:190",
-      "name": "New York Red Bulls",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png"
-    },
-    {
-      "id": "s:600t:12011",
-      "name": "Orlando City SC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png"
-    },
-    {
-      "id": "s:600t:10739",
-      "name": "Philadelphia Union",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png"
-    },
-    {
-      "id": "s:600t:9723",
-      "name": "Portland Timbers",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png"
-    },
-    {
-      "id": "s:600t:4771",
-      "name": "Real Salt Lake",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png"
-    },
-    {
-      "id": "s:600t:22529",
-      "name": "San Diego FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png"
-    },
-    {
-      "id": "s:600t:191",
-      "name": "San Jose Earthquakes",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png"
-    },
-    {
-      "id": "s:600t:9726",
-      "name": "Seattle Sounders FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png"
-    },
-    {
-      "id": "s:600t:186",
-      "name": "Sporting Kansas City",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png"
-    },
-    {
-      "id": "s:600t:21812",
-      "name": "St. Louis CITY SC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png"
-    },
-    {
-      "id": "s:600t:7318",
-      "name": "Toronto FC",
-      "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png"
-    }
+    { "id": "s:600t:18418", "name": "Atlanta United FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18418.png" },
+    { "id": "s:600t:20906", "name": "Austin FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20906.png" },
+    { "id": "s:600t:9720", "name": "CF Montréal", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9720.png" },
+    { "id": "s:600t:21300", "name": "Charlotte FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21300.png" },
+    { "id": "s:600t:182", "name": "Chicago Fire FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/182.png" },
+    { "id": "s:600t:184", "name": "Colorado Rapids", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/184.png" },
+    { "id": "s:600t:183", "name": "Columbus Crew", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/183.png" },
+    { "id": "s:600t:193", "name": "D.C. United", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/193.png" },
+    { "id": "s:600t:18267", "name": "FC Cincinnati", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18267.png" },
+    { "id": "s:600t:185", "name": "FC Dallas", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/185.png" },
+    { "id": "s:600t:6077", "name": "Houston Dynamo FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/6077.png" },
+    { "id": "s:600t:20232", "name": "Inter Miami CF", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/20232.png" },
+    { "id": "s:600t:187", "name": "LA Galaxy", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/187.png" },
+    { "id": "s:600t:18966", "name": "LAFC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18966.png" },
+    { "id": "s:600t:17362", "name": "Minnesota United FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17362.png" },
+    { "id": "s:600t:18986", "name": "Nashville SC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/18986.png" },
+    { "id": "s:600t:189", "name": "New England Revolution", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/189.png" },
+    { "id": "s:600t:17606", "name": "New York City FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/17606.png" },
+    { "id": "s:600t:190", "name": "New York Red Bulls", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/190.png" },
+    { "id": "s:600t:12011", "name": "Orlando City SC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/12011.png" },
+    { "id": "s:600t:10739", "name": "Philadelphia Union", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/10739.png" },
+    { "id": "s:600t:9723", "name": "Portland Timbers", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9723.png" },
+    { "id": "s:600t:4771", "name": "Real Salt Lake", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/4771.png" },
+    { "id": "s:600t:22529", "name": "San Diego FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/22529.png" },
+    { "id": "s:600t:191", "name": "San Jose Earthquakes", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/191.png" },
+    { "id": "s:600t:9726", "name": "Seattle Sounders FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/9726.png" },
+    { "id": "s:600t:186", "name": "Sporting Kansas City", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/186.png" },
+    { "id": "s:600t:21812", "name": "St. Louis CITY SC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/21812.png" },
+    { "id": "s:600t:7318", "name": "Toronto FC", "logo": "https://a.espncdn.com/i/teamlogos/soccer/500/7318.png" }
   ],
   "mlb": [
-    {
-      "id": "s:1~l:10~t:3",
-      "name": "Angels",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png"
-    },
-    {
-      "id": "s:1~l:10~t:18",
-      "name": "Astros",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png"
-    },
-    {
-      "id": "s:1~l:10~t:11",
-      "name": "Athletics",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png"
-    },
-    {
-      "id": "s:1~l:10~t:14",
-      "name": "Blue Jays",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png"
-    },
-    {
-      "id": "s:1~l:10~t:15",
-      "name": "Braves",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png"
-    },
-    {
-      "id": "s:1~l:10~t:8",
-      "name": "Brewers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png"
-    },
-    {
-      "id": "s:1~l:10~t:20",
-      "name": "Cardinals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png"
-    },
-    {
-      "id": "s:1~l:10~t:16",
-      "name": "Cubs",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png"
-    },
-    {
-      "id": "s:1~l:10~t:29",
-      "name": "Diamondbacks",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png"
-    },
-    {
-      "id": "s:1~l:10~t:19",
-      "name": "Dodgers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png"
-    },
-    {
-      "id": "s:1~l:10~t:25",
-      "name": "Giants",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png"
-    },
-    {
-      "id": "s:1~l:10~t:5",
-      "name": "Guardians",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png"
-    },
-    {
-      "id": "s:1~l:10~t:26",
-      "name": "Mariners",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png"
-    },
-    {
-      "id": "s:1~l:10~t:28",
-      "name": "Marlins",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png"
-    },
-    {
-      "id": "s:1~l:10~t:21",
-      "name": "Mets",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png"
-    },
-    {
-      "id": "s:1~l:10~t:12",
-      "name": "Nationals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png"
-    },
-    {
-      "id": "s:1~l:10~t:1",
-      "name": "Orioles",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png"
-    },
-    {
-      "id": "s:1~l:10~t:24",
-      "name": "Padres",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png"
-    },
-    {
-      "id": "s:1~l:10~t:22",
-      "name": "Phillies",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png"
-    },
-    {
-      "id": "s:1~l:10~t:23",
-      "name": "Pirates",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png"
-    },
-    {
-      "id": "s:1~l:10~t:13",
-      "name": "Rangers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png"
-    },
-    {
-      "id": "s:1~l:10~t:30",
-      "name": "Rays",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png"
-    },
-    {
-      "id": "s:1~l:10~t:2",
-      "name": "Red Sox",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png"
-    },
-    {
-      "id": "s:1~l:10~t:17",
-      "name": "Reds",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png"
-    },
-    {
-      "id": "s:1~l:10~t:27",
-      "name": "Rockies",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png"
-    },
-    {
-      "id": "s:1~l:10~t:7",
-      "name": "Royals",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png"
-    },
-    {
-      "id": "s:1~l:10~t:6",
-      "name": "Tigers",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png"
-    },
-    {
-      "id": "s:1~l:10~t:9",
-      "name": "Twins",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png"
-    },
-    {
-      "id": "s:1~l:10~t:4",
-      "name": "White Sox",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png"
-    },
-    {
-      "id": "s:1~l:10~t:10",
-      "name": "Yankees",
-      "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png"
-    }
+    { "id": "s:1~l:10~t:3", "name": "Angels", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/laa.png" },
+    { "id": "s:1~l:10~t:18", "name": "Astros", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/hou.png" },
+    { "id": "s:1~l:10~t:11", "name": "Athletics", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ath.png" },
+    { "id": "s:1~l:10~t:14", "name": "Blue Jays", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tor.png" },
+    { "id": "s:1~l:10~t:15", "name": "Braves", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/atl.png" },
+    { "id": "s:1~l:10~t:8", "name": "Brewers", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mil.png" },
+    { "id": "s:1~l:10~t:20", "name": "Cardinals", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/stl.png" },
+    { "id": "s:1~l:10~t:16", "name": "Cubs", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chc.png" },
+    { "id": "s:1~l:10~t:29", "name": "Diamondbacks", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/ari.png" },
+    { "id": "s:1~l:10~t:19", "name": "Dodgers", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/lad.png" },
+    { "id": "s:1~l:10~t:25", "name": "Giants", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sf.png" },
+    { "id": "s:1~l:10~t:5", "name": "Guardians", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cle.png" },
+    { "id": "s:1~l:10~t:26", "name": "Mariners", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sea.png" },
+    { "id": "s:1~l:10~t:28", "name": "Marlins", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/mia.png" },
+    { "id": "s:1~l:10~t:21", "name": "Mets", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nym.png" },
+    { "id": "s:1~l:10~t:12", "name": "Nationals", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/wsh.png" },
+    { "id": "s:1~l:10~t:1", "name": "Orioles", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bal.png" },
+    { "id": "s:1~l:10~t:24", "name": "Padres", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/sd.png" },
+    { "id": "s:1~l:10~t:22", "name": "Phillies", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/phi.png" },
+    { "id": "s:1~l:10~t:23", "name": "Pirates", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/pit.png" },
+    { "id": "s:1~l:10~t:13", "name": "Rangers", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tex.png" },
+    { "id": "s:1~l:10~t:30", "name": "Rays", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/tb.png" },
+    { "id": "s:1~l:10~t:2", "name": "Red Sox", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/bos.png" },
+    { "id": "s:1~l:10~t:17", "name": "Reds", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/cin.png" },
+    { "id": "s:1~l:10~t:27", "name": "Rockies", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/col.png" },
+    { "id": "s:1~l:10~t:7", "name": "Royals", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/kc.png" },
+    { "id": "s:1~l:10~t:6", "name": "Tigers", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/det.png" },
+    { "id": "s:1~l:10~t:9", "name": "Twins", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/min.png" },
+    { "id": "s:1~l:10~t:4", "name": "White Sox", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/chw.png" },
+    { "id": "s:1~l:10~t:10", "name": "Yankees", "logo": "https://a.espncdn.com/i/teamlogos/mlb/500/nyy.png"}
   ],
   "fifa.world": [
-    {
-      "name": "Algeria",
-      "id": "s:600~t:624",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png",
-      "cover": "https://www.cafonline.com/media/x5xhke3m/riyad-mahrez-of-algeria.jpg"
-    },
-    {
-      "name": "Argentina",
-      "id": "s:600~t:202",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/opb/JT3IVCOJDKW3PBRFZAZUILENLU.jpg"
-    },
-    {
-      "name": "Australia",
-      "id": "s:600~t:628",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/gmg/5LN34FCJPVG35PQJL22S32VATY.jpg"
-    },
-    {
-      "name": "Austria",
-      "id": "s:600~t:474",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png",
-      "cover": "https://www.football-espana.net/wp-content/uploads/2022/09/David-Alaba-Austria.jpg"
-    },
-    {
-      "name": "Belgium",
-      "id": "s:600~t:459",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZUUYDA5C5ZIN5DZLQBYZVIAGRA.jpg"
-    },
-    {
-      "name": "Bosnia-Herzegovina",
-      "id": "s:600~t:452",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png",
-      "cover": "https://cdn.mos.cms.futurecdn.net/4oMGV9YFHG2buSeyXKC6kY.jpg"
-    },
-    {
-      "name": "Brazil",
-      "id": "s:600~t:205",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png",
-      "cover": "https://www.nydailynews.com/wp-content/uploads/2026/06/AP26164834638106.jpg"
-    },
-    {
-      "name": "Canada",
-      "id": "s:600~t:206",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/5TYXJK4DRBBKRMKNLSIVPJGJIU.jpg"
-    },
-    {
-      "name": "Cape Verde",
-      "id": "s:600~t:2597",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png",
-      "cover": "https://www.cafonline.com/media/cmamvhll/b25jhaw0933.jpg"
-    },
-    {
-      "name": "Colombia",
-      "id": "s:600~t:208",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png",
-      "cover": "https://www.wrbl.com/wp-content/uploads/sites/24/2024/07/66903be1c73ef3.30178820.jpeg"
-    },
-    {
-      "name": "Congo DR",
-      "id": "s:600~t:2850",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cod.png",
-      "cover": "https://www.cafonline.com/media/mphprks5/dr-congo.jpg"
-    },
-    {
-      "name": "Croatia",
-      "id": "s:600~t:477",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png",
-      "cover": "https://www.sandiegouniontribune.com/wp-content/uploads/migration/2022/11/22/00000184-5c1d-d412-abdf-fcfff0010001.jpg"
-    },
-    {
-      "name": "Cura\u00e7ao",
-      "id": "s:600~t:11678",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cuw.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L6GK2PUK6ZKHBFTTAMVTYQ25BQ.jpg"
-    },
-    {
-      "name": "Czechia",
-      "id": "s:600~t:450",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png",
-      "cover": "https://contentfulproxy.stadion.io/zl2jjr3puakk/5tMCOJvoGJoRKwFJGOXoqH/a1c0db232231a22a41f39a1eeb7ae50c/GettyImages-2281160620.jpg"
-    },
-    {
-      "name": "Ecuador",
-      "id": "s:600~t:209",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png",
-      "cover": "https://www.wjtv.com/wp-content/uploads/sites/72/2022/11/dcc6c3c0ecd241e6bb5383d09641f68d.jpg?w=4000"
-    },
-    {
-      "name": "Egypt",
-      "id": "s:600~t:2620",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png",
-      "cover": "https://ichef.bbci.co.uk/ace/standard/3840/cpsprodpb/1f73/live/c13c59f0-a467-11f0-8c79-29eeaf2ea52d.jpg"
-    },
-    {
-      "name": "England",
-      "id": "s:600~t:448",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png",
-      "cover": "https://static.independent.co.uk/2024/07/12/11/Euro_2024_Soccer_Netherlands_England_60413.jpg"
-    },
-    {
-      "name": "France",
-      "id": "s:600~t:478",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png",
-      "cover": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZWETHPDKHUI7DAYOCM6SBSW5FA_size-normalized.jpg"
-    },
-    {
-      "name": "Germany",
-      "id": "s:600~t:481",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png",
-      "cover": "https://platform.bavarianfootballworks.com/wp-content/uploads/sites/24/2026/06/gettyimages-2281069989.jpg"
-    },
-    {
-      "name": "Ghana",
-      "id": "s:600~t:4469",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png",
-      "cover": "https://www.wtnh.com/wp-content/uploads/sites/100/2026/06/6a2c6a8d19d537.65542054.jpeg"
-    },
-    {
-      "name": "Haiti",
-      "id": "s:600~t:2654",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png",
-      "cover": "https://www.aljazeera.com/wp-content/uploads/2026/06/AP26157113143031-1781156099.jpg?resize=4000,2667"
-    },
-    {
-      "name": "Iran",
-      "id": "s:600~t:469",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png",
-      "cover": "https://www.news10.com/wp-content/uploads/sites/64/2026/06/6a30db5ac023c5.03091361.jpeg"
-    },
-    {
-      "name": "Iraq",
-      "id": "s:600~t:4375",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png",
-      "cover": "https://assets-us-01.kc-usercontent.com/31dbcbc6-da4c-0033-328a-d7621d0fa726/ccb59d0b-96de-4699-8c12-eb6879eb1796/2026-04-01T094214Z_910153254_RC27GKACFEG7_RTRMADP_3_SOCCER-WORLDCUP-IRQ-BOL.JPG?ver=1"
-    },
-    {
-      "name": "Ivory Coast",
-      "id": "s:600~t:4789",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png",
-      "cover": "https://resources.saudi-pro-league.pulselive.com/saudi-pro-league/photo/2024/02/02/ed60cf82-8100-41d2-9a86-4d247aa538c3/Seko-Fofana-Ivory-Coast-AFCON-2023.jpeg"
-    },
-    {
-      "name": "Japan",
-      "id": "s:600~t:627",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png",
-      "cover": "https://www.qcnews.com/wp-content/uploads/sites/109/2022/12/f1221a9b5e9548fa80a5190843ce2400.jpg"
-    },
-    {
-      "name": "Jordan",
-      "id": "s:600~t:2917",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png",
-      "cover": "https://cdn.mos.cms.futurecdn.net/dpjNjjgPXRPhput5BEfp5b.jpg"
-    },
-    {
-      "name": "Mexico",
-      "id": "s:600~t:203",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png",
-      "cover": "https://bloximages.newyork1.vip.townnews.com/beloitdailynews.com/content/tncms/assets/v3/editorial/b/62/b62674d5-47b9-58e7-aa6f-a46318804d0c/6a2b1f43863b8.image.jpg?resize=4000,2667"
-    },
-    {
-      "name": "Morocco",
-      "id": "s:600~t:2869",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png",
-      "cover": "https://www.kget.com/wp-content/uploads/sites/2/2026/06/6a2f1f1bddf667.37788135.jpeg"
-    },
-    {
-      "name": "Netherlands",
-      "id": "s:600~t:449",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/34PI4STZOZJ6PNZBUNQDIE3JJY.jpg"
-    },
-    {
-      "name": "New Zealand",
-      "id": "s:600~t:2666",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png",
-      "cover": "https://static.independent.co.uk/2026/06/16/04/2026-06-16T031649Z_2028642584_UP1EM6G08WAG6_RTRMADP_3_SOCCER-WORLDCUP-IRN-NZL.JPG"
-    },
-    {
-      "name": "Norway",
-      "id": "s:600~t:464",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png",
-      "cover": "https://www.kget.com/wp-content/uploads/sites/2/2026/06/6a324691a60de2.45880050.jpeg"
-    },
-    {
-      "name": "Panama",
-      "id": "s:600~t:2659",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/L7AOLL7RA5M5RGGLXBQN7OL55A.jpg"
-    },
-    {
-      "name": "Paraguay",
-      "id": "s:600~t:210",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/pmn/GQKG7IDXKJEO5CBRV7U7UMNZ4M.JPG"
-    },
-    {
-      "name": "Portugal",
-      "id": "s:600~t:482",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png",
-      "cover": "https://static01.nyt.com/athletic/uploads/wp/2026/05/19082734/GettyImages-2240657943-scaled-e1779193790196.jpg?width=3840"
-    },
-    {
-      "name": "Qatar",
-      "id": "s:600~t:4398",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ZZRY5QPC5VODLE6ZDS6LANWGJ4.jpg"
-    },
-    {
-      "name": "Saudi Arabia",
-      "id": "s:600~t:655",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png",
-      "cover": "https://resources.saudi-pro-league.pulselive.com/saudi-pro-league/photo/2023/11/01/28ac8013-7866-40f9-bf01-1bab4e72ef94/Salem-Al-Dawsari-Al-Hilal-captain.jpg"
-    },
-    {
-      "name": "Scotland",
-      "id": "s:600~t:580",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5GVMZERLNVP7HETDQZHW42GDDQ.jpg"
-    },
-    {
-      "name": "Senegal",
-      "id": "s:600~t:654",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/W4JYJR3GGFHVPODMM5ZMIBOIOQ.jpg"
-    },
-    {
-      "name": "South Africa",
-      "id": "s:600~t:467",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/YRGRRYHAYJB4LFJM2TIQ2FFNDI.jpg"
-    },
-    {
-      "name": "South Korea",
-      "id": "s:600~t:451",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kor.png",
-      "cover": "https://www.kget.com/wp-content/uploads/sites/2/2026/06/6a319ef01c00c7.20822586.jpeg"
-    },
-    {
-      "name": "Spain",
-      "id": "s:600~t:164",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png",
-      "cover": "https://platform.barcablaugranes.com/wp-content/uploads/sites/21/2025/10/gettyimages-2240625204.jpg"
-    },
-    {
-      "name": "Sweden",
-      "id": "s:600~t:466",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png",
-      "cover": "https://www.kget.com/wp-content/uploads/sites/2/2026/06/6a2f9323901209.36746985.jpeg"
-    },
-    {
-      "name": "Switzerland",
-      "id": "s:600~t:475",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/HSM2B4OVY5DXZEUQJQYFWMMIQI.jpg"
-    },
-    {
-      "name": "Tunisia",
-      "id": "s:600~t:659",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png",
-      "cover": "https://cdn.mos.cms.futurecdn.net/NSh5cxLNyB9hCHkxSY5L3j.jpg"
-    },
-    {
-      "name": "T\u00fcrkiye",
-      "id": "s:600~t:465",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png",
-      "cover": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/X73TEE2KF5MLJJLCN3ENXYVAAE.jpg"
-    },
-    {
-      "name": "United States",
-      "id": "s:600~t:660",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png",
-      "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/bostonglobe/XOKN3KYETQOONX4KBLSAJVNMYA.jpg"
-    },
-    {
-      "name": "Uruguay",
-      "id": "s:600~t:212",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png",
-      "cover": ""
-    },
-    {
-      "name": "Uzbekistan",
-      "id": "s:600~t:2570",
-      "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png",
-      "cover": ""
-    }
-  ]
+  { "name": "Algeria", "id": "s:600~t:624", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/alg.png" },
+  { "name": "Argentina", "id": "s:600~t:202", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/arg.png" },
+  { "name": "Australia", "id": "s:600~t:628", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aus.png" },
+  { "name": "Austria", "id": "s:600~t:474", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/aut.png" },
+  { "name": "Belgium", "id": "s:600~t:459", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bel.png" },
+  { "name": "Bosnia-Herzegovina", "id": "s:600~t:452", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bih.png" },
+  { "name": "Brazil", "id": "s:600~t:205", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/bra.png" },
+  { "name": "Canada", "id": "s:600~t:206", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/can.png" },
+  { "name": "Cape Verde", "id": "s:600~t:2597", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cpv.png" },
+  { "name": "Colombia", "id": "s:600~t:208", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/col.png" },
+  { "name": "Congo DR", "id": "s:600~t:2850", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cod.png" },
+  { "name": "Croatia", "id": "s:600~t:477", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cro.png" },
+  { "name": "Curaçao", "id": "s:600~t:11678", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cuw.png" },
+  { "name": "Czechia", "id": "s:600~t:450", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/cze.png" },
+  { "name": "Ecuador", "id": "s:600~t:209", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ecu.png" },
+  { "name": "Egypt", "id": "s:600~t:2620", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/egy.png" },
+  { "name": "England", "id": "s:600~t:448", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/eng.png" },
+  { "name": "France", "id": "s:600~t:478", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/fra.png" },
+  { "name": "Germany", "id": "s:600~t:481", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ger.png" },
+  { "name": "Ghana", "id": "s:600~t:4469", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/gha.png", "cover": "https://imageservice.disco.peacocktv.com/pcms/9e313e8a-605a-11f1-a340-9b39ec0f35e9/LAND_16_9/3840x2160?image-quality=7&image-format=webp&proposition=NBCUOTT&language=eng&version=a32d7224-5f72-53a5-8b5b-06b9fc795c64&territory=US" },
+  { "name": "Haiti", "id": "s:600~t:2654", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/hai.png" },
+  { "name": "Iran", "id": "s:600~t:469", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irn.png" },
+  { "name": "Iraq", "id": "s:600~t:4375", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/irq.png" },
+  { "name": "Ivory Coast", "id": "s:600~t:4789", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/civ.png" },
+  { "name": "Japan", "id": "s:600~t:627", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jpn.png" },
+  { "name": "Jordan", "id": "s:600~t:2917", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/jor.png" },
+  { "name": "Mexico", "id": "s:600~t:203", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mex.png" },
+  { "name": "Morocco", "id": "s:600~t:2869", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/mar.png" },
+  { "name": "Netherlands", "id": "s:600~t:449", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ned.png" },
+  { "name": "New Zealand", "id": "s:600~t:2666", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nzl.png" },
+  { "name": "Norway", "id": "s:600~t:464", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/nor.png" },
+  { "name": "Panama", "id": "s:600~t:2659", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/pan.png" },
+  { "name": "Paraguay", "id": "s:600~t:210", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/par.png" },
+  { "name": "Portugal", "id": "s:600~t:482", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/por.png" },
+  { "name": "Qatar", "id": "s:600~t:4398", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/qat.png" },
+  { "name": "Saudi Arabia", "id": "s:600~t:655", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/ksa.png" },
+  { "name": "Scotland", "id": "s:600~t:580", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sco.png" },
+  { "name": "Senegal", "id": "s:600~t:654", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sen.png" },
+  { "name": "South Africa", "id": "s:600~t:467", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/rsa.png", "cover": "https://cloudfront-us-east-1.images.arcpublishing.com/bellmediainc/YRGRRYHAYJB4LFJM2TIQ2FFNDI.jpg" },
+  { "name": "South Korea", "id": "s:600~t:451", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/kor.png" },
+  { "name": "Spain", "id": "s:600~t:164", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/esp.png" },
+  { "name": "Sweden", "id": "s:600~t:466", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/swe.png" },
+  { "name": "Switzerland", "id": "s:600~t:475", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/sui.png" },
+  { "name": "Tunisia", "id": "s:600~t:659", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tun.png" },
+  { "name": "Türkiye", "id": "s:600~t:465", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/tur.png" },
+  { "name": "United States", "id": "s:600~t:660", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/usa.png", "cover": "https://gsp-image-cdn.wmsports.io/cms/prod/bleacher-report/getty_images/2026-06/2281317124_large_cropped.jpg" },
+  { "name": "Uruguay", "id": "s:600~t:212", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uru.png" },
+  { "name": "Uzbekistan", "id": "s:600~t:2570", "logo": "https://a.espncdn.com/i/teamlogos/countries/500/uzb.png" }
+]
 }
