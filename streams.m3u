@@ -1,39 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Uzbekistan vs Colombia Live Streams" group-title="Live",Uzbekistan vs Colombia Live Streams
+#EXTINF:-1 tvg-name="Czechia vs South Africa Live Streams" group-title="Live",Czechia vs South Africa Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52180/load-playlist
-
-#EXTINF:-1 tvg-name="Athletics vs Pittsburgh Pirates Live Streams" group-title="Live",Athletics vs Pittsburgh Pirates Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52183/load-playlist
-
-#EXTINF:-1 tvg-name="Seattle Mariners vs Baltimore Orioles Live Streams" group-title="Live",Seattle Mariners vs Baltimore Orioles Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52181/load-playlist
-
-#EXTINF:-1 tvg-name="Golden State Valkyries vs Dallas Wings Live Streams" group-title="Live",Golden State Valkyries vs Dallas Wings Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52187/load-playlist
-
-#EXTINF:-1 tvg-name="Los Angeles Sparks vs Minnesota Lynx Live Streams" group-title="Live",Los Angeles Sparks vs Minnesota Lynx Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52184/load-playlist
-
-#EXTINF:-1 tvg-name="Phoenix Mercury vs Las Vegas Aces Live Streams" group-title="Live",Phoenix Mercury vs Las Vegas Aces Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52186/load-playlist
+https://red2.wecanfix8.space/playlist/52190/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
