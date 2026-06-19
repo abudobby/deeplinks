@@ -3,7 +3,37 @@
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52220/load-playlist
+https://red2.wecanfix8.space/playlist/52231/load-playlist
+
+#EXTINF:-1 tvg-name="Detroit Tigers vs Chicago White Sox Live Streams" group-title="Live",Detroit Tigers vs Chicago White Sox Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52232/load-playlist
+
+#EXTINF:-1 tvg-name="New York Yankees vs Cincinnati Reds Live Streams" group-title="Live",New York Yankees vs Cincinnati Reds Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52236/load-playlist
+
+#EXTINF:-1 tvg-name="Miami Marlins vs San Francisco Giants Live Streams" group-title="Live",Miami Marlins vs San Francisco Giants Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52237/load-playlist
+
+#EXTINF:-1 tvg-name="Tampa Bay Rays vs Washington Nationals Live Streams" group-title="Live",Tampa Bay Rays vs Washington Nationals Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52239/load-playlist
+
+#EXTINF:-1 tvg-name="Atlanta Braves vs Milwaukee Brewers Live Streams" group-title="Live",Atlanta Braves vs Milwaukee Brewers Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52241/load-playlist
 
 #EXTINF:-1 tvg-name="Hamilton Tiger-Cats vs BC Lions Live Streams" group-title="Live",Hamilton Tiger-Cats vs BC Lions Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
