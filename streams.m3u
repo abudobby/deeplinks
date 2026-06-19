@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Canada vs Qatar Live Streams" group-title="Live",Canada vs Qatar Live Streams
+#EXTINF:-1 tvg-name="Mexico vs South Korea Live Streams" group-title="Live",Mexico vs South Korea Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52205/load-playlist
+https://red2.wecanfix8.space/playlist/52214/load-playlist
 
 #EXTINF:-1 tvg-name="Mexico vs South Korea Live Streams" group-title="Live",Mexico vs South Korea Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -11,17 +11,11 @@ https://red2.wecanfix8.space/playlist/52205/load-playlist
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/52214/load-playlist
 
-#EXTINF:-1 tvg-name="Canada vs Qatar Live Streams" group-title="Live",Canada vs Qatar Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52205/load-playlist
-
 #EXTINF:-1 tvg-name="Philadelphia Phillies vs New York Mets Live Streams" group-title="Live",Philadelphia Phillies vs New York Mets Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52206/load-playlist
+https://red2.wecanfix8.space/playlist/52207/load-playlist
 
 #EXTINF:-1 tvg-name="New York Yankees vs Chicago White Sox Live Streams" group-title="Live",New York Yankees vs Chicago White Sox Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
@@ -33,7 +27,13 @@ https://red2.wecanfix8.space/playlist/52208/load-playlist
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52213/load-playlist
+https://red2.wecanfix8.space/playlist/52212/load-playlist
+
+#EXTINF:-1 tvg-name="Athletics vs Los Angeles Angels Live Streams" group-title="Live",Athletics vs Los Angeles Angels Live Streams
+#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
+#EXTVLCOPT:http-origin=https://gooz.aapmains.net
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
+https://red2.wecanfix8.space/playlist/52216/load-playlist
 
 #EXTINF:-1 tvg-name="Indiana Fever vs Atlanta Dream Live Streams" group-title="Live",Indiana Fever vs Atlanta Dream Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
