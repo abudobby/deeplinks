@@ -1,27 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="USA vs Australia Live Streams" group-title="Live",USA vs Australia Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52229/load-playlist
-
-#EXTINF:-1 tvg-name="USA vs Australia Live Streams" group-title="Live",USA vs Australia Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52229/load-playlist
-
 #EXTINF:-1 tvg-name="Scotland vs Morocco Live Streams" group-title="Live",Scotland vs Morocco Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/52220/load-playlist
-
-#EXTINF:-1 tvg-name="Chicago Cubs vs Toronto Blue Jays Live Streams" group-title="Live",Chicago Cubs vs Toronto Blue Jays Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52227/load-playlist
 
 #EXTINF:-1 tvg-name="Hamilton Tiger-Cats vs BC Lions Live Streams" group-title="Live",Hamilton Tiger-Cats vs BC Lions Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
