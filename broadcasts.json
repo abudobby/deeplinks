@@ -738,7 +738,7 @@
     "id": 101,
     "name": "TSN1",
     "type": "tv",
-    "isNational": false,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
     "searchTokens": [
@@ -750,7 +750,7 @@
     "id": 102,
     "name": "TSN2",
     "type": "tv",
-    "isNational": false,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
     "searchTokens": [
@@ -762,7 +762,7 @@
     "id": 103,
     "name": "TSN3",
     "type": "tv",
-    "isNational": false,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
     "searchTokens": [
@@ -774,7 +774,7 @@
     "id": 104,
     "name": "TSN4",
     "type": "tv",
-    "isNational": false,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
     "searchTokens": [
@@ -786,7 +786,7 @@
     "id": 105,
     "name": "TSN5",
     "type": "tv",
-    "isNational": false,
+    "isNational": true,
     "hasLocalAffiliate": false,
     "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
     "searchTokens": [
