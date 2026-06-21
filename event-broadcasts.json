@@ -375,25 +375,6 @@
       }
     ]
   },
-  "401815838": {
-    "title": "Minnesota Twins at Arizona Diamondbacks",
-    "broadcasts": [
-      {
-        "id": 1218,
-        "name": "BBC iPlayer",
-        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [
-          "bbc iplayer",
-          "iplayer"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401815839": {
     "title": "Chicago White Sox at Detroit Tigers",
     "broadcasts": [
