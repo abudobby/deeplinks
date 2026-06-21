@@ -43,7 +43,7 @@ const wcMatchupMap = Object.fromEntries(
 
 async function fetchEvents() {
   try {
-    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?limit=200&leagues=nba,mlb,nhl,uefa.champions,eng.1,mens-college-basketball,esp.1,racing,f1,usa.1,fifa.world');
+    const response = await fetch('https://site.api.espn.com/apis/site/v2/guide/feed?limit=200&leagues=nba,mlb,nhl,uefa.champions,eng.1,mens-college-basketball,esp.1,racing,f1,usa.1,fifa.world&tz=America/Chicago');
     const data = await response.json();
         const peacockResponse = await searchPeacock()
         const nbcResponse = await fetchNBCSportsData()
