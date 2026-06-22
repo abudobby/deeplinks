@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Uruguay vs Cabo Verde Live Streams" group-title="Live",Uruguay vs Cabo Verde Live Streams
+#EXTINF:-1 tvg-name="New Zealand vs Egypt Live Streams" group-title="Live",New Zealand vs Egypt Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52354/load-playlist
+https://red2.wecanfix8.space/playlist/52362/load-playlist
 
 #EXTINF:-1 tvg-name="Philadelphia Phillies vs New York Mets Live Streams" group-title="Live",Philadelphia Phillies vs New York Mets Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
 https://red2.wecanfix8.space/playlist/52358/load-playlist
-
-#EXTINF:-1 tvg-name="Minnesota Lynx vs Washington Mystics Live Streams" group-title="Live",Minnesota Lynx vs Washington Mystics Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52356/load-playlist
 
 #EXTINF:-1 tvg-name="Los Angeles Sparks vs New York Liberty Live Streams" group-title="Live",Los Angeles Sparks vs New York Liberty Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
