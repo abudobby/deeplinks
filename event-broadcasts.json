@@ -1,6 +1,47 @@
 {
-  "760454": {
-    "title": "Senegal at Norway",
+  "111": {
+    "title": "2026 National Basketball Association Draft",
+    "broadcasts": [
+      {
+        "id": 2,
+        "name": "ABC",
+        "logoUrl": "https://cdn.aptoide.com/imgs/d/4/3/d43ec492d851a7a083b316265f2b042e_icon.png",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "kstp"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 126,
+        "name": "ESPN",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "espn"
+        ],
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
+          "espn+",
+          "espn2",
+          "espnnews",
+          "espnu",
+          "espn u",
+          "espn deportes"
+        ],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      }
+    ]
+  },
+  "760458": {
+    "title": "Ghana at England",
     "broadcasts": [
       {
         "id": 148,
@@ -16,52 +57,44 @@
         "deeplink": null
       },
       {
-        "id": 105,
-        "name": "TSN5",
+        "id": 104,
+        "name": "TSN4",
         "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
         "hasLocalAffiliate": false,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "tsn5",
-          "tsn 5"
+          "tsn4",
+          "tsn 4"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
       },
       {
-        "id": 1208,
-        "name": "ITV",
-        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "id": 1213,
+        "name": "BBC One",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
         "hasLocalAffiliate": false,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "itv",
-          "itv1",
-          "itv 1"
+          "bbc one",
+          "bbc1",
+          "bbc 1"
         ],
-        "excludedSearchTokens": [
-          "itv2",
-          "itv 2",
-          "itv3",
-          "itv 3",
-          "itv4",
-          "itv 4",
-          "itvx",
-          "itv x"
-        ],
+        "excludedSearchTokens": [],
         "deeplink": null
       },
       {
-        "id": 1212,
-        "name": "ITVX",
-        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "id": 1218,
+        "name": "BBC iPlayer",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
         "hasLocalAffiliate": false,
         "isNational": true,
         "type": "streaming",
         "searchTokens": [
-          "itvx"
+          "bbc iplayer",
+          "iplayer"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -81,8 +114,8 @@
       }
     ]
   },
-  "760455": {
-    "title": "Algeria at Jordan",
+  "760459": {
+    "title": "Congo DR at Colombia",
     "broadcasts": [
       {
         "id": 661,
@@ -164,8 +197,8 @@
       }
     ]
   },
-  "760457": {
-    "title": "Iraq at France",
+  "760460": {
+    "title": "Croatia at Panama",
     "broadcasts": [
       {
         "id": 148,
@@ -238,11 +271,93 @@
       }
     ]
   },
-  "401815854": {
+  "760461": {
+    "title": "Uzbekistan at Portugal",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1208,
+        "name": "ITV",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "itv",
+          "itv1",
+          "itv 1"
+        ],
+        "excludedSearchTokens": [
+          "itv2",
+          "itv 2",
+          "itv3",
+          "itv 3",
+          "itv4",
+          "itv 4",
+          "itvx",
+          "itv x"
+        ],
+        "deeplink": null
+      },
+      {
+        "id": 1212,
+        "name": "ITVX",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "itvx"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1219,
+        "name": "beIN Sports 1",
+        "logoUrl": "https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bein sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401815867": {
     "title": "Chicago Cubs at New York Mets",
     "broadcasts": []
   },
-  "401815855": {
+  "401815868": {
     "title": "Houston Astros at Toronto Blue Jays",
     "broadcasts": [
       {
@@ -286,19 +401,19 @@
           "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8lh4cioa3ftn8g1hteg"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d8lh832oa3ftm49d65tg"
       }
     ]
   },
-  "401815856": {
+  "401815869": {
     "title": "Kansas City Royals at Tampa Bay Rays",
     "broadcasts": []
   },
-  "401815857": {
+  "401815870": {
     "title": "Milwaukee Brewers at Cincinnati Reds",
     "broadcasts": []
   },
-  "401815858": {
+  "401815871": {
     "title": "New York Yankees at Detroit Tigers",
     "broadcasts": [
       {
@@ -313,25 +428,10 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      },
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8lh4nqoa3ft8artj3gg"
       }
     ]
   },
-  "401815859": {
+  "401815872": {
     "title": "Philadelphia Phillies at Washington Nationals",
     "broadcasts": [
       {
@@ -349,15 +449,19 @@
       }
     ]
   },
-  "401815860": {
+  "401815873": {
+    "title": "Seattle Mariners at Pittsburgh Pirates",
+    "broadcasts": []
+  },
+  "401815874": {
     "title": "Texas Rangers at Miami Marlins",
     "broadcasts": []
   },
-  "401815861": {
+  "401815875": {
     "title": "Arizona Diamondbacks at St. Louis Cardinals",
     "broadcasts": []
   },
-  "401815862": {
+  "401815876": {
     "title": "Cleveland Guardians at Chicago White Sox",
     "broadcasts": [
       {
@@ -375,9 +479,22 @@
       }
     ]
   },
-  "401815863": {
+  "401815877": {
     "title": "Los Angeles Dodgers at Minnesota Twins",
     "broadcasts": [
+      {
+        "id": 487,
+        "name": "TBS",
+        "logoUrl": "https://play-lh.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "us tbs"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
       {
         "id": 1218,
         "name": "BBC iPlayer",
@@ -394,56 +511,47 @@
       }
     ]
   },
-  "401815864": {
+  "401815878": {
     "title": "Boston Red Sox at Colorado Rockies",
     "broadcasts": []
   },
-  "401815865": {
-    "title": "Atlanta Braves at San Diego Padres",
+  "401815879": {
+    "title": "Athletics at San Francisco Giants",
     "broadcasts": [
       {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "id": 890,
+        "name": "NBC Sports Bay Area",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "espn"
+          "nbc sports bay"
         ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 892,
+        "name": "NBC Sports California",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports california"
         ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },
-  "401815866": {
+  "401815880": {
+    "title": "Atlanta Braves at San Diego Padres",
+    "broadcasts": []
+  },
+  "401815881": {
     "title": "Baltimore Orioles at Los Angeles Angels",
-    "broadcasts": [
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8lh51aoa3ftn66sk3a0"
-      }
-    ]
+    "broadcasts": []
   }
 }
