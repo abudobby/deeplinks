@@ -1,6 +1,80 @@
 {
-  "760466": {
-    "title": "South Korea at South Africa",
+  "760468": {
+    "title": "Germany at Ecuador",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 104,
+        "name": "TSN4",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn4",
+          "tsn 4"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1213,
+        "name": "BBC One",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bbc one",
+          "bbc1",
+          "bbc 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1218,
+        "name": "BBC iPlayer",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "bbc iplayer",
+          "iplayer"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1219,
+        "name": "beIN Sports 1",
+        "logoUrl": "https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bein sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "760469": {
+    "title": "Australia at Paraguay",
     "broadcasts": [
       {
         "id": 661,
@@ -12,6 +86,160 @@
         "searchTokens": [
           "fs1",
           "fox sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 102,
+        "name": "TSN2",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn2",
+          "tsn 2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1211,
+        "name": "ITV4",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "itv4",
+          "itv 4"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1212,
+        "name": "ITVX",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "itvx"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1219,
+        "name": "beIN Sports 1",
+        "logoUrl": "https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bein sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "760470": {
+    "title": "United States at Türkiye",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1208,
+        "name": "ITV",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "itv",
+          "itv1",
+          "itv 1"
+        ],
+        "excludedSearchTokens": [
+          "itv2",
+          "itv 2",
+          "itv3",
+          "itv 3",
+          "itv4",
+          "itv 4",
+          "itvx",
+          "itv x"
+        ],
+        "deeplink": null
+      },
+      {
+        "id": 1212,
+        "name": "ITVX",
+        "logoUrl": "https://play-lh.googleusercontent.com/E74dEk9-niy465ReZADylv2FMzQ9GMgkYbUqLzYE2ycOoidTgx6_6rhDM94wbkuhXA",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "itvx"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1219,
+        "name": "beIN Sports 1",
+        "logoUrl": "https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bein sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "760471": {
+    "title": "Sweden at Japan",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 102,
+        "name": "TSN2",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn2",
+          "tsn 2"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -60,18 +288,19 @@
       }
     ]
   },
-  "760467": {
-    "title": "Mexico at Czechia",
+  "760472": {
+    "title": "Netherlands at Tunisia",
     "broadcasts": [
       {
-        "id": 148,
-        "name": "FOX",
-        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
-        "hasLocalAffiliate": true,
+        "id": 661,
+        "name": "FS1",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
+        "hasLocalAffiliate": false,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "wfld"
+          "fs1",
+          "fox sports 1"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -134,12 +363,73 @@
       }
     ]
   },
-  "401815882": {
+  "760473": {
+    "title": "Ivory Coast at Curaçao",
+    "broadcasts": [
+      {
+        "id": 661,
+        "name": "FS1",
+        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "fs1",
+          "fox sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1214,
+        "name": "BBC Two",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bbc two",
+          "bbc2",
+          "bbc 2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1218,
+        "name": "BBC iPlayer",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "bbc iplayer",
+          "iplayer"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 1219,
+        "name": "beIN Sports 1",
+        "logoUrl": "https://play-lh.googleusercontent.com/zFPHigI8l5v42ToIW88GatyY49SC4ohu_8lJcIFIz2GGqevVeSsNS41K_EARp1oJcYOwrSgQmiFq0JrhbbmqFw=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bein sports 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401815897": {
     "title": "Chicago Cubs at New York Mets",
     "broadcasts": []
   },
-  "401815883": {
-    "title": "Houston Astros at Toronto Blue Jays",
+  "401815898": {
+    "title": "Houston Astros at Detroit Tigers",
     "broadcasts": [
       {
         "id": 962,
@@ -153,7 +443,71 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      }
+    ]
+  },
+  "401815899": {
+    "title": "Kansas City Royals at Tampa Bay Rays",
+    "broadcasts": []
+  },
+  "401815900": {
+    "title": "New York Yankees at Boston Red Sox",
+    "broadcasts": [
+      {
+        "id": 600,
+        "name": "YES Network",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "yes network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       },
+      {
+        "id": 113,
+        "name": "SportsNet One",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet one",
+          "sportsnetone",
+          "snone"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d8li3jaoa3ft8artj3ig"
+      }
+    ]
+  },
+  "401815901": {
+    "title": "Philadelphia Phillies at Washington Nationals",
+    "broadcasts": [
+      {
+        "id": 894,
+        "name": "NBC Sports Philadelphia",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports philadelphia"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401815902": {
+    "title": "Seattle Mariners at Pittsburgh Pirates",
+    "broadcasts": []
+  },
+  "401815903": {
+    "title": "Texas Rangers at Toronto Blue Jays",
+    "broadcasts": [
       {
         "id": 722,
         "name": "SportsNet",
@@ -182,80 +536,15 @@
           "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8lh9g2oa3ftn8g1htf0"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d8lhdgaoa3ft9s8hjmeg"
       }
     ]
   },
-  "401815884": {
-    "title": "Kansas City Royals at Tampa Bay Rays",
-    "broadcasts": []
-  },
-  "401815885": {
-    "title": "Milwaukee Brewers at Cincinnati Reds",
-    "broadcasts": []
-  },
-  "401815886": {
-    "title": "New York Yankees at Detroit Tigers",
-    "broadcasts": [
-      {
-        "id": 763,
-        "name": "Prime Video",
-        "logoUrl": "https://play-lh.googleusercontent.com/mZ6pRo5-NnrO9GMwFNrK5kShF0UrN5UOARVAw64_5aFG6NgEHSlq-BX5I8TEXtTOk9s=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815887": {
-    "title": "Philadelphia Phillies at Washington Nationals",
-    "broadcasts": [
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815888": {
-    "title": "Seattle Mariners at Pittsburgh Pirates",
-    "broadcasts": []
-  },
-  "401815890": {
+  "401815904": {
     "title": "Arizona Diamondbacks at St. Louis Cardinals",
     "broadcasts": []
   },
-  "401815892": {
-    "title": "Los Angeles Dodgers at Minnesota Twins",
-    "broadcasts": [
-      {
-        "id": 1218,
-        "name": "BBC iPlayer",
-        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [
-          "bbc iplayer",
-          "iplayer"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401815894": {
+  "401815905": {
     "title": "Athletics at San Francisco Giants",
     "broadcasts": [
       {
@@ -285,9 +574,5 @@
         "deeplink": null
       }
     ]
-  },
-  "401815895": {
-    "title": "Atlanta Braves at San Diego Padres",
-    "broadcasts": []
   }
 }
