@@ -1061,5 +1061,16 @@
     "searchTokens": [
       "bein sports 1"
     ]
+  },
+  {
+    "id": 488,
+    "name": "Telemundo",
+    "type": "tv",
+    "isNational": true,
+    "hasLocalAffiliate": true,
+    "logoUrl": "https://cdn.aptoide.com/imgs/d/7/9/d79ead6e173cc826504fdcce6549d02c_icon.png",
+    "searchTokens": [
+      "telemundo"
+    ]
   }
 ]
