@@ -696,23 +696,5 @@
         "deeplink": "sportsnetca://app/watch/event?event_id=d8lhk4qoa3ftmekopgfg"
       }
     ]
-  },
-  "600057436": {
-    "title": "Lenovo Austrian Grand Prix - Qualifying",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
   }
 }
