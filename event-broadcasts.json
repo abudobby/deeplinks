@@ -28,6 +28,20 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": 104,
+        "name": "TSN4",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn4",
+          "tsn 4"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   },
@@ -87,6 +101,20 @@
         "type": "tv",
         "searchTokens": [
           "telemundo"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 104,
+        "name": "TSN4",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn4",
+          "tsn 4"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
