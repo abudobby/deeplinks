@@ -10,7 +10,7 @@
       { "title": "Mahomes disrespected on Top 100 list", "query": "mahomes top 100 list" },
       { "title": "Can the Bills win with Joe Brady?", "query": "bills joe brady" }
     ],
-    "worldcup": [
+    "fifa.world": [
       { "title": "Can Brazil win the World Cup?", "query": "brazil world cup" },
       { "title": "France dominates knockout stage", "query": "france world cup knockout" },
       { "title": "Messi breaks World Cup scoring record", "query": "messi world cup record" }
