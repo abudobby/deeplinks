@@ -1,5 +1,4 @@
 {
-  "trends": {
     "nba": [
       { "title": "Ja Morant traded to Trail Blazers", "query": "ja morant trail blazers" },
       { "title": "Warriors pursuing LeBron and AD", "query": "warriors lebron anthony davis" },
@@ -15,5 +14,4 @@
       { "title": "France dominates knockout stage", "query": "france world cup knockout" },
       { "title": "Messi breaks World Cup scoring record", "query": "messi world cup record" }
     ]
-  }
 }
