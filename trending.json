@@ -1,17 +1,14 @@
 {
     "nba": [
-      { "title": "Ja Morant traded to Trail Blazers", "query": "ja morant trail blazers" },
-      { "title": "Warriors pursuing LeBron and AD", "query": "warriors lebron anthony davis" },
+      { "title": "Jaylen Brown Traded to Sixers", "query": "jaylen brown trade" },
+      { "title": "LeBron Not Returning to Lakers", "query": "lebron lakers" },
       { "title": "Giannis Antetokounmpo traded to Heat", "query": "giannis heat trade" }
     ],
     "nfl": [
-      { "title": "A.J. Brown & Drake Maye team up with Patriots", "query": "aj brown drake maye patriots" },
-      { "title": "Mahomes disrespected on Top 100 list", "query": "mahomes top 100 list" },
-      { "title": "Can the Bills win with Joe Brady?", "query": "bills joe brady" }
+      { "title": "Travis Kelce Marrying Swift", "query": "kelce swift marry" },
+      { "title": "Calais Campbell Mother Found Dead", "query": "calais campbell mother " }
     ],
     "fifa.world": [
-      { "title": "Can Brazil win the World Cup?", "query": "brazil world cup" },
-      { "title": "France dominates knockout stage", "query": "france world cup knockout" },
-      { "title": "Messi breaks World Cup scoring record", "query": "messi world cup record" }
-    ]
+      { "title": "USA Beats Bosnia Short Handed", "query": "usa bosnia world cup" },
+      { "title": "Flo Balogun Red Carded, Suspended", "query": "Balogun red card" }    ]
 }
