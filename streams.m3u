@@ -1,22 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Spain vs Austria Live Streams" group-title="Live",Spain vs Austria Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52821/load-playlist
-
-#EXTINF:-1 tvg-name="Philadelphia Phillies vs Pittsburgh Pirates Live Streams" group-title="Live",Philadelphia Phillies vs Pittsburgh Pirates Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52822/load-playlist
-
-#EXTINF:-1 tvg-name="Milwaukee Brewers vs Cincinnati Reds Live Streams" group-title="Live",Milwaukee Brewers vs Cincinnati Reds Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52825/load-playlist
-
 #EXTINF:-1 tvg-name="Colorado Rockies vs Miami Marlins Live Streams" group-title="Live",Colorado Rockies vs Miami Marlins Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
