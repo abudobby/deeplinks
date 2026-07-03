@@ -1,45 +1,27 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Portugal vs Croatia Live Streams" group-title="Live",Portugal vs Croatia Live Streams
+#EXTINF:-1 tvg-name="Switzerland vs Algeria Live Streams" group-title="Live",Switzerland vs Algeria Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52834/load-playlist
+https://red2.wecanfix8.space/playlist/52852/load-playlist
 
-#EXTINF:-1 tvg-name="Portugal vs Croatia Live Streams" group-title="Live",Portugal vs Croatia Live Streams
+#EXTINF:-1 tvg-name="Seattle Mariners vs Los Angeles Angels Live Streams" group-title="Live",Seattle Mariners vs Los Angeles Angels Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52834/load-playlist
+https://red2.wecanfix8.space/playlist/52845/load-playlist
 
-#EXTINF:-1 tvg-name="Cleveland Guardians vs Chicago White Sox Live Streams" group-title="Live",Cleveland Guardians vs Chicago White Sox Live Streams
+#EXTINF:-1 tvg-name="Los Angeles Dodgers vs San Diego Padres Live Streams" group-title="Live",Los Angeles Dodgers vs San Diego Padres Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52830/load-playlist
+https://red2.wecanfix8.space/playlist/52848/load-playlist
 
-#EXTINF:-1 tvg-name="Atlanta Braves vs St. Louis Cardinals Live Streams" group-title="Live",Atlanta Braves vs St. Louis Cardinals Live Streams
+#EXTINF:-1 tvg-name="Phoenix Mercury vs Seattle Storm Live Streams" group-title="Live",Phoenix Mercury vs Seattle Storm Live Streams
 #EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
 #EXTVLCOPT:http-origin=https://gooz.aapmains.net
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52837/load-playlist
-
-#EXTINF:-1 tvg-name="Kansas City Royals vs Tampa Bay Rays Live Streams" group-title="Live",Kansas City Royals vs Tampa Bay Rays Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52840/load-playlist
-
-#EXTINF:-1 tvg-name="Texas Rangers vs Detroit Tigers Live Streams" group-title="Live",Texas Rangers vs Detroit Tigers Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52843/load-playlist
-
-#EXTINF:-1 tvg-name="Connecticut Sun vs Dallas Wings Live Streams" group-title="Live",Connecticut Sun vs Dallas Wings Live Streams
-#EXTVLCOPT:http-referrer=https://gooz.aapmains.net/
-#EXTVLCOPT:http-origin=https://gooz.aapmains.net
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.2 Safari/605.1.15
-https://red2.wecanfix8.space/playlist/52842/load-playlist
+https://red2.wecanfix8.space/playlist/52847/load-playlist
 
 
 #EXTINF:-1 tvg-chno="3" tvg-id="ACC.Network.us2" tvg-name="ACC Network" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s111871_dark_360w_270h.png" group-title="TV",ACC Network
