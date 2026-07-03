@@ -1,17 +1,16 @@
 {
-  "760498": {
-    "title": "Algeria at Switzerland",
+  "760499": {
+    "title": "Egypt at Australia",
     "broadcasts": [
       {
-        "id": 661,
-        "name": "FS1",
-        "logoUrl": "https://pbs.twimg.com/profile_images/1888991472109694977/cirQ6s59_400x400.jpg",
-        "hasLocalAffiliate": false,
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "fs1",
-          "fox sports 1"
+          "wfld"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
@@ -45,17 +44,262 @@
       }
     ]
   },
-  "401815997": {
-    "title": "Detroit Tigers at Texas Rangers",
-    "broadcasts": []
-  },
-  "401816000": {
-    "title": "Los Angeles Angels at Seattle Mariners",
-    "broadcasts": []
-  },
-  "401816001": {
-    "title": "San Diego Padres at Los Angeles Dodgers",
+  "760500": {
+    "title": "Cape Verde at Argentina",
     "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 488,
+        "name": "Telemundo",
+        "logoUrl": "https://cdn.aptoide.com/imgs/d/7/9/d79ead6e173cc826504fdcce6549d02c_icon.png",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "telemundo"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "760501": {
+    "title": "Ghana at Colombia",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 488,
+        "name": "Telemundo",
+        "logoUrl": "https://cdn.aptoide.com/imgs/d/7/9/d79ead6e173cc826504fdcce6549d02c_icon.png",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "telemundo"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816002": {
+    "title": "Baltimore Orioles at Cincinnati Reds",
+    "broadcasts": []
+  },
+  "401816003": {
+    "title": "Chicago White Sox at Cleveland Guardians",
+    "broadcasts": [
+      {
+        "id": 1125,
+        "name": "Chicago Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "chicago sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816004": {
+    "title": "Minnesota Twins at New York Yankees",
+    "broadcasts": [
+      {
+        "id": 1218,
+        "name": "BBC iPlayer",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "streaming",
+        "searchTokens": [
+          "bbc iplayer",
+          "iplayer"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 600,
+        "name": "YES Network",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "yes network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816005": {
+    "title": "New York Mets at Atlanta Braves",
+    "broadcasts": []
+  },
+  "401816006": {
+    "title": "Pittsburgh Pirates at Washington Nationals",
+    "broadcasts": []
+  },
+  "401816007": {
+    "title": "St. Louis Cardinals at Chicago Cubs",
+    "broadcasts": [
+      {
+        "id": 1214,
+        "name": "BBC Two",
+        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "bbc two",
+          "bbc2",
+          "bbc 2"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816008": {
+    "title": "Tampa Bay Rays at Houston Astros",
+    "broadcasts": [
+      {
+        "id": 796,
+        "name": "Apple TV",
+        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "apple tv"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816009": {
+    "title": "San Francisco Giants at Colorado Rockies",
+    "broadcasts": [
+      {
+        "id": 890,
+        "name": "NBC Sports Bay Area",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports bay"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816010": {
+    "title": "Boston Red Sox at Los Angeles Angels",
+    "broadcasts": []
+  },
+  "401816011": {
+    "title": "Miami Marlins at Athletics",
+    "broadcasts": [
+      {
+        "id": 892,
+        "name": "NBC Sports California",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports california"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816012": {
+    "title": "Milwaukee Brewers at Arizona Diamondbacks",
+    "broadcasts": [
+      {
+        "id": 796,
+        "name": "Apple TV",
+        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "apple tv"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816013": {
+    "title": "San Diego Padres at Los Angeles Dodgers",
+    "broadcasts": []
+  },
+  "401816014": {
+    "title": "Toronto Blue Jays at Seattle Mariners",
+    "broadcasts": [
+      {
+        "id": 722,
+        "name": "SportsNet",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet"
+        ],
+        "excludedSearchTokens": [
+          "spectrum"
+        ],
+        "deeplink": null
+      },
       {
         "id": 112,
         "name": "SportsNet Ontario",
@@ -69,7 +313,25 @@
           "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8ql102oa3ft9s8hjmj0"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d8qm0aioa3ft8artj3o0"
+      }
+    ]
+  },
+  "600057437": {
+    "title": "Pirelli British Grand Prix - Sprint Shootout",
+    "broadcasts": [
+      {
+        "id": 796,
+        "name": "Apple TV",
+        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "formula 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   }
