@@ -439,23 +439,5 @@
         "deeplink": "sportsnetca://app/watch/event?event_id=d8qm3sqoa3ft9s8hjmk0"
       }
     ]
-  },
-  "600057437": {
-    "title": "Pirelli British Grand Prix - Race",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
   }
 }
