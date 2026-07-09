@@ -1,9 +1,158 @@
 {
-  "401816076": {
+  "760510": {
+    "title": "Morocco at France",
+    "broadcasts": [
+      {
+        "id": 148,
+        "name": "FOX",
+        "logoUrl": "https://play-lh.googleusercontent.com/ebCaN5awfvgyVRQ2mgjbp1gcoPaMttdHOe-cM1KXEw2jZe2HHbomLpcKjNswM8yKc4qXGtCLNyZnmraY0AZhhCQ",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 488,
+        "name": "Telemundo",
+        "logoUrl": "https://cdn.aptoide.com/imgs/d/7/9/d79ead6e173cc826504fdcce6549d02c_icon.png",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "telemundo"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816083": {
+    "title": "Athletics at Detroit Tigers",
+    "broadcasts": [
+      {
+        "id": 892,
+        "name": "NBC Sports California",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports california"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816084": {
+    "title": "Atlanta Braves at Pittsburgh Pirates",
+    "broadcasts": []
+  },
+  "401816085": {
+    "title": "Chicago Cubs at Baltimore Orioles",
+    "broadcasts": [
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d8uo0h2oa3ftstldeer0"
+      }
+    ]
+  },
+  "401816086": {
+    "title": "Kansas City Royals at New York Mets",
+    "broadcasts": []
+  },
+  "401816087": {
+    "title": "New York Yankees at Tampa Bay Rays",
+    "broadcasts": [
+      {
+        "id": 600,
+        "name": "YES Network",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "yes network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816088": {
+    "title": "Philadelphia Phillies at Cincinnati Reds",
+    "broadcasts": [
+      {
+        "id": 894,
+        "name": "NBC Sports Philadelphia",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "nbc sports philadelphia"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816089": {
+    "title": "Seattle Mariners at Miami Marlins",
+    "broadcasts": []
+  },
+  "401816090": {
     "title": "Los Angeles Angels at Texas Rangers",
     "broadcasts": []
   },
-  "401816078": {
+  "401816091": {
+    "title": "Boston Red Sox at Chicago White Sox",
+    "broadcasts": [
+      {
+        "id": 1125,
+        "name": "Chicago Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "chicago sports network"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      }
+    ]
+  },
+  "401816092": {
     "title": "Cleveland Guardians at Minnesota Twins",
     "broadcasts": [
       {
@@ -22,36 +171,30 @@
       }
     ]
   },
-  "401816080": {
+  "401816093": {
+    "title": "Milwaukee Brewers at St. Louis Cardinals",
+    "broadcasts": []
+  },
+  "401816094": {
     "title": "Arizona Diamondbacks at San Diego Padres",
+    "broadcasts": []
+  },
+  "401816095": {
+    "title": "Colorado Rockies at San Francisco Giants",
     "broadcasts": [
       {
-        "id": 126,
-        "name": "ESPN",
-        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
+        "id": 890,
+        "name": "NBC Sports Bay Area",
+        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "espn"
+          "nbc sports bay"
         ],
-        "excludedSearchTokens": [
-          "espn 2",
-          "espn news",
-          "espn plus",
-          "espn+",
-          "espn2",
-          "espnnews",
-          "espnu",
-          "espn u",
-          "espn deportes"
-        ],
-        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
-  },
-  "401816081": {
-    "title": "Colorado Rockies at Los Angeles Dodgers",
-    "broadcasts": []
   }
 }
