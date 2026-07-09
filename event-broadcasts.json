@@ -68,23 +68,7 @@
   },
   "401816085": {
     "title": "Chicago Cubs at Baltimore Orioles",
-    "broadcasts": [
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d8uo0h2oa3ftstldeer0"
-      }
-    ]
+    "broadcasts": []
   },
   "401816086": {
     "title": "Kansas City Royals at New York Mets",
@@ -128,7 +112,23 @@
   },
   "401816089": {
     "title": "Seattle Mariners at Miami Marlins",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d97q9raoa3ftmboo7bsg"
+      }
+    ]
   },
   "401816090": {
     "title": "Los Angeles Angels at Texas Rangers",
