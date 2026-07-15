@@ -1,6 +1,6 @@
 {
-  "401817370": {
-    "title": "American All-Stars at National All-Stars",
+  "760515": {
+    "title": "Argentina at England",
     "broadcasts": [
       {
         "id": 148,
@@ -11,6 +11,33 @@
         "type": "tv",
         "searchTokens": [
           "wfld"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 488,
+        "name": "Telemundo",
+        "logoUrl": "https://cdn.aptoide.com/imgs/d/7/9/d79ead6e173cc826504fdcce6549d02c_icon.png",
+        "hasLocalAffiliate": true,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "telemundo"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
