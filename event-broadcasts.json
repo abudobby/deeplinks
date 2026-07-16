@@ -14,6 +14,35 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": 105,
+        "name": "TSN5",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn5",
+          "tsn 5"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
+      },
+      {
+        "id": 113,
+        "name": "SportsNet One",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet one",
+          "sportsnetone",
+          "snone"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d9b6cfqoa3ft9s8hjmp0"
       }
     ]
   },
@@ -96,6 +125,20 @@
           "espn deportes"
         ],
         "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      },
+      {
+        "id": 101,
+        "name": "TSN1",
+        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "tsn1",
+          "tsn 1"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": null
       }
     ]
   }
