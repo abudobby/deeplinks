@@ -1,7 +1,23 @@
 {
   "401816201": {
     "title": "Baltimore Orioles at Boston Red Sox",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 113,
+        "name": "SportsNet One",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet one",
+          "sportsnetone",
+          "snone"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d9fs24qoa3ft9s8hjmpg"
+      }
+    ]
   },
   "401816202": {
     "title": "Los Angeles Dodgers at Philadelphia Phillies",
@@ -68,21 +84,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      },
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d97s852oa3fta81p6bkg"
       }
     ]
   },
