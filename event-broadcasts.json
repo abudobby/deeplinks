@@ -1,24 +1,4 @@
 {
-  "401816201": {
-    "title": "Baltimore Orioles at Boston Red Sox",
-    "broadcasts": [
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d9fs24qoa3ft9s8hjmpg"
-      }
-    ]
-  },
   "401816202": {
     "title": "Los Angeles Dodgers at Philadelphia Phillies",
     "broadcasts": [
@@ -47,82 +27,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401816203": {
-    "title": "Minnesota Twins at Cleveland Guardians",
-    "broadcasts": [
-      {
-        "id": 1218,
-        "name": "BBC iPlayer",
-        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [
-          "bbc iplayer",
-          "iplayer"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401816204": {
-    "title": "Pittsburgh Pirates at New York Yankees",
-    "broadcasts": [
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401816205": {
-    "title": "San Diego Padres at Atlanta Braves",
-    "broadcasts": []
-  },
-  "401816206": {
-    "title": "Tampa Bay Rays at Toronto Blue Jays",
-    "broadcasts": [
-      {
-        "id": 722,
-        "name": "SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet"
-        ],
-        "excludedSearchTokens": [
-          "spectrum"
-        ],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d97s7q2oa3ft9f6pd4n0"
       }
     ]
   },
@@ -183,7 +87,23 @@
   },
   "401816210": {
     "title": "New York Mets at Milwaukee Brewers",
-    "broadcasts": []
+    "broadcasts": [
+      {
+        "id": 113,
+        "name": "SportsNet One",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet one",
+          "sportsnetone",
+          "snone"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d9fuhnaoa3ft97av9oeg"
+      }
+    ]
   },
   "401816211": {
     "title": "San Francisco Giants at Kansas City Royals",
