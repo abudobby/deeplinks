@@ -3,29 +3,6 @@
     "title": "Kansas City Royals at Detroit Tigers",
     "broadcasts": []
   },
-  "401816232": {
-    "title": "Minnesota Twins at Cleveland Guardians",
-    "broadcasts": [
-      {
-        "id": 1218,
-        "name": "BBC iPlayer",
-        "logoUrl": "https://play-lh.googleusercontent.com/-jCY-l3RicXFIAJCfNNeJmuRiebUbZNSyYfk3jUYqq1n6mMoqNSM6dJjIOuHs8HjbA=w240-h480",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "streaming",
-        "searchTokens": [
-          "bbc iplayer",
-          "iplayer"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401816233": {
-    "title": "San Diego Padres at Atlanta Braves",
-    "broadcasts": []
-  },
   "401816234": {
     "title": "Tampa Bay Rays at Toronto Blue Jays",
     "broadcasts": [
