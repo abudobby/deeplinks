@@ -19,6 +19,26 @@
     "title": "Kansas City Royals at Detroit Tigers",
     "broadcasts": [
       {
+        "id": 113,
+        "name": "SportsNet One",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": true,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet one",
+          "sportsnetone",
+          "snone"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d9gga7aoa3fj8uf79a70"
+      }
+    ]
+  },
+  "401816240": {
+    "title": "Los Angeles Dodgers at New York Mets",
+    "broadcasts": [
+      {
         "id": 112,
         "name": "SportsNet Ontario",
         "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
@@ -31,13 +51,9 @@
           "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d97t7k2oa3ftstldeet0"
+        "deeplink": "sportsnetca://app/watch/event?event_id=d980pbqoa3ft9s8hjmog"
       }
     ]
-  },
-  "401816240": {
-    "title": "Los Angeles Dodgers at New York Mets",
-    "broadcasts": []
   },
   "401816241": {
     "title": "New York Yankees at Philadelphia Phillies",
@@ -185,6 +201,21 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": null
+      },
+      {
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "hasLocalAffiliate": false,
+        "isNational": false,
+        "type": "tv",
+        "searchTokens": [
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
+        ],
+        "excludedSearchTokens": [],
+        "deeplink": "sportsnetca://app/watch/event?event_id=d980pbqoa3ft9s8hjmog"
       }
     ]
   },
