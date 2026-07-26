@@ -23,7 +23,7 @@
         "type": "streaming",
         "searchTokens": [],
         "excludedSearchTokens": [],
-        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%225922c271-2a09-34c5-beda-60fccdfa4b27%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
+        "deeplink": "https://www.peacocktv.com/deeplink?deeplinkData=%7B%22pvid%22%3A%22664cff41-9e01-3074-85a3-f80bac14f855%22%2C%22type%22%3A%22SLE%22%2C%22action%22%3A%22PLAY%22%7D"
       }
     ]
   },
@@ -238,24 +238,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=d97tisqoa3ft9f6pd4ng"
-      }
-    ]
-  },
-  "600057440": {
-    "title": "AWS Hungarian Grand Prix - Race",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "formula 1"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   }
