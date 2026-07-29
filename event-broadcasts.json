@@ -3,40 +3,6 @@
     "title": "Arizona Diamondbacks at Pittsburgh Pirates",
     "broadcasts": []
   },
-  "401816293": {
-    "title": "Atlanta Braves at New York Mets",
-    "broadcasts": []
-  },
-  "401816294": {
-    "title": "Baltimore Orioles at Detroit Tigers",
-    "broadcasts": []
-  },
-  "401816295": {
-    "title": "Cleveland Guardians at Cincinnati Reds",
-    "broadcasts": []
-  },
-  "401816296": {
-    "title": "Philadelphia Phillies at Miami Marlins",
-    "broadcasts": [
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401816297": {
-    "title": "Texas Rangers at Tampa Bay Rays",
-    "broadcasts": []
-  },
   "401816298": {
     "title": "Toronto Blue Jays at Washington Nationals",
     "broadcasts": [
@@ -215,10 +181,6 @@
   },
   "401816306": {
     "title": "Seattle Mariners at Los Angeles Dodgers",
-    "broadcasts": []
-  },
-  "401901849": {
-    "title": "Cleveland Guardians at Cincinnati Reds",
     "broadcasts": []
   }
 }
