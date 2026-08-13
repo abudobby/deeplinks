@@ -38,50 +38,6 @@
     "title": "Chicago Cubs at Washington Nationals",
     "broadcasts": []
   },
-  "401816511": {
-    "title": "Cleveland Guardians at Detroit Tigers",
-    "broadcasts": []
-  },
-  "401816512": {
-    "title": "Pittsburgh Pirates at Miami Marlins",
-    "broadcasts": []
-  },
-  "401816513": {
-    "title": "Seattle Mariners at New York Yankees",
-    "broadcasts": [
-      {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401816514": {
-    "title": "Cincinnati Reds at Chicago White Sox",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401816515": {
     "title": "Milwaukee Brewers at Los Angeles Dodgers",
     "broadcasts": []
