@@ -1,46 +1,33 @@
 {
-  "401816515": {
-    "title": "Milwaukee Brewers at Los Angeles Dodgers",
+  "401816582": {
+    "title": "Chicago White Sox at Chicago Cubs",
     "broadcasts": [
       {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "id": 1125,
+        "name": "Chicago Sports Network",
+        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
         "hasLocalAffiliate": false,
         "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
+          "chicago sports network"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d9lr7b2oa3fshlv2rffg"
-      }
-    ]
-  },
-  "401816516": {
-    "title": "Texas Rangers at Los Angeles Angels",
-    "broadcasts": [
+        "deeplink": null
+      },
       {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
+        "id": 487,
+        "name": "TBS",
+        "logoUrl": "https://play-lh.googleusercontent.com/q1xXfFITbkZBVRzwRQrjv7uEOiGOowghkaNtHzGCWhzgbIy6RSM_pd59f4bI2SI9v3U",
         "hasLocalAffiliate": false,
-        "isNational": false,
+        "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
+          "us tbs"
         ],
         "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=d9lr7b2oa3fshlv2rffg"
+        "deeplink": null
       }
     ]
-  },
-  "401816525": {
-    "title": "Philadelphia Phillies at Minnesota Twins",
-    "broadcasts": []
   }
 }
