@@ -1,6 +1,6 @@
 {
-  "761750": {
-    "title": "Colorado Rapids at San Diego FC",
+  "761754": {
+    "title": "Sporting Kansas City at Atlanta United FC",
     "broadcasts": [
       {
         "id": 796,
@@ -17,39 +17,46 @@
       }
     ]
   },
-  "761751": {
-    "title": "Portland Timbers at LAFC",
+  "401816647": {
+    "title": "Atlanta Braves at Milwaukee Brewers",
     "broadcasts": [
       {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "id": 126,
+        "name": "ESPN",
+        "logoUrl": "https://espnpressroom.com/us/files/2018/03/App-Icon-iOS-mic-flag-cut-to-shape.png",
         "hasLocalAffiliate": false,
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "apple tv"
+          "espn"
         ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "761752": {
-    "title": "Minnesota United FC at San Jose Earthquakes",
-    "broadcasts": [
+        "excludedSearchTokens": [
+          "espn 2",
+          "espn news",
+          "espn plus",
+          "espn+",
+          "espn2",
+          "espnnews",
+          "espnu",
+          "espn u",
+          "espn deportes"
+        ],
+        "deeplink": "sportscenter://x-callback-url/showWatchStream?playChannel=espn1"
+      },
       {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
+        "id": 112,
+        "name": "SportsNet Ontario",
+        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
         "hasLocalAffiliate": false,
-        "isNational": true,
+        "isNational": false,
         "type": "tv",
         "searchTokens": [
-          "apple tv"
+          "sportsnet ontario",
+          "sportsnetontario",
+          "snontario"
         ],
         "excludedSearchTokens": [],
-        "deeplink": null
+        "deeplink": "sportsnetca://app/watch/event?event_id=d9qvj4aoa3fsqgc8702g"
       }
     ]
   }
