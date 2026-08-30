@@ -1,5 +1,6 @@
 {
   "gameShelfs": [
+    { "league": "college-football", "title": "College Football" },
     { "league": "fifa.world", "title": "World Cup" },
     { "league": "uefa.europa", "title": "UEFA Europa League" },
     { "league": "uefa.europa.conf", "title": "UEFA Europa Conference" },
