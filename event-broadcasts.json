@@ -1,153 +1,4 @@
 {
-  "401816773": {
-    "title": "Atlanta Braves at Washington Nationals",
-    "broadcasts": []
-  },
-  "401816774": {
-    "title": "New York Mets at Tampa Bay Rays",
-    "broadcasts": [
-      {
-        "id": 113,
-        "name": "SportsNet One",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet one",
-          "sportsnetone",
-          "snone"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=da2vr6qoa3fnce40n270"
-      }
-    ]
-  },
-  "401816775": {
-    "title": "San Diego Padres at Cincinnati Reds",
-    "broadcasts": []
-  },
-  "401816776": {
-    "title": "Seattle Mariners at Boston Red Sox",
-    "broadcasts": []
-  },
-  "401816777": {
-    "title": "San Francisco Giants at Pittsburgh Pirates",
-    "broadcasts": [
-      {
-        "id": 890,
-        "name": "NBC Sports Bay Area",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports bay"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
-  "401816778": {
-    "title": "Toronto Blue Jays at Cleveland Guardians",
-    "broadcasts": [
-      {
-        "id": 722,
-        "name": "SportsNet",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet"
-        ],
-        "excludedSearchTokens": [
-          "spectrum"
-        ],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=da2vmqioa3fms3jvt9gg"
-      }
-    ]
-  },
-  "401816779": {
-    "title": "Athletics at Texas Rangers",
-    "broadcasts": [
-      {
-        "id": 892,
-        "name": "NBC Sports California",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports california"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=da2vpe2oa3fndn3ch1tg"
-      }
-    ]
-  },
-  "401816780": {
-    "title": "Chicago White Sox at Houston Astros",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 962,
-        "name": "Space City Home Network",
-        "logoUrl": "https://i.pinimg.com/736x/92/21/5a/92215a5ec77a39cdfdc04d500a521543.jpg",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "space city"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
-  },
   "401816781": {
     "title": "Detroit Tigers at Minnesota Twins",
     "broadcasts": [
@@ -173,10 +24,6 @@
   },
   "401816783": {
     "title": "Milwaukee Brewers at Chicago Cubs",
-    "broadcasts": []
-  },
-  "401816784": {
-    "title": "Baltimore Orioles at Colorado Rockies",
     "broadcasts": []
   },
   "401816785": {
@@ -209,24 +56,6 @@
         ],
         "excludedSearchTokens": [],
         "deeplink": "sportsnetca://app/watch/event?event_id=da2vpe2oa3fndn3ch1tg"
-      }
-    ]
-  },
-  "401816786": {
-    "title": "Philadelphia Phillies at Arizona Diamondbacks",
-    "broadcasts": [
-      {
-        "id": 894,
-        "name": "NBC Sports Philadelphia",
-        "logoUrl": "https://play-lh.googleusercontent.com/GggNvU-uXiPLxQuNDSBhsx1SqmR9vqHIJprB069yycu7g7wWueLUTEDBUDPyivuM1SpJ",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "nbc sports philadelphia"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
       }
     ]
   },
