@@ -1,6 +1,32 @@
 {
   "gameShelfs": [
-    { "league": "college-football",  "title": "College Football"}
+    { "league": "college-football", "title": "College Football" },
+    { "league": "fifa.world", "title": "World Cup" },
+    { "league": "uefa.europa", "title": "UEFA Europa League" },
+    { "league": "uefa.europa.conf", "title": "UEFA Europa Conference" },
+    { "league": "concacaf.champions", "title": "Concacaf Champions Cup" },
+    { "league": "nhl", "title": "NHL" },
+    { "league": "nba",  "title": "NBA"  },
+    { "league": "afl",  "title": "AFL", "leagueDetail":  {
+    "league": "afl",
+    "sport": "australian-football",
+    "title": "AFL",
+    "logo": "https://a.espncdn.com/i/teamlogos/leagues/500/nhl.png",
+    "featuredPhoto": "https://static01.nyt.com/images/2024/05/04/multimedia/04sp-miami-miami-inyt/04sp-miami-miami-inyt-videoSixteenByNineJumbo1600.jpg"
+  } },
+    { "league": "eng.1",  "title": "Premier League" },
+    { "league": "uefa.champions",  "title": "Champions League"  },
+    { "league": "mens-college-basketball",  "title": "NCAA Basketball" },
+    { "league": "mlb",  "title": "MLB"},
+    { "league": "fra.1",  "title": "Ligue 1" },
+    { "league": "usa.1",  "title": "MLS" },
+    { "league": "esp.1",  "title": "La Liga" },
+    { "league": "ita.1",  "title": "Serie A" },
+    { "league": "f1",  "title": "Formula 1" }
   ],
-  "mediaShelfs": []
+  "mediaShelfs": [
+    { "title": "World Cup Previews", "path": "world_cup_previews", "league": "fifa.world" },
+    { "title": "NBA Highlights", "path": "nba_highlights", "league": "nba" },
+    { "title": "NHL Highlights", "path": "nhl_highlights", "league": "nhl" }
+  ]
 }
