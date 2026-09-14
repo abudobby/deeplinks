@@ -1,86 +1,19 @@
 {
-  "401816883": {
-    "title": "Colorado Rockies at New York Yankees",
+  "761814": {
+    "title": "Philadelphia Union at San Diego FC",
     "broadcasts": [
       {
-        "id": 600,
-        "name": "YES Network",
-        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS44FKTX58MZUZVlN1UM40V1vxUiuicZnXp_w&s",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "yes network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 102,
-        "name": "TSN2",
-        "logoUrl": "https://play-lh.googleusercontent.com/Wfh4tn-kWAGTUIMxVgyZ1g2BEHrdDtjyXwUdqJLwX6w640Lc3DJoLoZqoCSEbYWpTw",
+        "id": 796,
+        "name": "Apple TV",
+        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
         "hasLocalAffiliate": false,
         "isNational": true,
         "type": "tv",
         "searchTokens": [
-          "tsn2",
-          "tsn 2"
+          "apple tv"
         ],
         "excludedSearchTokens": [],
         "deeplink": null
-      }
-    ]
-  },
-  "401816886": {
-    "title": "Pittsburgh Pirates at Chicago White Sox",
-    "broadcasts": [
-      {
-        "id": 1125,
-        "name": "Chicago Sports Network",
-        "logoUrl": "https://play-lh.googleusercontent.com/PSxYxpqCKdZKvfRA5y_TO0nb_zP8KXc0ivlf3inlCYt4jwNJZsa_jcVHvRZrDbkYvb8=w480-h960",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "chicago sports network"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      },
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=dabg3dkp8kne7tro18n0"
-      }
-    ]
-  },
-  "401816887": {
-    "title": "Texas Rangers at Seattle Mariners",
-    "broadcasts": [
-      {
-        "id": 112,
-        "name": "SportsNet Ontario",
-        "logoUrl": "https://play-lh.googleusercontent.com/d-CTKv_l-ogjRD1_6EU12-xYtzabI5zAKUo90jvndk2LjZ1JDCq-H-arsqDl7zzBSEs=w240-h480-rw",
-        "hasLocalAffiliate": false,
-        "isNational": false,
-        "type": "tv",
-        "searchTokens": [
-          "sportsnet ontario",
-          "sportsnetontario",
-          "snontario"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": "sportsnetca://app/watch/event?event_id=daatih4p8knfvjfl8urg"
       }
     ]
   }
