@@ -1,20 +1,14 @@
 {
-  "761814": {
-    "title": "Philadelphia Union at San Diego FC",
-    "broadcasts": [
-      {
-        "id": 796,
-        "name": "Apple TV",
-        "logoUrl": "https://play-lh.googleusercontent.com/V4_8zKkohPYvEEITcXmoK6DSuqsPzPwGkTm4pm86epgvvq57LIfz7Jy0ZvPrhEneiS6Oe5lDX0F0q5BmLuleGg",
-        "hasLocalAffiliate": false,
-        "isNational": true,
-        "type": "tv",
-        "searchTokens": [
-          "apple tv"
-        ],
-        "excludedSearchTokens": [],
-        "deeplink": null
-      }
-    ]
+  "401816940": {
+    "title": "San Diego Padres at Colorado Rockies",
+    "broadcasts": []
+  },
+  "401816941": {
+    "title": "Miami Marlins at Arizona Diamondbacks",
+    "broadcasts": []
+  },
+  "401816942": {
+    "title": "Seattle Mariners at Los Angeles Angels",
+    "broadcasts": []
   }
 }
